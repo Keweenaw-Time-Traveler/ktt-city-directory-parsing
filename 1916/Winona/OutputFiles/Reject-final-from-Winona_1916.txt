@@ -1,0 +1,30 @@
+8 ADD, JOB LOCATION NOT FOUND: Aho Matt, farmer
+34 ADD, JOB NOT FOUND: Bowers Alfred
+42 ADD, JOB NOT FOUND: Buddemeyer Florence, teacher
+43 ADD, JOB NOT FOUND: Burbank M Dorothy, teacher
+64 ADD, JOB LOCATION NOT FOUND: Collins H James, farmer
+69 ADD, JOB LOCATION NOT FOUND: Cox J H, physician
+82 ADD, JOB LOCATION NOT FOUND: Duchenno Eustach, teamster
+86 ADD, JOB LOCATION NOT FOUND: Dyne Daniel, teamster
+90 NAME: Elm River Copper Co
+95 ADD, JOB NOT FOUND: Fournier Napoleon P, hotel
+96 ADD, JOB LOCATION NOT FOUND: Fournier Joseph, laborer
+100 NAME: G00DELL H S CO (H S Goodell, Daniel J Wessels), General Store
+110 ADD, JOB LOCATION NOT FOUND: Harrie John, coachman
+141 ADD, JOB LOCATION NOT FOUND: Jackson Albert, brakeman
+178 NAME: King Philip Copper Co
+189 ADD, JOB NOT FOUND: Kratt Barney, highway commissioner
+206 ADD, JOB NOT FOUND: Leary Norine V, teacher
+207 ADD, JOB NOT FOUND: Lee E Ethel, teacher
+208 NAME: Lehr in en John, trammer Winona Copper Co
+223 ADD, JOB NOT FOUND: McCarthy john, Chief Clerk Winona Copper Co, Asst Sec Detroit Northern Michigan Building Loan Assn, Justice of the Peace and Notary Public
+242 ADD, JOB LOCATION NOT FOUND: Martin H Abraham, barber
+267 ADD, JOB NOT FOUND: Moe Selma, teacher
+269 ADD, JOB NOT FOUND: Myrene C Delia, teacher
+276 ADD, JOB LOCATION NOT FOUND: Niemien Alex, farmer
+347 ADD, JOB NOT FOUND: Schannenk Maud, teacher
+350 ADD, JOB NOT FOUND: SEEBER R L, Supt Winona Copper Co, Supervisor Elm River Township
+362 NAME: Stackpole Lumber Co, saw mill
+403 NAME: WINONA COPPER CO, R R Seeber Supt, John McCarthy Chief Clerk
+404 ADD, JOB NOT FOUND: WINONA PARK ASSN, John McCarthy Pres, F G Lukey Sec
+406 NAME: WYANDOT COPPER CO, Frank L VanOrden Genl Mgr

@@ -1,0 +1,67 @@
+2 NAME: AMERICAN EXPRESS Co, E A Douglass agt, 601 Shelden st
+10 JOB NOT FOUND: Atlantic mine, located W j of S E of sec 4, S W of 4, X W of sec 9, town 54 N of range 34 west
+20 JOB NOT FOUND: Bengeau Rosa, 509 Lake st
+7 NAME: BEST PHIL BREWING CO, (Houghton branch) George P Hahn agt, office cor Pewabic and Albion
+33 JOB NOT FOUND: Boxer Miss Lottie S, opr telephone exchange
+42 JOB NOT FOUND: BRIMACOMBE WM, res of Houghton since 1875, general contractor and buildr, res E Houghton, P O box 61
+47 JOB NOT FOUND: BRUNEAU JOSEPH O, a res since 1875, accident and life insurance agt and dealer in lumber, lath, shingles etc, office over 515 Shelden, res same
+51 JOB NOT FOUND: BUTTERFIELD HOUSE, F Pumerville mgr, recently renovated and now open to the public as a first class house, 302 Isle Royal st
+68 JOB NOT FOUND: Cook A B, operator, D S S A depot, bds Butterfield house, E Houghton
+109 JOB NOT FOUND: DOUGLASS Hon FRANK A, a res since 1856, General Insurance Agt, agt American Express Co, 601 Shelden res E Houghton
+33 NAME: DULUTH SOUTH SHOHE ATLANTIC RAILWAY DEPOT, E Houghton, Leke Front
+44 NAME: HAAS A BREWING Co, established 1859, manufr of lager beer, present use xxXx ales, office 403 Shelden
+45 NAME: HAAS ED CO Dry Goods, Clothing, Gents, Furnishing goods, 509 Shelden
+51 NAME: Hennes L Co, general merchandise, Lake st foot of Huron
+52 NAME: HERCULES POWDER Co, Capt W A Dunn, res 100 Montezuma
+191 JOB NOT FOUND: HOAR RICHARD M, a res of Houghtou since 1859, general merchant, 508 510, Shelden res 500 Montezuma cor Huron
+199 JOB NOT FOUND: Hosking H T, lineman, 103 Isle Royal
+204 JOB NOT FOUND: Host Mrs, wid, 111 South
+59 NAME: HOUGHTON COUNTY COURT HOUSE AND JAIL, 404 Albion
+60 NAME: Houghton Fire Engine House, 415 Montezuma
+61 NAME: HOUGHTON FISHING CO, Joseph Croze, manager office near D S S A depot
+208 JOB NOT FOUND: Houghton Public School, H M Slauson, Principal, 402 Pewabic
+213 JOB NOT FOUND: Isle Royale House, 710 Shelden
+64 NAME: Jones H W (M D), Physician and Surgeon, office and res 305 Pewabic
+233 JOB NOT FOUND: KRUEGER H R, Propr of the Houghton Hair Cutting and Shaving Parlor, 408 Shelden st, bds Millers Hotel
+70 NAME: KROLL FRED W CO, Booksellers and Stationers, News Agents, dealers in sporting goods, fancy goods, notions, toys and confectionery, cigars, tobacco, etc 601 Shelden and 414 Shelden
+71 NAME: La Belle J N, elk, bds 721 and 723 Shelden
+72 NAME: Lake Superior Ship Canal Co, Jas Prior agt, E Houghton
+247 JOB NOT FOUND: Lapp Julius, lineman for Electric Light Co
+256 JOB NOT FOUND: Letcher Capt, Mining Capt, 305 Montezuma
+258 JOB NOT FOUND: LIEBETRAU G BRO, est 1879, dealers in Fresh and Salted meats, Poultry, Game, etc, 404 Shelden st and Hurontown
+259 JOB LOCATION NOT FOUND: LIEBETRAU HUGO, ares of Houghton since 1869, with
+271 JOB NOT FOUND: Mallette Mrs, wid res E Houghton
+274 JOB NOT FOUND: Martin Jas Jr, lab, 605 Albion
+87 NAME: McCurdy Bros, contractors and builders, 406 Dakota
+88 NAME: MICHIGAN BELL TELEPHONE Cos office, J R Dee supt, 103 Isle Royal st
+292 JOB NOT FOUND: Michigan Mining School, M E Wadsworth principal, 415 Montezuma
+90 NAME: MIKADO MINING CO, Jay A Hubbell pres, M VanOrden sec and treas, office over 509 Shelden
+295 JOB NOT FOUND: MILLERS HALL, John B Pfeiffer manager, 406 Shelden
+296 JOB NOT FOUND: MILLERS HOTEL, John B Pfeiffer prop, 406 408 Shelden
+93 NAME: Mills A Bros, meat market 606 Shelden
+307 JOB NOT FOUND: Murphy D, lah, res 409 Sheldon, upstairs
+96 NAME: Murphy, Jerry engineer, bds W Houghton
+312 JOB NOT FOUND: Nancarrow Chas, Peninsula Electric Light Co, 103 Isle Royal
+99 NAME: NATIONAL BANK of Houghton, est 1865 Z W Wright, Pres, Jas H Seager, Y Pres, Jas Y Sturgis, Cashier 100 Isle Royal st
+318 JOB NOT FOUND: Northy Harry, 201 Montezuma
+102 NAME: PENINSULA ELECTRIC LIGHT AND POWER CO, Jay A Hubbell, pres J B Sturgis, sec and treas, J R Dee, general manager, office Telegraph building
+339 JOB NOT FOUND: Penrose John S, Foreman Job Department of Portage Lake Mining Gazette, res 100 Albion, upstairs
+104 NAME: PILGRIM MINING Co, C J Hodge pres, M Van Orden, sec and treas, office 509 Shelden
+107 NAME: PORTAGE LAKE BRIDGE Co, James P Edwards pres, Geo C Sheldon sec and treas, off 602 Shelden st
+108 NAME: PORTAGE LAKE MINING GAZETTE, B T Judkins editor and manager, 705 Shelden
+109 NAME: PORTAGE LAKE TOWING Co, Joseph Croze manager, off near D S S A depot
+110 NAME: PORTAGE LAKE TRANSFER CO, R M Hoar managing owner, off Hoars store 510 Shelden st
+351 JOB NOT FOUND: POST OFFICE, E R Penberthv P M, 204 Shelden
+115 NAME: REPUBLIC REDUCTION CO, S S North, pres, P R Gottstein, manager, M Van Orden, secy and treas, office 509 Shelden
+374 JOB NOT FOUND: RUELLE CHARLES Jr, a res of Houghton since 1864, prop of the Houghton livery, sale arid boarding stable and stock dealer, 607 Shelden
+383 JOB NOT FOUND: Sehmier Mrs, wid, 502 Lake st
+394 JOB NOT FOUND: Seager James, student Mich Mining School, 415 Montezuma
+401 JOB NOT FOUND: SHELDEN GEORGE C, a res since 1847, Sec and Treas Portage Lake Bridge Co, executor R Shelden estate office 602 Shelden st, res Montezuma st, W Houghton
+125 NAME: SHELDEN MRS T M, wid, res Shelden st
+126 NAME: Shultz, lab, res 307 Montezuma
+127 NAME: Siller E Co, furniture, etc, 100 Huron
+407 JOB NOT FOUND: Sisters of Charity, 312 Portage
+131 NAME: St Marys Canal Mineral Land Co, office 306 Pewabic, R R Goodell, Agt
+140 NAME: THE NATIONAL BANK OF HOUGHTON, Jas B Sturgis, cashier, 100 Isle Royal
+143 NAME: VAN ORDEN Bros, general insurance agts, agency established 20 years, over 509 Shelden st, res 502 Albion
+152 NAME: WESTERN UNION AND MINERAL RANGE TELEGRAPH COS offices, J R Dee manager Western Union, and propr of the Mineral Range, 103 Isle Royal

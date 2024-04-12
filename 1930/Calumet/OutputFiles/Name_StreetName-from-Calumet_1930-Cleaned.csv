@@ -1,0 +1,4417 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outSt
+1,Abbott,Annie,null,null,6th
+2,Abbott,Rose,null,null,6th
+7,Abrams,Jas,C ,null,8th
+11,Accorners,John,null,null,C
+15,Adams,Kath,null,null,Pine
+21,Agnich,John,null,null,Caledonia
+22,Agnich,Mary,null,null,10th
+23,Agnich,Rudolph,null,null,10th
+26,Aho,Aino,null,null,Bridge 
+27,Aho,Edw,null,null,Tunnel 
+29,Aho,Emil,null,null,Tunnel 
+30,Aho,Frank,null,null,Maple 
+31,Aho,Hans,null,null,Columbia
+34,Aho,Margt,null,null,Tunnel 
+36,Aho,Sophia,null,null,Maple 
+38,Aho,Wm,A ,null,Tunnel 
+39,Aho,Wm,E ,null,Ski 
+40,Ahonen,Arth,W ,null,1st 
+42,Ahonen,Linda,null,null,1st 
+43,Ahonen,Lyla,null,null,1st 
+44,Aidtama,Herman,null,null,Calumet av
+45,Aimone,Minnie,null,null,C
+46,Aitta,John,null,null,Columbia 
+57,Alla,Chas,null,null,County rd 
+60,Allegra,Agatino,null,null,E Pine
+62,Allen,Geo,H ,null,do
+63,Allen,Rayno,null,null,Mine
+64,Allen,Thos,R ,null,Rockland
+65,Allen,Thos,W ,null,Willow av 
+71,Amala,Matt,null,null,3d 
+76,Anderson,Albert,null,null,E Pine
+77,Anderson,Andrew,null,null,A
+78,Anderson,Andrew,null,jr,A
+80,Anderson,Edw,null,null,11th
+83,Anderson,Fred,null,null,6th
+84,Anderson,Freida,null,null,Mine
+87,Anderson,Henry,null,null,Calumet av
+88,Anderson,Henry,null,null,Calumet av
+89,Anderson,Henry,W ,null,Pine
+90,Anderson,Hilda,Mrs ,null,5th
+91,Anderson,Hubert,null,null,A
+92,Anderson,Jean,B ,null,8th
+94,Anderson,John,H ,null,Calumet av
+95,Anderson,Lima,null,null,E Pine
+96,Anderson,Lorraine,E ,null,Oak
+98,Anderson,Matthew,null,null,Mine
+99,Anderson,Melvin,null,null,5th
+101,Anderson,Millard,M ,null,5th
+103,Anderson,Ralph,null,null,Cambria
+105,Anderson,Rudolph,null,null,E Pine
+106,Anderson,Sacris,null,null,E Pine
+107,Anderson,Seth,H ,null,Oak
+108,Anderson,Theo,null,null,Cambria
+109,Anderson,Victor,null,null,Cambria
+111,Anderson,Wm,B ,null,8th
+113,Anderson,Wm,J ,null,5th
+115,Andrew,Alex,G ,null,Rockland
+116,Andrew,Doris,null,null,Cedar la
+117,Andrew,Jas,null,null,Cedar la
+118,Andrew,Lucille,null,null,Cedar la
+119,Andrew,Ruth,null,null,Cedar la
+120,Andrews,Alf,null,null,Lake Linden av
+121,Andrina,Ernest,null,null,Caledonia
+123,Andrina,John,null,null,Caledonia
+124,Andrina,John,null,jr,Caledonia
+125,Andrus,Andrew,null,null,Wedge
+126,Andrus,Bertha,null,null,Wedge
+128,Anegone,Constantine,null,null,6th
+131,Anietti,Bernard,null,null,Rockland
+132,Ansell,Alice,M ,null,Mine
+138,Antilla,Geo,E ,null,5th
+141,Antioho,Socrates,null,null,Oak
+143,Antonetti,Geno,null,null,Union
+144,Antonetti,Geo,null,null,Union
+147,Arbanas,Theresa,J ,null,6th
+148,Arbanas,Vincent,null,null,6th
+152,Archambeau,Emil,null,null,Maple 
+153,Archambeau,Ernest,null,null,Laurium
+155,Archambeau,Oscar,null,null,Laurium
+156,Archambeault,Frank,null,null,Hecla
+157,Archambeault,Geo,null,null,Hecla
+158,Archambeault,Jos,null,null,Hecla
+159,Archambeault,Leo,null,null,Hecla
+160,Archambeault,Lilly,null,null,Hecla
+163,Ardus,Frances,null,null,Cambria
+164,Ardus,Jos,null,null,Cambria
+165,Arko,Frank,null,null,11th
+166,Arko,Geo,null,null,11th
+167,Arko,Jos,null,null,11th
+168,Arko,Mary,null,null,11th
+169,Arko,Peter,null,null,11th
+179,Arsonen,Gene,null,null,2d 
+181,Ashton,Jas,T ,null,School
+182,Assa,Peter,null,null,6th
+183,Assa,Peter,null,jr,6th
+184,Asselin,Don,J ,null,6th
+185,Asselin,Jos,null,null,do
+186,Asselin,Lawrencestudent,null,null,6th
+187,Asselin,Max,J ,null,8th
+188,Assey,Anna,Mrs ,null,6th
+189,Assey,Anna,Mrs ,null,th
+191,Augustine,John,null,null,Oak
+192,Augustine,John,null,jr,Oak
+195,Baalack,Arvid,null,null,Calumet av
+196,Baaso,Andrew,null,null,Tunnel 
+197,Baaso,Elvin,null,null,Tunnel 
+199,Bacher,John,null,null,County rd
+200,Bacher,John,null,jr,County rd
+201,Bacher,Martin,null,null,County rd
+202,Bacher,Mary,null,null,County rd
+203,Bacher,Rudolph,null,null,County rd
+204,Backman,Chas,null,null,8th
+210,Badovinac,John,null,null,Osceola rd 
+211,Badovinac,Mary,null,null,Osceola rd 
+212,Badovinac,Nicholas,null,null,Osceola rd 
+213,Badovinac,Nicholas,null,jr,Osceola rd 
+215,Bagatini,Angelo,null,null,Middle
+216,Bagatini,Edw,T ,null,Middle
+217,Baggio,Lawrence,null,null,Caledonia
+218,Baher,Jos,null,null,County rd
+219,Baher,Kath,null,null,County rd
+220,Baher,Rudolph,null,null,County rd
+223,Bailey,Frances,null,null,Calumet av
+224,Bailey,Oscar,F ,null,Calumet av
+225,Baima,Dominick,null,null,Oak
+227,Bajari,Nana,null,null,2d
+230,Balagna,Frank,null,null,Osceola rd
+236,Ballosaa,Chas,null,jr,Pine
+237,Ballosaa,Paul,null,null,Pine
+238,Balma,John,null,null,Log
+239,Balma,Jos,null,null,Calumet av
+240,Bandetti,Josephine,null,null,6th
+241,Bandettini,Angeline,null,null,Scott
+242,Bandettini,Angelo,null,null,Scott
+243,Bandoni,Cassimira,null,null,7th
+247,Banovetz,Fannie,null,null,County rd
+248,Banovetz,Matt,null,null,County rd
+249,Bant,John,H ,null,E Cone
+250,Bant,Leslie,null,null,Oak
+251,Bant,Lettie,null,null,E Cone
+252,Bant,Mae,null,null,E Cone
+253,Bant,Marjorie,null,null,E Cone
+254,Bant,Pearl,null,null,E Cone
+255,Baranoski,Alma,null,null,Bridge 
+256,Baranoski,Geo,null,null,Bridge 
+257,Baranoski,Theresa,null,null,Bridge 
+258,Baranowski,John,null,null,Oak
+260,Baranowski,Louis,null,null,Oak
+261,Baranowski,Nicholas,null,null,Osceola rd 
+262,Baranowski,Wm,null,null,Oak
+263,Baratono,Alex,F ,null,Elm
+264,Baratono,Arth,null,null,Elm
+265,Baratono,Arth,G ,null,Hecla
+266,Baratono,Dominic,null,null,4th
+267,Baratono,Felincia,null,null,Dam
+268,Baratono,Gabriel,null,null,Dam
+269,Baratono,Jas,null,null,Hecla
+270,Baratono,Jas,null,null,4th
+271,Baratono,Lawrence,null,null,6th
+272,Bardo,Minnie,null,null,C
+273,Bardo,Silvio,null,null,C
+277,Barinotti,Frank,null,null,Laurium
+278,Barker,Mary,null,null,A Scott
+279,Barkman,F,J ,null,Mine
+280,Barkovich,Frank,null,null,7th
+281,Barkovich,John,null,null,7th
+282,Barnes,Clemert,null,null,Lake Linden av
+283,Barnes,Ethel,null,null,Lake Linden av
+284,Barnes,Leola,null,null,Lake Linden av
+285,Barnes,Warley,null,null,Lake Linden av
+286,Barnes,Wm,null,null,Lake Linden av
+287,Barnham,Burton,null,null,6th
+288,Bamoski,Alex,null,null,Ski 
+290,Baroni,Paul,null,null,Columbia
+296,Barri,Chas,null,null,2d 
+297,Barri,Isaac,null,null,2d 
+298,Barri,Waino,null,null,2d 
+299,Barrons,Beatrice,null,null,Rockland
+300,Barrons,Henry,R ,null,Rockland
+301,Barrons,Stewart,null,null,Rockland
+303,Barsanti,Guido,null,null,6th
+305,Barsotti,Arth,null,null,5th
+307,Barsotti,Ercole,J ,null,5th
+308,Barsotti,Peter,null,null,5th
+309,Bartilia,Albert,null,null,Dam
+310,Bartono,Gabriel,null,null,S 6th
+311,Bartono,Phyllis,null,null,S 6th
+315,Basnich,Henry,null,null,Laurium
+316,Basso,Paul,null,null,County rd 
+319,Bastian,Jay,null,null,Elm
+320,Bastian,John,null,null,Elm
+323,Bastien,Lilian,null,null,Calumet 
+324,Basto,Anna,null,null,1st 
+326,Basto,Henry,null,null,1st 
+327,Basto,Laurie,null,null,1st 
+328,Basto,Raymond,null,null,1st 
+329,Basto,Waino,J ,null,1st 
+330,Bate,Erwin,null,null,Waterworks
+331,Bates,Richd,null,null,Caledonia
+332,Bathe,Arth,null,null,8th
+333,Batten,Roy,null,null,Rockland
+336,Battuello,Anton,null,null,Calumet av
+337,Battuello,Mamie,null,null,Calumet av
+338,Baudino,Chas,null,null,10th
+339,Baudino,Geo,null,null,E Cone
+343,Bay,Hartley,null,null,Calumet av
+347,Bayles,Daisy,null,null,Elm 
+348,Bayles,Edw,null,null,Elm 
+349,Bayles,Geo,W ,null,Elm 
+350,Bayles,Raymond,null,null,Elm 
+351,Bayles,Wm,R ,null,Elm 
+352,Bayuk,Anton,E ,null,9th
+356,Beauchamp,Edw,J ,null,Laurium
+357,Beauchamp,Henry,null,null,Cambria
+358,Beauchine,Adrian,null,null,Mine
+359,Beauchine,Alf,null,null,Mine
+361,Beauchene,Eug,null,null,Mine
+362,Beauchine,Frank,null,null,Rockland
+363,Beauchine,Peter,null,null,Mine
+364,Beaudain,Arven,null,null,Rockland
+367,Beaudoin,Jos,null,null,Rockland
+368,Beaudoin,Oliver,null,null,Rockland
+369,Beaudoin,Valerie,null,null,Rockland
+370,Beck,Aug,null,null,Rockland
+371,Beck,Beatrice,M ,null,Rockland
+372,Beck,Eleanore,null,null,Pine
+373,Beck,Elvi,null,null,Waterworks
+374,Beck,Emil,null,null,Middle
+375,Beck,Ernest,null,null,Waterworks
+376,Beck,Lawrence,H ,null,Rockland
+377,Beck,Lillian,E ,null,Rockland
+378,Beck,Oscar,A ,null,Waterworks
+379,Beckala,Jacob,null,null,Tunnel 
+380,Beckala,Matilda,null,null,Tunnel 
+382,Beckerleg,Sami,J ,null,Calumet av
+383,Beckman,Harry,null,null,Middle
+389,Beiswanger,Ed,null,null,N Rockland
+390,Beiswanger,Frank,null,null,N Rockland
+391,Beiswanger,Herman,null,null,N Rockland
+392,Beiswanger,Jacob,null,null,Portland
+393,Beiswanger,Louise,null,null,N Rockland
+394,Beiswanger,Wm,null,null,N Rockland
+397,Belanger,Homer,C ,null,6th
+399,Beleck,Albert,null,null,Laurium
+400,Belevich,Michl,null,null,B
+402,Belisle,Leo,null,null,Chestnut 
+405,Bell,Eveline,null,null,S Rockland
+406,Bell,Geo,F ,null,S Rockland
+407,Bell,May,null,null,S Rockland
+408,Bell,Richd,R ,null,S Rockland
+411,Belyan,Chas,null,null,Hecla 
+413,Benchich,Genevieve,null,null,Pine
+414,Benchich,Geo,F ,null,Pine
+416,Benchich,Matt,L ,null,Pine
+417,Benchich,Rose,K ,null,Pine
+419,Benettoni,Dominic,null,null,Lawrence
+420,Benich,Eggie,null,null,Calumet
+421,Bennetts,Betty,null,null,Calumet av
+424,Bennetts,Hazel,null,null,Depot
+425,Bennetts,Helen,null,null,Calumet av
+427,Bennetts,Jos,F ,null,Oakland
+428,Bennetts,Marian,null,null,Depot
+430,Bennetts,Richd,T ,null,Depot
+431,Bennetts,Russell,K ,null,8th
+432,Bennetts,Thos,null,null,Maple 
+433,Bennetts,Thos,J ,null,7th
+434,Benney,Francis,null,null,10th
+435,Benovetz,John,null,null,Elm 
+436,Bensen,Ossiene,null,null,Calumet av
+440,Berg,Julius,null,null,8th
+441,Berg,Julius,J ,null,Oak
+442,Berg,Norman,null,null,8th
+443,Berg,Paul,N ,null,Oak
+444,Bergman,Noire,null,null,Laurium
+445,Berner,Berger,null,null,Calumet av
+446,Berner,Edna,V ,null,Calumet av
+447,Berner,Florence,null,null,Calumet av
+448,Berner,Lucile,null,null,Calumet av
+449,Berner,Mabel,A ,null,Calumet av
+450,Berner,Mildred,null,null,Calumet av
+451,Bernotti,Frank,null,null,D
+452,Bemotti,Frank,null,jr,D
+453,Berriman,Wm,null,null,Calumet av
+455,Berry,Geo,C ,null,6th
+456,Berryman,Chester,null,null,Caledonia
+457,Berryman,Clayton,null,null,Lake Linden av
+458,Berryman,Eliz,J ,null,Calumet av
+459,Berryman,Geo,C ,null,6th
+460,Berryman,Irving,null,null,Lake Linden av
+461,Berryman,Jas,null,null,Caledonia
+462,Berryman,Jas,null,null,Oak
+463,Berryman,Jas,H ,null,Calumet av
+465,Berryman,Thos,null,null,Caledonia
+466,Berryman,Thos,null,null,Calumet av
+467,Berryman,Wm,null,null,Lake Linden av
+472,Bessenen,Blanche,null,null,E Pine
+473,Bessenen,Rose,Mrs ,null,E Pine
+474,Bessenen,Yalmer,null,null,E Pine
+475,Bessner,Alice,null,null,Calumet av
+476,Bessner,Edw,null,null,Calumet av
+477,Bessner,Henry,null,null,E Acorn
+478,Bessner,Jos,null,null,Calumet av
+479,Bessner,Jos,null,jr,Calumet av
+480,Bessolo,Felix,null,null,Rockland
+482,Bessonen,Blanche,null,null,E Pine
+483,Bessonen,Chas,W ,null,Mine
+486,Betcler,Frank,null,null,Temple
+487,Betcler,Frank,null,jr,Temple
+488,Betcler,John,null,null,Temple
+489,Bethke,Theo,E ,null,Scott
+491,Bettens,Effie,F ,null,Scott
+492,Betzing,Carl,M ,null,Hecla
+493,Betzing,Gertrude,null,null,Hecla
+494,Betzing,Harriet,null,null,Hecla
+497,Bianchi,Julius,R ,null,7th
+498,Bianchi,Narcisco,R ,null,7th
+499,Bianchi,Ronald,P ,null,th
+500,Bianco,Anton,null,null,Rockland
+504,Bigando,Bat,null,null,Rockland
+505,Bigando,Geo,null,null,Rockland
+506,Bigando,Maud,null,null,Rockland
+507,Bigando,Victoria,null,null,C
+508,Bigando,Victoria,null,null,Rockland
+509,Bilodeau,Fred,null,null,Oak
+510,Bilodeau,Jos,null,null,Oak
+511,Bilodeau,Mary,null,null,Oak
+517,Birk,Albert,null,null,Stable
+518,Birk,Fred,null,null,Stable
+520,Birk,John,J ,null,Ash 
+521,Birk,Lottie,null,null,Ash 
+522,Birk,Mary,null,null,Stable
+523,Birk,Wilbert,null,null,Stable
+524,Birk,Wilhelmina,null,null,Stable
+525,Bjerk,Bernard,null,null,Caledonia
+526,Bjerk,Emma,null,null,Caledonia
+529,Blau,Earl,null,null,Chestnut 
+531,Blessant,Ernest,null,null,10th 
+532,Blewett,Harold,null,null,E Pine
+533,Blewett,Lillian,null,null,E Pine
+534,Blewett,Myrtle,null,null,E Pine
+535,Blewett,Richd,null,null,E Pine
+536,Blewett,Roy,null,null,E Pine
+537,Bliss,Albert,W ,null,Mine
+538,Blitz,Steph,null,null,E Acorn
+540,Blom,Andrew,null,null,11th
+541,Bloy,Eliz,null,null,10th
+544,Bloy,John,A ,null,10th
+545,Bloy,John,null,jr,10th
+547,Blue,Arbutus,null,null,E Acorn
+548,Blue,Elsie,M ,null,E Acorn
+549,Blue,Robt,C ,null,E Acorn
+550,Blum,Abr,null,null,Pine
+551,Blum,Benj,null,null,Pine
+552,Blum,Ida,null,null,Pine
+553,Bo,John,null,null,Caledonia
+554,Bo,Palma,null,null,Caledonia
+555,Bo,Theresa,null,null,Caledonia
+560,Boberg,Helmer,G ,null,County rd 
+561,Bobio,Paul,null,null,E Acorn
+565,Body,Fred,null,null,B
+567,Boggio,Angeline,null,null,Portland
+568,Boggio,Dominic,null,null,D
+569,Boggio,Frank,null,null,4th
+570,Boggio,Jos,null,null,D
+572,Bohrer,Frank,J ,null,Rockland
+573,Bohte,Anton,null,null,Elm
+578,Bolinski,John,null,null,3d 
+579,Bolso,Jacob,null,null,Ridge 
+580,Bolterstein,Jos,null,null,Tamarack jr loc
+581,Bond,Alf,null,null,7th
+582,Bone,Alf,null,null,Calumet av
+584,Bone,Lyle,G ,null,Calumet av
+585,Bonefant,Fredk,null,null,Rockland
+586,Bonefant,Mabel,null,null,Rockland
+587,Bonefant,Wilfred,null,null,Rockland
+588,Bonenfant,Albert,null,null,Laurium
+589,Bonenfant,Alphonse,null,null,Laurium
+591,Bonenfant,Jos,null,null,11th
+594,Bonotto,Dominic,null,null,Wedge
+595,Bonotto,John,null,null,Wedge
+596,Bonotto,Kath,null,null,Wedge
+597,Bonotto,Minnie,K ,null,Wedge
+598,Borchgreviiik,Benj,R ,null,5th
+599,Borchgrevink,Nora,K ,null,Tamarack 
+603,Borgo,Ida,A ,null,Elm
+604,Borgo,Josephine,M ,null,Elm
+605,Borgo,Noble,G ,null,Elm
+607,Borhanen,Wilbert,null,null,County rd
+608,Borich,Geo,null,null,Middle
+609,Borich,John,null,null,Middle
+615,Bossio,Angelo,null,null,Laurium
+616,Bosson,Fred,N ,null,Calumet av
+617,Boti,Oscar,null,null,Wedge
+620,Boulton,Jos,null,null,2d 
+621,Boulton,Robt,null,null,2d 
+623,Bourland,Hasseltine,null,null,Calumet av
+624,Bourland,Philip,D ,null,Calumet av
+625,Bourland,Philip,D ,jr,Calumet av
+627,Boyd,John,null,null,Oak
+628,Boyd,Manilla,M ,null,Oak
+629,Boyd,Margt,M ,null,Oak
+632,Bozanich,Martha,null,null,7th
+633,Bracco,Anton,B ,null,Hecla
+635,Bracco,Bernard,null,null,Elm
+636,Bracco,Bernard,null,null,8th
+637,Bracco,Chas,null,null,8th
+638,Bracco,Christine,null,null,Elm
+639,Bracco,John,null,null,Calumet
+640,Bracco,John,null,null,D
+641,Bracco,John,null,null,Calumet av
+642,Bracco,Jos,null,null,D
+643,Bracco,Mary,null,null,D
+644,Bracco,Mary,null,null,D
+645,Bracco,Peter,null,null,D
+646,Bracco,Peter,null,jr,D
+647,Bracco,Tony,null,null,D
+649,Braman,Byron,L ,null,Florida 
+652,Brander,Thos,null,null,E Acorn
+653,Bratetich,Mary,null,null,Bridge 
+654,Bratetich,Rudolph,null,null,Bridge 
+658,Brennan,Helen,C ,null,6th
+659,Brennan,Margt,M ,null,6th
+660,Brennan,Patk,J ,null,6th
+661,Bresnahan,Michl,null,null,County rd
+662,Brevik,John,null,null,Pewabic 
+664,Brew,Chester,J ,null,Oak 
+666,Brewer,Jane,null,null,4th
+668,Bridenback,Henry,null,null,Calumet av
+669,Brier,Albert,null,null,Mine
+672,Briggs,Sarah,null,null,Maple la
+673,Brl11,Christ,null,null,Laurium
+674,Brl11,Geo,null,null,Calumet av
+675,Brl11,Geo,null,jr,C
+676,Brl11,Harry,null,null,Cemetery
+677,Brl11,John,null,null,Hecla
+680,Broberg,Arth,null,null,Lake Linden av
+681,Brocco,Bernard,S ,null,8th
+682,Broderick,Allen,null,null,Calumet av
+683,Broderick,Thos,M ,null,Calumet av
+685,Brown,Ancinetta,null,null,Maple la
+686,Brown,Dorothy,null,null,Laurium
+687,Brown,Herbert,null,null,Calumet av
+688,Brown,Howard,B ,null,Oak
+689,Brown,John,K ,null,6th
+690,Brown,Lenore,F ,null,7th
+691,Brown,Michl,null,null,7th
+693,Brown,Norman,null,null,Laurium
+694,Brown,Richd,null,null,Laurium
+703,Brula,Frank,null,null,Rockland
+704,Brulla,Matt,null,null,Union
+706,Brunette,Edw,null,null,Laurium
+707,Brunette,Francis,null,null,Laurium
+708,Brunette,Geo,A ,null,Laurium
+709,Brunette,Geo,E ,null,Laurium
+717,Bryant,Irving,null,null,Rockland
+718,Bryant,John,null,null,Calumet av
+720,Bryant,Oren,null,null,Calumet av
+722,Bryant,Viola,null,null,Calumet av
+723,Buckett,Jas,null,null,Extension
+724,Buckett,John,null,null,Extension
+725,Buddell,John,null,null,7th
+728,Bukema,Abram,null,null,Pine
+734,Burcar,Frank,null,null,3d 
+735,Burcar,Fred,null,null,3d 
+736,Burcar,John,null,null,4th 
+737,Burcar,Martin,null,null,3d 
+738,Burcar,Peter,null,null,4th 
+743,Burke,Ella,null,null,Cedar
+744,Burke,Helen,null,null,Cedar
+745,Burke,Henry,null,null,Cedar
+746,Burke,John,null,null,Cedar
+747,Burkman,Albert,E ,null,8th
+748,Burkman,Albert,E ,null,do
+749,Burkman,Albin,J ,null,Pine
+750,Burkman,Carl,L ,null,Pine
+751,Burkman,Chas,null,null,2d 
+754,Burkman,Wilbert,null,null,Pine
+755,Burling,Carl,null,null,Red Jacket Shaft loc
+756,Burrows,Harry,null,null,Boones la
+758,Buschnell,Mart,null,null,6th
+760,Butala,Cecila,null,null,Calumet av
+761,Butala,Eliz,null,null,Calumet av
+762,Butala,Firmin,null,null,Calumet av
+763,Butala,Jacob,null,null,Elm
+764,Butala,Jacob,null,null,Elm
+765,Butala,John,null,null,C
+768,Butala,Louise,null,null,Calumet ay
+769,Butala,Matilda,null,null,Calumet av
+770,Butala,Rose,A ,null,Calumet av
+772,Butkovich,Chas,null,null,Red Jacket Shaft loc
+773,Butkovich,John,G ,null,5th
+777,Butler,Bert,M ,null,8th
+779,Buzzo,Jane,null,null,Lake Linden av
+780,Buzzo,John,null,null,Calumet av
+782,Bye,Edgar,null,null,Pine
+786,Bylkas,Hubert,null,null,1st 
+787,Bylkas,Jacob,null,null,1st 
+788,Bylkas,Kate,null,null,Pine
+789,Bylkas,Norman,null,null,1st 
+795,Cadwell,Arth,C ,null,Ash 
+796,Cadwell,Clayton,null,null,Red Jacket Shaft loc
+797,Cadwell,Clifford,null,null,Red Jacket Shaft loc
+799,Cadwell,John,B ,null,Ash 
+800,Cadwell,John,H ,null,Red Jacket Shaft loc
+801,Cadwell,Lillian,T ,null,Ash 
+802,Cadwell,Willard,null,null,Boundary
+803,Caesar,Douglas,R ,null,Elm
+804,Caesar,Edw,J ,null,Elm
+805,Caesar,Ernestine,L ,null,Elm
+806,Caesar,Henry,P ,null,Elm
+807,Caesar,Jos,N ,null,Elm
+808,Caesar,Kath,null,null,Elm
+809,Caesar,Kath,null,null,Elm
+810,Caesar,Lucille,M ,null,Elm
+812,Caesar,Peter,J ,null,Elm
+813,Caesar,Rose,B ,null,Elm
+839,Cameron,Alan,null,null,Calumet av
+841,Cameron,Alf,null,null,Calumet
+842,Cameron,Allen,null,null,Calumet av
+843,Cameron,Duncan,null,null,Calumet av
+844,Cameron,Martha,null,null,Calumet av
+845,Campagnola,John,null,null,Laurium
+847,Cane,Carl,null,null,Cedar la
+848,Cane,Christ,null,null,6th
+849,Cane,Edw,null,null,Oak 
+850,Cane,John,null,null,Oak 
+851,Cane,Lawrence,null,null,Boundary
+852,Cane,Mary,null,null,Oak 
+853,Cane,Robt,null,null,6th
+854,Cane,Russell,null,null,Oak 
+855,Cannavan,John,D ,null,8th
+856,Capasso,John,null,null,B
+860,Capello,Mary,null,null,Laurium
+863,Cappell,Delbert,null,null,Portland
+864,Cappello,Anton,null,null,Ash 
+866,Carbonatto,Victor,null,null,Laurium
+867,Carlson,Axel,null,null,Ridge 
+868,Carlson,Edw,T ,null,E Pine
+869,Carlson,Ernest,null,null,6th
+870,Carlson,Fred,null,null,N Rockland
+871,Carlson,Hugo,null,null,Caledonia
+873,Carlson,Ray,null,null,Waterworks
+883,Came,Jos,null,null,Scott Came Wm mach CH
+884,Caron,Jos,L ,null,W Acorn
+889,Carter,Edw,null,null,Rockland
+891,Carter,Geo,S ,null,Rockland
+892,Carter,Geo,T ,null,Rockland
+893,Carter,Jos,null,null,Depot
+894,Caserio,Dominic,null,null,Portland
+895,Caserio,Jos,null,null,Portland
+898,Cavin,Margt,null,null,7th
+899,Cayanus,Alf,null,null,Calumet av
+901,Cekada,Frank,null,null,Oak
+906,Centanino,Domenica,null,null,Laurium
+907,Centanino,Domenic,null,null,Laurium
+912,Ceretto,John,null,null,D
+914,Ceretto,Mary,null,null,D
+915,Cerretto,Anton,null,null,Temple
+916,Cerretto,Jennie,null,null,Temple
+917,Cerretto,Mary,null,null,Temple
+918,Certalic,John,null,null,A
+919,Certalic,Mary,null,null,D
+920,Certo,John,C ,null,Dam
+921,Chambers,Helen,null,null,6th
+922,Chambers,Robt,null,null,6th
+927,Charrier,Albert,null,null,E Acorn
+928,Charrier,Mary,null,null,E Acorn
+931,Chase,Myra,C ,null,Calumet 
+932,Cheli,Fred,null,null,Hecla
+933,Chellew,Irene,H ,null,8th
+934,Chesarek,Jos,null,null,Tamarack
+937,Chickola,Thos,null,null,Middle
+938,Chintaretto,John,null,null,Calumet av
+941,Chop,Esther,null,null,Elm
+942,Chop,Rose,null,null,Elm
+943,Chop,Zora,null,null,Elm
+944,Chopp,Antonia,null,null,4th 
+950,Chopp,Mary,null,null,4th 
+951,Chopp,Matt,null,null,4th 
+952,Chopp,Thos,null,null,4th 
+954,Christian,Science,Society ,null,Oak
+955,Christie,Adolph,null,null,Caledonia
+956,Christie,Frank,null,null,Hecla
+957,Christie,Leona,null,null,Hecla
+959,Chynoweth,Clarence,null,null,Scott
+961,Chynoweth,Lydia,null,null,Portland
+962,Chynoweth,Raymond,null,null,Scott
+964,Chynoweth,Thos,J ,null,Rockland
+965,Chynoweth,Wm,C ,null,Scott
+966,Chynoweth,Wm,C ,jr,Scott
+967,Cincich,Louise,null,null,Red Jacket Shaft loc
+968,Cincich,Mervin,null,null,Red Jacket Shaft loc
+969,Cincich,Wm,null,null,Red Jacket Shaft loc
+970,Cincich,Wm,null,jr,Red Jacket Shaft loc
+971,Ciomei,Eug,null,null,5th
+975,Clabaugh,Opal,null,null,Calumet av
+976,Clark,Lottie,null,null,Scott
+977,Clark,W,Harrison ,null,Calumet av
+978,Cleare,Albert,null,null,Hecla
+979,Cleary,Edw,J ,null,6th
+980,Cleary,Ellen,null,null,6th
+981,Cliff,Emily,A ,null,Amygdaloid 
+982,Cliff,Richd,H ,null,Amygdaloid 
+984,Clola,Jess,null,null,Dam
+987,Cocking,Grace,null,null,Hocking
+988,Cocking,Jas,null,null,Rockland
+989,Cocking,John,S ,null,Mine
+990,Cocking,Thos,F ,null,Rockland
+992,Coello,Jas,null,null,Wedge
+994,Cole,Henry,Howard ,null,Rockland
+995,Cole,Osmund,null,null,Rockland
+996,Colleur,Emil,null,null,7th
+998,Collins,Edwin,J ,null,8th
+1001,Colnar,Anton,null,null,Caledonia
+1002,Colnar,John,null,null,Caledonia
+1003,Colnar,Jos,null,null,Caledonia
+1004,Colola,Dominic,null,null,Dam
+1007,Colombo,Frank,null,null,Osceola rd
+1008,Colombo,Jas,null,null,Osceola rd
+1009,Colombo,Jos,null,null,Union
+1010,Colombo,Michl,null,null,Union
+1012,Colto,Bat,null,null,Union
+1013,Colto,Masse,null,null,Union
+1015,Colwander,Clara,null,null,Extension
+1016,Colwander,Dorothy,null,null,Extension
+1017,Colwander,Eliz,null,null,Extension
+1018,Colwander,Marion,null,null,Extension
+1019,Colwander,Roger,null,null,Extension
+1024,Conedera,Tony,null,null,Union
+1025,Congdon,Arth,null,null,Rockland
+1026,Congdon,Marguerite,null,null,Rockland
+1027,Coninan,Wm,null,null,Rockland
+1028,Connell,Leo,O ,null,Caledonia
+1032,Contratto,Peter,null,null,5th
+1034,Coombe,Elaine,null,null,Hecla
+1035,Coombe,Sami,null,null,Hecla
+1036,Coombe,Thos,E ,null,Hecla
+1037,Coppello,Joe,null,null,10th
+1043,Coppo,Eugenia,null,null,Red Jacket Shaft loc
+1044,Coppo,Harry,null,null,Red Jacket Shaft loc
+1046,Coppo,Mary,null,null,6th
+1047,Coppo,Michl,null,null,D
+1051,Cornish,W,V ,null,Portland
+1053,Cosso,Della,null,null,Calumet av
+1054,Cosso,Jos,null,null,Calumet av
+1055,Cosso,Mark,null,null,Calumet av
+1056,Cosso,Mary,null,null,Calumet av
+1057,Cosso,Minnie,null,null,Calumet av
+1061,Costello,Carl,null,null,Oak
+1062,Coster,F,E ,null,Oak
+1063,Cote,Amelia,null,null,Rockland
+1064,Cote,J,W ,null,Lake Linden av
+1067,Cox,Wm,J ,null,Mine
+1068,Coy,Rachel,I ,null,Mine
+1069,Crase,Harriet,null,null,5th
+1070,Crawford,Harry,L ,null,Calumet av
+1071,Craze,Cath,null,null,Rockland
+1072,Craze,E,Geo ,null,6th
+1073,Craze,Helen,null,null,6th
+1074,Craze,Richd,J ,null,Rockland
+1076,Crevola,Cinto,null,null,S 6th
+1077,Crevola,Dominick,null,null,S 6th
+1079,Crnkovich,Mary,null,null,Red Jacket 
+1080,Crnkovich,Matt,null,null,Red Jacket 
+1084,Crosier,Sami,null,null,6th
+1087,Crowley,Eleanor,null,null,8th
+1088,Crowley,John,null,null,5th
+1089,Crowley,Lyle,null,null,8th
+1090,Crowley,Willard,null,null,8th
+1094,Crugnola,Chas,null,null,Rockland
+1097,Cudahy,Agnes,null,null,6th
+1098,Cudahy,Alice,null,null,6th
+1099,Cudahy,Patk,null,null,6th
+1103,Curl,Wm,G ,null,Stable
+1104,Curl,Wm,N ,null,Stable
+1107,Curnow,Jas,null,null,Lake Linden av
+1110,Curto,Andrew,null,null,Portland
+1112,Curto,Jas,J ,null,Portland
+1113,Ctirto,John,C ,null,S 6th
+1115,Curto,Peter,null,null,6th
+1116,Cusso,Minnie,null,null,Calumet av
+1117,Cwoidrak,Michl,null,null,A
+1118,Dagion,John,null,null,Pine
+1119,Dahl,Aino,null,null,E
+1120,Dahl,Senia,null,null,E
+1121,Dahl,Susan,null,null,E
+1124,Dairo,Anne,null,null,D
+1126,Dairo,John,null,null,D
+1127,Dairo,Josephine,null,null,D
+1128,Dairo,Peter,null,null,D
+1131,Daley,Anne,null,null,Temple
+1132,Daley,Anne,null,null,Temple
+1134,Daley,Wm,null,null,Temple
+1135,Dalgreen,Isaac,null,null,Cambria
+1136,Daly,Hildefense,null,null,Calumet av
+1137,Danbom,Albert,null,null,Calumet av
+1138,Danbom,Edwin,C ,null,4th
+1140,Danielson,Walter,G ,null,Church
+1141,Danis,Jos,null,null,N Rockland
+1142,Danis,Steph,null,null,N Rockland
+1143,Danis,Thos,null,null,N Rockland
+1145,Davey,Ruben,J ,null,Rockland
+1146,Davidson,Wm,J ,null,7th
+1147,Davis,Florence,null,null,Oak
+1151,Day,Helen,M ,null,Calumet av
+1153,DeFilippi,Angelo,null,null,4th 
+1154,Defilippi,Anton,null,null,3d
+1155,Defilippi,Felix,null,null,3d
+1156,Defilippi,John,null,null,3d
+1157,Defilippi,John,null,null,Bridge 
+1158,Defilippi,John,B ,null,Waterworks
+1160,Deghari,Caroline,null,null,Boundary
+1161,Deghari,Frank,null,null,Boundary
+1162,Deghari,Thos,null,null,Boundary
+1163,DeGooyer,Anna,null,null,Calumet 
+1167,Delf,Edw,W ,null,Tamarack 
+1169,Delliss,Victor,null,null,E Pine
+1171,Delongchamp,Louis,null,null,Chestnut 
+1175,Demarais,Albert,null,null,do
+1176,Demarais,Edmund,null,null,8th
+1177,Damarais,Francis,T ,null,5th
+1179,Demarais,Homer,null,null,7th
+1180,Demarais,Telesphore,null,null,Pine
+1181,Demarais,Virginia,G ,null,5th
+1182,Deneen,Marjorie,null,null,Waterworks
+1183,Denmonier,Francis,null,null,Rockland
+1184,Denoville,Matt,null,null,Mine
+1187,Desiatto,John,null,null,B
+1193,Dianda,Jamma,null,null,Oak
+1196,Dietze,John,null,null,Caledonia
+1197,Dietze,Marion,null,null,Caledonia
+1198,Dietze,Otto,null,null,Caledonia
+1201,Dijosi,Alex,null,null,Temple
+1202,Dimmer,Blanche,null,null,Laurium
+1203,Dimmer,Cath,null,null,Laurium
+1204,Dimmer,Chas,J ,null,Laurium
+1205,Dimmer,Edw,null,null,Iroquois 
+1206,Dimmer,Matthew,null,null,Laurium
+1208,Dimmer,Raymond,J ,null,Laurium
+1209,Dimmer,Wm,null,null,Depot
+1210,Dingle,Richd,G ,null,Cemetery
+1212,Dix,Nicholas,null,null,Lake Linden av
+1213,Dix,Walter,null,null,Lake Linden av
+1214,Dix,Weldon,null,null,Lake Linden av
+1215,Dodds,Dorrit,null,null,Scott
+1218,Dolan,Jas,null,null,Pewabic 
+1219,Dolong,Zella,null,null,Pine
+1221,Donald,Harry,S ,null,Calumet av
+1222,Donald,Leslie,H ,null,Depot
+1223,Dooley,John,null,null,A
+1224,Dooley,Stasia,C ,null,A
+1226,Doroshuk,Anton,null,null,Pine
+1227,Doughter,Jane,null,null,8th
+1229,Dow,Frank,null,null,S 6th
+1231,Dower,John,null,null,Stable
+1233,Dower,Wm,null,null,Rockland
+1235,Downey,Margt,E ,null,6th
+1236,Downey,Patk,null,null,Elm
+1237,Downey,Wm,null,null,Calumet av
+1238,Doyle,Alice,null,null,Rockland
+1239,Doyle,Jas,null,null,Rockland
+1240,Doyle,Jas,null,jr,Rockland
+1241,Dragman,Jos,null,null,7th 
+1243,Drew,Earl,null,null,10th
+1244,Drew,Jas,null,null,10th
+1245,Drew,Lillian,null,null,10th
+1246,Dreyer,Aloyious,null,null,County rd
+1247,Dreyer,Anthony,null,null,Middle
+1248,Dreyer,Cath,null,null,County rd
+1249,Drier,Adam,C ,null,8th
+1250,Drier,C,H ,null,8th
+1251,Drier,Roy,W ,null,8th
+1252,Drier,Winifred,null,null,8th
+1253,Driscoll,Agnes,null,null,Caledonia
+1254,Driscoll,Cath,null,null,Caledonia
+1255,Driscoll,Edw,null,null,E Acorn
+1256,Driscoll,Elmer,null,null,E Acorn
+1257,Driscoll,Geo,null,null,Bridge 
+1258,Driscoll,Jas,null,null,E Acorn
+1259,Driscoll,Mary,null,null,Caledonia
+1260,Driscoll,Neil,null,null,E Acorn
+1262,Druand,Delvine,null,null,Rockland
+1264,Dryge,Axel,J ,null,Caledonia
+1265,Dryge,Evelyn,null,null,Caledonia
+1266,Dubula,Chas,null,null,Ridge 
+1267,Dubula,Kath,null,null,Ridge 
+1268,Dubula,Leo,null,null,Ridge 
+1269,Dubula,Thos,null,null,Ridge 
+1271,Ducharm,Victor,J ,null,Maple 
+1272,Dudenas,Jos,null,null,Middle
+1273,Dudenas,Michl,null,null,Middle
+1275,Duhaime,Alex,null,null,Rockland
+1276,Duhaime,Victoria,null,null,Rockland
+1277,Dunn,Clarence,null,null,Rockland
+1278,Dunn,Howard,null,null,Rockland
+1283,Dusa,Anton,null,null,B
+1286,Dwyer,Mary,null,null,Temple
+1287,Dwyer,Michl,null,null,Temple
+1288,Dwyer,Timothy,J ,null,Temple
+1289,Dwyer,Wm,null,null,6th
+1290,Eaton,Lorimer,null,null,Willow av 
+1294,Edwards,Jas,null,null,Calumet av
+1295,Edwards,Robt,null,null,Boundary
+1297,Effinger,John,null,null,Calumet av
+1298,Effinger,John,null,null,Caledonia
+1299,Eikkonen,Edw,null,null,County rd
+1300,Eilenich,Jos,null,null,Ash 
+1302,Eister,Homer,J ,null,Elm
+1303,Eister,J,Owen ,null,Tamarack 
+1304,Eister,Jos,A ,null,7th
+1305,Eister,Kathleen,A ,null,7th
+1306,Eister,Marguerite,C ,null,7th
+1308,Eklund,Albert,null,null,Caledonia
+1309,Eklund,Gunhill,null,null,Rockland
+1310,Eklund,Gunnard,null,null,Rockland
+1311,Eklund,Harold,V ,null,Elm 
+1312,Eklund,Hulda,null,null,Caledonia
+1313,Eklund,Jos,null,null,Rockland
+1314,Eklund,Reuben,W ,null,Rockland
+1315,Eklund,Walter,null,null,Rockland
+1318,Elenich,Anna,null,null,Calumet av
+1319,Elenich,Jacob,null,null,Ash 
+1320,Elenich,John,null,null,Ash 
+1321,Elenich,John,null,null,Calumet av
+1322,Elenich,John,null,jr,Calumet av
+1323,Elenich,Jos,null,null,Calumet av
+1324,Elenich,Maria,null,null,Ash 
+1325,Elenich,Mary,null,null,Ash 
+1326,Elenich,Mary,null,null,Calumet av
+1327,Eliasson,Jean,Mrs ,null,Rockland
+1329,Ellena,John,null,null,11th
+1330,Elliott,Alf,null,null,5th
+1331,Elliott,Jas,null,null,5th
+1332,Elliott,Jane,null,null,5th
+1333,Ellis,John,J ,null,Portland
+1335,Ellis,Phyllis,null,null,County rd 
+1337,Ellis,Wm,null,null,County rd 
+1338,Enders,Matt,null,null,Hecla
+1340,Engstrom,Chas,G ,null,Oak
+1341,Engstrom,Marion,null,null,Oak
+1343,Eplett,Roy,null,null,Red Jacket Shaft loc
+1344,Eplett,Wm,null,null,Red Jacket Shaft loc
+1347,Erickson,Edw,null,null,Laurium
+1349,Erickson,Fannie,null,null,7th
+1350,Erickson,Geo,null,null,Laurium
+1351,Erickson,Gerda,null,null,C
+1352,Erickson,Herman,null,null,County rd
+1354,Erickson,Ludwig,null,null,11th
+1355,Erickson,Oscar,null,null,Log
+1356,Erickson,Vina,null,null,Laurium
+1357,Erikson,Edith,A ,null,Tamarack 
+1358,Erikson,Frances,null,null,Tamarack 
+1359,Erikson,Ruth,null,null,Tamarack 
+1360,Erlandson,Chas,null,null,10th
+1361,Erlandson,Effie,null,null,10th
+1362,Erlandson,Gladys,null,null,10th
+1364,Ermert,Fred,null,null,Middle
+1365,Ernat,Bernadette,D ,null,Liberty
+1366,Ernat,Kath,null,null,Liberty
+1367,Ernat,Stanley,null,null,Liberty
+1368,Ervast,Martha,null,null,Hecla 
+1370,Eskola,John,null,null,Middle
+1376,Ethier,Clara,null,null,5th
+1377,Ethier,Eliz,null,null,Pine
+1378,Ethier,John,null,null,Scott
+1380,Etu,Napoleon,null,null,Depot
+1383,Eusa,Emma,null,null,5th
+1384,Eutrich,Bernard,null,null,Rockland
+1386,Evensen,Even,null,null,6th
+1389,Fabac,John,P ,null,Hecla
+1390,Fabac,John,P ,jr,Hecla
+1391,Fabec,Matt,null,null,Oak
+1392,Fabian,Alvin,null,null,N Rockland
+1393,Fabian,Anton,null,null,N Rockland
+1394,Fader,H,R ,null,Florida 
+1399,Falardeau,Arth,J ,null,Rockland
+1402,Falerios,Jos,null,null,Hecla
+1409,Farstom,Aug,null,null,Laurium
+1411,Fausone,Frank,null,null,Laurium
+1412,Fausone,Frank,null,jr,Laurium
+1413,Fausone,Fred,null,null,Iroquois 
+1414,Fausone,Jos,null,null,E Pine
+1415,Fausone,Jos,null,jr,E Pine
+1416,Fausone,Kath,A ,null,Laurium
+1417,Fausone,Mayme,null,null,Laurium
+1418,Fausone,Peter,null,null,E Pine
+1419,Feldhusen,H,M ,null,Mine
+1420,Feldhusen,Hattie,Mrs ,null,Mine
+1421,Ferrari,Albert,null,null,Hecla
+1422,Ferrari,Angeline,null,null,Hecla
+1423,Ferrari,Louis,null,null,Hecla
+1424,Ferrari,Paul,null,null,Hecla
+1425,Fichtel,Carl,null,null,Mine
+1428,Filipovich,Thos,null,null,E Pine
+1429,Fink,Anna,null,null,Rockland
+1430,Fink,John,null,null,Rockland
+1431,Fink,Kath,null,null,Calumet av
+1432,Fink,Matthew,null,null,Middle
+1433,Fink,Peter,null,null,Middle
+1434,Fink,Stanley,null,null,Calumet av
+1435,Fink,Wm,null,null,Middle
+1449,Firth,Ethyle,M ,null,Church
+1450,Firth,Walter,null,null,Church
+1451,Fisher,Anton,null,null,Caledonia
+1452,Fisher,Fern,null,null,Hecla
+1455,Fisher,Jas,null,null,Hecla
+1457,Fisher,John,H ,null,Hecla
+1458,Fisher,John,H ,jr,Hecla
+1459,Fisher,Marion,null,null,Hecla
+1460,Fisher,Richd,null,null,Hecla
+1461,Fisher,Robt,null,null,Hecla
+1463,Fisher,Wm,null,null,Hecla
+1464,Fitzgerald,Elsie,null,null,Red Jacket Shaft loc
+1465,Fitzgerald,Francis,null,null,Red Jacket Shaft loc
+1466,Fitzgerald,Fred,null,null,Red Jacket Shaft loc
+1468,Fobish,Agnes,null,null,Red Jacket Shaft loc
+1469,Fobish,John,null,null,Red Jacket Shaft loc
+1470,Fobish,Mae,null,null,Red Jacket Shaft loc
+1471,Fontana,Paul,null,null,Calumet av
+1472,Forchette,Alphonse,null,null,Red Jacket Shaft loc
+1473,Forchette,John,J ,null,Red Jacket Shaft loc
+1474,Ford,Albert,null,null,7th
+1476,Ford,Ellen,null,null,Rockland
+1478,Ford,John,null,null,5th
+1479,Ford,Thos,H ,null,Rockland
+1480,Ford,Walter,C ,null,Rockland
+1483,Forester,Jalmer,null,null,Middle
+1484,Forester,Raymond,null,null,Middle
+1485,Forester,Wilfred,null,null,Middle
+1486,Fors,Oscar,null,null,Lake Linden av
+1487,Forsberg,Birger,null,null,Calumet av
+1488,Forsberg,E,Henry ,null,5th
+1490,Forsman,Henry,null,null,County rd
+1491,Forster,Bert,M ,null,Oak
+1492,Forster,Homer,null,null,Pine
+1493,Forster,Jane,Mrs ,null,7th
+1494,Forster,Minnie,T ,null,Oak
+1495,Forster,Raymond,J ,null,7th
+1496,Fosberg,Ernest,T ,null,2d
+1497,Foster,John,null,null,Rockland
+1498,Foster,Laura,null,null,Rockland
+1499,Foster,Wm,J ,null,Rockland
+1502,Fowler,Ernest,null,null,Oak
+1503,Fowler,Geo,null,null,Oak
+1506,Francisco,Angeline,null,null,Boundary
+1507,Francisco,John,null,jr,Boundary
+1508,Francone,Johanna,null,null,Elm
+1509,Francone,John,Mrs ,null,Elm
+1510,Francone,Michl,null,null,Elm
+1511,Frank,Clyde,R ,null,Scott
+1512,Frankovich,John,null,null,8th 
+1513,Frankovich,Marko,null,null,Calumet av
+1514,Frantti,Alf,null,null,Ridge 
+1515,Frantti,Arnold,null,null,Ridge 
+1516,Frantti,Emil,null,null,Ridge 
+1517,Frantti,John,C ,null,Ridge 
+1518,Frantti,Leonard,null,null,Rockland
+1519,Frantti,Willard,null,null,Ridge 
+1520,Fraser,Geo,null,null,Lake Linden av
+1521,Fraser,Gervin,null,null,Lake Linden av
+1522,Fraser,Mildred,null,null,Lake Linden av
+1523,Frazer,Thos,null,null,Bridge 
+1527,Frederickson,Lylla,null,null,Cedar
+1528,Frederickson,Sylvia,null,null,Cedar
+1529,Freeman,Anna,null,null,Rockland
+1530,Freeman,Grace,null,null,Rockland
+1531,Freeman,Wm,F ,null,Hecla
+1534,Friskey,Aileen,null,null,Chestnut 
+1535,Friskey,Albert,B ,null,Lake Linden av
+1536,Friskey,Arth,null,null,Chestnut 
+1537,Friskey,Carl,null,null,Lake Linden av
+1538,Friskey,Chas,L ,null,Lake Linden av
+1539,Friskey,Oscar,null,null,Chestnut 
+1540,Fritsche,Max,null,null,Laurium
+1541,Fritzi,Julius,null,null,Laurium
+1544,Funk,Wm,null,null,Rockland
+1545,Gabriault,Duncan,null,null,Boundary
+1546,Gabriault,Edmond,null,null,Rockland
+1547,Gabriault,Edw,null,null,Boundary
+1548,Gabriault,Elzear,J ,null,Rockland
+1549,Gabriault,Gladys,null,null,Boundary
+1550,Gabriault,Jos,null,null,Rockland
+1557,Gale,Jas,H ,null,Beech 
+1558,Galetto,John,null,null,E Pine
+1559,Galetto,Netta,null,null,E Pine
+1560,Galetto,Peter,null,null,E Pine
+1561,Galipeau,Moses,null,null,Hecla 
+1563,Gallasero,Jas,null,null,Ski 
+1564,Gallasero,Louise,null,null,Portland
+1565,Gallo,Theresa,null,null,Laurium
+1566,Galobich,John,S ,null,8th
+1567,Galovich,Anna,null,null,Calumet av
+1568,Galovich,Cath,null,null,Calumet av
+1569,Galovich,Jos,null,null,Calumet av
+1570,Galovich,Michl,null,null,Calumet av
+1571,Gamarra,Jas,null,null,4th
+1572,Gamarra,Norbert,null,null,4th
+1573,Gardner,Flora,Mrs ,null,Bridge 
+1574,Gardner,Gilbert,null,null,Boundary
+1576,Gardner,John,null,null,Oak
+1577,Gardner,Margt,null,null,Boundary
+1578,Gardner,Nedward,null,null,Boundary
+1579,Gardner,Parline,null,null,Boundary
+1580,Gardner,Rose,null,null,Boundary
+1581,Gareau,Alphonse,null,null,Beech 
+1582,Gareau,Arth,J ,null,Beech 
+1583,Gareau,Doris,null,null,Beech 
+1584,Gareau,John,null,null,Beech 
+1585,Gareau,Lucille,null,null,Beech 
+1586,Gareau,Wilbert,null,null,Beech 
+1588,Garida,Cath,null,null,10th
+1589,Garida,John,null,null,10th
+1592,Garparovich,Agnes,null,null,6th
+1593,Gaspardo,Dominic,null,null,Portland
+1594,Gaspardo,Marianna,null,null,10th
+1595,Gaspardo,Markel,null,null,Portland
+1596,Gaspardo,Sarfino,null,null,Columbia
+1597,Gasparich,Sarfino,null,null,4th 
+1598,Gasparovich,Anna,null,null,6th
+1599,Gasparovich,Eliz,null,null,6th
+1600,Gasparovich,John,null,null,6th
+1601,Gasper,Frances,null,null,E
+1602,Gasper,John,null,null,B
+1603,Gasper,Mary,null,null,E
+1604,Gasperich,Frank,null,null,3d 
+1606,Gasperich,Peter,null,null,Calumet av
+1608,Gasvoda,Albert,null,null,Oak
+1609,Gasvoda,Thressa,null,null,Oak
+1610,Gata,Peter,null,null,S 6th
+1613,Gauthier,Oliver,null,null,Hecla
+1614,Gazvoda,Agnes,null,null,Oak
+1616,Gazvoda,Jos,null,null,Oak
+1617,Gazvoda,Louis,null,null,Oak
+1618,Gazvoda,Rudolph,null,null,Oak
+1621,Gelmi,Frank,null,null,Dam
+1622,Gemmell,Mark,null,null,Temple
+1623,Genich,John,null,null,County rd
+1624,Genich,Jos,null,null,County rd
+1625,Genich,Louis,null,null,County rd
+1626,Genich,Louis,null,jr,County rd
+1627,Genich,Mary,null,null,County rd
+1628,George,Arth,null,null,Waterworks
+1632,George,Mary,null,null,County rd 
+1633,Gerry,Blanche,null,null,Rockland
+1634,Gerry,John,null,null,Rockland
+1635,Gerry,John,null,jr,Rockland
+1637,Geschel,Angeline,null,null,11th
+1638,Geschel,Anna,null,null,11th
+1639,Geschel,Jos,null,null,11th
+1640,Geschel,Jos,null,jr,ltlh
+1641,Geshel,Albert,null,null,Elm
+1642,Geshel,Albert,null,null,8th
+1644,Geshel,Anton,null,null,8th
+1645,Geshel,Geo,null,null,Maple 
+1646,Geshel,John,L ,null,Elm
+1647,Geshel,Jos,null,null,Elm
+1648,Geschel,Jos,null,jr,11th
+1649,Geshel,Mayme,null,null,Elm
+1650,Geshel,Rudolph,null,null,8th
+1651,Gesoniemi,Eleanor,null,null,2d
+1653,Ghelnar,Zalmer,null,null,Bridge 
+1654,Ghena,Eug,null,null,Rockland
+1655,Gherna,John,B ,null,Osceola rd
+1656,Gherna,Marjorie,T ,null,Osceola rd
+1657,Gherna,Mark,null,null,Wedge
+1658,Gherna,Theresa,null,null,Wedge
+1659,Gherna,Victor,null,null,Temple
+1661,Ghiggia,Dominic,null,null,Columbia
+1662,Ghiggia,John,null,null,Columbia
+1663,Giachino,Dominick,null,null,C
+1664,Giachino,Jas,null,null,C
+1665,Giachino,Jas,null,jr,C
+1666,Giachino,John,null,null,C
+1667,Giachino,Peter,null,null,C
+1670,Giannivi,Lorenzo,null,null,Hecla
+1674,Gibson,Alex,null,null,Union
+1675,Gibson,Beatrice,null,null,Union
+1676,Gibson,Hebert,C ,null,Union
+1677,Gibson,Raymond,H ,null,Union
+1679,Gill,Roda,null,null,Extension
+1680,Gill,Vester,null,null,Extension
+1681,Gill,Wm,null,null,Extension
+1682,Gillet,Frank,null,null,Hecla
+1683,Gillet,K,null,null,Mine
+1684,Gillies,Kenneth,null,null,Laurium
+1685,Gillies,Lincoln,B ,null,Cemetery
+1687,Gillitte,Alex,null,null,Scott
+1688,Gillitte,Blanche,L ,null,Scott
+1689,Gilmore,Mabel,null,null,Maple la
+1690,Giovannini,Anton,null,null,Hecla
+1691,Giovannini,Minnie,null,null,Hecla
+1692,Giovannini,Theresa,null,null,Hecla
+1693,Giovannini,Victor,A ,null,Hecla
+1694,Gipp,Albertina,null,null,Hecla
+1695,Gipp,Fred,A ,null,Laurium
+1697,Gipp,Jacob,null,null,Cemetery
+1698,Gipp,John,null,null,Stable
+1699,Gipp,Margt,null,null,Stable
+1700,Gipp,Marian,null,null,Stable
+1701,Gipp,Raymond,null,null,Stable
+1703,Giroux,Edw,null,null,Temple
+1704,Givogre,Battista,null,null,Rockland
+1705,Givogre,Jas,J ,null,S Rockland
+1708,Glass,Sami,null,null,7th
+1710,Glasson,A,Jas ,null,Elm
+1711,Glasson,Georgina,null,null,Elm
+1712,Glewis,Jack,null,null,Laurium
+1713,Glawaiki,Jos,null,null,B
+1714,Glawaiki,Peter,null,null,B
+1718,Godin,Cecila,null,null,Bridge 
+1720,Golja,Andrew,null,null,Elm
+1722,Gomzey,Jos,null,null,B
+1723,Goninan,Edw,null,null,E Pine
+1727,Goodman,Yalmer,null,null,E Pine
+1728,Goodsole,Alf,null,null,Temple
+1729,Goraczniak,John,null,null,Elm 
+1731,Gorjup,Tony,null,null,Cedar
+1733,Gorshe,John,null,null,5th
+1735,Gorshen,John,null,null,Calumet av
+1736,Goson,Anton,null,null,5th
+1737,Gotta,John,null,null,Temple
+1738,Gotta,Mayme,null,null,Temple
+1739,Gotta,Peter,null,null,Dan
+1741,Goulet,Edw,null,null,Laurium
+1742,Goulet,Mary,T ,null,Laurium
+1743,Goulet,Placide,null,null,Laurium
+1749,Graham,Edw,null,null,8th
+1750,Graham,Gladys,E ,null,Depot
+1752,Grahek,Frank,null,null,Calumet av
+1753,Grahek,Jacob,null,null,Calumet av
+1754,Grahek,Jacob,null,null,Tamarack 
+1755,Grahek,Jacob,null,jr,Calumet av
+1756,Grahek,Jacob,J ,null,Portland
+1758,Grahek,John,null,null,Rockland
+1759,Grahek,Jos,D ,null,B
+1760,Grahek,Jos,null,jr,Union
+1761,Grahek,Kate,null,null,6th 
+1762,Grahek,Matt,null,null,Wedge
+1763,Grahek,Matt,null,null,Oak
+1764,Grahek,Steph,null,null,Wedge
+1765,Grahek,Verna,null,null,Rockland
+1767,Grandis,John,null,null,Laurium
+1768,Grandlaes,Peter,null,null,Dam
+1769,Granroth,Alf,null,null,E Cone
+1770,Granroth,Andrew,null,null,W Acorn
+1771,Granroth,Arth,null,null,W Acorn
+1772,Granroth,Henry,null,null,W Acorn
+1773,Granroth,Herman,null,null,W Acorn
+1776,Grathoff,John,null,null,8th
+1777,Grathwohl,Eliz,A ,null,Pine
+1778,Grathwohl,Ernest,null,null,Pine
+1779,Grathwohl,Florence,null,null,Pine
+1780,Grathwohl,Gordon,null,null,Pine
+1781,Grathwohl,John,G ,null,Pine
+1782,Grathwohl,LaVerne,null,null,Pine
+1783,Grathwohl,Minnie,null,null,Pine
+1784,Gray,Eliz,null,null,Waterworks
+1785,Gray,Flora,null,null,Rockland
+1787,Gray,John,G ,null,Pine
+1790,Greco,Francis,Rev ,null,Portland
+1792,Gregavich,John,null,null,Liberty
+1793,Gregavich,John,null,jr,Liberty
+1794,Gregavich,Rose,null,null,Liberty
+1795,Gregg,Wm,T ,null,Calumet av
+1797,Gregorich,Edw,null,null,8th 
+1798,Gregorich,Frank,null,null,Oak
+1799,Gregorich,Frank,null,jr,Oak
+1800,Gregorich,John,null,null,8th 
+1801,Gregorich,John,null,null,8th
+1802,Gregorich,Jos,null,null,Maple 
+1804,Gremmagi,Benj,null,null,A
+1805,Gremmagi,Rose,null,null,A
+1806,Grenley,Nels,J ,null,4th
+1807,Gresnick,Cresence,null,null,Calumet av
+1808,Gresnick,Nicholas,null,null,Calumet av
+1809,Grgurich,Antonia,null,null,Waterworks
+1811,Grgurich,John,null,null,Waterworks
+1813,Grgurich,Margt,null,null,Waterworks
+1815,Gribble,Chas,null,null,Mine
+1816,Gribble,Francis,null,null,Mine
+1817,Gribble,Helen,null,null,Mine
+1818,Gribble,Jane,null,null,Mine
+1819,Gribble,Robt,W ,null,Mine
+1820,Gricher,Jas,null,null,7th
+1821,Gricher,Jennie,null,null,7th
+1822,Gricher,Lena,null,null,7th
+1824,Grierson,Jas,null,null,Calumet av
+1825,Grierson,Lucy,L ,null,Calumet
+1826,Grierson,Marie,F ,Mrs,Calumet av
+1827,Grierson,Mary,L ,null,Calumet av
+1829,Griffnick,Nicholas,null,null,Tunnel 
+1830,Grigg,Martin,null,null,Rockland
+1831,Grigg,Wm,H ,null,Rockland
+1834,Grindatti,Anthony,null,null,8th
+1835,Grindatti,Cath,null,null,S 6th
+1837,Grindatti,Lucy,null,null,Osceola rd
+1838,Griniatti,Kath,null,null,Dam
+1842,Gronholm,John,null,null,Caledonia
+1844,Gronlund,Gunnard,null,null,11th
+1845,Gronning,Dorothy,null,null,8th 
+1846,Grose,Carl,A ,null,Red Jacket Shaft loc
+1847,Gruber,Edw,S ,null,Pine
+1860,Guldha,Paul,null,null,Laurium
+1861,Gummerus,Emil,null,null,E
+1862,Gurtti,Raymond,null,null,2d
+1863,Gurtti,Sana,null,null,2d
+1866,Guy,Alf,null,null,N Rockland
+1867,Guy,John,null,null,N Rockland
+1868,Guy,LaVeme,null,null,N Rockland
+1870,Haabala,Julia,M ,null,Wolverine 
+1871,Haakola,John,null,null,E
+1876,Haas,Emma,null,null,5th
+1879,Haas,Martin,J ,null,6th R18
+1880,Habeck,Arnold,C ,null,Mine
+1882,Hagen,Johanna,null,null,Boones la
+1883,Hagen,Peter,E ,null,Scott
+1884,Hagen,Ruth,null,null,Boones la
+1885,Haikka,Leo,null,null,E 6th
+1887,Hall,Bessie,null,null,County rd 
+1888,Hall,Edw,null,null,8th
+1891,Hall,John,T ,null,County rd 
+1892,Hall,Mabel,J ,null,County rd 
+1895,Hall,Winifred,null,null,County rd 
+1896,Haller,F,Jos ,null,Calumet av
+1898,Haller,Harry,F ,null,Calumet av
+1899,Haller,Robt,H ,null,Calumet av
+1901,Halley,Marie,null,null,Elm
+1909,Hamina,Leonard,null,null,Log
+1910,Hamm,John,J ,null,Scott
+1911,Hammalamen,Otto,null,null,3d
+1913,Hammer,Chas,T ,null,Oak
+1914,Hammerstom,Emil,null,null,Calumet av
+1915,Hammes,Andrew,null,null,Ash 
+1918,Hammes,Isabelle,null,null,Ash 
+1920,Hammes,Peter,null,null,Hecla
+1921,Hammes,Raymond,null,null,Ash 
+1922,Hancock,Arth,B ,null,Calumet
+1923,Hancock,Eliz,J ,null,Calumet av
+1924,Hancock,Norma,null,null,Calumet av
+1925,Hancock,Ruth,null,null,Calumet av
+1926,Hand,Geo,I ,null,Calumet av
+1927,Hankanen,John,null,null,County rd 
+1930,Hannula,Chas,A ,null,7th
+1931,Hannula,Hilbert,null,null,Fine
+1932,Hannula,Myrtle,A ,null,7th
+1933,Hannula,Ralph,R ,null,7th
+1934,Hanold,Wm,null,null,8th
+1935,Hansen,John,null,null,Caledonia
+1937,Hantke,Herman,null,null,4th
+1938,Hantke,John,null,null,4th
+1939,Hantke,Reino,null,null,4th
+1941,Harkonen,Matt,null,null,County rd
+1942,Harmala,Aino,null,null,Calumet av
+1944,Harper,Ida,null,null,Pine
+1946,Harrington,Cresence,null,null,4th
+1947,Harrington,David,null,null,Cedar
+1948,Harrington,Dennis,null,null,5th
+1950,Harrington,John,null,null,Union
+1951,Harrington,John,null,jr,Union
+1953,Harrington,Kath,null,null,Union
+1955,Harrington,Margt,null,null,Cedar
+1956,Harrington,Margt,null,null,4th
+1958,Harrington,Michl,null,null,Cedar
+1959,Harrington,Stella,null,null,Union
+1960,Harrington,Stella,null,null,Calumet av
+1962,Harris,Albert,W ,null,5th
+1963,Harris,Dorothy,null,null,Red Jacket Shaft loc
+1964,Harris,Erma,null,null,Red Jacket Shaft loc
+1967,Harris,Jos,E ,null,Hecla
+1968,Harris,Jos,F ,null,Hecla
+1970,Harris,Lucy,Mrs ,null,2d 
+1971,Harris,Russell,D ,null,5th
+1972,Harris,Sami,null,null,Hecla
+1973,Harris,Thos,null,null,Temple
+1974,Harris,Wm,null,null,2d 
+1975,Harris,Wm,null,null,Rockland
+1978,Harris,Zelda,null,null,Red Jacket loc
+1979,Harrison,Gust,null,null,Laurium
+1980,Harrison,Hodges,null,null,Rockland
+1981,Harrison,Robt,null,null,Rockland
+1983,Harter,Florence,null,null,8th
+1984,Harter,Frank,null,null,8th
+1985,Harter,Henry,A ,null,7th
+1991,Harvey,Edith,null,null,Rockland
+1992,Harvey,Gertrude,null,null,Rockland
+1993,Harvey,Howard,A ,null,5th
+1994,Harvey,Richd,null,null,Rockland
+1996,Harvey,Wm,J ,null,Rockland
+1997,Harvey,Wm,J ,jr,Rockland
+1998,Hassel,Chas,null,null,Red Jacket Shaft loc
+1999,Hatje,Wm,null,null,Rockland
+2000,Hauck,Loretta,null,null,1st 
+2001,Hautala,Henry,null,null,Union
+2002,Hautarrita,Andrew,null,null,5th 
+2003,Hautarrita,Andrew,H ,null,5th 
+2004,Hautavitta,Sami,null,null,1st 
+2006,Haynes,Jessie,Mrs ,null,Oak
+2008,Hebbard,Josiah,R ,jr,7th
+2011,Hedda,Walter,null,null,3d
+2014,Heikka,John,null,null,2d 
+2016,Heikka,Oscar,C ,null,2d 
+2017,Heikkala,Mary,null,null,2d 
+2018,Heikkanen,Edw,null,null,County rd
+2020,Heikkila,Edw,null,null,2d 
+2021,Heikkila,Edna,null,null,D
+2022,Heikkila,Matt,null,null,D
+2023,Heikkila,Roy,null,null,D
+2024,Heikkila,Stella,null,null,D
+2031,Heikkinen,Otto,null,null,Middle
+2038,Heliste,Chas,null,null,Ridge 
+2039,Heliste,Evert,null,null,Ridge 
+2040,Heliste,Wesley,null,null,Ridge 
+2041,Heliste,Wilbert,null,null,Ridge 
+2043,Hella,Ralph,null,null,1st 
+2044,Hella,Wilho,null,null,Ridge 
+2046,Hellmund,P,K ,null,Oak
+2047,Hellner,Anton,null,null,Lake Linden av
+2048,Hellner,Rudolph,J ,null,Lake Linden av
+2050,Henderson,Adolph,null,null,Stable
+2057,Hendrickson,Arnold,null,null,10th
+2059,Hendrickson,Esther,null,null,10th
+2060,Hendrickson,Everet,null,null,10th
+2061,Hendrickson,Henry,null,null,Caledonia
+2062,Hendrickson,J,Peter ,null,Laurium
+2063,Hendrickson,Jacob,R ,null,10th
+2064,Hendrickson,Mary,null,null,Caledonia
+2065,Hendrickson,Mary,null,null,Mine
+2066,Hendrickson,Otto,null,null,E 6th
+2067,Hendrickson,Ruth,null,null,10th
+2069,Hendrickson,Wilfred,M ,null,Mine
+2072,Hendricksson,Karl,null,null,Hecla
+2074,Hensley,Carl,null,null,Mine
+2075,Hensley,Geo,null,null,Mine
+2076,Hensley,John,null,null,Mine
+2077,Hensley,Ursula,null,null,Mine
+2081,Herborg,Carl,null,null,Woodland av 
+2082,Herkkila,John,null,null,2d 
+2083,Herkkila,Wesley,null,null,2d 
+2084,Herkkila,Wilho,null,null,2d 
+2085,Herlick,John,null,null,1st 
+2088,Herman,Marabell,null,null,5th
+2095,Herrniemi,Michl,null,null,D
+2096,Herrniemi,Wm,Carp ,null,D
+2097,Herstrom,Arth,null,null,Calumet av
+2098,Herstrom,Hannah,null,null,Cedar
+2099,Hettula,Chas,G ,null,Pine
+2102,Hicks,John,null,null,Florida 
+2103,Hicks,Wm,H ,null,Log
+2104,Hiekkuri,Emil,null,null,Pine
+2105,Hiella,Mary,null,null,3d 
+2106,Hiella,Richd,null,null,3d 
+2107,Hietala,Fannie,null,null,Waterworks
+2108,Hietala,Irene,I ,null,Waterworks
+2109,Hietala,John,P ,null,Waterworks
+2110,Hietala,Julia,E ,null,Waterworks
+2111,Hietala,Walter,null,null,Waterworks
+2112,Hietalahti,Amelia,null,null,Pine
+2113,Hietanen,Anna,null,null,3d 
+2114,Hietanen,Selma,null,null,3d 
+2115,Hietanen,Wm,null,null,3d 
+2117,Hilden,Arth,null,null,Rockland
+2118,Hilden,Elma,B ,null,Rockland
+2124,Hill,Toivo,null,null,Log
+2125,Hill,Wm,G ,null,5th
+2127,Hinonen,Eliz,null,null,C
+2131,Hitula,Gustaf,null,null,Pine
+2138,Hocking,Emily,null,null,Liberty
+2139,Hocking,Gordon,null,null,Liberty
+2140,Hocking,J,J ,null,Red Jacket Shaft loc
+2141,Hocking,W,H ,null,5th
+2142,Hodge,Wilbert,null,null,Lake Linden
+2143,Hodges,Bertha,null,null,Hecla
+2144,Hodges,Eliz,null,null,Hecla
+2145,Hodges,Lottie,null,null,Hecla
+2146,Hodges,Olive,null,null,Hecla
+2147,Hodges,Ruth,null,null,Hecla
+2150,Hoffenberg,Bernard,J ,null,7th
+2151,Hoffenberg,Harold,H ,null,7th
+2152,Hoffenberg,Miriam,R ,null,7th
+2153,Hoffenberg,Nathan,null,null,7th
+2154,Hoffman,John,B ,null,6th
+2157,Hoffman,Matt,null,null,Caledonia
+2159,Hogan,M,Claire ,null,6th
+2160,Hogan,Martin,J ,null,6th
+2162,Hoganson,Harold,null,null,Bridge 
+2163,Hoganson,Leif,null,null,C
+2164,Hoganson,Matilda,null,null,9th
+2165,Hoganson,Ole,null,null,Rockland
+2166,Hohl,Anna,J ,null,School
+2167,Hohl,C,D ,null,School
+2168,Hohl,Wm,null,null,School
+2169,Hohner,Anne,null,null,Depot
+2172,Holland,John,null,null,C
+2174,Holland,Wm,null,null,Hecla
+2180,Holonbo,Geo,E ,null,Pine
+2181,Holonbo,Tilli,null,null,Pine
+2182,Holstead,Olaf,null,null,County rd 
+2183,Homick,Jos,null,null,Lake Linden av
+2185,Honka,Peter,J ,null,4th
+2187,Honkanen,John,null,null,3d
+2193,Hoog,Edna,null,null,N Rockland
+2195,Hook,Harold,O ,null,Union
+2196,Hook,Hilma,J ,null,Union
+2197,Hook,Oscar,null,null,Union
+2198,Hook,Theo,A ,null,Union
+2199,Hookana,John,null,null,Oak
+2200,Hoover,Geo,E ,null,Mine
+2201,Hore,Geo,null,null,Calumet av
+2202,Hore,Geo,null,jr,Calumet av
+2205,Hosken,John,null,null,Osceola rd
+2206,Hosken,Margt,null,null,Osceola rd
+2207,Hosken,Pascoe,null,null,Osceola rd
+2208,Hosken,Pascoe,null,jr,Osceola rd
+2209,Hosken,Phyliss,null,null,Osceola rd
+2210,Hosking,Eliz,Mrs ,null,6th
+2211,Hosking,Harry,T ,null,Oak
+2212,Hosking,Myrtle,null,null,Caledonia
+2216,Hould,Jos,E ,null,Pine
+2217,Hould,Valerie,Mrs ,null,Pine
+2218,Hovinen,Gayhart,null,null,5th
+2220,Hrebec,Anna,null,null,6th
+2221,Hrebec,Peter,null,null,C
+2222,Hrovatich,John,null,null,Calumet av
+2223,Hrovatich,Jos,null,null,Calumet av
+2224,Hrovatich,Jos,null,jr,Calumet av
+2225,Hrovatich,Mary,null,null,Calumet av
+2226,Hrovatich,Ursula,null,null,Calumet av
+2227,Hruska,Earl,null,null,8th
+2229,Huard,Mose,null,null,Rockland
+2230,Huddy,Jas,null,null,Caledonia
+2231,Huddy,Jas,null,jr,Caledonia
+2232,Hughes,Cassius,null,null,8th
+2234,Huhta,Earl,null,null,1st 
+2237,Huhta,John,null,null,1st 
+2238,Huhta,Leslie,null,null,8th
+2239,Huhta,Norman,null,null,1st 
+2240,Huhta,Phyllis,null,null,1st 
+2242,Huhta,Yalmer,null,null,E Pine
+2243,Hulfred,Wm,null,null,Waterworks
+2248,Huot,Jos,null,null,Cedar
+2250,Hustvedt,Clifford,J ,null,Elm
+2251,Hustvedt,Ingvald,null,null,Elm
+2252,Hustvedt,Raymond,J ,null,Elm
+2253,Hutala,John,null,null,E Pine
+2254,Hutala,Waino,null,null,E Pine
+2255,Hyde,Robt,W ,null,Osceola 
+2257,Hyrkas,John,null,null,Union
+2258,Hyrkas,Mabel,null,null,Union
+2259,Hyrkas,Wesley,null,null,Union
+2262,Iavelli,Anton,null,null,Caledonia
+2263,Iavelli,John,null,null,Caledonia
+2264,Iavelli,Marion,null,null,Caledonia
+2265,Iavelli,Mary,null,null,Caledonia
+2266,Ilenich,John,null,null,11th
+2270,Imperati,Geno,null,null,D
+2271,Imperati,Pasquale,null,null,D
+2272,Impola,Wm,null,null,Osceola rd
+2273,Inch,Lillian,null,null,Calumet av
+2274,Ingerbrightsen,Edw,null,null,Hecla
+2276,Ingerson,Henry,null,null,Calumet av
+2277,Ingram,Mayme,K ,null,8th
+2281,Isaacson,Eliz,null,null,6th
+2282,Isaacson,Florence,null,null,Cedar
+2283,Isaacson,Wilbert,null,null,Cedar
+2284,Isaacson,Wm,null,null,6th
+2285,Isacson,Harold,null,null,Pine
+2286,Isola,Aleda,null,null,Tunnel 
+2287,Isola,Henry,null,null,Calumet av
+2288,Isola,John,E ,null,Tunnel 
+2289,Isola,Martha,null,null,Calumet av
+2290,Isola,Mary,null,null,Tunnel 
+2291,Isola,Raymond,null,null,Calumet av
+2292,Isola,Rosalund,null,null,Calumet av
+2293,Isola,Wendell,null,null,Tunnel 
+2294,Isola,Wm,null,null,Tunnel 
+2295,Ivanich,Agnes,null,null,B
+2299,Jacka,Bertha,null,null,Portland
+2300,Jacka,Bertha,M ,null,Portland
+2302,Jacka,Theo,M ,null,Portland
+2303,Jackman,Ellsworth,null,null,1st 
+2304,Jackman,John,null,null,1st 
+2311,Jacobson,Adolph,null,null,Cambria
+2312,Jacobson,Allen,null,null,Cambria
+2313,Jacobson,Andrew,null,null,Cambria
+2315,Jacobson,Erhart,null,null,Cambria
+2316,Jacobson,Evert,null,null,Ridge 
+2317,Jacobson,Kaisa,Mrs ,null,Tunnell 
+2318,Jacobson,Mabel,null,null,Cambria
+2321,Jaeknig,I,null,null,Mine
+2323,Jaksha,John,null,null,B
+2326,James,Ella,M ,null,6th
+2330,James,Wm,H ,null,6th
+2333,Jarvala,Chas,null,null,4th 
+2339,Jarvey,John,null,null,N Rockland
+2340,Jarvi,Arvid,null,null,6th
+2341,Jarvi,Eliz,null,null,E
+2342,Jarvi,John,null,null,Calumet av
+2345,Jaskoviak,John,null,null,Amygdaloid 
+2347,Jefferson,Harry,E ,null,School
+2348,Jefferson,Louise,M ,null,School
+2349,Jefferson,Robt,E ,null,School
+2350,Jeffery,Eunice,M ,null,Elm
+2351,Jeffery,Wni,W ,null,Elm
+2355,Jenkins,Kate,null,null,Kearsage 
+2357,Jensen,Jens,null,null,Caledonia
+2358,Jerele,Chas,null,null,2d
+2359,Jerman,Albert,null,null,E Cone
+2360,Jerman,John,null,null,E Cone
+2361,Jerman,John,null,jr,E Cone
+2362,Jervais,Ernestine,M ,null,Boundary
+2363,Jervais,Wm,null,null,Boundary
+2364,Jess,Agnes,null,null,Calumet av
+2365,Jess,Sami,null,null,Calumet av
+2367,Jetta,Andrew,null,null,11th
+2368,Jetta,Mildred,L ,null,11th
+2369,Jetta,Walfred,null,null,11th
+2371,Jewett,Clarence,null,null,Calumet av
+2372,Jewett,Rhea,Mrs ,null,Calumet av
+2373,Jilbirt,Ray,null,null,Rockland
+2375,Johndica,John,H ,null,6th
+2378,Johnson,Albert,null,null,Beech 
+2379,Johnson,Arth,C ,null,Elm 
+2380,Johnson,Alida,null,null,6th
+2383,Johnson,Bertha,null,null,N Rockland
+2385,Johnson,C,Alphie ,null,Amygdaloid 
+2386,Johnson,Carl,null,null,School
+2387,Johnson,Carl,A ,null,Rockland
+2388,Johnson,Carl,F ,null,6th
+2389,Johnson,Carl,G ,null,Rockland
+2390,Johnson,Carl,H ,null,2d 
+2391,Johnson,Carl,N ,null,School
+2392,Johnson,Caroline,null,null,Mine
+2395,Johnson,Chas,P ,null,2d 
+2396,Johnson,Christina,null,null,D
+2397,Johnson,Clara,null,null,Boundary
+2398,Johnson,Earl,null,null,Portland
+2400,Johnson,Edith,V ,null,10th
+2401,Johnson,Edw,I ,null,Pine
+2402,Johnson,Edwin,null,null,Rockland
+2403,Johnson,Einer,null,null,2d 
+2404,Johnson,Eli,null,null,Hecla
+2405,Johnson,Elmer,L ,null,Jefferson 
+2406,Johnson,Emil,null,null,Caledonia
+2407,Johnson,Erick,null,null,Pine
+2408,Johnson,Evert,null,null,County rd
+2410,Johnson,Frank,H ,null,E
+2411,Johnson,Frank,J ,null,Portland
+2412,Johnson,Geo,null,null,Waterworks
+2414,Johnson,Gideon,F ,null,6th
+2415,Johnson,Gladys,null,null,Caledonia
+2416,Johnson,Gladys,M ,null,Calumet av
+2418,Johnson,Harvey,null,null,Pine
+2420,Johnson,Helen,null,null,Beech 
+2421,Johnson,Henry,null,null,Rockland
+2422,Johnson,Henry,J ,null,Boundary
+2424,Johnson,Hilma,null,null,Tunnel
+2425,Johnson,Hjaimer,null,null,Elm 
+2426,Johnson,Ida,null,null,D
+2427,Johnson,Ingeborg,null,null,Boundary
+2429,Johnson,Jacob,null,null,Caledonia
+2430,Johnson,Jas,null,null,Caledonia
+2431,Johnson,Jennie,null,null,Elm
+2432,Johnson,Jens,null,null,Cambria
+2435,Johnson,John,P ,null,Elm
+2437,Johnson,Karen,null,null,6th
+2438,Johnson,Kermit,null,null,Portland
+2439,Johnson,Leander,null,null,N Rockland
+2440,Johnson,Margt,L ,null,Rockland
+2441,Johnson,Marie,J ,null,Calumet av
+2442,Johnson,Marion,null,null,N Rockland
+2443,Johnson,Marvin,null,null,Beech 
+2446,Johnson,Mildred,null,null,Portland
+2447,Johnson,Mingus,null,null,Caledonia
+2448,Johnson,Norbert,null,null,Elm 
+2450,Johnson,Olaf,Mrs ,null,Calumet av
+2454,Johnson,Ragna,null,null,Caledonia
+2456,Johnson,Raymond,null,null,Cambria
+2457,Johnson,Roy,C ,null,Rockland
+2458,Johnson,Roy,F ,null,Rockland
+2461,Johnson,Victor,null,null,10th
+2462,Johnson,Walter,null,null,Caledonia
+2463,Johnson,Wilbert,null,null,Beech 
+2464,Johnson,Wilbert,J ,null,Tunnel
+2466,Johnson,Wm,null,null,11th
+2468,Johnson,Wm,E ,null,Pine
+2470,Johnston,Orlif,F ,null,Red Jacket Shaft loc
+2471,Joki,Erick,null,null,D
+2472,Joki,Waino,null,null,D
+2473,Jokipii,John,null,null,Portland
+2474,Jolma,Edw,W ,null,Calumet av
+2478,Jonas,Jens,null,null,Calumet av
+2482,Jones,Homer,null,null,Boundary
+2483,Jones,John,null,null,Rockland
+2484,Jones,Laura,null,null,Rockland
+2486,Jones,Mary,null,null,Rockland
+2488,Jones,Walter,null,null,6th
+2489,Jones,Wm,null,null,Laurium
+2490,Jones,Wm,null,jr,Laurium
+2492,Jones,Wm,D ,null,Calumet av
+2493,Jones,Wm,H ,null,6th
+2494,Jorgenson,C,null,null,8th  
+2495,Jorgenson,Christ,null,null,W Cone
+2496,Jorgenson,Geo,null,null,Mine
+2497,Jorgenson,Helen,null,null,Mine
+2498,Jory,Annie,null,null,Depot
+2499,Jory,Geo,null,null,Depot
+2502,Jory,Richd,null,null,Boundary
+2504,Josey,John,C ,null,Rockland
+2505,Josey,L,Grace ,null,Rockland
+2511,Jucka,Ethel,null,null,8th
+2512,Judnich,Agatha,null,null,County rd
+2513,Judnich,Francis,null,null,County rd
+2514,Judnich,Frank,null,null,County rd
+2515,Judnich,Frank,null,null,County rd
+2516,Judnich,Girardin,null,null,Cemetery
+2517,Judnich,John,null,null,Cemetery
+2518,Judnich,John,null,null,County rd
+2519,Judnich,Marie,null,null,County rd
+2522,Julio,Anton,null,null,Laurium
+2524,Julio,Margt,P ,null,Laurium
+2527,Juntilla,Gust,null,null,Middle
+2528,Juntula,Benj,null,null,Liberty
+2529,Juntunen,Edw,null,null,County rd
+2530,Juntunen,Eliz,null,null,Caledonia
+2531,Juntunen,Elmer,null,null,Caledonia
+2532,Juopari,Thos,null,null,3d 
+2533,Juoppari,Henry,null,null,A
+2534,Juoppeii,John,null,null,3d
+2535,Juoppeii,Susan,null,null,3d
+2539,Jurmo,Arth,null,null,Columbia
+2541,Jurmo,Herman,null,null,Columbia
+2542,Jurmo,Lydia,null,null,Columbia
+2543,Jurmo,Walter,null,null,Columbia
+2544,Jurmo,Wm,null,null,Columbia
+2546,Jurva,Eleanor,null,null,Liberty
+2547,Jurva,Ernest,null,null,Liberty
+2548,Jurva,Walter,null,null,Liberty
+2550,Jutunen,Elmer,null,null,Mine
+2551,Jutunen,Mary,Mrs ,null,Mine
+2554,Kadjan,Helen,null,null,Union
+2555,Kadjan,John,null,null,Union
+2556,Kadjan,Jos,null,null,Union
+2557,Kadjan,Michl,null,null,Union
+2562,Kaifesh,Frank,null,null,4th 
+2563,Kaifesh,John,null,null,4th 
+2564,Kaifesh,Kuzma,null,null,4th 
+2565,Kaifesh,Lawrence,null,null,8th
+2567,Kaiser,Jacob,D ,null,8th
+2570,Kakela,Don,null,null,Amygdaloid 
+2571,Kakela,Erick,null,null,Amygdaloid 
+2572,Kalari,Arth,null,null,County rd
+2573,Kalari,John,null,null,County rd
+2574,Kaliang,Paul,null,null,Middle
+2575,Kallio,Arnold,null,null,Bridge 
+2576,Kallio,Edwin,null,null,Osceola rd
+2577,Kallio,Emil,null,null,Osceola rd
+2579,Kallio,Jacob,null,null,Pine h do
+2580,Kallio,John,null,null,Bridge 
+2581,Kallio,Mary,Mrs ,null,Bridge 
+2582,Kallio,Oscar,null,null,Osceola rd
+2583,Kallio,Wm,null,null,Ridge 
+2584,Kallunki,Peter,null,null,W Acorn
+2585,Kalmring,Paul,null,null,Laurium
+2586,Kamarainen,Henry,null,null,Union
+2590,Kananen,Aino,null,null,Calumet av
+2591,Kananen,Arnold,null,null,Union
+2592,Kananen,Chas,H ,null,11th
+2593,Kananen,Elsie,null,null,11th
+2594,Kananen,John,W ,null,11th
+2595,Kananen,John,W ,jr,11th
+2596,Kananen,Matt,null,null,Union
+2597,Kananen,Otto,null,null,Calumet av
+2598,Kananen,Wilbert,null,null,Union
+2599,Kandelin,Wm,O ,null,Calumet av
+2601,Kangas,John,E ,null,5th
+2602,Kangas,John,J ,null,5th
+2605,Kangas,Wm,null,null,5th
+2607,Kannunen,Chas,null,null,Elm
+2608,Kannunen,Edwin,null,null,Elm
+2609,Kannunen,Wilbur,null,null,Elm
+2611,Kapsh,Jacob,null,null,Oak 
+2612,Karajacich,Angeline,null,null,Log
+2613,Karajacich,John,null,null,Log
+2614,Karajacich,Rose,M ,null,Log
+2615,Karajacich,Rudolph,null,null,Log
+2616,Kargela,Abiel,null,null,Ridge 
+2617,Kargela,Alf,null,null,Hecla
+2619,Kargela,Hjalmer,null,null,Tunnell 
+2620,Kargela,Jacob,null,null,Ridge 
+2621,Kargela,Mathew,null,null,Oak
+2622,Kargela,Wm,J ,null,Ridge 
+2623,Karhu,Irma,null,null,Tamarack Jr loc
+2624,Karhu,Lorman,null,null,Tamarack Jr loc
+2625,Karhu,Peter,null,null,Tamarack Jr loc
+2626,Kari,Wm,null,null,7th
+2627,Karinen,Ethelyn,T ,Mrs,11th
+2630,Karinen,Robt,null,null,11th
+2631,Karinen,Sami,null,null,11th
+2632,Karissko,Arvid,null,null,Tunnel 
+2633,Karissko,Sophie,null,null,Tunnel
+2634,Karjala,John,null,null,1st 
+2635,Karki,Henry,null,null,Waterworks
+2636,Kama,Arne,null,null,Middle
+2637,Kama,Jacob,null,null,Middle
+2638,Kama,Uno,null,null,Middle
+2639,Karpala,Matt,null,null,2d 
+2640,Karpenen,John,null,null,1st 
+2641,Karpinen,Einard,null,null,W Cone
+2643,Karpinen,Henry,null,null,W Cone
+2644,Karpinen,Isaac,null,null,W Cone
+2645,Karpinen,Martha,null,null,W Cone
+2646,Karpinen,Wm,null,null,10th
+2648,Karrvola,Ervin,A ,null,2d 
+2660,Kastelic,Fredk,null,null,County rd
+2661,Kastelic,John,null,jr,Laurium
+2662,Kastelic,John,J ,null,County rd
+2663,Kastelic,John,J ,jr,County rd
+2664,Kastelic,Kath,Mrs ,null,Laurium
+2667,Kaupinen,Wm,null,null,W Acorn
+2669,Kaurala,Albert,null,null,Columbia
+2671,Kauth,Bertha,null,null,Rockland
+2674,Kauth,Mathew,null,null,Rockland
+2677,Kease,Harriet,null,null,Calumet av
+2678,Keckonen,Carl,null,null,5th
+2682,Keckonen,Paul,null,null,5th
+2683,Keckonen,Raymond,A ,null,Oak
+2684,Keimunki,Eino,null,null,1st 
+2685,Keimunki,Henry,null,null,1st 
+2688,Kellokoski,Anna,null,null,Cedar
+2689,Kellokoski,Dawey,null,null,Cedar
+2690,Kellokoski,Marie,null,null,Cedar
+2692,Kelly,Clarence,J ,null,Caledonia
+2693,Kelly,Danl,J ,null,E Pine
+2694,Kelly,Helen,null,null,Caledonia
+2695,Kelly,John,null,null,Pine
+2697,Kelly,Leo,D ,null,Caledonia
+2698,Kelly,Mayme,null,null,Caledonia
+2699,Kelly,Michl,null,null,Rockland
+2700,Kelly,Neil,null,null,E Pine
+2701,Kelly,Sami,null,null,Pine
+2702,Kelthse,Michl,null,null,Scott
+2704,Kemp,Cath,V ,null,6th
+2706,Kemp,Dorothy,E ,null,6th
+2708,Kemp,Jos,null,null,6th
+2710,Kempinen,John,null,null,3d 
+2712,Kendall,Norman,null,null,Laurium
+2713,Kentala,Jonas,null,null,2d 
+2714,Kentala,Wiljo,null,null,2d 
+2715,Keough,Mayme,null,null,6th
+2717,Kernich,Henry,Mrs ,null,W Cone
+2718,Kerr,Alex,null,null,Rockland
+2724,Kestner,Frank,null,null,A
+2729,Kiger,Dale,null,null,Calumet av
+2730,Kiger,Dolph,C ,null,Calumet av
+2731,Kiilunen,John,null,null,D
+2734,Kilpela,Walter,M ,null,Pine
+2738,Kimball,Clyde,null,null,Tamarack
+2739,Kimball,Edw,null,null,Red Jacket Shaft loc
+2742,King,Jas,A ,null,Mine
+2744,Kingston,Harold,null,null,Cemetery
+2745,Kingston,Wm,null,null,Cemtery
+2748,Kinnonen,Letta,null,null,County rd 
+2749,Kinnonen,Wesley,null,null,County rd 
+2750,Kinnunen,John,null,null,Elm
+2751,Kinnunen,Unno,null,null,3d
+2753,Kinonen,Albert,null,null,Chestnut 
+2754,Kinonen,Arth,null,null,Chestnut 
+2755,Kinonen,Henry,null,null,Chestnut 
+2756,Kinonen,Wilbert,null,null,Chestnut 
+2757,Kinsman,Dellia,null,null,10A 8th
+2762,Kirton,J,R ,null,Calumet av
+2764,Kitti,Alf,null,null,Oak
+2765,Kitti,Florence,null,null,Oak
+2768,Kitti,Jacob,null,null,Cedar
+2769,Kitti,John,E ,null,E Cone
+2770,Kitti,Norman,null,null,E Cone
+2771,Kitti,Reuben,null,null,E Cone
+2772,Kitti,Robert,null,null,E Cone
+2773,Kitti,Robt,null,null,Oak
+2774,Kitti,Roy,null,null,E Cone
+2775,Kivela,Abram,H ,null,Oak
+2776,Kivela,Esa,null,null,11th
+2777,Kivela,Helen,null,null,Oak
+2778,Kivela,John,null,null,Waterworks
+2780,Kivela,Warner,W ,null,7th
+2781,Kivi,John,null,null,Caledonia
+2784,Kjelgren,Chas,null,null,E Pine
+2785,Kjelgren,Stella,null,null,E Pine
+2788,Klarich,Anton,null,null,Red Jacket Shaft loc
+2789,Klarich,Eva,null,null,Oak 
+2790,Klarich,Frank,null,null,Oak 
+2791,Klarich,John,null,null,Red Jacket Shaft loc
+2792,Klarich,Jos,null,null,Red Jacket Shaft loc
+2793,Klarich,Jos,null,jr,Red Jacket Shaft loc
+2794,Klarich,Michl,null,null,Red Jacket Shaft loc
+2795,Kleinhaus,John,null,null,Caledonia
+2796,Klenoweceki,Edw,null,null,8th
+2797,Klenoweceki,Julia,null,null,8th
+2798,Kleven,Andrew,null,null,Boundary
+2799,Kline,John,J ,null,7th
+2801,Klinkert,Dorothy,F ,null,Boundary
+2802,Klinkert,Frank,null,null,Caledonia
+2803,Klinkert,Lucille,J ,null,Boundary
+2804,Klinkert,Teresa,Mrs ,null,Boundary
+2806,Klobuchar,Frank,null,null,Portland
+2807,Kiobuchar,Frank,null,jr,Portland
+2808,Klobuchar,Fred,J ,null,8th
+2812,Klobucher,Anna,null,null,Elm
+2813,Klobucher,Frank,null,null,Elm
+2814,Klobucher,John,null,null,Elm
+2815,Klobucher,John,G ,null,Elm
+2816,Klobucher,Jos,null,null,Rockland
+2817,Klobucher,Mary,null,null,Elm
+2818,Klobucohar,John,null,null,Chestnut 
+2819,Klobucohar,Michl,null,null,Chestnut 
+2821,Klovucher,Dorothy,null,null,C
+2822,Klovucher,Frank,null,null,C
+2823,Klovucher,Louis,null,null,C
+2824,Kllovucher,Mary,null,null,C
+2825,Klovucher,Matt,null,null,C
+2827,Kmieziak,Jos,null,null,Calumet av
+2829,Kneebone,Richd,T ,null,Scott
+2833,Kob,Matt,null,null,8th
+2834,Kobe,Cath,null,null,W Acorn
+2835,Kobe,John,null,null,2d 
+2836,Kobe,John,null,jr,2d 
+2837,Kobe,Jos,K ,null,7th
+2838,Kobe,Jos,K ,jr,7th
+2839,Kobe,Mary,null,null,2d 
+2840,Koch,Albert,M ,null,Rockland
+2841,Koch,Malvine,null,null,Rockland
+2842,Koch,Wm,null,null,Rockland
+2843,Kocjan,Jacob,null,null,Red Jacket Shaft loc
+2844,Kocjan,Jennie,null,null,Red Jacket Shaft loc
+2845,Kocjan,John,null,null,4th 
+2846,Kocjan,John,null,null,W Cone
+2847,Kocjan,John,null,null,Red Jacket Shaft loc
+2848,Kocjan,Jos,null,null,W Cone
+2849,Kocjan,Kath,null,null,Red Jacket Shaft loc
+2850,Kocjan,Rose,null,null,Portland
+2851,Kocjan,Rose,null,null,Red Jacket Shaft loc
+2852,Kocjan,Steph,J ,null,W Cone
+2853,Koehler,Aloys,null,null,Middle
+2856,Kohlhaas,Matilda,V ,null,6th
+2857,Kohlhaas,Tillie,null,null,Oak
+2861,Koivisto,Anton,null,null,Waterworks
+2862,Koivu,Chas,null,null,Laurium
+2863,Koivuniemi,John,null,null,Cedar
+2864,Koivuniemi,Rueben,null,null,Cedar
+2865,Koivuniemi,Uno,null,null,Cedar
+2866,Kojan,Jos,null,null,Tamarack
+2867,Kolb,John,null,null,Cemetery
+2868,Kolb,Wm,null,null,Cemetery
+2869,Kolbezen,Ani,null,null,C
+2870,Kolbezen,Frank,null,null,C
+2871,Kolder,John,null,null,Middle
+2872,Koljonen,Matt,null,null,1st 
+2875,Koory,Albert,null,null,2d 
+2876,Kopi,Fred,W ,null,3d
+2877,Kopous,Chas,null,null,Liberty
+2878,Kopp,Lawrence,null,null,Rockland
+2879,Kopp,Vernetta,null,null,Rockland
+2880,Kops,Mary,null,null,Oak
+2883,Korbe,Arvid,null,null,Caledonia
+2884,Korby,Henry,null,null,Caledonia
+2887,Korhonen,Esther,null,null,8th
+2888,Korhonen,John,R ,null,N Rockland
+2890,Korri,Waino,null,null,E Pine
+2893,Kortama,Andrew,null,null,E
+2894,Kortama,Arnold,null,null,E
+2895,Kortela,Arvid,null,null,Union
+2896,Kortela,Helen,null,null,Union
+2897,Kortema,Eino,null,null,E
+2902,Koskela,Kath,null,null,2d 
+2903,Koskela,Sylvia,K ,null,Lake Linden SLV
+2904,Koski,Abel,null,null,E
+2905,Koski,Ainlo,null,null,5th
+2906,Koski,Amelia,Mrs ,null,5th
+2907,Koski,Arth,null,null,Oak
+2908,Koski,Aug,null,null,E Acorn
+2911,Koski,Geo,null,null,Cambria
+2912,Koski,Herman,null,null,County rd
+2913,Koski,Martha,S ,null,Cambria
+2914,Koski,Mary,null,null,Temple
+2915,Koski,Matt,null,null,Cambria
+2916,Koski,Thos,null,null,Oak
+2917,Koski,Uitti,null,null,Tunnell 
+2918,Koski,Waino,null,null,Oak
+2919,Koski,Wesley,null,null,Oak
+2920,Kosovac,John,null,null,Elm 
+2921,Kosovac,Mike,null,null,Elm 
+2922,Kosovac,Nick,null,null,Elm 
+2924,Kostama,Olaf,null,null,E
+2925,Kostelic,Jos,null,null,11th
+2926,Kostelic,Matt,null,null,11th
+2927,Kostelic,Rudolph,null,null,11th
+2928,Kostoff,Michl,null,null,7th
+2932,Kotila,Aug,null,null,Maple 
+2933,Kotila,Henry,null,null,Maple 
+2934,Kovachich,Frank,null,null,Calumet av
+2935,Kovachich,John,J ,null,E
+2937,Koviach,Walter,null,null,Ridge 
+2938,Koviack,Francis,null,null,Osceola rd
+2939,Koviack,Frank,J ,null,Osceola rd
+2940,Kowacic,Amelia,null,null,Calumet av
+2941,Kowacic,Anthony,null,null,Calumet av
+2942,Kowacic,Jos,null,null,Calumet av
+2943,Kowacic,Teresa,null,null,Calumet
+2945,Koykka,Chas,null,null,3d
+2946,Kraft,Olaf,null,null,Waterworks
+2954,Kranjc,Frank,null,null,B
+2955,Krans,Anna,S ,null,Portland
+2956,Krans,Elis,null,null,Portland
+2957,Krans,Enis,null,null,Portland
+2958,Krans,Gladys,null,null,Portland
+2960,Kratt,Elias,null,null,Cemtery
+2963,Kreus,Jos,null,null,11th
+2964,Kreus,Jos,null,jr,11th
+2965,Kreus,Rudolph,null,null,11th
+2967,Krigsholm,Edw,null,null,10th
+2968,Krigsholm,Kate,null,null,10th
+2969,Krigsholm,Laura,K ,null,10th
+2970,Krigsholm,Olaf,null,null,10th
+2971,Krizmanich,Frank,A ,null,Columbia
+2972,Krizmanich,John,null,null,Columbia
+2973,Krizmanich,John,null,null,Coulmbia
+2974,Krizmanich,Rose,null,null,Columbia
+2975,Krog,J,W ,null,Elm
+2976,Kroll,Anna,null,null,Caledonia
+2977,Kroll,John,null,null,Caledonia
+2978,Kroll,John,null,jr,Caledonia
+2979,Kroll,Matt,null,null,Caledonia
+2981,Kuenzel,Chas,null,null,Rockland
+2982,Kuha,Lars,null,null,Ridge 
+2983,Kuha,Wm,P ,null,Ridge 
+2985,Kuittu,Anna,null,null,Cambria
+2986,Kuittu,Henry,null,null,Cambria
+2987,Kuittu,Henry,null,jr,Cambria
+2988,Kuittu,Malvin,null,null,Cambria
+2989,Kuittu,Viola,null,null,Cambria
+2990,Kuittu,Wm,A ,null,Cambria
+2991,Kujala,Eino,null,null,Union
+2992,Kujala,Everet,null,null,Union
+2993,Kujala,Lillian,null,null,Red Jacket Shaft loc
+2994,Kujala,Matt,null,null,Union
+2995,Kujanen,Onnie,null,null,Waterworks
+2998,Kumbu,Arne,null,null,Elm
+2999,Kumbu,Edwin,null,null,Elm
+3000,Kumbula,Annie,null,null,Tunnel 
+3001,Kumbula,Lawrence,M ,null,Scott
+3002,Kumbula,Margt,null,null,Scott
+3003,Kumbula,Muriel,null,null,Scott
+3004,Kumbula,Peter,A ,null,Scott
+3005,Kump,Alf,null,null,Red Jacket Shaft loc
+3006,Kump,Anna,null,null,Red Jacket Shaft loc
+3007,Kump,Frank,null,null,Red Jacket Shaft loc
+3008,Kump,Geo,null,null,E Cone
+3009,Kump,John,null,null,Red Jacket Shaft loc
+3010,Kump,Rose,null,null,E Cone
+3011,Kump,Rudolph,null,null,Cedar
+3012,Kumpla,Albert,null,null,Elm
+3013,Kumpola,Matt,A ,null,Ridge 
+3014,Kumpola,Ruben,null,null,Ridge 
+3015,Kumpula,Ansel,null,null,Ski 
+3016,Kumpula,Eino,null,null,3d
+3020,Kumpula,Hjaimer,null,null,A
+3024,Kumpula,Wallace,null,null,Ski 
+3025,Kunnari,Arnold,null,null,Tunnel 
+3026,Kunnari,Edw,null,null,Tunnel 
+3027,Kunnari,Henry,null,null,Tunnel 
+3028,Kunnari,Melvin,null,null,Tunnel 
+3029,Kunsa,Michl,null,null,Scott
+3032,Kuopus,Adolph,null,null,Pine
+3035,Kuopus,Wilbert,K ,null,Pine
+3037,Kupari,Henry,null,null,Caledonia
+3038,Kure,John,null,null,10th
+3041,Kusisto,Eli,null,null,Chestnut 
+3042,Kusisto,Oscar,null,null,Chestnut 
+3043,Kusisto,Sanna,null,null,Chestnut 
+3046,Kuzma,Agnes,null,null,B
+3047,Kuzma,Clarence,null,null,B
+3048,Kuzma,Jos,null,null,B
+3049,Kuzma,Mary,A ,null,B
+3050,Kuzma,Michl,null,null,B
+3051,Kuzma,Michl,null,jr,B
+3052,Kuzma,Ralph,null,null,B
+3056,LaBelle,Carl,J ,null,5th
+3068,Lackner,Anna,null,null,Caledonia
+3069,Lackner,Anna,null,null,Caledonia
+3070,Lackner,John,null,null,Liberty
+3071,Lackner,John,null,null,10th
+3072,Lackner,John,null,null,Union
+3073,Lackner,Jos,null,null,Caledonia
+3074,Lackner,Mae,null,null,Elm
+3075,Lackner,Mary,null,null,Elm
+3081,LaForest,Eli,null,null,8th 
+3082,LaForest,Gertrude,null,null,8th 
+3083,LaForest,Wm,A ,null,8th 
+3084,Lahti,Emil,null,null,County rd
+3087,Lahti,Oscar,null,null,1st 
+3091,Lahti,Wm,null,null,1st 
+3092,Laho,Walter,M ,null,County rd
+3095,Laiti,Ida,null,null,Oak
+3097,Laity,Stanford,L ,null,Portland
+3101,Lakso,Ernie,null,null,6th
+3102,Lakso,Joel,null,null,6th
+3103,Lakso,Pearl,V ,null,6th
+3104,Lalli,Aug,null,null,Tunnell 
+3105,LaMarche,Ella,null,null,Depot
+3106,LaMarche,Loretta,null,null,Depot
+3107,LaMarche,Marcel,null,null,Depot
+3108,LaMarche,Simon,null,null,Depot
+3109,Lamont,Donald,null,null,Rockland
+3110,Lamont,Effie,null,null,Rockland
+3112,Lamourex,Chas,null,null,Calumet av
+3113,Lamourex,Mary,null,null,Calumet av
+3114,Lampakka,Henry,null,null,Elm
+3118,Lampsa,Edwin,J ,null,1st 
+3119,Lampsa,Eliz,null,null,Portland
+3120,Lampsa,Helen,null,null,1st 
+3121,Lampsa,Ina,null,null,1st 
+3122,Lampsa,Martha,null,null,Portland
+3123,Lamuth,Adolph,L ,null,Elm
+3124,Lamuth,John,J ,null,Elm
+3125,Lamuth,John,P ,null,Elm
+3126,Lamuth,Molly,A ,null,Elm
+3127,Lamutt,John,null,null,Calumet av
+3130,Lander,Wm,P ,null,County rd 
+3131,Landini,Jos,null,null,Caledonia
+3132,Landini,Jos,A ,null,Caledonia
+3133,Landini,Ralph,null,null,Caledonia
+3135,Landry,Alice,M ,null,6th
+3136,Landry,Mary,O ,null,6th
+3137,Lane,Irene,Mrs ,null,Pine
+3138,Lanfranki,Jos,null,null,D
+3139,Lang,Abr,null,null,Agent
+3140,Lang,Efram,null,null,Agent
+3142,Lang,Kath,V ,null,Lake Linden av 
+3147,Langen,Hannah,null,null,Elm
+3148,Langen,Roy,null,null,Elm
+3149,Lanksbury,Harold,null,null,Rockland
+3150,Lanksbury,Ida,Mrs ,null,Rockland
+3151,Lanksbury,Jos,null,null,Rockland
+3152,Lantto,Albert,null,null,10th
+3153,Lantto,Clarence,null,null,Oak
+3154,Lantto,Ray,null,null,10th
+3155,Lantto,Richd,null,null,10th
+3157,Lantz,Fred,H ,null,5th
+3158,LaPin,Felix,null,null,Maple 
+3159,LaPin,Fred,null,null,Maple 
+3166,LaPlante,Emil,J ,null,Portland
+3167,LaPlante,Odell,null,null,Rockland
+3168,LaPointe,Arth,null,null,Elm 
+3169,LaPointe,Harry,null,null,Elm 
+3170,LaPointe,Peter,null,null,Elm 
+3171,LaPointe,Zermera,null,null,Caledonia
+3172,LaPorte,Ulric,null,null,Laurium
+3173,LaRochelle,Eug,null,null,5th
+3174,LaRochelle,Godfrey,null,null,Lake Linden av
+3175,LaRochelle,Sylvester,null,null,Lake Linden av
+3176,Larocholle,Chas,D ,null,Rockland
+3180,Larsen,Hannah,null,null,8th
+3181,Larson,Alberta,null,null,E Pine
+3183,Larson,Carl,null,null,Elm
+3184,Larson,Chas,null,null,Elm
+3185,Larson,Chas,G ,null,4th
+3186,Larson,Christine,null,null,Rockland
+3188,Larson,Clarine,null,null,E Pine
+3189,Larson,Douglas,null,null,8th
+3190,Larson,Emma,A ,null,4th
+3191,Larson,Frank,M ,null,5th
+3192,Larson,Frank,M ,null,Willow ay
+3193,Larson,Gust,null,null,E Pine
+3194,Larson,Harold,null,null,E Pine
+3195,Larson,Henry,S ,null,Oak
+3196,Larson,Herman,W ,null,Calumet av
+3197,Larson,John,F ,null,Calumet av
+3199,Larson,Lucille,null,null,Rockland
+3200,Larson,Mabel,M ,null,4th
+3201,Larson,Marie,null,null,Caledonia
+3202,Larson,Olaf,null,null,Waterworks
+3203,Larson,Roy,null,null,Caledonia
+3204,Larson,Russell,null,null,8th
+3205,Larson,Yalmer,null,null,Waterworks
+3208,Lasanen,Frank,null,null,Waterworks
+3209,Lasanen,Leo,null,null,Waterworks
+3211,Lasanen,Reubin,null,null,Mine
+3212,Lasanen,Sami,null,null,Waterworks
+3214,Lassanen,Hubert,null,null,County rd
+3216,Lassanen,Lillian,null,null,County rd
+3217,Lassila,Edw,null,null,10th
+3218,Lassila,Ronald,null,null,10th
+3219,Latinovich,Jos,null,null,B
+3226,Lauri,Bernard,null,null,2d 
+3227,Lauri,Henry,null,null,2d 
+3228,Lauri,John,null,null,2d 
+3229,Lauri,Wesley,null,null,2d 
+3230,Laurich,John,null,null,Calumet av
+3231,Launch,Jos,null,null,Calumet av
+3232,Launch,Louis,null,null,Calumet av
+3235,Laurin,Corrine,null,null,Mine
+3236,Laurin,Eleanor,null,null,Mine
+3237,Laurin,Jos,A ,null,Mine
+3238,Laurin,Lillian,null,null,Mine
+3239,Laurin,Margt,null,null,Mine
+3240,Laurin,Walter,null,null,Maple 
+3241,Laurinaho,Eric,null,null,Union
+3244,Lavulin,John,null,null,Caledonia
+3245,Lavulin,Sophia,Mrs ,null,Caledonia
+3247,Lawrence,Jane,null,null,Calumet av
+3248,Lawrence,Richd,null,null,Calumet av
+3249,Lawrence,Steph,null,null,Calumet av
+3251,Leahy,Clara,null,null,Calumet av
+3252,Leahy,Timothy,null,null,Calumet av
+3253,Lean,F,John ,null,Pine
+3257,Leary,Anna,null,null,8th 
+3259,Leary,Eleanor,M ,null,6th
+3260,Leary,John,null,null,Hecla
+3261,Leary,Kath,null,null,Osceola 
+3262,Leary,Mary,Ann ,null,Hecla
+3263,Leary,Michl,null,null,6th
+3264,Leary,Nellie,null,null,8th 
+3265,Leary,Wilbur,M ,null,6th
+3266,LeBeau,Kathryn,null,null,Portland
+3267,LeBeau,Margt,Mrs ,null,8th
+3268,LeBeau,Margt,null,null,Portland
+3270,LeChevalier,Chas,null,null,Scott
+3271,LeChevalier,Emil,null,null,Hecla
+3272,LeChevalier,Jos,null,null,Hecla
+3273,LeChevalier,Julius,null,null,Hecla
+3274,LeChevalier,Paul,null,null,Hecla
+3277,Lehman,Harry,C ,null,7th
+3278,Lehman,Harry,C ,jr,7th
+3279,Lehman,Margt,E ,null,7th
+3286,Leiblein,Chas,null,null,8th
+3287,Leide,Helga,null,null,5th
+3290,Leinonen,Adolph,null,null,Chestnut 
+3291,Leinonen,Chas,null,null,Chestnut 
+3292,Leit,Lillian,L ,null,2d 
+3293,Leiviska,Arth,null,null,E Acorn
+3294,Leiviska,Eleanor,null,null,E Acorn
+3295,Leiviska,Hannah,null,null,E Acorn
+3296,Leiviska,Hilma,null,null,E Acorn
+3297,Leiviska,Uno,null,null,E Acorn
+3300,Leksell,Andrew,null,null,Amygdaloid 
+3301,Lemaata,Chas,null,null,Tunnel
+3302,Lempa,Emil,null,null,2d 
+3303,Lempa,Wm,null,null,2d 
+3306,Lencioni,Louis,null,null,Union
+3307,Lencioni,Natali,null,null,Hecla
+3311,Lenovich,Leonard,null,null,E Acorn
+3313,Leonard,Chas,H ,null,Calumet av
+3314,Leonard,Margt,null,null,Calumet av
+3315,Leonatti,Frances,null,null,Oak
+3316,Leonatti,Louis,null,null,Oak
+3318,Lepage,Jean,null,null,Cemetery
+3319,Lepage,Wm,null,null,Cemetery
+3320,Lervic,Isaac,null,null,Lake Linden av
+3322,Letcher,Geo,null,null,Elm
+3323,Letcher,Solomon,R ,null,Elm
+3324,Levanen,John,null,null,Waterworks
+3325,Levanen,Lydia,null,null,Waterworks
+3326,Levanen,Martin,null,null,3d
+3327,Levanen,Rudolph,null,null,3d
+3330,Leveque,Edwin,null,null,Rockland
+3331,Lewis,Dorothy,null,null,Rockland
+3332,Lewis,Edith,null,null,Rockland
+3333,Lewis,Josephine,null,null,Rockland
+3334,Lewis,Wallace,J ,null,Rockland
+3335,Lieblein,Chas,G ,null,Elm
+3336,Lieblein,Edw,C ,null,Elm
+3338,Lievonen,Alf,null,null,Liberty
+3339,Liikala,Edw,null,null,1st 
+3340,Liikanen,John,null,null,Tunnel 
+3341,Liimatta,Eliz,null,null,2d 
+3342,Liimatta,Gertrude,null,null,3d 
+3343,Liimatta,John,null,null,3d 
+3344,Liimatta,Lester,null,null,2d 
+3345,Liimatta,Ralph,H ,null,Elm
+3346,Liimatta,Raymond,null,null,3d 
+3348,Liimatta,Werner,null,null,3d 
+3349,Liimatta,Wm,null,null,2d 
+3353,Likkala,Mary,null,null,1st 
+3354,Likola,Armas,null,null,1st 
+3355,Likola,Auno,null,null,1st 
+3356,Likola,Eli,null,null,1st 
+3357,Likola,Taima,null,null,1st 
+3358,Likovich,Agnes,K ,null,Rockland
+3359,Likovich,Frances,null,null,Rockland
+3360,Likovich,Jos,null,null,Rockland
+3361,Likovich,Matt,null,null,Rockland
+3362,Limback,Carl,U ,null,Hecla
+3363,Limback,Henry,null,null,Hecla
+3365,Limback,Wm,null,null,Rockland
+3366,Limbick,Carl,null,null,County rd
+3367,Limbick,Chas,null,null,County rd
+3368,Limbick,Cresence,null,null,County rd
+3369,Limbick,John,null,null,A
+3370,Limbick,Jos,null,null,County rd
+3371,Limbick,Jos,null,null,A
+3372,Limbick,Jos,null,jr,A
+3373,Limbick,Margt,null,null,County rd
+3374,Limbick,Paul,null,null,County rd
+3375,Limbick,Phillip,null,null,County rd
+3377,Lind,Andrew,null,null,7th
+3379,Linden,Nestor,null,null,Boones la
+3384,Linja,Matt,null,null,Rockland
+3387,Lisa,Julia,null,null,6th
+3388,Lisa,Martha,null,null,6th
+3389,Lisk,Jos,null,null,A
+3390,Little,Blanche,null,null,Hecla
+3391,Little,Clarence,null,null,Hecla
+3392,Little,Gertrude,null,null,Hecla
+3393,Little,Willard,null,null,Hecla
+3394,Little,Wm,null,null,Hecla
+3395,Lloyd,Harry,null,null,Ash 
+3396,Lloyd,Marshall,B ,null,Ash 
+3397,Loaker,Agnes,null,null,11th
+3398,Loaker,Agnes,null,null,11th
+3399,Loaker,Frank,null,null,11th
+3400,Loaker,Fred,null,null,11th
+3401,Loaker,Ralph,null,null,11th
+3402,Lobb,Harry,null,null,Elm
+3405,Lobb,Thos,J ,null,Elm
+3406,Lobb,Verna,null,null,Elm
+3410,Lodva,John,null,null,Maple 
+3411,Lodva,Ray,null,null,Maple 
+3417,Long,Henry,null,null,Portland
+3418,Long,Wm,C ,null,Portland
+3427,Loukanen,Chas,null,null,E
+3428,Loukanen,Martin,null,null,E
+3429,Louri,Erick,null,null,do
+3432,Lovrenchich,Walter,null,null,Elm 
+3433,Lowe,Jas,null,null,E Pine
+3434,Lowery,Fredk,null,null,Hecla
+3435,Lowery,Henry,null,null,Hecla
+3436,Lowney,Richd,null,null,Middle
+3437,Lucatelli,Mary,null,null,5th
+3442,Lucheri,Angela,null,null,Columbia
+3443,Lucheri,Antoinette,null,null,Columbia
+3444,Lucheri,Olondo,null,null,Columbia
+3445,Ludke,Wm,J ,null,Amygdaloid 
+3449,Luke,Fred,J ,null,Cedar
+3450,Lukey,Albert,null,null,7th
+3451,Lukezich,John,J ,null,B
+3452,Lukezich,Mary,null,null,B
+3453,Lukezich,Mary,R ,null,B
+3457,Lumpa,Erica,null,null,Calumet av
+3464,Lundin,Carl,A ,null,Caledonia
+3465,Lundin,Ed,C ,null,Calumet av
+3466,Lundin,Eric,null,null,Calumet av
+3467,Luoma,Alice,null,null,Caledonia
+3468,Luoma,Eino,null,null,Caledonia
+3469,Luoma,Jacob,null,null,Caledonia
+3471,Luoma,Lyle,null,null,Caledonia
+3474,Luoma,Sami,null,null,Caledonia
+3475,Lusebrink,Alf,P ,null,8th
+3476,Lutanen,Alex,null,null,Columbia
+3478,Luttinen,Anna,null,null,Calumet av
+3479,Luttinen,Waino,M ,null,Calumet av
+3480,Luvcich,Martin,null,null,Tamarack Jr loc
+3482,Lynch,Gerry,null,null,Caledonia
+3483,Lynch,Luella,null,null,Caledonia
+3484,Lynch,Mayine,null,null,Caledonia
+3485,Lyon,Frances,null,null,School
+3486,Lyon,Janet,null,null,Rockland
+3487,Lyon,Jennie,S ,null,School
+3488,Lyon,Ruth,null,null,School
+3490,Maanika,Chas,R ,null,Liberty
+3497,Mabel,Ethel,null,null,Columbia
+3498,Macario,John,null,null,Liberty
+3499,Macario,Peter,null,null,A
+3500,MacAulay,Gertrude,null,null,Oak
+3502,MacAulay,Mary,null,null,Oak
+3503,MacAuley,Cathryn,J ,null,County rd
+3504,MacAuley,Duncan,null,null,County rd
+3505,MacAuley,Jennie,null,null,County rd
+3506,Maccario,Chas,null,null,C
+3507,Maccario,Chester,null,null,C
+3508,Maccario,Peter,V ,null,C
+3509,MacDermott,Clayton,null,null,Depot
+3510,MacDermott,Norman,null,null,Depot
+3511,MacDonald,Annie,null,null,5th
+3512,MacDonald,Danl,null,null,8th
+3513,MacDonald,Danl,null,null,Cemetery
+3514,MacDonald,Eliz,null,null,Depot
+3515,MacDonald,Eliz,null,null,8th
+3517,MacDonald,Isabelle,null,null,8th
+3518,MacDonald,Jas,A ,null,Depot
+3519,MacDonald,John,null,null,Amygdaloid 
+3521,MacDonald,John,B ,null,Rockland
+3522,MacDonald,Mary,null,null,5th
+3523,MacDonald,Mary,E ,null,Depot
+3524,MacDonald,Neil,null,null,Depot
+3527,MacDonald,Robt,null,null,8th
+3528,MacDonald,Roderick,M ,null,5th
+3529,MacDonald,Wm,null,null,Liberty
+3530,Machowska,John,null,null,Bridge 
+3531,Machowska,Mary,null,null,Bridge 
+3532,Machowska,Nicholas,null,null,Bridge 
+3533,Mackay,Jas,E ,null,Rockland
+3535,Mackay,Virginia,R ,null,Rockland
+3536,MacKenzie,Agnes,null,null,Rockland
+3537,MacKenzie,Clyde,W ,null,Laurium
+3538,MacKenzie,Elza,null,null,Depot
+3539,MacKenzie,Gordon,null,null,Depot
+3540,MacKenzie,Harrison,null,null,Rockland
+3541,MacKenzie,Howard,A ,null,Caledonia
+3542,MacKenzie,Mary,null,null,Rockland
+3543,MacKenzie,Robt,B ,null,7th
+3544,MacKenzie,Wm,A ,null,Depot
+3546,MacKey,Arvo,null,null,Pine
+3547,MacKey,Mathilda,M ,null,6th
+3548,MacKey,Urho,V ,null,2d 
+3550,MacKey,Wilho,null,null,1st 
+3551,Mackie,Chas,null,null,Pine
+3552,Mackie,Ray,null,null,County rd
+3553,Mackkonen,Bertha,null,null,Rockland
+3554,Mackkonen,John,null,null,Rockland
+3555,Mackkonen,Minnie,null,null,Rockland
+3556,Mackkonen,Otto,null,null,Rockland
+3561,MacLean,Donald,null,null,Rockland
+3562,MacLean,Esther,null,null,Rockland
+3563,MacLean,Margt,null,null,Rockland
+3564,MacLellan,Chas,null,null,2d 
+3567,MacLeod,Christine,null,null,Calumet av
+3569,MacLeod,Florence,null,null,Calumet av
+3570,MacLeod,May,null,null,E Cone
+3572,MacLeod,Russell,null,null,Calumet av
+3573,MacLeod,Wilmer,null,null,Calumet av
+3576,MacNaughton,Annabell,R ,null,Calumet av
+3578,MacNaughton,John,null,null,Calumet
+3579,Macomber,Edw,null,null,Rockland
+3580,Macomber,Gertrude,null,null,Rockland
+3581,MacRae,Allen,null,null,Hecla
+3582,MacRae,Harvey,null,null,Hecla
+3583,MacRae,Jean,null,null,Hecla
+3584,MacRae,John,null,null,Hecla
+3585,Maczynski,Frank,null,null,Ridge 
+3586,Maczynski,Stanley,null,null,Ridge 
+3587,Maczynski,Thos,null,null,Ridge 
+3588,Maczynski,Victoria,null,null,Ridge 
+3589,Maczynski,Walter,null,null,Ridge 
+3590,Madajewski,Andrew,null,null,Ridge 
+3591,Madajewski,Clara,null,null,Ridge 
+3592,Madajewski,Elmer,null,null,Ridge 
+3593,Madajewski,Steph,null,null,Ridge 
+3594,Madigan,Mary,null,null,Oak 
+3596,Maeglea,Caroline,null,null,Osceola rd
+3597,Maeglea,Mary,null,null,Osceola rd
+3598,Magnino,Jacob,null,null,D
+3601,Mahusky,Michl,null,null,6th
+3602,Maierle,Agnes,null,null,E Acorn
+3603,Maierle,Albert,null,null,E Acorn
+3605,Maierle,Jos,null,null,9th
+3608,Maierle,Paul,null,null,E Acorn
+3609,Maierle,Peter,M ,null,E Acorn
+3611,Mailanen,Alice,null,null,Caledonia
+3612,Mailanen,Edw,null,null,Caledonia
+3613,Mailanen,Henry,null,null,Waterworks
+3614,Mailanen,Jacob,null,null,do
+3615,Mailanen,Raino,null,null,Waterworks
+3616,Mailanen,Waino,null,null,Waterworks
+3617,Mailanen,Wm,null,null,Caledonia
+3619,Makala,Leonard,null,null,B
+3620,Makala,Oscar,null,null,Liberty
+3621,Makenen,Ivar,A ,null,1st 
+3622,Makenen,Wm,null,null,1st 
+3623,Maki,Albert,null,null,Hecla
+3624,Maki,Andrew,null,null,W Acorn
+3625,Maki,Andrew,J ,null,W Acorn
+3626,Maki,Annie,Mrs ,null,5th
+3627,Maki,Arne,null,null,Waterworks
+3631,Maki,Ellen,null,null,County rd
+3633,Maki,Fred,null,null,Columbia
+3635,Maki,Herman,null,null,Caledonia
+3637,Maki,Matt,null,null,W Acorn
+3638,Maki,Oscar,null,null,Maple la
+3639,Maki,Oscar,null,null,County rd
+3640,Maki,Richd,null,null,5th
+3641,Maki,Rudolph,null,null,County rd
+3642,Maki,Toiva,H ,null,Maple 
+3643,Maki,Waino,null,null,Osceola rd
+3645,Maki,Wesley,null,null,Columbia
+3646,Maki,Wm,E ,null,Portland
+3647,Makolin,Arth,null,null,Chestnut 
+3651,Malcolm,Thos,null,null,2d 
+3659,Manginen,Walter,null,null,Boones la
+3661,Manikko,Annie,null,null,Waterworks
+3662,Manikko,Henry,null,null,Waterworks
+3663,Manikko,Lena,null,null,Waterworks
+3664,Manikko,Sophie,null,null,Waterworks
+3665,Manley,Wm,null,null,Rockland
+3668,Mannikko,Albert,null,null,Cedar
+3669,Manninen,John,Mrs ,null,8th 
+3672,Mantz,Chas,null,null,Rockland
+3674,Mantz,Frances,null,null,Rockland
+3675,Mantz,J,null,null,Rockland
+3677,Mantz,Kath,A ,null,Rockland
+3680,Manville,John,null,null,7th
+3681,Manzardo,Anton,null,null,Rockland
+3684,Marchetti,John,null,null,Caledonia
+3687,Maris,Arth,M ,null,2d 
+3688,Marjama,Arth,null,null,Union
+3689,Marjamaa,Adam,null,null,Union
+3690,Marjamaa,Antti,null,null,Union
+3691,Marjamaa,Elmer,J ,null,Calumet av
+3692,Marjamaa,Minerva,null,null,Calumet av
+3693,Marjamaa,Wm,null,null,Calumet av
+3694,Markunas,Jos,null,null,Middle
+3695,Markunas,Ralph,null,null,Middle
+3697,Mars,Andrew,K ,null,4th 
+3698,Mars,Eino,W ,null,4th 
+3699,Mars,John,null,null,4th 
+3702,Mars,Walfred,null,null,4th 
+3704,Marston,Theresa,M ,null,6th
+3705,Marta,John,null,null,Rockland
+3706,Marta,John,null,jr,Rockland
+3707,Marta,Mary,null,null,Rockland
+3708,Marta,Massimo,null,null,Rockland av
+3709,Martala,John,null,null,9th
+3710,Martch,John,null,null,Tunnel 
+3711,Martch,Mary,null,null,Tunnel 
+3712,Martin,Abr,H ,null,6th
+3716,Martin,Geo,null,null,Calumet av
+3718,Martini,Ettala,null,null,6th
+3719,Marynski,Jos,null,null,8th
+3720,Marzene,Agnes,null,null,11th
+3721,Marzene,Frank,R ,null,11th
+3722,Mascagno,Ernest,null,null,10th
+3723,Mascagno,Frank,null,null,10th
+3725,Masse,John,null,null,B
+3726,Masse,Peter,null,null,Union
+3730,Masters,Albert,H ,null,County rd 
+3731,Masters,Alf,null,null,County rd 
+3732,Matesich,Anthony,null,null,8th
+3733,Matesich,Lucas,null,null,8th
+3735,Mathews,Caroline,null,null,Boundary
+3736,Mathews,Ella,null,null,Boundary
+3737,Mathews,Naomia,null,null,Boundary
+3739,Matkoych,Peter,null,null,County rd
+3741,Matt,Andrew,null,null,Union
+3742,Matta,Peter,null,null,Columbia
+3744,Mattero,Gian,null,null,C
+3747,Matthews,Jos,null,null,Rockland
+3748,Matthews,Thos,null,null,Rockland
+3750,Mattila,Knut,null,null,Lake Linden av
+3751,Mattila,Tobias,null,null,Lake Linden av
+3752,Mattilla,Hilja,null,null,Pine
+3754,Mattson,Emma,null,null,Cedar
+3755,Mattson,Fred,null,null,County rd 
+3756,Mattson,Howard,null,null,Ridge 
+3757,Mattson,Ingeborg,null,null,County rd 
+3758,Mattson,Jacob,null,null,Ridge 
+3763,Mattson,Rudolph,null,null,County rd 
+3764,Mattson,Victor,null,null,Cedar
+3767,Maukavetz,John,null,null,County rd
+3768,Maukavetz,Kate,null,null,County rd
+3769,Maukavetz,Kate,null,null,County rd
+3770,Mauno,Mae,null,null,11th
+3771,Mauno,Otto,null,null,11th
+3772,Mauno,Waino,null,null,11th
+3774,Maurin,Anna,null,null,Elm
+3775,Maurin,Anne,null,null,Rockland
+3776,Maurin,Ludvick,null,null,Rockland
+3777,Maurin,Michl,null,null,Elm
+3778,Maurin,Michl,null,jr,Elm
+3779,Maurin,Peter,null,null,N Rockland
+3780,Maurin,Peter,null,jr,N Rockland
+3782,Mayhar,Amelia,null,null,8th
+3784,Mayhar,Stanley,null,null,8th
+3785,Maynarich,Andrew,null,null,Waterworks
+3786,Maynarich,Andrew,null,jr,Waterworks
+3788,Maynarich,Frank,null,null,Elm
+3789,Maynarich,John,null,null,Waterworks
+3791,Maynarich,Kath,null,null,Waterworks
+3792,Maynarich,Matt,null,null,Waterworks
+3794,Maynarich,Stephanie,null,null,Waterworks
+3795,Maynarich,Thos,null,null,Waterworks
+3797,McArthur,Douglas,null,null,Elm
+3798,McArthur,Peter,J ,null,Elm
+3799,McArthur,Stewart,null,null,Elm
+3800,McAuley,Arch,null,null,A
+3801,McAuley,Christina,null,null,A
+3802,McCarthy,Chas,null,null,Rockland
+3804,McClelland,Carmen,null,null,Calumet av
+3806,McClelland,Peter,J ,null,Calumet av
+3807,McCleod,Alex,null,null,Church
+3810,McClure,Kath,null,null,6th
+3812,McClure,Robt,null,null,Pine
+3813,McComb,Floyd,E ,null,Pine
+3814,McConnell,Rinaldo,W ,null,Elm
+3816,McCormick,Adam,F ,null,Scott
+3817,McCormick,Anthony,null,null,7th
+3819,McCormick,Helen,null,null,Scott
+3820,McCormick,Jas,null,null,3d 
+3821,McCracken,Kyle,F ,null,8th
+3824,McGinnis,Wm,null,null,Scott
+3826,McHardy,Ethel,M ,null,7th
+3827,McHardy,Jas,null,null,7th
+3828,McHardy,Jas,R ,null,7th
+3830,McKean,Andrew,null,null,Osceola rd 
+3831,McKean,Jas,null,null,Cemetery
+3832,McKean,Jas,W ,null,Osceola rd 
+3833,McKean,John,null,null,Cemetery
+3834,McKenna,Frank,null,null,Rockland
+3835,McKinnon,Etta,null,null,School
+3836,McKinstry,Alex,null,null,Rockland
+3837,McKinstry,Alex,null,jr,Rockland
+3838,McKinstry,Edw,L ,null,Rockland
+3839,McKinstry,Henry,null,null,Hecla
+3840,McKinstry,Lawrence,null,null,Rockland
+3841,McKinstry,Robt,null,null,Hecla
+3842,McKinstry,Thos,null,null,Rockland
+3843,McKinstry,Thos,null,null,Hecla
+3844,McLean,Chas,K ,null,2d 
+3847,McLean,Kenneth,C ,null,2d 
+3848,McLean,Margt,null,null,2d 
+3849,McLean,Marion,null,null,2d 
+3851,McLeod,Chas,null,null,8th
+3853,McNeil,John,A ,null,Iroquois 
+3854,Mechlin,Douglas,null,null,Calumet av
+3855,Mechlin,Helen,null,null,Calumet av
+3856,Mechlin,Justin,J ,null,Calumet av
+3857,Medaris,Howard,null,null,Chestnut 
+3859,Medlyn,Irving,T ,null,Depot
+3861,Medlyn,Ralph,W ,null,Depot
+3862,Medlyn,Robt,T ,null,Depot
+3863,Medlyn,Thos,J ,null,Depot
+3864,Medlyn,Viola,null,null,Depot
+3865,Medlyn,Wm,null,null,Depot
+3867,Medvarich,Andrew,null,null,E Acorn
+3868,Medved,Anna,M ,null,7th 
+3869,Medved,John,null,null,Dam
+3870,Medved,John,null,null,7th 
+3871,Medved,Michl,null,null,Dam
+3872,Medved,Michl,null,jr,Dam
+3873,Medved,Tony,null,null,7th 
+3875,Mehner,Eliz,null,null,N Rockland
+3876,Mehner,John,null,null,N Rockland
+3877,Mehner,Rudolf,null,null,N Rockland
+3878,Mehrens,Ellen,null,null,Rockland
+3879,Mehrens,Geo,null,null,Rockland
+3880,Mehrens,Geo,H ,null,Rockland
+3881,Mehrens,Margt,null,null,Rockland
+3882,Melka,Jos,null,null,Bridge 
+3883,Mendelin,Julia,Mrs ,null,1st 
+3884,Mendelin,Lilith,null,null,1st 
+3885,Mendelin,Rudolph,null,null,1st 
+3886,Mendelin,Victor,null,null,1st 
+3887,Menguzzo,Annie,null,null,Calumet av
+3888,Menguzzo,John,null,null,Calumet av
+3889,Menguzzo,Jos,null,null,Calumet av
+3890,Menzies,G,Earl ,null,6th
+3892,Menzies,Wm,null,null,Calumet av
+3897,Merlo,Louis,null,null,Portland
+3898,Mertes,Robt,M ,null,Boones la
+3900,Mesich,Anton,null,null,Red Jacket Shaft loc
+3901,Mesich,Margt,null,null,Red Jacket Shaft loc
+3902,Mesnier,John,null,null,5th
+3903,Mesnier,Martin,null,null,5th
+3906,Messner,Alf,C ,null,7th
+3907,Messner,Alf,J ,null,7th
+3908,Messner,Christ,null,null,Portland
+3910,Messner,Edw,C ,null,Calumet av
+3911,Messner,Eliza,null,null,7th
+3914,Messner,Frances,null,null,Scott
+3915,Messner,Frank,null,null,Rockland
+3916,Messner,Genevieve,null,null,Laurium
+3917,Messner,Geo,null,null,Portland
+3919,Messner,John,null,null,Laurium
+3921,Messner,L,Ruth ,Mrs,8th
+3922,Messner,Louise,null,null,7th
+3923,Messner,Orlan,null,null,Scott
+3924,Messner,Paul,P ,null,7th
+3925,Messner,Perso,null,null,8th
+3926,Messner,Wm,null,null,5th
+3927,Messolio,John,null,null,A
+3930,Meunier,Hazel,null,null,Temple
+3931,Meunier,Jos,F ,null,Temple
+3932,Mesnier,Mary,J ,null,Temple
+3934,Meunier,Winifred,M ,null,Temple
+3938,Michaels,Christ,null,null,Elm
+3939,Michaelson,Agnes,null,null,E Pine
+3940,Michaelson,Harry,null,null,Waterworks
+3941,Michalk,Agnes,null,null,Liberty
+3942,Michalk,Agnes,null,null,Liberty
+3943,Michalk,Clement,null,null,Liberty
+3944,Michalk,Kath,null,null,Liberty
+3945,Michalk,Steph,null,null,Liberty
+3946,Michelchich,John,null,null,4th 
+3947,Michelletto,Danl,null,null,Rockland
+3948,Michelson,Fred,null,null,Elm
+3949,Michelson,John,E ,null,Elm
+3950,Michelson,Martha,null,null,Elm
+3951,Michelson,Paul,null,null,Elm
+3952,Michetti,Fred,null,null,4th
+3953,Michetti,Fred,J ,null,10th
+3954,Michetti,Isabelle,J ,Mrs,Wedge
+3955,Michetti,Johanna,null,null,Oak
+3956,Michetti,John,null,null,Elm
+3957,Michetti,Jos,null,null,Oak
+3958,Michetti,Jos,T ,null,Oak
+3959,Michetti,Maudie,null,null,4th
+3960,Michetti,Michl,null,null,Elm
+3962,Michetti,Paul,null,null,10th
+3963,Michetti,Peter,J ,null,Elm
+3964,Michetti,Thos,null,null,Wedge
+3969,Migila,Dominic,null,null,Temple
+3971,Miglio,Domenica,null,null,Laurium
+3972,Miglio,Jos,null,null,7th
+3973,Miglio,Jos,null,null,Laurium
+3974,Miglio,Louis,null,null,Laurium
+3975,Miglio,Mary,null,null,Elm
+3976,Miglio,Peter,null,null,7th
+3977,Miglio,Theresa,null,null,7th
+3978,Miglio,Theresa,null,null,7th
+3981,Mihelcich,Jacob,M ,null,Tamarack Junior loc
+3982,Mihelcich,Jos,null,null,Tamarack Junior loc
+3983,Mihelcich,Marie,null,null,Tamarack Junior Loc
+3984,Mihelcich,Steph,null,null,Tamarack Junior loc
+3985,Mihelich,Christole,null,null,Waterworks
+3986,Mihelich,Emil,null,null,Waterworks
+3987,Mihelich,Lodi,M ,null,6th
+3988,Mihelich,Ludwig,null,null,Waterworks
+3989,Mihelich,Martin,null,null,Waterworks
+3990,Mihelich,Matt,null,null,Waterworks
+3991,Mihelich,Peter,null,null,W Acorn
+3993,Miikko,Emil,null,null,E
+3995,Mikko,Uno,E ,null,Rockland
+3996,Mikkola,Heino,null,null,5th
+3997,Mikkola,Mary,null,null,5th
+4001,Milford,Wm,F ,jr,7th
+4003,Milinovich,Ann,null,null,Chestnut 
+4004,Milinovich,John,null,null,Chestnut 
+4005,Milinovich,Nick,null,null,Chestnut 
+4006,Milinovich,Rudolp,null,null,Chestnut 
+4009,Miller,Lawrance,null,null,Lake Linden av
+4011,Miller,Petroniller,null,null,Calumet av
+4012,Miller,Philip,null,null,Lake Linden av
+4013,Miller,Wm,H ,null,8th
+4015,Mills,Clarence,null,null,Rockland
+4016,Mills,Edwin,C ,null,Rockland
+4017,Mills,Edwin,J ,null,Rockland
+4018,Mills,Margt,null,null,Rockland
+4020,Milosovich,Frances,null,null,N Rockland
+4022,Milosovitch,Anton,null,null,N Rockland
+4025,Minetti,Constante,null,null,Caledonia
+4026,Minetti,John,null,null,Caledonia
+4027,Minetti,Victor,C ,null,Caledonia
+4028,Minetti,Victoria,null,null,Caledonia
+4034,Mishica,Jos,G ,null,7th
+4035,Mislica,Geo,null,null,Osceola rd
+4036,Mitchell,Alf,null,null,1st 
+4037,Mitchell,Ben,Mrs ,null,9th
+4038,Mitchell,Ellen,null,null,Red Jacket Shaft
+4039,Mitchell,Matilda,null,null,1st 
+4046,Modig,Amanda,null,null,D
+4047,Modig,Florence,null,null,D
+4049,Moen,Geo,null,null,E
+4050,Moen,Mary,null,null,E
+4051,Moffet,Wm,P ,null,Oak
+4052,Mohar,Florian,null,null,Rockland
+4053,Mohar,Florian,null,jr,Rockland
+4055,Moilanen,Edwin,S ,null,Wolverine loc
+4056,Moilanen,Louis,null,null,Rockland
+4057,Moilanen,Toivio,null,null,Ridge 
+4061,Moon,Thos,W ,null,6th
+4062,Moore,Eliz,null,null,Rockland
+4064,Moore,Ruth,null,null,Calumet av
+4065,Moore,Wm,null,null,Calumet av
+4067,Morcom,Cora,M ,null,Amygdaloid 
+4068,Morcom,Fred,T ,null,Amygdaloid 
+4071,Moreschini,John,null,null,Stable
+4073,Moretto,Jas,null,null,Rockland
+4074,Morgan,Clarence,F ,null,7th
+4078,Morgan,Sami,null,null,Rockland
+4080,Morino,Paul,null,null,Ridge 
+4081,Morisette,Anna,null,null,Boundary
+4082,Morisette,Edw,null,null,Boundary
+4083,Morisette,Irene,null,null,Boundary
+4084,Morisette,Raymond,null,null,Boundary
+4085,Morisette,Wilbert,null,null,Boundary
+4087,Morretto,Andrew,null,null,Temple
+4088,Morris,Howard,S ,null,Boones la
+4089,Morrison,Bruce,null,null,Calumet av
+4090,Morrison,Ethel,null,null,Calumet av
+4091,Morrison,Geo,C ,null,6th
+4092,Morrison,Irene,null,null,Chestnut 
+4093,Morrison,Jean,null,null,Calumet
+4095,Morrison,Macintosh,M ,null,Calumet av
+4096,Morrison,Miriam,Mrs ,null,6th
+4097,Morrisson,Jas,null,null,Columbia
+4098,Morrisson,John,A ,null,Columbia
+4099,Morrisson,Murdoch,J ,null,Columbia
+4100,Morsu,Hilda,null,null,W Acorn
+4101,Mortell,Fred,null,null,Cemetery
+4102,Mortell,Phil,null,null,Cemetery
+4103,Mortenson,Carl,null,null,10th
+4104,Mortenson,Iver,null,null,10th
+4105,Mortenson,Viola,null,null,10th
+4107,Moses,Mary,null,null,6th
+4108,Mowers,Stanley,null,null,Calumet av
+4110,Mukavec,John,null,null,Caledonia
+4111,Mukavec,Jos,null,null,Caledonia
+4112,Mukavec,Jos,null,jr,Caledonia
+4113,Mukavec,Paul,null,null,County rd
+4115,Mukavetz,John,null,null,W Acorn
+4116,Mukavetz,May,null,null,W Acorn
+4117,Mukovec,Mary,null,null,Hecla
+4118,Mukovec,Peter,null,null,Hecla
+4119,Mukovec,Wm,null,null,Hecla
+4120,Mukovich,John,null,null,Caledonia
+4121,Mullarkey,Path,null,null,Rockland
+4123,Mullen,Jos,F ,null,5th
+4129,Munch,Albert,A ,null,Hecla
+4130,Munch,Ellen,null,null,Hecla
+4131,Munch,Louis,null,null,Maple 
+4132,Munch,Marcelline,null,null,Hecla
+4134,Mundy,Jas,null,null,Red Jacket Shaft loc
+4135,Murdinchion,Michl,null,null,5th
+4137,Murn,Albert,null,null,Calumet av
+4138,Murn,Frank,null,null,Calumet av
+4139,Murn,John,null,null,Calumet av
+4140,Murn,Jos,null,null,Calumet av
+4141,Murn,Jos,null,jr,Calumet av
+4142,Murn,Mary,null,null,Calumet av
+4143,Murphy,Agnes,M ,null,4th
+4144,Murphy,Cath,null,null,Caledonia
+4145,Murphy,Dan,F ,null,Rockland
+4146,Murphy,E,Lucille ,null,4th
+4148,Murphy,Francis,J ,null,4th
+4149,Murphy,Gerry,null,null,N Rockland
+4151,Marble,Wks,null,null,8th
+4152,Murphy,Hannah,null,null,Caledonia
+4153,Murphy,Irene,K ,null,4th
+4154,Murphy,Jas,N ,null,Rockland
+4155,Murphy,John,P ,null,Poplar 
+4156,Murphy,Louis,J ,null,Poplar 
+4157,Murphy,Lucille,null,null,4th
+4158,Murphy,M,Leonard ,null,4th
+4159,Murphy,Mary,null,null,4th
+4160,Murphy,Mary,K ,null,Poplar 
+4161,Murphy,Michl,J ,null,Caledonia
+4162,Murphy,Peter,J ,null,Poplar 
+4163,Murphy,Timothy,null,null,Caledonia
+4164,Murto,John,null,null,11th
+4165,Murto,Mary,null,null,11th
+4166,Murto,Nina,null,null,11th
+4167,Murto,Raymond,null,null,11th
+4168,Murvich,Jos,null,null,Cedar
+4169,Murvich,Michl,null,null,Cedar
+4170,Murvich,Michl,null,jr,Cedar
+4171,Murvin,Dorothy,null,null,6th
+4172,Murvin,Frances,null,null,6th
+4173,Murvin,John,null,null,6th
+4174,Murvin,John,M ,null,6th
+4175,Murvin,Jos,null,null,6th
+4176,Murvin,Mary,A ,null,th
+4177,Murvin,Peter,W ,null,6th
+4178,Musich,Anna,H ,null,Red Jacket Shaft Co
+4180,Musich,Cath,M ,null,Calumet av
+4181,Musich,Frank,null,null,Calumet av
+4182,Musich,John,null,null,Calumet av
+4183,Musich,John,null,jr,Calumet av
+4184,Musich,John,null,null,Red Jacket Shaft loc
+4185,Musich,John,P ,null,Red Jacket Shaft loc
+4186,Musich,Jos,null,null,Ded Jacket Shaft loc
+4188,Musich,Rudolph,null,null,Calumet av
+4189,Musick,Jacob,null,null,Maple 
+4190,Musick,Jacob,E ,null,Maple 
+4196,Mustonen,Peter,J ,null,3d 
+4198,Myers,Jas,null,null,A
+4199,Myers,Sylvia,null,null,A
+4202,Myllylahti,Eliz,null,null,3d 
+4204,Nadeau,Blanchard,F ,null,Depot
+4205,Nadeau,Cordelea,null,null,Depot
+4206,Nadeau,Frank,null,null,Depot
+4207,Nadeau,Isabelle,null,null,Depot
+4209,Nagel,Sverre,A ,null,7th
+4211,Nancarrow,Chas,null,null,Heda
+4212,Nankervis,Hattie,null,null,8th
+4214,Nara,Wm,null,null,Ridge 
+4216,Nardi,Eliz,null,null,Union
+4217,Nardi,Julia,H ,null,Union
+4218,Nardi,Ruby,null,null,Union
+4219,Naretto,Josephine,null,null,Portland
+4220,Naretto,Michl,null,null,Portland
+4221,Naria,Andrew,null,null,3d
+4222,Naria,Lucy,null,null,3d
+4223,Narozny,John,null,null,Middle
+4225,Navoni,Dominic,null,null,10th
+4226,Navoni,Lovica,null,null,10th
+4227,Navoni,Marianna,null,null,10th
+4228,Neagbour,Frank,null,null,Rockland
+4231,Needs,Harry,null,null,Boone la
+4232,Needs,Lenore,null,null,Boone la
+4233,Neimark,Abram,null,null,7th
+4236,Nekervis,Johns,null,null,Willow av
+4238,Nelson,Albert,null,null,Rockland
+4240,Nelson,Alex,E ,null,8th
+4241,Nelson,Alice,null,null,Caledonia
+4242,Nelson,Amelia,null,null,Caledonia
+4243,Nelson,Anton,null,null,Rockland
+4245,Nelson,Arth,L ,null,5th av 
+4247,Nelson,Chas,null,null,Caledonia
+4249,Nelson,Edw,null,null,8th
+4250,Nelson,Edw,E ,null,Calumet av
+4251,Nelson,Ellwood,null,null,Calumet
+4252,Nelson,Ellen,Mrs ,null,Caledonia
+4253,Nelson,Elsie,L ,null,Caledonia
+4255,Nelson,Hannah,A ,null,8th
+4256,Nelson,Harry,null,null,Boundary
+4258,Nelson,Hilda,null,null,Boundary
+4259,Nelson,Lavinia,null,null,Caledonia
+4263,Nelson,Reuben,null,null,Caledonia
+4264,Nelson,Robt,null,null,Rockland
+4265,Nelson,Robt,W ,null,Calumet
+4267,Nelson,Ruthvin,null,null,Caledonia
+4268,Nelson,Thos,null,null,5th
+4269,Nelson,Violet,null,null,Caledonia
+4271,Nelson,Wm,A ,null,Calumet av
+4273,Nepote,Jas,null,null,Dam
+4274,Nepote,Jas,null,jr,S 6th
+4275,Nepote,Mary,null,null,S 6th
+4276,Nervik,Chas,null,null,9th
+4277,Nervik,Martin,null,null,9th
+4278,Neste,Onni,null,null,Pine
+4279,Newman,Albert,null,null,Elm
+4283,Nicholas,Eblin,null,null,5th
+4284,Nicholas,John,null,null,Columbia
+4285,Nicholas,Irene,M ,null,5th
+4288,Nicholas,Wilbur,null,null,School
+4289,Nicholas,Wm,null,null,Amygdaloid 
+4291,Nicholls,Irene,J ,null,Hecla
+4292,Nicholls,Norman,R ,null,Hecla
+4294,Nichols,Wm,null,null,E Cone
+4295,Nickulas,Arth,null,null,2d 
+4296,Nickulas,Arvid,null,null,2d 
+4297,Nickulas,Edwin,null,null,2d 
+4298,Nickulas,Wilfred,null,null,2d 
+4299,Nickulas,Wm,null,null,2d 
+4300,Niemi,Chas,null,null,Amygdaloid 
+4301,Niemi,Edgar,F ,null,Portland
+4302,Niemi,Eino,null,null,5th
+4303,Niemi,Esther,null,null,Rockland
+4304,Niemi,Gideon,null,null,8th
+4306,Niemi,Helen,E ,null,Rockland
+4308,Niemi,Hilda,null,null,Amygdaloid 
+4310,Niemi,Irene,null,null,3d 
+4311,Niemi,Isaac,null,null,Tunnel 
+4312,Niemi,John,null,null,Tunnell 
+4313,Niemi,John,null,null,Caledonia
+4315,Niemi,Jos,null,null,Rockland
+4316,Niemi,Justine,null,null,3d 
+4317,Niemi,Matt,null,null,Tunnell 
+4318,Niemi,Oscar,null,null,Tunnel 
+4319,Niemi,Richd,null,null,Liberty
+4320,Niemi,Richl,V ,null,Elm
+4321,Niemi,Toivo,null,null,Cambria
+4322,Niemi,Toivio,null,null,3d 
+4323,Niemi,Wm,R ,null,Red Jacket Shaft loc
+4325,Niemsyk,Frank,null,null,Calumet av
+4326,Nieuchamp,Harry,null,null,6th
+4327,Nigra,Anton,null,null,Elm
+4328,Nigra,John,null,null,Elm
+4341,Niskanen,Henry,null,null,County rd
+4342,Niskkonen,Carl,null,null,Hecla
+4343,Nissela,Martha,null,null,E Pine
+4344,Nissela,Milma,null,null,E Pine
+4345,Nissila,Andrew,null,null,E Pine
+4346,Nissila,Aune,null,null,E Pine
+4347,Nissila,Rayno,null,null,E Pine
+4351,Noble,Jeanette,Mrs ,null,Rockland
+4353,Noopa,John,null,null,Mine
+4354,Nopola,Urho,null,null,Red Jacket Shaft loc
+4355,Norager,John,A ,null,Boones la
+4356,Norager,Margt,null,null,Stable
+4357,Norbom,Edw,null,null,Caledona
+4358,Norbom,Hulda,null,null,Caledonia
+4359,Nordine,Albert,null,null,11th
+4360,Nordine,Earl,null,null,11th
+4361,Nordman,Henry,null,null,Hecla
+4362,Nordstrom,Albert,null,null,Ash Tamarack loc
+4366,Nordstrom,Edna,P ,null,Cambria
+4367,Nordstrom,Gerhardt,null,null,Cambria
+4368,Nordstrom,Hubert,null,null,Ash 
+4369,Nordstrom,Robt,null,null,Ash 
+4370,Nordstrom,Victor,null,null,Liberty
+4371,Normark,Arvil,T ,null,Hecla
+4373,North,Fredricka,null,null,1st 
+4376,Norto,Matt,null,null,3d 
+4379,Notari,Jas,null,null,Ski 
+4380,Notari,John,null,null,Ski 
+4381,Notari,Peter,null,null,Ski 
+4382,Notario,Johanna,null,null,10th
+4383,Notario,Jos,null,null,10th
+4385,Nottle,Chas,null,null,Calumet av
+4386,Novak,Anna,null,null,C
+4387,Novak,Chas,null,null,C
+4388,Novak,Frank,null,null,C
+4389,Novak,John,null,null,W Acorn
+4392,Novak,Mary,null,null,Elm
+4393,Novak,Michl,null,null,B
+4395,Novak,Ralph,null,null,W Acorn
+4397,Nowak,Martin,null,null,Temple
+4398,Nummi,Henry,null,null,C
+4406,Nylen,Frank,null,null,Rockland
+4407,Oaklanen,Ina,null,null,Mine
+4408,Oaklanen,John,null,null,Mine
+4409,Obar,Frank,null,null,C
+4416,OConnell,Angeline,null,null,Caledonia
+4417,OConnell,Bernard,null,null,Caledonia
+4418,OConnell,Gervais,null,null,Caledonia
+4419,OConnell,John,null,null,Caledonia
+4420,OConnell,Leo,null,null,Caledonia
+4421,OConnell,Peter,O ,null,Caledonia
+4422,OConnell,Wm,null,null,Hecla
+4423,OConnor,Dorothy,null,null,Hecla
+4424,OConnor,Frank,J ,null,Hecla
+4425,OConnor,Jas,null,null,Hecla
+4428,Oehler,Benj,Rev ,null,Rockland
+4432,Ohman,Arnold,null,null,Red Jacket Shaft loc
+4435,Oikrinen,John,null,null,Amygdaloid 
+4438,Oines,Alma,null,null,Ridge 
+4439,Oines,Hilda,null,null,Ridge 
+4440,Oines,Matt,null,null,Ridge 
+4441,Oinis,Amelia,null,null,E
+4442,Oinis,Anton,null,null,E
+4443,Oinis,Wesley,null,null,E
+4444,Oja,Andrew,null,null,Hecla
+4445,Oja,Anselm,null,null,Maple 
+4446,Ojala,Alex,null,null,5th
+4450,Olander,Bert,null,null,Calumet av
+4451,Olander,Cecelia,null,null,Calumet av
+4452,Olander,Eleanor,null,null,Calumet av
+4453,Olander,Robt,null,null,Calumet av
+4459,Ol1ila,Alice,I ,null,Ridge 
+4460,Ol1ila,Elsie,null,null,Ridge 
+4461,Ol1ila,Kate,null,null,Tunnel 
+4462,Ol1ila,Mae,null,null,Ridge
+4465,Olsen,Edw,N ,null,W Cone
+4466,Olson,Agnes,null,null,Calumet av
+4467,Olson,Chas,null,null,Caledonia
+4471,Olson,Helen,I ,null,6th
+4473,Olson,Leif,null,null,6th
+4475,Olson,Martha,null,null,D
+4476,Olson,Nora,null,null,6th
+4477,Olson,01e,null,null,6th
+4478,Olson,01e,A ,null,6th
+4479,Olson,Roy,null,null,Elm
+4480,Olson,Sigurd,B ,null,7th
+4481,Olson,Walter,null,null,D
+4484,ONeil,Casimir,null,null,Calumet av
+4485,ONeil,Clement,F ,null,Calumet av
+4488,ONeil,Jas,M ,null,7th
+4489,ONeil,Johanna,null,null,Church
+4490,ONeil,John,J ,null,4th
+4491,ONeil,Martin,null,null,4th
+4493,ONeill,Wm,null,null,Calumet av
+4494,Onesick,Anna,null,null,Elm
+4495,Onesick,John,null,null,Elm
+4496,Onesick,Matt,null,null,Elm
+4497,Onore,Alma,null,null,Laurium
+4498,Onore,Bono,null,null,Laurium
+4500,Onore,Steph,null,null,Laurium
+4504,Opland,Anna,null,null,6th
+4506,Opsahl,Ruth,E ,null,8th
+4509,Ormsby,Jas,null,null,Pine
+4511,Ormsby,R,L ,null,Depot
+4512,Orsolano,Anna,null,null,D
+4513,Orsolano,Clement,null,null,D
+4514,Orth,Cath,null,null,Cemetery
+4515,Orth,Eug,null,null,Hecla
+4517,Orth,Louis,null,null,Cemetery
+4518,Osborn,John,null,null,4th
+4519,Osborn,Matthew,null,null,4th
+4523,Osborne,Mildred,null,null,Pewabic 
+4525,Osmak,Andrew,null,null,N Rockland
+4526,Osmak,Geo,null,null,N Rockland
+4527,Osmak,Geo,null,jr,N Rockland
+4528,Osmak,Julia,null,null,N Rockland
+4529,Osmak,Victoria,null,null,N Rockland
+4531,Osterman,Geo,J ,null,6th
+4532,Osterman,Mark,null,null,6th
+4534,Othotte,Archie,null,null,Hecla
+4535,Othotte,Edmund,null,null,Hecla
+4536,Othotte,Edna,null,null,Hecla
+4538,Othotte,Evelyn,null,null,Hecla
+4540,Outinen,Andrew,null,null,Waterworks
+4542,Owsald,Anne,null,null,C
+4543,Oxnam,Jas,C ,null,6th
+4544,Oxnam,Mary,L ,null,6th
+4545,Oxnam,Wm,A ,null,6th
+4546,Ozanich,Edw,null,null,6th
+4548,Ozanich,Matti,null,null,6th
+4549,Ozanich,Thos,V ,null,6th
+4551,Ozzelo,Bernard,null,null,Hecla
+4552,Ozzelo,Jos,null,null,Hecla
+4554,Paali,Aurelio,null,null,6th
+4559,Paananen,Wilho,null,null,E Cone
+4560,Paavola,Eino,null,null,Maple 
+4562,Pacini,Chas,null,null,Red Jacket Shaft loc
+4563,Pacini,Michl,null,null,Caledonia
+4565,Paduan,Leonard,null,null,Caledonia
+4568,Painter,Chas,null,null,Pine
+4569,Pajhola,Edwin,null,null,1st 
+4570,Pakkela,Toivo,null,null,County rd
+4571,Pako,Frank,null,null,Middle
+4573,Palkki,Andrew,null,null,3d 
+4574,Palmatier,Ray,W ,null,Calumet av
+4582,Panfil,Andrew,null,null,E Pine
+4583,Panfil,Cath,null,null,E Pine
+4584,Panfil,Paul,null,null,E Pine
+4585,Panfil,Steph,null,null,E Pine
+4586,Panijan,Anton,null,null,Cedar
+4587,Panijan,Frank,null,null,Cedar
+4588,Panijan,Geo,null,null,Cedar
+4589,Panijan,Geo,null,jr,Cedar
+4591,Panijan,Peter,null,null,Cedar
+4595,Panyan,John,null,null,Caledonia
+4599,Paquette,Aldreic,Rev ,null,Scott
+4600,Paquette,Ambrose,null,null,E Pine
+4605,Parker,Frank,null,null,RedJacket Shaft loc
+4606,Parker,Minnie,null,null,Portland
+4613,Parsons,Richd,H ,null,Calumet av
+4616,Pascoe,Geo,null,null,do
+4617,Pascoe,John,H ,null,Lake Linden av
+4618,Pasich,Irene,null,null,Portland
+4619,Pasich,Matt,null,null,E
+4620,Pasich,Peter,null,null,do
+4621,Pasich,Peter,null,jr,Portland
+4622,Pasqualone,Bat,null,null,C
+4624,Pasquinelli,Chas,null,null,Wedge
+4625,Pasquinelli,Louise,null,null,Wedge
+4626,Pasquinelli,Peter,null,null,Wedge
+4627,Pasquinelli,Pia,null,null,Scott
+4628,Pasuk,Adam,null,null,Pine
+4629,Paton,Florence,E ,null,Lake Linden av 
+4631,Patterson,Burrl11,W ,null,E Pine
+4632,Patterson,David,B ,null,Hecla
+4633,Patterson,Ellsworth,null,null,E Pine
+4634,Patterson,Jean,M ,null,Hecla
+4635,Patterson,John,null,null,E Pine
+4646,Paulson,Lawrence,null,null,4th
+4648,Paulson,Paul,null,null,4th
+4649,Paulson,Tauno,null,null,Maple 
+4651,Pavlen,Michl,null,null,Calumet av
+4655,Pearce,Ed,null,null,Caledonia
+4656,Pearce,Edw,P ,null,Boundary
+4659,Pearce,John,null,null,Mine
+4660,Pearson,Eliz,null,null,Calumet av
+4665,Peitila,Peter,null,null,5th
+4666,Pelkola,Oscar,null,null,Church
+4667,Pelland,Ethel,null,null,Hecla
+4668,Pellegrini,Cecil,null,null,Calumet av
+4669,Pellegrini,Jos,null,null,Waterworks
+4670,Pellegrini,Louis,null,null,Waterworks
+4671,Pellegrini,Margt,null,null,Waterworks
+4673,Pellow,Jas,H ,null,Boundary
+4676,Pelto,Edna,E ,null,2d 
+4678,Pelto,Eino,null,null,County rd
+4679,Pelto,Elma,null,null,2d 
+4681,Pelto,Jacob,null,null,E Pine
+4682,Pelto,John,null,null,2d 
+4684,Pelto,Martha,null,null,E Pine
+4689,Penhall,Clyde,W ,null,Scott
+4690,Penhall,Frank,null,null,Scott
+4692,Penhall,Thos,null,null,Scott
+4693,Penhall,Thos,W ,jr,Scott
+4701,Peratalo,Ida,null,null,Ridge 
+4702,Peratalo,Matt,null,null,Ridge 
+4703,Perchassi,Martin,null,null,Dam
+4705,Perkins,Roy,null,null,Caledonia
+4707,Perko,Jos,null,null,E Pine
+4708,Perko,Michl,null,null,Rockland
+4712,Perreault,Wm,null,null,Union
+4716,Perry,Jas,S ,null,Calumet av
+4717,Perso,Annie,null,null,7th
+4718,Perso,Charlotte,null,null,7th
+4720,Peruo,Aino,null,null,County rd
+4722,Peschel,Peter,null,null,Scott
+4729,Peteri,John,null,null,Cemetery
+4730,Peteri,Walford,null,null,Cemetery
+4731,Peterlin,Ferdinand,J ,null,7th
+4732,Peterlin,Jos,null,null,7th
+4733,Peterlin,Roman,J ,null,7th
+4737,Peters,Fred,null,null,Calumet av
+4738,Peterson,Albert,null,null,Peterson
+4739,Peterson,Anton,R ,null,Union
+4740,Peterson,Burton,null,null,Calumet av
+4741,Peterson,Caroline,null,null,Calumet av
+4742,Peterson,Caroline,null,null,Calumet av
+4743,Peterson,Casper,null,null,Rockland
+4744,Peterson,Clement,null,null,Calumet av
+4745,Peterson,Edw,null,null,Union
+4746,Peterson,Eric,null,null,Mine
+4747,Peterson,Frank,null,null,E Pine
+4749,Peterson,Geo,null,null,Calumet av
+4750,Peterson,Ida,null,null,Tunnel 
+4751,Peterson,Irene,null,null,Union
+4752,Peterson,Irma,null,null,Calumet av
+4753,Peterson,Jalmer,C ,null,Tunnel 
+4754,Peterson,Johanna,null,null,Hecla
+4755,Peterson,John,G ,null,Union
+4756,Peterson,Josephine,null,null,Scott
+4757,Peterson,Lawrence,null,null,Hecla
+4759,Peterson,Lillian,null,null,Calumet
+4761,Peterson,Mary,null,null,Tunnel 
+4762,Peterson,Oscar,null,null,Middle
+4765,Peterson,Palmer,null,null,Cemetery
+4767,Peterson,Raymond,null,null,Union
+4768,Peterson,Raymond,null,null,Oakland
+4769,Peterson,Waif,null,null,Tunnel 
+4771,Peterson,Wm,null,null,Tunnel 
+4772,Peterson,Yalmer,C ,null,Rockford
+4773,Petitte,John,null,null,Ridge 
+4774,Petitti,Cath,null,null,C
+4776,Petitti,Frank,null,null,C
+4778,Petitti,Jos,null,null,C
+4779,Petlewski,Alex,J ,null,Boundary
+4780,Petlewski,John,null,null,A
+4781,Petlewski,Mary,null,null,A
+4782,Petlewski,Steph,null,null,Oak
+4783,Petlewski,Vincent,null,null,A
+4784,Petritsch,Ernest,null,null,C
+4785,Petropoli,Angelo,null,null,Union
+4787,Peura,John,E ,null,Ski 
+4788,Peura,Mabel,null,null,Ski 
+4789,Peura,Wilbert,null,null,Ski 
+4790,Peura,Willard,null,null,Ski 
+4793,Peurasarr,Edwin,null,null,1st 
+4794,Peurasarr,Leonard,null,null,1st 
+4795,Peurasarr,Matt,null,null,1st 
+4796,Peurasarr,Viola,null,null,1st 
+4797,Peurasarr,Wesley,null,null,1st 
+4800,Phanthel,Richd,null,null,Middle
+4802,Phillips,Agnes,null,null,Log
+4803,Phillips,Edith,null,null,Lake Linden av
+4804,Phillips,Eliz,null,null,5th
+4805,Phillips,Ethel,null,null,Depot 
+4807,Phillips,Gordon,null,null,Elm
+4808,Phillips,Jas,null,null,Calumet
+4809,Phillips,Jas,null,null,Lake Linden av
+4810,Phillips,John,G ,null,Elm
+4811,Phillips,Margt,null,null,Log
+4812,Phillips,Margt,L ,null,Lake Linden av
+4813,Phillips,Mary,C ,null,Waterworks
+4814,Phillips,Peter,null,null,Waterworks
+4815,Phillips,Peter,null,jr,Waterworks
+4816,Phillips,Thos,A ,null,Rockland
+4817,Phillips,Wendel,null,null,Elm
+4818,Phillips,Wm,null,null,Scott
+4819,Piana,Dominick,J ,null,D
+4820,Picchi,Peter,null,null,5th
+4821,Picchieotino,Julia,A ,null,6th
+4822,Picchieotino,Mary,C ,null,6th
+4825,Picchiottino,John,null,null,7th
+4826,Picchiottino,Mary,null,null,6th
+4827,Picchiottino,Pauline,null,null,Temple
+4828,Picciano,Michl,null,null,7th 
+4829,Pichiotino,Julia,null,null,6th
+4830,Picotte,Gordon,J ,null,Rockland
+4831,Picotte,Irving,R ,null,Hecla
+4832,Picotte,Jos,null,null,Hecla
+4835,Piercecchi,Carl,null,null,Union
+4837,Pieti,Isaac,A ,null,7th
+4838,Pietila,Alf,null,null,B
+4839,Pietila,Elsie,null,null,Ash 
+4844,Pietila,Wallace,null,null,B
+4846,Pignocco,Domenic,null,null,Hecla
+4847,Pignocco,Secondina,null,null,Rockland
+4851,Piirto,Nata,null,null,3d
+4854,Pintamo,Elma,null,null,Maple 
+4855,Pioletti,John,null,null,Red Jacket Shaft loc
+4856,Piper,John,T ,null,Boundary
+4857,Pistonetti,Theresa,null,null,Osceola rd
+4858,Pistotti,Cath,null,null,Boundary
+4859,Pistotti,Louis,null,null,Boundary
+4860,Pitkanen,Oscar,null,null,Liberty
+4863,Plautz,Jos,M ,null,7th
+4864,Plautz,Margt,null,null,7th
+4866,Plesh,Caroline,null,null,Maple 
+4867,Plut,John,null,null,4th
+4868,Plut,John,null,jr,4th
+4869,Plutz,John,null,null,Scott
+4872,Pohjola,Edwin,null,null,1st 
+4873,Pohjola,Reuben,null,null,1st 
+4874,Poikkanen,Helga,null,null,5th
+4875,Poirier,Cecelia,null,null,Pine
+4876,Poisson,Arth,null,null,Rockland
+4877,Poisson,Eli,null,null,Rockland
+4878,Poisson,Eug,null,null,County rd
+4879,Poisson,Helen,null,null,Rockland
+4882,Poisson,Raymond,null,null,Rockland
+4883,Poisson,Virginia,null,null,Rockland
+4884,Pojaich,Frank,null,null,6th
+4885,Pojhola,Rueben,null,null,1st 
+4886,Pojhola,Sander,null,null,1st 
+4890,Poliuto,Dominick,null,null,Union
+4898,Pollitt,Robt,null,null,Elm
+4899,Pollitt,Seldon,T ,null,Elm
+4900,Pollitt,Thos,null,null,Elm
+4901,Poma,Chas,null,null,Temple
+4902,Poma,Jas,null,null,Temple
+4903,Poma,Vincent,null,null,Temple
+4904,Poma,Vincent,null,jr,Temple
+4906,Ponsetto,Girgio,null,null,Cedar
+4907,Pontello,Agnes,null,null,E Acorn
+4908,Pontello,Frank,null,null,E Acorn
+4909,Poole,Dorothy,null,null,N Rockland
+4910,Poole,Glen,null,null,N Rockland
+4911,Poole,Helen,null,null,N Rockland
+4912,Poole,Herbert,null,null,N Rockland
+4914,Pope,Margt,null,null,Temple
+4915,Popovich,John,null,null,D
+4918,Porko,Michl,null,null,Calumet av
+4924,Poti,Abram,null,null,Pine
+4928,Pratt,Alvina,Mrs ,null,Tunnel 
+4930,Preiss,Lloyd,V ,null,Temple 
+4931,Preuss,Gust,null,null,Hecla 
+4934,Price,Moses,null,null,Oak
+4937,Primeau,Albert,null,null,2d 
+4938,Primeau,Emil,E ,null,3d 
+4939,Primeau,Frank,null,null,2d 
+4940,Primeau,Gertrude,null,null,3d 
+4941,Primeau,John,null,null,3d 
+4942,Primeau,Jos,null,null,3d 
+4943,Primeau,Jos,J ,null,2d 
+4944,Primeau,Margt,null,null,3d 
+4950,Pryor,Jas,T ,null,Tamarack
+4951,Pryor,Nan,null,null,Portland
+4952,Pryor,Ruth,I ,null,Portland PUBLIC GARAGE CO 
+4956,Pudas,Hilda,null,null,1st 
+4957,Pudas,Oscar,null,null,1st 
+4958,Puhek,Anna,null,null,E Cone
+4959,Puhek,John,null,null,E Cone
+4962,Purchia,John,null,null,Wedge
+4966,Pyorala,Toivo,null,null,B
+4967,Pyorala,Wm,null,null,Calumet av
+4975,Quello,Anna,null,null,8th
+4978,Quello,Batistta,null,null,Wedge
+4980,Quello,John,null,null,8th
+4981,Quello,Margt,null,null,8th
+4982,Quello,Marie,null,null,Laurium
+4983,Quello,Peter,null,null,Laurium
+4984,Quick,Eliz,null,null,Iroquois 
+4986,Quick,Minnie,null,null,Iroquois 
+4987,Quill,Edw,J ,null,8th
+4988,Quirk,Cornelius,null,null,6th
+4989,Raade,Arnold,null,null,Columbia
+4990,Raade,John,null,null,Columbia
+4991,Raade,Mabel,null,null,Columbia
+4992,Raade,Norman,null,null,Columbia
+4993,Raade,Raymond,null,null,Columbia
+4994,Raade,Ronald,null,null,Columbia
+5003,Rader,Anna,L ,null,Lake Linden av
+5004,Rader,Arth,J ,null,Lake Linden av
+5015,Raisenen,Doris,null,null,Ridge 
+5016,Rajacic,Eli,null,null,Temple
+5017,Rajacic,Marcus,null,null,Temple
+5018,Rajala,Hilma,null,null,2d 
+5019,Rajala,Kate,null,null,2d 
+5020,Rajunen,Anna,null,null,Pine
+5021,Rajunen,Wm,null,null,Pine
+5024,Randa,Cath,null,null,Caledonia
+5025,Randa,Ed,null,null,Caledonia
+5026,Randa,Elmer,null,null,Caledonia
+5028,Rangus,Agnes,null,null,11th
+5029,Rangus,Anton,null,null,11th
+5030,Rangus,Anton,null,jr,11th
+5031,Rangus,Frank,null,null,11th
+5032,Rangus,Jos,null,null,11th
+5034,Rappe,L,null,null,6th
+5037,Rasimowicz,Jos,null,null,2d 
+5040,Rastello,John,B ,null,B
+5041,Rastello,John,B ,null,B
+5044,Rauch,Jos,null,null,B
+5045,Raudio,John,null,null,Wedge
+5046,Rauker,Geo,null,null,1st 
+5047,Rauker,Matt,null,null,1st 
+5048,Raunaik,Johanna,null,null,E
+5049,Rautio,John,null,null,Pine
+5052,Rautiola,Chester,W ,null,Caledonia
+5053,Rautiola,John,A ,null,Caledonia
+5054,Rautiola,Laura,null,null,Caledonia
+5056,Rauvola,Chas,null,null,Union
+5057,Rauvola,Edna,null,null,Union
+5061,Redel,John,null,null,Log
+5062,Redman,Harry,M ,null,School
+5063,Redman,Wilfred,A ,null,School
+5066,Regis,Christina,null,null,Rockland
+5067,Regis,Geo,null,null,Hecla
+5068,Regis,John,null,null,Hecla
+5069,Regis,Jos,null,null,Caledonia
+5070,Regis,Minnie,null,null,Hecla
+5071,Reilly,Robt,null,null,Scott
+5072,Rein,Andrew,null,null,3d 
+5073,Rein,Edw,null,null,3d 
+5075,Rein,Sacris,null,null,Cambria
+5076,Rein,Waino,null,null,Cambria
+5077,Rein,Waldo,null,null,Cambria
+5078,Remillard,Geo,null,null,Mine
+5081,Renwick,Robt,null,null,Red Jacket Shaft loc
+5083,Renwick,Walter,null,null,Hecla
+5090,Reynolds,Eliz,null,null,County rd
+5091,Reynolds,Minnie,null,null,County rd
+5093,Rheault,Rosana,null,null,Boundary
+5094,Ricardi,Anton,null,null,E Pine
+5095,Ricca,Aug,null,null,Laurium
+5096,Ricca,Jos,null,null,Laurium
+5097,Ricca,Jos,null,jr,Laurium
+5098,Ricca,Matt,A ,null,Hecla
+5099,Ricca,Matt,A ,jr,Laurium
+5100,Ricca,Michl,null,null,Laurium
+5101,Ricca,Michl,null,null,B
+5102,Ricca,Veronica,null,null,Laurium
+5103,Ricca,Victor,null,null,Laurium
+5106,Richards,Ellen,null,null,Elm
+5107,Richards,Harold,null,null,Church
+5109,Richards,Minnie,null,null,Church
+5110,Richards,Percy,null,null,Cemetery
+5111,Richards,Richd,S ,null,Elm
+5112,Richards,Roy,null,null,Church
+5113,Richards,Sami,null,null,Church
+5114,Richards,Stanley,null,null,Elm
+5120,Rickstad,Danl,null,null,4th
+5123,Rinnan,Martin,C ,null,Red Jacket Shaft loc
+5124,Rintz,Harry,J ,null,Portland
+5125,Rissio,Domonic,null,null,Lake Linden av
+5126,Rissio,Eliz,null,null,Lake Linden av
+5127,Rissio,Jos,null,null,Lake Linden av
+5128,Rassio,Sadie,null,null,Lake Linden av
+5129,Rissio,Steven,null,null,Lake Linden av
+5130,Risumaki,Erik,null,null,3d 
+5133,Riva,Martin,null,null,Calumet
+5134,Riva,Tony,null,null,Calumet av
+5136,Roberts,Chas,null,null,Calumet av
+5137,Roberts,Jas,P ,null,Poplar 
+5138,Roberts,John,A ,null,Red Jacket Shaft loc
+5139,Roberts,Jos,A ,null,11th
+5140,Roberts,Marjorie,null,null,Calumet av
+5142,Roberts,Percy,null,null,11th
+5143,Roberts,Philip,null,null,Poplar 
+5145,Roberts,Stanley,null,null,11th
+5146,Robertson,Cath,M ,null,Florida
+5151,Rodda,Benj,null,null,4th
+5152,Rodda,Oswald,null,null,4th
+5153,Rodda,Wm,null,null,4th
+5154,Roehm,Hiram,H ,null,Willow av 
+5155,Rogers,Ella,null,null,Calumet 
+5156,Rogers,Julia,null,null,Red Jacket Shaft loc
+5157,Rogers,Mary,A ,null,Red Jacket Shaft loc
+5164,Rohrer,Anna,null,null,Rockland
+5165,Rohrer,Malvine,null,null,Rockland
+5166,Rolando,John,null,null,D
+5169,Rolando,Peter,null,null,D
+5170,Rolando,Rose,null,null,D
+5173,Rom,Jacob,null,null,Pine
+5174,Rom,Jacob,null,jr,Pine
+5175,Rom,John,A ,null,Pine
+5176,Rom,Jos,null,null,Pine
+5177,Rom,Kath,null,null,Oak
+5178,Rom,Peter,null,null,Cedar
+5179,Rom,Rudolph,null,null,Cedar
+5181,Romsek,Anna,null,null,E Pine
+5182,Romsek,Peter,null,null,E Pine
+5183,Rond,Geo,null,null,Log
+5184,Rondy,Ray,null,null,Boones la
+5186,Rooni,Urko,null,null,Caledonia
+5187,Roori,John,null,null,Pine
+5188,Rosberg,Ed,null,null,Mine
+5189,Rosemergy,Harold,M ,null,County rd 
+5190,Rosemergy,Marcella,E ,null,County rd 
+5191,Rosemergy,Silas,null,null,County rd 
+5192,Rosemergy,Wm,H ,null,County rd 
+5193,Rosemergy,Wm,H ,jr,County rd 
+5195,Rosenbaum,Harry,null,null,8th
+5196,Rosenbaum,Saul,null,null,8th
+5197,Rosenbaum,Tillie,null,null,8th
+5201,Ross,Oscar,null,null,Caledonia
+5203,Rosskelly,Grace,null,null,Calumet av
+5204,Rosskelly,Margt,null,null,Calumet av
+5205,Rosskelly,Robt,null,null,Calumet av
+5206,Rosso,Louise,J ,null,Hecla
+5207,Rosso,Mary,null,null,Hecla
+5208,Rost,Frank,null,null,Extension
+5209,Rost,Frank,L ,null,Waterworks
+5210,Rost,Minnie,null,null,Waterworks
+5211,Rost,Pearl,null,null,Waterworks
+5212,Rost,Peter,null,null,Waterworks
+5213,Rost,Russell,R ,null,Waterworks
+5214,Rost,Walter,C ,null,Waterworks
+5215,Rost,Wm,E ,null,Waterworks
+5216,Rota,Alex,null,null,Cambria
+5217,Rota,Bernard,null,null,Cambria
+5219,Roux,Arth,null,null,Hecla
+5220,Roux,Hubert,null,null,Hecla
+5221,Roux,Randolph,null,null,Hecla
+5222,Roux,Russell,null,null,Hecla
+5225,Rovano,John,null,null,Laurium
+5226,Rovano,Rose,null,null,Elm
+5227,Rowe,Albert,null,null,County rd 
+5228,Rowe,Alex,null,null,Boundary
+5229,Rowe,Belle,null,null,County rd 
+5230,Rowe,Clara,H ,null,Hecla
+5231,Rowe,Ellen,Mrs ,null,Rockland
+5234,Rowe,Ida,null,null,County rd 
+5235,Rowe,Jas,null,null,Ridge 
+5236,Rowe,John,null,null,County rd 
+5237,Rowe,John,H ,null,Ridge 
+5239,Rowe,Oakley,null,null,3d 
+5240,Rowe,Rueben,null,null,2d 
+5241,Rowe,Thos,null,null,Caledonia
+5243,Rowe,Ward,null,null,County rd 
+5244,Rowe,Weldon,null,null,Boundary
+5245,Rowe,Wilbert,J ,null,6th
+5247,Rowlins,Carlos,null,null,2d 
+5248,Rowlins,Eliz,null,null,2d 
+5256,Rozman,John,null,null,C
+5257,Rozman,John,null,jr,C
+5259,Ruggles,Wm,H ,null,Hecla
+5261,Rule,Jas,null,null,5th
+5262,Rule,Mary,A ,null,Amygdaloid 
+5263,Rule,Richd,T ,null,Amygdaloid 
+5264,Rule,Thos,C ,null,Amygdaloid 
+5265,Rundquist,Elmer,A ,null,Red Jacket Shaft loc
+5267,Ruppe,Peter,null,null,Pine
+5270,Rupprecht,C,H ,null,2d 
+5271,Rupprecht,Nina,R ,null,2d 
+5272,Rusko,Anna,null,null,Caledonia
+5273,Rusko,Anna,J ,null,Caledonia
+5274,Rusko,Eva,H ,null,Caledonia
+5275,Russell,Clarence,null,null,Oak
+5276,Russell,Frank,null,null,Laurium
+5277,Russell,Jas,null,null,Oak
+5278,Russert,Edw,null,null,Calumet av
+5279,Rusti,Emil,null,null,Caledonia
+5280,Ruuska,Geo,null,null,Boones la
+5285,Ryan,Chas,E ,null,7th
+5286,Ryan,Ella,G ,null,6th
+5287,Ryan,J,Paul ,null,6th
+5288,Ryan,Margt,null,null,6th
+5290,Boarding,Stables,null,null,do Tel 25 
+5291,Ryan,Wm,E ,null,6th
+5293,Rytilahti,Helen,null,null,Calumet av
+5294,Rytilahti,Henry,null,null,Calumet
+5295,Rytilahti,Sylvia,null,null,Calumet av
+5296,Ryty,Edw,null,null,Waterworks
+5297,Saam,John,null,null,6th
+5300,Saari,Wm,null,null,E Pine
+5301,Saatio,Arth,null,null,1st 
+5302,Saatio,Edna,null,null,4th
+5303,Saatio,Norman,null,null,4th
+5304,Saatio,Raymond,null,null,1st 
+5305,Saatio,Sylvia,null,null,4th
+5306,Saatro,Sandra,null,null,1st 
+5311,Sadler,Mary,null,null,Log
+5315,Sagemiller,Conrad,null,null,Mine 
+5316,Sagemiller,Douglas,null,null,Mine 
+5317,Saginaw,Sami,null,null,Caledonia
+5318,Sagoff,Walter,null,null,do
+5323,StCyr,Walter,G ,null,Rockland
+5328,StGermaine,Alf,null,null,Rockland
+5335,Saitz,Clara,null,null,Scott
+5336,Saitz,Jos,null,null,Elm
+5337,Saitz,Kath,null,null,Elm
+5338,Saitz,Mary,null,null,Wedge
+5339,Saitz,Nicholas,null,null,Scott
+5340,Saitz,Rudolph,null,null,Scott
+5343,Sallme,John,null,null,7th
+5344,Salmela,John,null,null,3d 
+5347,Salminen,Aliina,null,null,3d
+5348,Salminen,Waino,null,null,3d
+5350,Salmon,Anne,null,null,Calumet av
+5352,Salo,Anna,null,null,Caledonia
+5353,Salo,Eliz,null,null,Caledonia
+5354,Salo,Yalmer,null,null,Rockland
+5357,Sandberg,Elvira,null,null,Tunnel 
+5359,Sandretto,Bernard,null,null,Hecla
+5360,Sandretto,Dominic,null,null,County rd 
+5361,Sandretto,John,null,null,Stable
+5362,Sandretto,John,null,jr,Stable
+5365,Sandretto,Michl,null,null,Hecla
+5366,Sandstrom,Peter,null,null,Boundary
+5367,Sanko,Wallace,null,null,Mine
+5368,Sanregret,Leo,P ,null,6th
+5370,Sapino,Anton,null,null,Boundary
+5371,Sapino,Dominic,null,null,Laurium
+5372,Sapino,Kath,null,null,Boundary
+5373,Sapino,Peter,null,null,Laurium
+5375,Sarangia,Michl,null,null,S Rockland
+5378,Sarkka,Arth,null,null,Pine
+5383,Savala,Alf,null,null,Hecla
+5388,Schaeffer,Mae,null,null,Poplar 
+5389,Schaeffer,Pauline,null,null,Poplar 
+5390,Schaeffer,Peter,null,null,Poplar 
+5391,Schafer,Albert,J ,null,7th
+5392,Scheider,Carl,null,null,Hecla
+5393,Scheider,Martha,null,null,Hecla
+5396,Schenk,Chas,null,null,8th
+5397,Schenk,Hilary,J ,null,7th
+5398,Schenk,Paul,D ,null,Calumet av
+5399,Schenk,Wm,T ,null,7th
+5400,Schenk,Wm,T ,jr,7th
+5401,Scheringer,Irma,null,null,8th
+5402,Scheringer,Jos,null,null,Oak
+5409,Schmalzel,Anna,null,null,W Acorn
+5410,Schmalzel,John,null,null,W Acorn
+5411,Schmalzel,John,null,jr,W Acorn
+5412,Schmeisser,Mary,null,null,Liberty
+5413,Schmelzel,John,null,null,Acorn
+5415,Schmitt,Edw,null,null,A
+5416,Schmitt,Geo,null,null,A
+5417,Schmitt,Henry,null,null,A
+5418,Schmitt,Henry,W ,null,Cemetery
+5419,Schmitt,Irene,null,null,Bridge 
+5420,Schmitt,John,H ,null,Laurium
+5422,Schmitt,Otto,null,null,Caledonia
+5423,Schmitt,Peter,null,null,Bridge 
+5424,Schmitt,Raymond,null,null,Bridge 
+5425,Schnaiderhan,John,M ,null,Osceola rd
+5426,Schneiderhan,Edw,S ,null,Cedar
+5427,Schneller,Jos,A ,null,Portland
+5430,Schooler,Chas,W ,null,5th
+5432,Schroeder,Jos,F ,null,7th
+5433,Schroeder,Kath,M ,null,6th
+5434,Schroeder,Veronica,M ,null,6th
+5436,Schufka,Albert,null,null,2d
+5437,Schufka,Anna,null,null,2d
+5438,Schufka,John,null,null,2d
+5439,Schufka,Jos,null,null,2d
+5440,Schufka,Jos,null,jr,2d
+5442,Schulte,Hubert,null,null,7th
+5443,Schultz,Albert,null,null,Conglomerate 
+5444,Schultz,John,null,null,Conglomerate 
+5446,Schultz,Lawrence,null,null,Conglomerate 
+5447,Schultz,Paul,null,null,Red Jacket Shaft loc
+5448,Schultz,Rudolph,null,null,Conglomerate 
+5452,Schutz,Matt,null,null,Waterworks
+5453,Schween,Chas,null,null,Caledonia
+5455,Sciacero,Isola,null,null,8th
+5457,Sciacero,Louis,null,null,Boundary
+5460,Scott,Walter,null,null,Cemetefy
+5462,Sculcich,John,null,null,Red Jacket Shaft loc
+5463,Sculcich,Marko,null,null,Red Jacket Shaft loc
+5464,Scussel,Delphine,null,null,Laurium
+5465,Scussel,Frank,J ,null,Laurium
+5466,Scussel,Jos,null,null,Laurium
+5467,Scussel,Josephine,null,null,Laurium
+5468,Seal,Celema,null,null,Laurium
+5469,Seal,Jas,null,null,Laurium
+5470,Seal,Jos,null,null,Laurium
+5474,Sederhohn,Carl,null,null,Waterworks
+5476,Sederholm,Waino,null,null,Waterworks
+5477,Sederson,John,null,null,2d
+5481,Seger,Halmer,null,null,Calumet av
+5482,Seigle,H,L ,null,5th
+5484,Selak,Anton,null,null,Cedar
+5489,Semmens,Dorothy,null,null,Calumet av
+5490,Semmens,Jas,null,null,Calumet av
+5495,Seppala,David,null,null,Caledonia
+5496,Seppala,Ed,null,null,Caledonia
+5498,Seppala,Fred,null,null,Caledonia
+5500,Seppala,Herman,H ,null,2d 
+5501,Seppala,John,null,null,Caledonia
+5502,Seppala,Josephine,null,null,Caledonia
+5507,Sero,Jos,null,null,C
+5508,Serran,Mike,null,null,Rockland
+5511,Severinski,Anton,null,null,Cemetery
+5512,Severinski,Jos,null,null,County rd
+5513,Severinski,Kath,null,null,County rd
+5514,Sevirinski,Wm,null,null,Rockland
+5515,Seyler,Roy,null,null,Pine
+5518,Shaltz,Eliz,K ,null,7th
+5519,Shaltz,Frank,P ,null,County rd
+5520,Shaltz,Geo,null,null,Mine
+5521,Shaltz,John,P ,null,7th
+5522,Shaltz,Mary,L ,null,7th
+5525,Shaltz,Paul,M ,null,6th
+5526,Shank,Chas,null,null,8th
+5529,Shannon,Harry,null,null,Depot
+5530,Sharp,Jas,null,null,Rockland
+5532,Shea,Clara,null,null,th
+5534,Shea,Henry,null,null,Rockland
+5535,Shea,John,D ,null,Calumet av
+5537,Shea,Thos,null,null,6th
+5538,Sheehan,Francis,J ,null,Waterworks
+5539,Sheehan,Jas,H ,null,Laurium
+5541,Sheehan,Margt,null,null,Waterworks
+5542,Sheehan,Mary,null,null,Elm
+5543,Sheehan,Michl,null,null,Calumet av
+5544,Sheehan,Patk,null,null,Calumet av
+5546,Shegina,Peter,null,null,A
+5547,Shepeard,Theo,null,null,Rockland av
+5549,Sherf,John,null,null,Rockland
+5550,Sherf,John,H ,null,Rockland
+5551,Sheridan,Agnes,A ,null,6th
+5552,Sheridan,Wm,null,null,Portland
+5555,Shimatz,Kath,null,null,Waterworks
+5556,Shimetz,Agnes,null,null,Cedar
+5557,Shimetz,Frank,null,null,Cedar
+5558,Shimetz,John,null,null,Cedar
+5559,Shimetz,Jos,null,null,Cedar
+5560,Shimetz,Jos,null,null,Cedar
+5561,Shimetz,Jos,null,null,Elm
+5562,Shimetz,Kath,null,null,Cedar
+5563,Shimetz,Kath,null,null,Cedar
+5564,Shimetz,Louis,null,null,Cedar
+5565,Shimetz,Louis,null,null,Cedar
+5566,Shimetz,Margt,null,null,Cedar
+5568,Shrps,Aug,null,null,Log
+5569,Shuty,Amelia,null,null,Oak
+5571,Sibilsky,Clarence,null,null,8th
+5572,Sibilsky,Marion,null,null,8th
+5573,Sibilsky,Matilda,Mrs ,null,8th
+5576,Sieger,Henry,null,null,Laurium
+5577,Sihtal,Effie,E ,null,Kearsarge loc
+5578,Siipola,Francis,C ,null,Temple
+5582,Siiterson,Arvid,null,null,C
+5589,Simmons,Harold,null,null,N Rockland
+5590,Simmons,John,null,null,E Pine
+5591,Simmons,Mildred,null,null,E Pine
+5592,Simms,Paul,null,null,5th
+5593,Simon,John,null,null,Log
+5594,Simonen,Danl,null,null,Calumet av
+5595,Simonen,Wilbert,null,null,Calumet av
+5596,Simonich,Frank,null,jr,6th
+5597,Simonich,Jos,null,null,Log
+5598,Simonich,Kath,null,null,Middle
+5599,Simonich,Virgil,F ,null,6th
+5600,Simonson,Geo,null,null,Waterworks
+5601,Simonson,Oliver,null,null,Ash 
+5602,Simonson,Richd,null,null,Waterworks
+5603,Simonson,Richd,null,null,10th
+5604,Simonson,Rudolph,null,null,Ash 
+5605,Simpson,Geo,H ,null,Rockland
+5606,Sims,Irene,A ,Mrs,Agent
+5608,Sincock,Albert,C ,null,2d 
+5611,Sincock,Geo,null,null,2d 
+5612,Sincock,Margt,null,null,Calumet av
+5613,Sincock,Irving,W ,null,Calumet av
+5614,Sincock,Wm,J ,null,Calumet av
+5616,Sincock,Wm,R ,null,Florida 
+5618,Sippola,Cecelia,null,null,Pine
+5620,Sironen,Rayno,null,null,Ridge 
+5623,Sitturi,Julius,null,null,5th
+5624,Sjoblom,Vernon,null,null,County rd
+5627,Sjolund,Herman,null,null,Elm
+5628,Sjolund,Lillian,null,null,Elm
+5630,Sjolund,Rose,null,null,Elm
+5631,Skana,Gust,null,null,Union
+5633,Skogan,Louis,null,null,Scott
+5634,Skoriga,Kath,null,null,7th 
+5636,Skufca,Frank,null,null,Elm
+5637,Skufca,Jos,null,null,Elm
+5639,Skwiercz,Leo,null,null,Laurium
+5641,Slevatz,Anton,null,null,B
+5642,Slevatz,Eli,null,null,B
+5643,Sloan,Eliz,null,null,Hecla
+5647,Smith,Chas,null,null,Scott
+5648,Smith,Ethel,null,null,9th
+5649,Smith,Evelyn,L ,null,5th
+5650,Smith,Geo,C ,null,Chestnut 
+5652,Smith,Michl,null,null,7th
+5654,Smith,Roland,null,null,Calumet av
+5655,Smith,Ruth,M ,Mrs,5th
+5656,Smith,Thos,W ,null,6th
+5657,Smittenberg,Axel,null,null,Rockland
+5658,Smittenberg,Harry,null,null,Rockland
+5662,Snickari,Alf,null,null,2d
+5663,Snickari,Henry,null,null,2d
+5664,Soddy,Francis,D ,null,Depot
+5665,Soddy,Harold,R ,null,Boundary
+5666,Soddy,Steph,null,null,Rockland
+5667,Soddy,Thos,P ,null,Calumet av
+5668,Soddy,Wm,null,null,Depot
+5670,Sojat,Matt,null,null,5th
+5671,Solarski,Nicholas,null,null,Bridge 
+5674,Somero,Hjalmar,null,null,Pine
+5678,Somrak,John,null,null,6th 
+5679,Somrida,Dominic,null,null,D
+5680,Somrida,Frank,null,null,D
+5681,Somrida,Jay,null,null,D
+5682,Somrida,Johanna,null,null,D
+5683,Somrida,Matt,null,null,D
+5686,Sorenen,Caroline,null,null,Tunnel 
+5687,Sorenen,Chas,A ,null,Tunnel 
+5688,Sorenen,Edw,null,null,Tunnel 
+5689,Sorensen,Wallace,null,null,Chestnut 
+5690,Soronen,Richd,null,null,Elm
+5694,Sossi,Anton,null,null,4th
+5695,Sossi,Jas,null,null,4th
+5696,Sossi,Jos,null,null,4th
+5697,Sossi,Michl,null,null,4th
+5698,Sotlich,Agnes,null,null,7th
+5699,Sotlich,John,null,null,7th
+5700,Sotlich,Mae,null,null,7th
+5702,Souela,Matt,null,null,Pine
+5705,Speed,Robt,null,null,9th
+5706,Spehar,Cath,null,null,8th
+5708,Spehar,Geo,B ,null,7th
+5709,Spehar,Paul,null,null,Bridge 
+5710,Spehar,Paul,M ,null,8th
+5711,Spehar,Peter,null,null,Oak
+5712,Spehar,Rudolph,null,null,Hecla
+5713,Spence,Eliz,null,null,Waterworks
+5714,Speritzer,Anna,null,null,Maple 
+5715,Speritzer,Matt,null,null,Maple 
+5717,Sporiga,John,Mrs ,null,7th 
+5718,Spreitzer,John,null,null,Calumet av
+5719,Spreitzer,John,null,null,7th
+5720,Spreitzer,John,null,jr,12 Calumet av
+5723,Spritz,Thos,null,null,B
+5729,Stafford,Jos,null,jr,Elm
+5730,Stafford,Jos,W ,null,Elm
+5731,Stafford,Melba,null,null,Elm
+5732,Stalker,Barbara,null,null,Rockland
+5733,Stalker,Jean,null,null,Rockland
+5736,Standohar,Anna,null,null,Cedar
+5738,Stanfel,Frank,null,null,Cedar
+5739,Stanfel,Ursula,null,null,Calumet av
+5744,Staricka,Anna,null,null,County rd
+5745,Staricka,Jacob,null,null,County rd
+5747,Staricka,Jos,null,null,County rd
+5748,Storicka,Matt,null,null,County rd
+5749,Staricka,Rudolph,null,null,County rd
+5750,Stariha,John,null,null,Middle
+5751,Stariha,Matt,null,null,Middle
+5752,Stark,Chas,null,null,A
+5753,Staudohar,Frances,null,null,8th
+5757,Steck,Alden,L ,null,do
+5758,Steck,Francis,W ,null,B
+5759,Steck,Frank,null,null,B
+5760,Steckbauer,Wm,E ,null,6th
+5762,Stella,Peter,null,null,Caledonia
+5763,Stellberg,Arth,A ,null,Elm
+5764,Stellberg,Ellen,null,null,Elm
+5766,Stenback,Eila,null,null,7th
+5768,Stephanich,Mike,null,null,4th 
+5769,Stephen,Albert,null,null,Calumet av
+5770,Stephens,Arth,null,null,Elm
+5771,Stephens,Dorothy,null,null,Elm
+5774,Sterbenz,Mary,null,null,D
+5775,Sterbenz,Peter,M ,null,Boundary
+5776,Sterk,Anna,null,null,Extension
+5777,Sterk,Anna,null,null,Union
+5778,Sterk,Anton,null,null,Scott
+5779,Sterk,Cath,null,null,Union
+5780,Sterk,Frances,null,null,Union
+5781,Sterk,John,null,null,Extension
+5782,Sterk,John,S ,null,Union
+5783,Sterk,Jos,null,null,Extension
+5784,Sterk,Jos,null,null,Union
+5786,Sterk,Paul,J ,null,Extension
+5787,Sterk,Peter,null,jr,Extension
+5788,Sterk,Peter,Z ,null,Extension
+5790,Stevens,Edw,null,null,Rockland
+5792,Stevens,John,H ,null,6th
+5793,Stevens,Mary,L ,null,6th
+5794,Stevens,Richd,null,null,Calumet av
+5795,Stewart,Kath,M ,null,3d 
+5797,Stigilich,Anna,null,null,7th 
+5798,Stigilich,Anton,null,null,7th 
+5799,Stigilich,Thos,null,null,7th 
+5800,Stigilich,Thos,null,null,6th 
+5802,Stinhut,John,null,null,W Acorn
+5803,Stinhut,Peter,null,null,W Acorn
+5804,Stipech,Edw,S ,null,Temple
+5806,Stocking,Fred,F ,null,Calumet av
+5808,Stopar,Angeline,M ,null,11th
+5809,Stopar,Christina,null,null,11th
+5810,Stopar,Louis,null,jr,11th
+5811,Stopar,Louis,J ,null,11th
+5813,Stott,Edith,M ,null,Scott
+5814,Strand,Anton,null,null,Hecla
+5816,Strand,Bertha,null,null,Hecla
+5818,Strand,Edw,P ,null,Rockland
+5820,Strand,Fred,null,null,Caledonia
+5821,Strand,John,null,null,Hecla
+5822,Strauss,Edw,null,null,B
+5823,Strauss,Matt,null,null,B
+5824,Strauss,Matt,null,null,B
+5825,Strauss,Steph,null,null,B
+5826,Streicher,Henry,null,null,Stable
+5827,Streicher,Ina,null,null,Stable
+5828,Stridfelt,Anton,null,null,2d 
+5830,Stridfelt,Melba,null,null,2d 
+5832,Strom,Albert,null,null,W Cone
+5833,Strom,Dorothy,null,null,Oak 
+5834,Strom,Gustav,null,null,Oak
+5835,Strom,Rudolph,null,null,Oak 
+5836,Strom,Theo,null,null,Oak 
+5837,Strom,Vernon,null,null,W Cone
+5838,Strom,Wm,null,null,Oak 
+5842,Strucel,Geo,null,null,Scott
+5844,Strucel,Michl,null,null,Pine
+5845,Struck,Louise,null,null,Boundary
+5846,Struck,Sophie,null,null,Boundary
+5847,Stukel,Frank,null,null,10th
+5850,Stukel,John,J ,null,10th
+5851,Stukel,John,S ,null,8th
+5852,Stukel,Jos,null,null,8th
+5853,Stukel,Matt,null,null,10th
+5854,Stukel,Rudolph,null,null,10th
+5855,Sturk,Carl,S ,null,Lake Linden
+5857,Stutendroth,Ruth,I ,null,7th
+5859,Suhonen,Beatrice,null,null,3d 
+5860,Suhonen,John,null,null,3d 
+5861,Suhonen,Milfred,null,null,3d 
+5864,Suino,Kath,R ,null,7th
+5866,Suino,Marie,A ,null,7th
+5867,Sullivan,Bridget,null,null,Caledonia
+5868,Sullivan,Ciancia,null,null,E Pine
+5869,Sullivan,Claude,null,null,Red Jacket Shaft loc
+5871,Sullivan,Cornelius,null,null,E Pine
+5872,Sullivan,Cornelius,null,null,Laurium
+5873,Sullivan,David,A ,null,Hecla
+5874,Sullivan,Dennis,null,null,Middle
+5875,Sullivan,Ellen,null,null,8th
+5879,Sullivan,Gerald,B ,null,7th
+5880,Sullivan,Geraldine,M ,null,8th
+5883,Sullivan,Jas,null,null,Laurium
+5884,Sullivan,Jas,J ,null,Red Jacket Shaft loc
+5885,Sullivan,Jerry,null,null,8th
+5886,Sullivan,John,null,null,Cambria
+5887,Sullivan,John,null,null,Waterworks
+5888,Sullivan,John,null,null,Caledonia
+5889,Sullivan,John,null,null,Caledonia
+5890,Sullivan,John,A ,null,Scott
+5893,Sullivan,John,F ,null,Rockland
+5895,Sullivan,Jos,null,null,Cambria
+5896,Sullivan,Jos,null,null,Laurium
+5897,Sullivan,Jos,E ,null,5th
+5898,Sullivan,Julia,null,null,Middle
+5899,Sullivan,Kath,null,null,7th
+5900,Sullivan,Lillian,null,null,Cambria
+5901,Sulilvan,Magdalen,null,null,Woodland av 
+5902,Sullivan,Margt,null,null,Caledonia
+5903,Sullivan,Margt,null,null,7th
+5904,Sullivan,Mary,null,null,Cambria
+5905,Sullivan,Mary,null,null,Middle
+5906,Sullivan,Mary,null,null,Caledonia
+5908,Sullivan,Mayme,null,null,7th
+5909,Sullivan,Michl,null,null,Caledonia
+5910,Sullivan,Neil,null,null,E Pine
+5911,Sullivan,Neil,null,null,7th
+5912,Sullivan,Noreen,null,null,Calumet av
+5913,Sullivan,Patk,null,null,Calumet av
+5914,Sullivan,Peter,null,null,Calumet av
+5915,Sullivan,Robt,null,null,Laurium
+5916,Sullivan,Timothy,null,null,County rd
+5917,Sundberg,Gust,A ,null,Rockland
+5919,Sundquist,Amelia,null,null,2d 
+5920,Sunich,Angeline,null,null,Chestnut 
+5921,Sunich,Jos,null,null,Chestnut 
+5922,Sunich,Michl,null,null,8th
+5923,Sunich,Thressa,null,null,Chestnut 
+5924,Suo,Mayme,null,null,Caledonia
+5925,Supan,Cath,null,null,Temple
+5926,Supan,Jos,null,null,Temple
+5927,Supancich,Jos,null,null,A
+5928,Supanich,Anna,null,null,Union
+5929,Supanich,Frank,null,null,Union
+5930,Supanich,Jos,null,null,Union
+5931,Suppelsa,Anton,B ,null,7th
+5932,Suppelsa,Henry,null,null,Rockland
+5935,Sustarsich,Emma,null,null,Calumet av
+5936,Sustarsich,Frank,null,null,Calumet av
+5938,Sustarsich,John,null,null,B
+5939,Sustarsich,John,null,null,Calumet av
+5940,Sustarsich,Jos,null,null,B
+5941,Sustarsich,Jos,null,null,Calumet av
+5942,Sustarsich,Martin,null,null,Calumet av
+5943,Sustarsich,Mary,null,null,Calumet av
+5944,Sutinen,Arth,null,null,Ridge 
+5947,Sutinen,Fred,null,null,Ridge 
+5948,Sutinen,Matt,null,null,Ridge 
+5952,Svadich,Alex,null,null,Tunnel 
+5953,Svadich,John,null,null,Tunnel 
+5954,Svetich,Lucas,null,null,Portland
+5955,Svetich,Mary,null,null,Portland
+5958,Swanson,Carl,A ,null,Mine
+5959,Swanson,Carl,E ,null,2d
+5963,Swanson,Florence,null,null,2d
+5964,Swanson,Ina,Mrs ,null,Ridge 
+5965,Swanson,Jas,W ,null,Mine
+5969,Sweeney,Harold,W ,null,Hecla 
+5971,Swetich,John,null,null,8th 
+5972,Swetich,Jos,M ,null,Oak
+5979,Symons,Oliver,T ,null,E Acorn
+5980,Symons,Wm,null,null,Rockland
+5981,Szatkowski,John,null,null,Wedge
+5982,Szatkowski,Kath,null,null,Wedge
+5984,Szymanski,Vincent,L ,null,Boundary
+5985,Taavensaari,Alex,null,null,1st 
+5986,Taavensaari,Hubert,null,null,1st 
+5987,Taavensaari,Miriam,null,null,1st 
+5988,Taavensaari,Paul,null,null,1st 
+5989,Tabacchi,Jas,R ,null,Caledonia
+5992,Taipalus,John,A ,null,2d 
+5993,Taipalus,Lucile,null,null,1st 
+5994,Taipalus,Wesley,null,null,1st 
+5996,Takala,Mabel,null,null,Pine
+5998,Takala,Wesley,null,null,Pine
+6000,Takkala,Alina,null,null,2d 
+6001,Takkala,Arvid,null,null,2d 
+6002,Takkala,Edw,null,null,2d 
+6003,Takkalva,Henry,null,null,Pewabic
+6005,Tailback,Wm,null,null,Pine
+6010,Talvensaari,Hilma,null,null,3d 
+6011,Talvensaari,Jalmer,null,null,3d 
+6012,Talvensaari,John,null,null,3d 
+6013,Talvensaari,Michl,null,null,3d 
+6015,Talvensaari,Walberg,null,null,3d 
+6016,Tambellini,Amido,null,null,8th
+6017,Tambellini,Armida,null,null,8th
+6018,Tambellini,Dante,A ,null,8th
+6019,Tambellini,Edw,C ,null,8th
+6021,Tambellini,Floyd,null,null,8th
+6022,Tambellini,Hugo,null,null,Portland
+6023,Tambellini,Jeanne,null,null,Portland
+6024,Tambellini,John,null,null,Portland
+6026,Tamjonvich,Alex,null,null,B
+6027,Tamjonvich,Jacob,null,null,B
+6028,Tapani,Aug,A ,null,2d
+6029,Tapani,David,null,null,Tunnel 
+6030,Tapani,Martha,null,null,Cedar
+6032,Tapani,Waino,null,null,Cedar
+6033,Tapani,Wendel,null,null,2d
+6035,Tapio,Wm,null,null,Log
+6037,Tappia,Hilda,null,null,Cambria
+6038,Tappola,Erick,null,null,4th 
+6040,Tardiff,Eliz,null,null,Boundary
+6041,Tardiff,Ludger,null,null,Rockland
+6042,Tardiff,Michl,null,null,Rockland
+6043,Tarvas,Marion,A ,null,Pine
+6044,Tarvas,Matt,U ,null,Pine
+6045,Tarvas,Ralph,J ,null,Pine
+6049,Tate,Everett,T ,null,5th
+6050,Taube,Hilding,null,null,Caledonia
+6054,Taylor,Russell,null,null,Florida 
+6055,Taylor,Wm,null,null,Rockland
+6056,Teague,Kath,null,null,4th 
+6057,Tecotzky,Harry,null,null,6th
+6058,Tecotzky,Sami,null,null,6th 
+6059,Teddy,Albert,J ,null,Calumet av
+6065,Tepatti,Antony,null,null,10th
+6066,Teppatti,Cath,null,null,10th
+6067,Tellpatti,Jas,B ,null,10th
+6068,Tepatti,Margt,null,null,E
+6069,Tepatti,Peter,null,null,E
+6071,Terdich,Michl,null,null,Osceola rd 
+6072,Termanen,Louis,null,null,County rd
+6073,Termanen,Sylvia,null,null,County rd
+6074,Tero,Henry,A ,null,Waterworks
+6075,Terrell,Clarence,null,null,Laurium
+6076,Terrian,Elmer,L ,null,Cemetery
+6077,Terrian,Carl,null,null,Cemetery
+6078,Terrian,Wm,null,null,Cemetery
+6080,Terrl11,Roy,T ,null,Boundary
+6088,Theriault,Edw,null,null,6th
+6089,Theriault,Eleanore,null,null,6th
+6090,Theriault,Mercedes,O ,null,6th
+6093,Thewrer,Cleophas,Brother ,null,Rockland
+6095,Thom,Natalia,null,null,5th
+6096,Thomas,Alf,J ,null,Tamarack Jr loc
+6097,Thomas,Anna,null,null,5th 
+6098,Thomas,Annie,null,null,3d
+6099,Thomas,Cath,null,null,Calumet av
+6103,Thomas,Frances,null,null,Tamarack Jr loc
+6105,Thomas,Genevieve,null,null,Rockland
+6106,Thomas,Henry,null,null,Hecla
+6107,Thomas,Jas,A ,null,Rockland
+6109,Thomas,Kath,null,null,Scott
+6110,Thomas,Leona,null,null,Kearsarge
+6111,Thomas,LeRoy,null,null,10th
+6112,Thomas,Margt,null,null,Rockland
+6113,Thomas,Mary,A ,null,Calumet av
+6114,Thomas,Nettie,null,null,5th
+6116,Thomas,Robt,J ,null,Calumet av
+6117,Thomas,Wesley,null,null,Rockland
+6118,Thomas,Wesley,null,jr,Rockland
+6119,Thomas,Wm,H ,null,Portland
+6121,Thompson,Conrad,B ,null,Rockland
+6123,Thone,Arth,null,null,Log
+6124,Thorpe,Geo,null,null,Portland
+6125,Thorpe,Gertrude,Mrs ,null,Caledonia
+6126,Thorsen,Thos,null,null,6th
+6129,Thulin,Carl,null,null,W Cone
+6130,Thulin,Ernest,null,null,10th
+6131,Thulin,Richd,null,null,W Cone
+6132,Thulin,Teckla,Mrs ,null,10th
+6133,Thulin,Theo,E ,null,7th
+6134,Thurner,Frank,P ,null,5th
+6135,Thurner,Helen,A ,null,5th
+6136,Thurner,Jos,null,null,5th
+6137,Tiberg,Hans,null,null,10th
+6138,Tiberg,Henry,null,null,10th
+6139,Tiberg,Peter,null,null,E Cone
+6142,Tikkonen,Henry,null,null,County rd
+6143,Tikkonen,Reino,null,null,County rd
+6145,Tingman,Arth,H ,null,Elm
+6146,Tingman,Henrietta,null,null,Elm
+6147,Tiuri,Betty,null,null,Tunnel 
+6148,Tiuri,John,null,null,Tunnel 
+6149,Tiuri,Peter,null,null,Tunnel 
+6150,Tiuri,Walter,null,null,Tunnel 
+6151,Tivela,Edw,null,null,10th
+6152,Tivela,Elsie,null,null,10th
+6153,Tivela,Herman,null,null,10th
+6154,Tivela,Irving,null,null,10th
+6155,Tivela,Wesley,null,null,10th
+6157,Tobin,Edw,J ,null,Calumet av
+6158,Tobin,Eloise,J ,null,Calumet av
+6159,Tobin,Emma,null,null,Calumet av
+6160,Tobin,Pat,null,null,Cemetery
+6161,Tobin,Vina,null,null,Cemetery
+6165,Tognetti,Azzuntina,null,null,10th
+6166,Tognetti,Louis,null,null,10th
+6168,Tomalka,Steph,null,null,Midle
+6169,Tomasi,Andrew,null,null,Calumet av
+6171,Tomasi,Michl,null,null,Calumet av
+6172,Tomasi,Peter,null,null,Temple
+6173,Tomasi,Tony,null,null,Temple
+6175,Tomlinson,Wm,H ,null,6th
+6177,Toms,Arbutus,null,null,Laurium
+6178,Toms,Jas,null,null,Larium
+6179,Toms,Mabel,null,null,Larium
+6180,Toms,Wm,G ,null,Mine
+6181,Toms,Wm,J ,null,Boundary
+6188,Torma,Nickolai,null,null,Lake Linden av
+6191,Tornquist,Alvin,null,null,Caledonia
+6192,Tcmquist,Anshell,null,null,Caledonia
+6193,Tornquist,Chas,null,null,Caledonia
+6194,Tornquist,Daisy,null,null,Caledonia
+6195,Tornquist,Ernest,null,null,Lake Linden av 
+6196,Tornquist,John,null,null,Caledonia
+6197,Tornquist,Thorvel,null,null,Caledonia
+6198,Tornquist,Verner,null,null,Caledonia
+6199,Torola,Walter,Rev ,null,Pine
+6200,Torreano,Cath,null,null,Rockland
+6201,Torreano,Eleanor,null,null,Rockland
+6203,Torreano,John,D ,null,Rockland
+6204,Torreano,John,M ,null,Rockland
+6205,Torvonen,Victor,null,null,Cedar
+6206,Toski,Emil,null,null,1st 
+6207,Toski,Toivo,null,null,1st 
+6215,Trahan,Albert,null,null,Middle
+6216,Trahan,Elvin,null,null,Middle
+6217,Trahan,Fredk,null,null,Middle
+6218,Trahan,Irene,null,null,Middle
+6219,Trahan,Isadore,null,null,Middle
+6221,Travan,Tony,null,null,Cedar
+6222,Travan,Frank,null,null,Cedar
+6225,Traven,John,null,null,Calumet av
+6227,Trebilcock,W,E ,null,Iroquois 
+6228,Treday,Richd,null,null,11th
+6229,Treganowan,Ray,null,null,Red Jacket Shaft loc
+6230,Treganowan,Richd,null,null,Red Jacket Shaft loc
+6233,Treloar,John,null,null,A
+6234,Trembath,Richd,null,null,6th
+6236,Tresidder,Martin,null,null,6th
+6237,Trestrial,Edw,null,null,Rockland
+6238,Trestrial,Grace,null,null,Rockland
+6239,Trestrial,Margt,null,null,Rockland
+6241,Trevarrow,John,null,null,Rockland
+6242,Trevarrow,Wm,J ,null,Caledonia
+6244,Trewartha,Amelia,null,null,Scott
+6245,Trezise,Anna,Mrs ,null,Mine
+6246,Trezise,Norman,null,null,10th
+6248,Trezise,Phillip,null,null,10th
+6254,Trudeau,Lucy,null,null,Depot
+6255,Trudgeon,Bessie,null,null,8th
+6256,Trudgeon,Cyrus,null,null,8th
+6257,Trudgeon,Howard,null,null,11th
+6258,Trudgeon,Jas,H ,null,10th
+6259,Trudgeon,Lillian,null,null,8th
+6260,Trudgeon,Louise,null,null,8th
+6263,Trudell,John,null,null,Laurium
+6264,Trudell,Threasabelle,null,null,Rockland
+6265,Tscham,Oscar,null,null,Oak
+6266,Tuamunen,Alena,null,null,N Rockland
+6267,Tuamanen,Jacob,null,null,N Rockland
+6268,Tuamunen,Ilic,null,null,N Rockland
+6269,Tucchimaa,Danteri,null,null,Middle
+6270,Tucker,Frank,null,null,Rockland
+6272,Tuira,John,G ,null,Pine
+6273,Tulla,Chas,null,null,Waterworks
+6274,Tuloj,Emil,null,null,7th
+6275,Tulpo,John,null,null,E Cone
+6280,Tulppo,Walter,null,null,N Rockland
+6281,Tulppo,Wendell,L ,null,11th
+6289,Turk,Dorothy,null,null,B
+6290,Turk,John,null,null,B
+6291,Turk,John,null,null,Elm
+6293,Turner,Wm,J ,null,Rockland
+6296,Turska,Andrew,null,null,Tunnel 
+6297,Turska,Edw,E ,null,Tunnel 
+6298,Turska,Erma,null,null,Tunnel 
+6299,Turska,Jacob,null,null,Tunnel 
+6300,Turska,Wm,null,null,Tunnel 
+6303,Tyvela,Dan,null,null,11th
+6304,Tyvela,Eva,null,null,11th
+6305,Tyvela,Hubert,null,null,11th
+6306,Tyvela,John,null,null,11th
+6307,Tyvela,Nels,null,null,11th
+6308,Tyvela,Wilbert,null,null,11th
+6309,Ucman,Frances,Mrs ,null,Elm
+6310,Ucman,John,null,null,Elm
+6312,Ucman,Louis,null,null,Elm
+6315,Uksila,Thos,M ,null,Elm
+6316,Uksila,Chas,null,null,C
+6319,Ulseth,Christian,null,null,Temple
+6321,Ulseth,Bldg,Supply ,null,8th Tel 831
+6323,Ulseth,Hans,null,null,Temple
+6324,Ulseth,Helena,null,null,Temple
+6325,Ulseth,Molly,K ,null,8th
+6326,Ulseth,Nels,J ,null,8th
+6327,Ulseth,Thomstein,null,null,8th
+6329,Unger,Kath,null,null,Caledonia
+6330,Unger,Martin,null,null,Caledonia
+6334,Unka,Alex,null,null,Pine
+6336,Upsol,Ruth,null,null,8th
+6338,Uran,Gordon,null,null,County rd 
+6339,Uran,Sami,null,null,County rd 
+6340,Urbanski,Stanley,null,null,Middle
+6341,Uren,Albert,H ,null,Boone Lane
+6342,Uren,Marion,A ,null,Boone Lane
+6343,Uren,Wellington,null,null,Boone Lane
+6345,Usitalo,John,null,null,D
+6346,Usitalo,Sven,null,null,D
+6350,Uysich,Louis,null,null,B
+6351,Vabanii,John,null,null,Temple
+6353,Vairo,Dominic,null,null,6th
+6354,Valve,Angeline,null,null,Ash 
+6355,Vaive,Anna,null,null,Ash 
+6356,Vaive,Cecila,null,null,Ash 
+6357,Vaive,Jos,null,null,Ash 
+6358,Vaive,Jos,null,null,Ash 
+6359,Vaive,Victor,null,null,2d 
+6366,Vaulin,Gena,Mrs ,null,Caledonia
+6368,Veale,Wm,null,null,Calumet av
+6369,Veale,Wm,C ,null,7th
+6370,Venegoni,John,null,null,Church
+6372,Venturino,Bartholomew,null,null,Laurium
+6373,Verbanac,Dana,null,null,Union
+6374,Verbanac,John,null,null,Union
+6375,Verbanac,Michl,null,null,Union
+6376,Verbanac,Michl,null,jr,Union
+6377,Vercellino,Peter,null,null,Portland
+6378,Vercillino,Dominic,null,null,D
+6385,Verrier,Edw,F ,null,Middle
+6387,Vertin,Dorothy,null,null,8th
+6388,Vertin,Francis,null,null,Hecla
+6389,Vertin,Frank,null,null,Elm 
+6390,Vertin,Harold,null,null,8th
+6391,Vertin,Jacob,null,null,Hecla
+6392,Vertin,Jacob,null,jr,Hecla
+6393,Vertin,John,null,null,Hecla
+6395,Vertin,John,M ,jr,Union
+6396,Vertin,Jos,null,null,Union
+6398,Vertin,Ralph,null,null,Elm 
+6400,Vertin,Steve,null,null,Elm 
+6401,Vertin,Sylvester,null,null,Union
+6402,Vezzani,Sami,null,null,Temple
+6403,Viale,Peter,null,null,Elm
+6405,Vichich,Michl,null,null,Temple
+6406,Vidmer,Mary,null,null,B
+6407,Vidosh,Agnes,null,null,Waterworks
+6408,Vidosh,Anton,null,null,Waterworks
+6409,Vidosh,John,null,null,Waterworks
+6412,Vidosh,Mayme,R ,null,Waterworks
+6415,Vigo,Kath,null,null,Cedar
+6416,Vigo,Mamie,null,null,Cedar
+6417,Viljak,Steph,null,null,Liberty
+6424,Vivian,Emily,I ,null,Pine
+6426,Vivian,Harry,null,jr,Calumet av
+6427,Vivian,L,Ruth ,null,Depot
+6430,Vivian,Wanda,G ,null,Pine
+6431,Vivian,Wm,E ,null,Depot
+6432,Vivian,Wm,null,null,Mine
+6433,Vivorati,Jos,null,null,Log
+6434,Vlasich,Jos,null,null,Scott
+6436,Voelker,Chas,null,null,Calumet av
+6437,Voelker,Chris,null,null,6th
+6438,Voger,Wm,null,null,Caledonia
+6442,Vonderita,Rudolph,null,null,Boundary
+6443,Vook,Frank,null,null,Red Jacket Shaft loc
+6444,Vook,Nicholas,null,null,Red Jacket Shaft loc
+6446,Vranich,Dorothy,null,null,Wedge
+6447,Vranich,Eli,null,null,Wedge
+6451,Vuolle,John,null,null,Caledonia
+6452,Waanala,Carl,null,null,3d 
+6453,Waanamen,John,null,null,8th
+6454,Waara,Anna,null,null,11th
+6459,Waara,Mathilda,null,null,11th
+6464,Waatti,Carl,null,null,2d 
+6465,Waatti,Eva,null,null,2d 
+6466,Waatti,John,null,null,2d 
+6467,Waatti,Jorma,A ,null,2d 
+6469,Waatti,Theo,null,null,2d 
+6470,Wade,John,T ,null,Laurium
+6471,Wade,Ruth,Mrs ,null,E Cone
+6473,Wagner,Fredk,null,null,6th
+6475,Wainionpa,Sam,null,null,Stable
+6478,Waisanen,Wester,null,null,Cemetery
+6480,Walberg,Frank,null,null,Pine
+6481,Waldenmeyer,Anna,null,null,Pine
+6482,Waldenmeyer,Clara,null,null,Pine
+6483,Waldenmeyer,Gisella,null,null,Pine
+6484,Waldenmeyer,Ulrich,null,null,Pine
+6486,Walijarvi,Helen,L ,null,Pine
+6487,Walijarvi,John,A ,null,Pine
+6488,Walker,Chas,null,null,Calumet av
+6489,Walker,John,L ,null,Hecla
+6490,Walker,Mabel,null,null,Calumet av
+6491,Wallace,Wm,null,null,Caledonia
+6493,Wallio,John,null,null,Cambria
+6494,Wallio,Ole,null,null,1st 
+6495,Wallio,Wesley,null,null,Cambria
+6500,Waltonen,Oscar,N ,null,Pine
+6501,Walz,Ernest,C ,null,6th
+6502,Wanhapiha,Einard,null,null,1st 
+6503,Wanhapiha,Ida,null,null,1st 
+6504,Wanhapika,Carlo,L ,null,2d 
+6505,Wanhapika,John,null,null,2d 
+6506,Wanhapika,Wm,null,null,2d 
+6507,Wara,Anna,Mrs ,null,Osceola rd
+6510,Ward,Miriam,null,null,5th
+6511,Wareham,Helen,null,null,Oak
+6512,Wareham,Livingston,C ,null,Oak
+6515,Warra,Matilda,null,null,11th
+6516,Warren,Richd,null,null,Union 
+6520,Warth,John,E ,null,Union
+6521,Warth,Raymond,W ,null,Union
+6522,Warth,Winifred,null,null,Union
+6523,Wasainen,Unto,null,null,Osceola rd
+6525,Wasnak,Clara,null,null,Calumet av
+6526,Wasnuk,Henry,null,null,Rockland
+6527,Watson,Henry,G ,null,Red Jacket Shaft loc
+6529,Watson,Mary,null,null,Red Jacket loc
+6530,Watson,Wm,J ,null,Red Jacket Shaft loc
+6531,Watt,Trear,D ,null,Cedar la
+6538,Wearn,John,null,null,8th
+6539,Webb,Richd,A ,null,Caledonia
+6540,Wehle,Rose,null,null,Liberty
+6541,Wehr,Humbert,Rev ,null,Rockland
+6542,Weidelman,Carl,null,null,2d 
+6544,Weidelman,Joy,null,null,2d 
+6545,Weidelman,Lydia,null,null,Scott
+6546,Weidelman,Matilda,null,null,2d 
+6548,Weidelman,Ruth,null,null,2d 
+6550,Weir,Ernest,null,null,E Pine
+6551,Weir,Geo,null,null,Mine
+6552,Weir,Gladys,null,null,Calumet 
+6553,Weir,Jas,W ,null,Hecla
+6554,Weir,John,null,null,E Pine
+6555,Weir,Rachael,null,null,Rockland
+6556,Weir,Reuben,null,null,Rockland
+6557,Weir,Wm,null,null,Cemetery
+6558,Weir,Wm,J ,null,Rockland
+6559,Weiss,Frank,null,null,E Acorn
+6561,Weiss,Jos,null,null,E Acorn
+6562,Weiss,Jos,null,jr,E Acorn
+6564,Welden,Eug,C ,null,Depot
+6565,Welch,Dorothy,M ,null,County rd
+6566,Welsch,Richd,J ,null,County rd
+6567,Welsch,Richd,J ,jr,County rd
+6568,Welsh,Nellie,null,null,Rockland
+6569,Welsh,Patk,null,null,Rockland
+6571,Wenberg,Edw,W ,null,Laurium
+6573,Wenberg,Kennyon,W ,null,Laurium
+6579,Wesala,Elmer,null,null,2d 
+6580,Wesala,Henry,null,null,1st 
+6581,Wesala,Hjaimer,null,null,1st 
+6583,Wesala,Lillian,null,null,Cedar
+6585,Wesala,Minnie,null,null,Cedar
+6586,Wesala,Sophie,null,null,1st 
+6587,Wesala,Wm,null,null,Cedar
+6588,West,Edw,W ,null,E
+6590,Westola,Hilda,null,null,3d 
+6591,Westola,John,null,null,3d 
+6592,Westola,Lawrence,null,null,3d 
+6593,Westola,Mauno,null,null,3d 
+6594,Westola,Paul,null,null,3d 
+6595,Westola,Winifred,null,null,3d 
+6597,Wheeler,Francis,J ,null,S Rockland
+6598,Whistler,Wilber,S ,null,6th
+6599,White,Albert,null,null,Calumet av
+6601,White,Henry,null,null,Boundary
+6603,Wiate,Mary,null,null,Rockland
+6604,Wiate,Chester,C ,null,Rockland
+6605,Wick,Ernest,null,null,Waterworks
+6607,Wickstrom,Alf,W ,null,Rockland
+6608,Wickstrom,Albert,null,null,Wolverine
+6610,Wickstrom,Aug,M ,null,Wolverine
+6611,Wickstrom,Chas,null,null,Rockland
+6612,Wickstrom,Ed,null,null,Rockland
+6614,Wickstrom,John,null,null,Wolverine
+6615,Wickstrom,Leo,null,null,Rockland
+6616,Wickstrom,Morgan,J ,null,Rockland
+6618,Wickstrom,Wallace,null,null,Rockland
+6630,Wiirranimie,Chas,null,null,Union
+6631,Wiirranimie,Johannah,null,null,Union
+6632,Wiitanen,Hubert,null,null,1st 
+6633,Wiitanen,Jennie,null,null,1st 
+6635,Wiitanen,Wayne,W ,null,1st 
+6636,Wiitanen,Wesley,null,null,1st 
+6637,Wiitanen,Wm,null,null,1st 
+6639,Wilcox,Thos,null,jr,6th
+6640,Wilcox,Thos,J ,null,6th
+6642,Wilkowski,Edw,null,null,Hecla
+6644,William,Elmir,null,null,8th
+6645,Williams,Dora,null,null,Lake Linden
+6646,Williams,Edwin,J ,null,Calumet av
+6647,Williams,Elsie,E ,null,Calumet av
+6649,Williams,Geo,H ,null,Rockland
+6650,Williams,Howard,E ,null,Calumet av
+6651,Williams,Isaac,null,null,8th
+6653,Williams,Leslie,null,null,8th
+6654,Williams,Raymond,J ,null,Calumet av
+6655,Williams,Ruth,E ,null,Calumet av
+6658,Williams,Wm,T ,null,6th
+6659,Willisterman,Wm,null,null,Portland
+6661,Willoughby,Jas,null,null,County rd 
+6662,Wills,Ethel,A ,null,Rockland
+6663,Wills,Harold,null,null,Rockland
+6664,Wills,John,null,null,5th
+6665,Wills,Meryn,null,null,Oak 
+6666,Wills,Richd,H ,null,Oak 
+6668,Wills,Thos,null,null,5th
+6669,Wills,Viola,null,null,Oak 
+6670,Wills,Wm,null,null,Rockland
+6671,Wills,Wm,H ,null,Rockland
+6673,Wilmers,Fred,null,null,Rockland
+6674,Wilmers,Hubert,null,null,7th
+6675,Wilmers,Jos,null,null,7th
+6676,Wilmers,Jos,C ,null,Rockland
+6677,Wilmey,Edw,R ,null,Dan
+6678,Wilmey,Matt,null,null,Osceola rd
+6680,Wilson,Kathleen,null,null,Calumet av
+6681,Wilson,Mathew,null,null,Calumet av
+6682,Wilson,Robt,F ,null,Calumet av
+6684,Wimey,Edw,R ,null,S 6th
+6685,Winnen,Gertrude,null,null,N Rockland
+6686,Winnen,Jos,null,null,N Rockland
+6687,Winnen,Stanley,null,null,N Rockland
+6688,Winnika,Matilda,null,null,2d 
+6690,Winquist,Jas,null,null,Laurium
+6694,Wirtonen,Alex,null,null,Pine
+6695,Witikko,Isaac,null,null,4th
+6696,Witikko,John,null,null,4th
+6697,Wohlschiss,Albert,null,null,Rockland
+6699,Wokala,Matt,Mrs ,null,8th 
+6700,Woldemeyer,Gisella,null,null,Pine
+6701,Wolfe,Wm,F ,null,5th
+6702,Woltonen,Oscar,null,null,Union
+6703,Woodford,Fred,A ,null,Calumet av
+6705,Woodward,Harold,null,null,11th
+6706,Woodward,Robt,null,null,E Cone
+6711,Wright,Ben,J ,null,5th
+6712,Wright,Geo,W ,null,Calumet av
+6713,Wright,Helen,null,null,Rockland
+6714,Wright,Jas,U ,null,Rockland
+6715,Wright,Jean,null,null,Calumet av
+6716,Wright,Virginia,null,null,Rockland
+6719,Wuopio,Reuben,null,null,Elm
+6723,Wyranen,John,null,null,E
+6725,Yates,Clarence,H ,null,Amygdaloid 
+6726,Yates,John,H ,null,Amygdaloid 
+6727,Yates,Russell,null,null,Amygdaloid 
+6731,Yauch,Elwood,null,null,W Cone
+6732,Yauch,Harold,W ,null,Tamarack loc
+6733,Yauch,Jacob,null,null,Maple 
+6734,Yeo,Leonard,null,null,Rockland
+6736,Yoki,Chas,null,null,Caledonia
+6739,Yotti,Edw,null,null,10th
+6746,Zanardi,Carl,null,null,Calumet av
+6747,Zanardi,Chas,null,null,B
+6748,Zanardi,Jos,null,null,B
+6749,Zanardi,Mary,null,null,Calumet av
+6750,Zanin,Jas,null,null,Union
+6752,Zanin,Oliver,null,null,D
+6753,Zanotti,Anthony,null,null,Oak
+6754,Zanotti,Francis,null,null,Oak
+6755,Zanotti,Genevieve,null,null,Oak
+6756,Zapolnick,Michl,null,null,Caledonia
+6757,Zauch,Danl,null,null,W Cone
+6758,Zauch,Grechen,null,null,W Cone
+6761,Zenin,John,null,null,Liberty
+6763,Ziehr,Mae,null,null,Hecla
+6764,Ziehr,Phyllis,null,null,Hecla
+6765,Ziehr,Wilbur,null,null,Hecla
+6766,Zieker,Karl,null,null,Rockland
+6767,Zieker,Wm,null,null,Rockland
+6769,Zigman,Molnar,null,null,Caledonia
+6770,Zimmer,Joe,Mrs ,null,E Acorn
+6773,Zmyslony,Rock,null,null,7th
+6774,Zubiena,Dominic,null,null,Laurium
+6775,Zubiena,Frank,null,null,Hecla
+6777,Zubiena,John,null,null,A
+6778,Zubiena,John,J ,null,Hecla
+6780,Zunich,Albert,null,null,E Cone
+6781,Zunich,Clara,null,null,Osceola rd
+6782,Zunich,John,null,null,E Cone
+6783,Zunich,John,D ,null,E Cone
+6785,Zunich,Jos,J ,null,Osceola rd
+6786,Zunich,Josephine,null,null,E Cone
+6787,Zunich,Mae,null,null,E Cone
+6788,Zunich,Margt,null,null,Elm
+6789,Zunich,Mary,null,null,Osceola rd
+6790,Zunich,Mayme,null,null,E Cone
+6791,Zunich,Michl,T ,null,Osceola rd
+6792,Zunich,Rudolph,null,null,E Cone
+6794,Zupancich,John,null,null,Calumet av

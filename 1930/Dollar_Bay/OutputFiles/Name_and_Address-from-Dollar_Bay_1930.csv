@@ -1,0 +1,255 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outWid, outSpouse, outJob, outWorkPlace, outT, outStSide, outStNum, outStNum(changed), outSt, outRd, outCity, outLoc, outMoved, outH/Rdo
+1,Abramson,Adla,null,null,wid,Matt,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+2,Alcenius,Oscar,null,null,null,Cath,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+3,Allain,Eliza,null,null,wid,Simeon,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+8,Backman,Annie,null,null,wid,Aug,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+11,Backman,Aug,null,null,null,Hilma,eng ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+13,Backman,Marie,null,null,wid,Ronald,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+14,Backman,Oscar,null,null,null,Hilda,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+20,Banks,Vernon,null,null,null,null,barber,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+21,Beckman,Edw,null,null,null,Amanda,lab ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+25,Belfry,Sarah,null,null,wid,Albert,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+29,Blethen,Carroll,F ,null,null,Emily,tchr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+30,Boatman,Aug,null,null,null,Mary,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+31,Boatman,Chas,null,null,null,Ida,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+33,Boyd,Edw,null,null,null,null,null,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+34,Boyd,Isaac,null,null,null,Sophie,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+35,Boyd,John,null,null,null,Ellen,electn,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+36,Brandvold,Louis,null,null,null,null,lab,null,r,null,35,null,Fifth,null,null,null,null,null
+41,Bykonen,Chas,null,null,null,Johanna,carp,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+42,Cadeau,Hubert,null,null,null,Stella,resawyer ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+45,Cadue,Laurence,null,null,null,Lida,driver ,Herman A Dahl,r,null,null,null,Dollar Bay,null,null,null,null,null
+46,Cane,John,W ,null,null,Dahlia,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+47,Carlson,Andrew,null,null,null,Esther,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+49,Champion,Jos,null,null,null,Irene,firemn,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+51,Chapman,Leslie,null,null,null,Elsie,dep sheriff,null,h,null,59,null,Main,null,null,null,null,null
+54,Clements,Silas,null,jr,null,Inga,sawyer ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+58,Dahl,Signe,null,null,null,null,bkpr ,Herman A Dahl,r,null,null,null,Dollar Bay,null,null,null,null,null
+62,Davis,Thos,A ,null,null,Ruth,supt,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+70,Engman,Anna,null,null,wid,Gust,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+72,Engman,Chas,null,null,null,null,farmer,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+75,Engman,Ingrid,null,null,null,null,slswn ,Matt Jurmu,r,null,null,null,Dollar Bay,null,null,null,null,null
+76,Erickson,John,null,null,null,Annie,lab ,DuPont,h,null,null,null,Dollar Bay,null,null,null,null,null
+79,Foley,Agnes,null,null,null,null,null,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+80,Foley,Aileen,null,null,null,null,null,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+83,Foley,Frank,J ,jr,null,F W Foley Son,null,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+84,Foley,Frank,W ,null,null,Mary F W Foley Son,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+85,Franz,Arvid,null,null,null,null,lab ,Dollar Bay Lbr Co,r,null,null,null,Dollar Bay,null,null,null,null,null
+87,Franz,Isaac,null,null,null,Christiana,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+88,Franz,John,null,null,null,Sophia,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+91,Frost,Oscar,null,null,null,Sophia,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+93,Gendron,Artti,null,null,null,Mary,tmstr ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+94,Gestel,John,null,null,null,Mary,slsmn,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+95,Gibson,Elmer,E ,null,null,Hath,agt ,Mineral Range R R,r,null,null,null,null,null,Hancock,null,null,null
+96,Glanville,Alden,null,null,null,Segrid,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+97,Grant,Jos,null,null,null,Cath,lab ,Dollar Bay Lbr Co,h,null,61,null,Main,null,null,null,null,null
+98,Grhel,Michl,null,null,null,Bertha,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+99,Gronland,Abram,null,null,null,Ida,hlpr ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+101,Grontz,Jos,null,null,null,Myrtle,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+103,Haryu,Mary,null,null,wid,John,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+108,Helman,Robt,null,null,null,null,elk ,Herman A Dahl,r,null,null,null,Dollar Bay,null,null,null,null,null
+109,Helmin,Eric,null,null,null,Ida,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+115,Holm,Emil,null,null,null,Mathilda,barn boss ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+116,Holman,John,null,null,null,Hulda,eng ,Dollar Bay Lbr Co,h,null,103,null,Dollar Bay,null,null,null,null,null
+117,Hould,Arth,J ,null,null,Jessie,mech ,Quincy Mills,h,null,null,null,Dollar Bay,null,null,null,null,null
+119,Hoyer,Aug,null,null,null,Olivia,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+120,Hoyer,Emil,null,null,null,null,soft drinks,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+121,Isaacson,Andrew,null,null,null,Bertha,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+124,Isaacson,John,null,null,null,Anna,lab ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+131,Johnson,Eric,null,null,null,Mary,lab ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+134,Johnson,Paul,null,null,null,Rosena,janitor,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+136,Johnson,Wm,null,null,null,Tynne,farmer,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+137,Jones,Fred,null,null,null,Mathilda,sawyer ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+140,Juntunen,Emil,null,null,null,Olga,poultry farmer,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+142,Juntunen,Karl,I ,null,null,null,shoe repr,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+150,Kempanen,Ida,null,null,wid,Chas,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+151,Kendelan,Julia,null,null,null,null,bkpr ,Dollar Bay Steel Co,r,null,null,null,Dollar Bay,null,null,null,null,null
+152,Konick,Maurice,null,null,null,Bertha,edgerman ,Dollar Bay Lbr Co,r,null,54,null,Main,null,null,null,null,null
+161,Larche,Arth,null,null,null,Laura,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+162,Larche,Prime,null,null,null,Minnie,farmer,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+165,Lawler,Jeremiah,null,null,null,Anna,bkpr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+166,Linden,Hj,null,null,null,Sophia,aimer ,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+177,MacDonald,Ronald,H ,null,null,Mary,postmstr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+178,Mailhot,Dolph,null,null,null,Mary,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+182,Malm,Frank,null,null,null,Mathilda,firemn,null,h,null,null,null,Fifth,null,null,null,null,null
+184,Mattson,Eli,null,null,null,null,filling sta,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+185,Michaelson,Jos,null,null,null,null,lab,null,r,null,null,null,null,null,Mike Michaelson,null,null,null
+186,Michaelson,Leonard,null,null,null,null,lab,null,r,null,null,null,null,null,Mike Michaelson,null,null,null
+187,Michaelson,Mike,null,null,null,Lena,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+188,Mickelson,Eric,H ,null,null,Ida M,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+190,Micklich,Geo,null,null,null,Mary,lab ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+196,Miller,Geo,J ,null,null,Violet,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+200,Morency,Donat,null,null,null,null,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+205,Neavu,Albert,null,null,null,null,soft drinks,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+206,Neavu,Peter,null,null,null,Mary,driver ,A M Schulte Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+207,Newman,Gust,null,null,null,Josephine,lab,null,h,null,null,null,Fifth,null,null,null,null,null
+210,Niemi,Isaac,null,null,null,null,blksmith ,Dollar Bay Lbr Co,r,null,null,null,null,null,Hancock,null,null,null
+216,Norgard,Wm,null,null,null,Edna,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+217,Norlean,Christiana,null,null,wid,Aug,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+218,Norlin,Axel,null,null,null,Ina,lab ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+219,Norrback,Andrew,null,null,null,Anna,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+220,Nye,Alvin,null,null,null,null,student,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+223,Nye,Edw,null,null,null,Mary,lab ,DuPont,h,null,null,null,Dollar Bay,null,null,null,null,null
+228,Olsen,Malena,null,null,wid,Sami,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+231,Palosaari,Elena,null,null,null,null,null,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+233,Palosaari,Eric,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+234,Palosaari,Harold,null,null,null,null,null,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+235,Phillips,Agnes,null,null,null,null,student,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+236,Phillips,John,null,null,null,Margt,lab,null,h,null,null,null,Smelts Hubbell h Dollar Bay,null,null,null,null,null
+239,Phkindlan,Patk,H ,null,null,Cath,butcher,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+240,Phkindlar,Julia,null,null,null,null,sten,null,r,null,null,null,Dollar Bay,null,null,null,null,null
+241,Pichette,Wilfred,null,null,null,Laura,lab ,Isle Royale Mill,h,null,null,null,Dollar Bay,null,null,null,null,null
+242,Poirier,Dorothy,B ,null,null,null,sten ,Dollar Bay Lbr Co,r,null,null,null,null,null,Houghton,null,null,null
+244,Raapani,Annie,null,null,wid,Louis,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+245,Raether,Herman,null,null,null,Cecilia,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+246,Rank,Felix,J ,null,null,Fern,filer ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+248,Ratelle,Onesime,null,null,null,Emma,null,null,h,null,35,null,Fifth,null,null,null,null,null
+249,Roehm,Frank,null,null,null,Nellie,lbr inspr ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+254,Rose,Jack,null,null,null,null,lab ,Dollar Bay Steel Co,r,null,null,null,Dollar Bay,null,null,null,null,null
+257,Ryan,Margt,null,null,null,null,null,null,r,null,54,null,Main,null,null,null,null,null
+258,Ryan,Patk,null,null,null,Anna,null,null,h,null,54,null,Main,null,null,null,null,null
+259,Ryan,Wallace,null,null,null,null,lab,null,r,null,54,null,Main,null,null,null,null,null
+261,StJohn,Fredk,null,null,null,Ruby,elk ,A M Schulte Co,r,null,null,null,Dollar Bay,null,null,null,null,null
+263,Sandelin,Jonas,null,null,null,Mary,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+265,Sargent,Sami,null,null,null,Ethel,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+266,Satushek,May,null,null,null,null,slswn ,A M Schulte Co,r,null,null,null,Dollar Bay,null,null,null,null,null
+268,Sawyer,Stillman,null,null,null,Cecilia,farmer,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+269,Schneller,Frank,null,null,null,Kathryn,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+272,Schneller,Mary,null,null,wid,Michl,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+273,Schuette,Mayme,C ,null,null,null,office mgr ,Dollar Bay Lbr Co,r,null,null,null,null,null,Lake Linden,null,null,null
+275,Schulte,Anthony,M ,null,null,Melissa A M Schulte Co,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+276,Schulte,John,C ,null,null,Josephine A M Schulte Co,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+281,Seiler,Eugene,G ,null,null,Angelina,formn ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+287,Smith,Eric,null,null,null,Irene,lab ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+291,Starika,Mary,null,null,wid,Frank,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+295,Sterk,Peter,null,null,null,Anna,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+303,Stevens,Wm,null,null,null,Edith,flremn ,DuPont,h,null,null,null,Dollar Bay,null,null,null,null,null
+307,Stoor,John,E ,null,null,Amanda,lab ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+312,Sturbanz,Jos,null,null,null,Mary,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+328,Swede,Otto,null,null,null,Anna,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+329,Swede,Victor,null,null,null,null,lab ,Dollar Bay Steel Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+332,Tormala,John,null,null,null,Elsie,null,null,h,null,null,null,Fifth,null,null,null,null,null
+336,Turcotte,Maud,null,null,wid,Delphis,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+337,Turnquist,Leonard,J ,null,null,Mary,agt ,Copper Range R R,h,null,null,null,Dollar Bay,null,null,null,null,null
+339,Urquhart,Almon,null,null,null,Anna,lab,null,h,null,65,null,Main,null,null,null,null,null
+340,Urquhart,Fred,null,null,null,Ida,sec supt ,Dollar Bay Lbr Co,h,null,66,null,Point Mills,rd,null,null,null,null
+341,Vardin,John,null,null,null,Margt,edgermn ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+342,Vardin,Jos,null,null,null,Anna,lab ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+343,Vaughan,Thos,G ,null,null,Violet,hlpr ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+344,Wagner,Emma,null,null,wid,Chas,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+346,Walgren,Myrtle,null,null,null,null,tchr,null,r,null,66,null,Point Mills,rd,null,null,null,null
+348,Warmington,Henry,null,null,null,Minnie,elk ,A M Schulte Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+354,Wetton,Chester,null,null,null,null,crane opr ,Dollar Bay Lbr Co,r,null,null,null,null,null,Ripley,null,null,null
+357,Wright,Geo,null,null,null,null,formn ,Dollar Bay Lbrf Co,r,null,null,null,null,null,Houghton,null,null,null
+5,Backman,Agnes,null,null,null,null,tchr ,Point Mills,h,null,null,null,Dollar Bay,null,null,null,null,null
+6,Backman,Amanda,null,null,null,null,elk,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+9,Backman,Arnold,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+16,Backman,Ruth,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+18,Backman,Signe,null,null,null,null,maid,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+22,Beckman,Edw,null,null,null,null,jr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+23,Beckman,Eniar,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+24,Belfry,Eva,null,null,null,null,tchr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+37,Brassaw,Telesphore,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+52,Chavan,Clifford,null,null,null,null,firemn,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+59,Davis,Edwin,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+60,Davis,Robt,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+61,Davis,Ruth,null,null,null,null,tchr ,Houghton High School,h,null,null,null,Dollar Bay,null,null,null,null,null
+71,Engman,Carl, E,null,null,null,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+73,Engman,Elna,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+74,Engman,Inez,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+82,Foley,Francis, J,null,null,null,mfr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+86,Franz,Ingrid,null,null,null,null,tchr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+89,Frost,Dagmar,null,null,null,null,maid ,DuPont,h,null,null,null,Dollar Bay,null,null,null,null,null
+90,Frost,Ida,null,null,null,null,maid,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+92,Frost,Robt,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+102,Haryu,John,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+104,Haryu,Nester,null,null,null,null,firemn ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+105,Haun,Edw,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+106,Haun,Frank,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+110,Helmin,Robt,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+111,Helmin,Turstan,null,null,null,null,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+118,Hoyer,Arne,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+122,Isaacson,Edith,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+127,Johnson,Conrad,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+128,Johnson,Dorothy,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+129,Johnson,Edw,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+132,Johnson,Kenneth,null,null,null,null,lab ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+133,Johnson,Nels,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+135,Johnson,Victor,null,null,null,null,fire chief,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+139,Juntunen,Elsie,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+160,Lapine,John,null,null,null,null,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+164,Lawler,Danl,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+174,MacDonald,Elaine,null,null,null,null,tchr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+175,MacDonald,Mary,null,null,null,null,tchr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+176,MacDonald,Roderick,null,null,null,null,pianist,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+179,Mailhot,Reuben,null,null,null,null,lab ,Dollar Bay Steel Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+180,Makkonen,Helvi,null,null,null,null,maid,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+189,Mickelson,Leonard,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+191,Micklich,Geo,null,null,null,null,jr lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+192,Micklich,John,null,null,null,null,lab ,DuPont,h,null,null,null,Dollar Bay,null,null,null,null,null
+193,Micklich,Jos,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+194,Micklich,Peter,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+195,Micklich,Rosella,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+199,Morency,Cecilia,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+201,Morency,Leo,null,null,null,null,lab ,DuPont,h,null,null,null,Dollar Bay,null,null,null,null,null
+208,Newman,Jennie,null,null,null,null,student,null,h,null,null,null,Fifth,null,null,null,null,null
+209,Newman,Wm,null,null,null,null,lab,null,h,null,null,null,Fifth,null,null,null,null,null
+227,Olsen,Julia,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+232,Palosaari,Elsie, E,null,null,null,maid,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+237,Phillips,Martin,null,null,null,null,null,null,h,null,null,null,Smelts Hubbell h Dollar Bay,null,null,null,null,null
+238,Phkindlan,Agnes,null,null,null,null,elk,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+247,Rank,Robt, C,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+250,Roehm,Leslie,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+251,Roehm,Lucille,null,null,null,null,elk,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+262,Sandelin,Alma,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+267,Sawyer,Alger,null,null,null,null,resawyer ,Dollar Bay Lbr Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+270,Schneller,Frank,null,null,null,null,jr mech,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+271,Schneller,Jos,null,null,null,null,lab ,Dollar Bay Steel Co,h,null,null,null,Dollar Bay,null,null,null,null,null
+277,Schulte,Josephine, K,null,null,null,sten,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+289,Starika,Eliz,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+290,Starika,Frank,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+292,Starika,Michl,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+293,Sterk,Jacob,null,null,null,null,lab ,DuPont,h,null,null,null,Dollar Bay,null,null,null,null,null
+294,Sterk,John,null,null,null,null,lab,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+296,Sterk,Veronica,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+302,Stevens,Kenneth,null,null,null,null,agt,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+304,Stiemle,Wilfred,null,null,null,null,tchr ,Dollar Bay,h,null,null,null,Dollar Bay,null,null,null,null,null
+310,Sturbanz,Ellis,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+311,Sturbanz,John,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+313,Sturbanz,Jos,null,null,null,null,jr,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+314,Sullivan,Julia,null,null,wid,Jerry,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+345,Wagner,Otto,null,null,null,null,null,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+347,Warmington,Harry,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+349,Warmington,Robt,null,null,null,null,student,null,h,null,null,null,Dollar Bay,null,null,null,null,null
+4,Anderson,John,null,null,null,null,millwright ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+7,Backman,Andrew,null,null,null,Mary,firemn ,Dollar Bay Lbr Co h s Church,null,null,null,null,null,null,null,null,null,null
+32,Boatman,Leonard,null,null,null,null,lbr inspr ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+40,Brownlee,Wm,E ,null,null,null,v pres ,Dollar Bay Lumber Co r Detroit,null,null,null,null,null,null,null,null,null,null
+48,Carlson,Nicholas,null,null,null,null,lab ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+53,Chichack,Steve,null,null,null,null,wtchmn ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+64,Dollar,Bay,Methodist ,null,null,null,pastor ,Sunday services 230 p m,null,null,null,null,null,null,null,null,null,null
+65,Dollar,Bay,Steel ,null,null,null,mgr ,Dollar Bay,null,null,null,null,null,null,null,null,null,null
+107,Helman,John,null,null,null,null,lab ,Hubbel Smelts h Church,null,null,null,null,null,null,null,null,null,null
+112,Hillyer,Lucius,G ,null,null,null,pres ,Dollar Bay Lumber Co r Baraga,null,null,null,null,null,null,null,null,null,null
+144,Jurmu,Bernhardt,null,null,null,null,elk ,Matt Jurmu r n Church,null,null,null,null,null,null,null,null,null,null
+145,Jurmu,Fredk,null,null,null,null,driver ,Matt Jurmu r n Church,null,null,null,null,null,null,null,null,null,null
+149,Jurmu,Wilfred,null,null,null,null,driver ,Matt Jurmu r n Church,null,null,null,null,null,null,null,null,null,null
+158,Lampsa,John,null,null,null,Ellen,wldr ,C H Mill h s Church,null,null,null,null,null,null,null,null,null,null
+163,Lassila,Donald,null,null,null,null,tie peeler ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+181,Malgren,Ervin,null,null,null,Lina,meat ctr ,Matt Jurmu r n Church,null,null,null,null,null,null,null,null,null,null
+197,Mills,Herbert,P ,null,null,null,treas ,Dollar Bay Lbr Co r Detroit,null,null,null,null,null,null,null,null,null,null
+212,Nordbeck,John,null,null,null,Anna,lab ,Dollar Bay Lbr Co h s Church,null,null,null,null,null,null,null,null,null,null
+213,Nordbeck,John,E ,null,null,Malvina,lab ,Dollar Bay Lbr Co h s Church,null,null,null,null,null,null,null,null,null,null
+230,Ouellette,Roy,R ,null,null,Rose A,lab ,W Main,null,null,null,null,null,null,null,null,null,null
+252,Rose,Geo,null,null,null,null,resaw fdr ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+260,StArnold,Thos,null,null,null,null,lab ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+279,Sebbas,John,null,null,null,Amanda,millwright ,Dollar Bay Lbr Co h n Church,null,null,null,null,null,null,null,null,null,null
+285,Shovan,Clifford,null,null,null,null,flremn ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+299,Steve,John,null,null,null,null,lab ,Dollar Bay Lbr Co r s Church,null,null,null,null,null,null,null,null,null,null
+320,Sved,Emil,null,null,null,Sophia,lab ,Dollar Bay Lbr Co r s Church,null,null,null,null,null,null,null,null,null,null
+323,Sved,Matt,A ,null,null,Ida,lab ,Dollar Bay Lbr Co h s Fifth,null,null,null,null,null,null,null,null,null,null
+324,Sved,Nester,null,null,null,null,trimmermn ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+330,Swedish,Lutheran,Church ,null,null,null,pastor ,Sunday services 230 p m Sunday school 11 a m Dollar Bay,null,null,null,null,null,null,null,null,null,null
+338,Udd,Aug,null,null,null,Mary,hlpr ,Dollar Bay Lbr Co h n Church,null,null,null,null,null,null,null,null,null,null
+350,Wasberg,Fred,null,null,null,null,lab ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null
+356,Winquist,Waino,null,null,null,null,carriage rider ,Dollar Bay Lbr Co,null,null,null,null,null,null,null,null,null,null

@@ -1,0 +1,119 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+306,Mills,Alfred,null,null,null,meats,null,res,null,null,null,null,null,null,null,null,Houghton,null
+322,Nichols,Frederick,W,null,null,sec and treas ,D A Stratton Co,res,null,null,null,null,null,null,null,null,Houghton,null
+2,Alatalo,Sakari,null,null,null,miner,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+12,Atlantic,Mine,Hotel,null,null,prop,Jerome Bezotte,null,null,null,null,null,null,null,null,null,null,null
+13,Atlantic,Mine,School,null,null,prin,Julia Shea,null,null,null,null,null,null,null,null,null,null,null
+23,Barkell,Wm,null,null,Anna,timberman,Isle Royale Copper Co,null,null,null,null,null,null,null,null,null,null,null
+38,Berry,Paul,null,null,null,dr,bartn Atlantic Mine Hotel,null,null,null,null,null,null,null,null,null,null,null
+39,Bezotte,Jerome,null,null,Odilee,propr,Atlantic Mine Hotel,null,null,null,null,null,null,null,null,null,null,null
+43,Bianucci,Guido,null,null,null,eng,ine boy Isle Royale Copper Co,null,null,null,null,null,null,null,null,null,null,null
+58,Burgbacher,Christ,null,null,null,watchman,D A Stratton Co,null,null,null,null,null,null,null,null,null,null,null
+64,Burke,Richard,null,null,Alice,elk,Atlantic Mine Co Store,null,null,null,null,null,null,null,null,null,null,null
+66,Carlson,Anne,null,null,null,dom,A D Edwards,null,null,null,null,null,null,null,null,null,null,null
+81,Ciucci,Nicholas,null,null,Salomina,watchman,Atlantic Mine Co,null,null,null,null,null,null,null,null,null,null,null
+86,Cole,Frederick,E,null,Rose,electn,Baltic Mine,null,null,null,null,null,null,null,null,null,null,null
+96,ugge,Oscar,null,Dr,Hilma,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+97,Edwards,Adelbert,D,null,null,sec,Board of Education,null,null,null,null,null,null,null,null,null,null,null
+98,Enneking,Bernadino,null,null,null,dom,Rev Frederick Richter,null,null,null,null,null,null,null,null,null,null,null
+104,Falk,Charles,null,null,Sophia,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+106,Finnish,Lutheran,Church,null,null,pastor,Rev Adolf Riippa,null,null,null,null,null,null,null,null,null,null,null
+107,Finnish,Temperance,Hall,null,null,emp,Finnish Terance Hall,null,null,null,null,null,null,null,null,null,null,null
+112,German,Lutheran,Church,null,null,pastor,Rev Gottlieb Traub,null,null,null,null,null,null,null,null,null,null,null
+113,Gillam,Arthur,B,null,null,bkpr,D A Stratton Co,null,null,null,null,null,null,null,null,null,null,null
+119,Haischer,Gottlieb,null,null,Grace,elk,Atlantic Store,null,null,null,null,null,null,null,null,null,null,null
+132,Harma,John,null,null,null,lab,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+135,Harma,Manuel,null,null,Ida,miner,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+136,Harma,Oscar,null,null,Lydia,miner,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+141,Heikkinen,Jennie,null,null,null,dom,J W Moore,null,null,null,null,null,null,null,null,null,null,null
+146,Heikkinen,Peter,null,null,null,lab,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+151,Heisher,Gottlieb,null,null,null,elk,Atlantic Mine Co Store,null,null,null,null,null,null,null,null,null,null,null
+175,Jeffers,Frederick,A,null,Cora,supt,of schools Adams,null,null,null,null,null,null,null,null,null,null,null
+183,Juntunen,Anna,null,null,null,tchr,Atlantic Mine School,null,null,null,null,null,null,null,null,null,null,null
+185,Jurmu,Thomas,null,null,null,lander,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+187,Kahkonen,Andrew,null,null,Hannah,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+189,Kaipanen,Charles,null,null,Hilda,trammer,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+190,Kaipanen,Henry,null,null,null,trammer,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+191,Kangas,Gustaf,null,null,Minnie,jeweler,and steamship agt,null,null,null,null,null,null,null,null,null,null,null
+192,Kapala,Matt,null,null,null,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+193,Kari,Louis,null,null,null,trammer,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+195,Karlela,Fred,null,null,null,mucker,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+200,Kemppainen,Edward,null,null,null,lander,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+201,Kemppainen,Erick,null,null,Bertha,emp,Kpainen Erick,null,null,null,null,null,null,null,null,null,null,null
+203,Kemppainen,Mary,null,null,wid John,emp,Kpainen Mary,null,null,null,null,null,null,null,null,null,null,null
+204,Kemppainen,Matti,null,null,Bridget,emp,Kpainen Matti,null,null,null,null,null,null,null,null,null,null,null
+209,Kilpela,John,null,null,null,miner,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+212,Klee,Wm,null,null,Clara,lab,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+214,Knott,Elmer,null,null,null,meatctr,Alfred Mills,null,null,null,null,null,null,null,null,null,null,null
+215,Kolaski,Anton,null,null,Mary,miner,Baltic Mine,null,null,null,null,null,null,null,null,null,null,null
+223,Koski,Hannah,null,null,null,dom,J W Moore,null,null,null,null,null,null,null,null,null,null,null
+224,Kuitula,Jacob,null,null,Hilma,miner,Baltic Mine,null,null,null,null,null,null,null,null,null,null,null
+228,Lahti,Peter,null,null,null,lander,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+232,Larsen,Martin,null,null,Ingeborg,lab,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+245,Leiviska,Henry,null,null,Josephine,trammer,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+247,Leskinen,Wm,null,null,null,trammer,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+249,Lindbeck,Joseph,null,null,null,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+251,Link,John,null,null,Sophia,engr,C R R R,null,null,null,null,null,null,null,null,null,null,null
+255,Little,George,T,null,Edith E,foreman,D A Stratton Co,null,null,null,null,null,null,null,null,null,null,null
+261,Lustig,Mary,null,null,null,dom,Wm Stephens,null,null,null,null,null,null,null,null,null,null,null
+264,McMahon,John,null,null,Helen,watchman,Atlantic Mine Co,null,null,null,null,null,null,null,null,null,null,null
+276,Makkonen,Gustaf,null,null,Elizabeth,trammer,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+278,Manninen,John,null,null,null,trammer,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+279,Manninen,Sakri,null,null,Freda,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+280,Marchbanks,J,Wm,null,Hattie,foreman,D A Stratton Co,null,null,null,null,null,null,null,null,null,null,null
+281,Martila,Eli,null,null,Ida,barnman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+282,Mason,Albert,I,null,Eva,miner,Superior Mine,null,null,null,null,null,null,null,null,null,null,null
+286,Mattson,Waino,null,null,null,eng,boy Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+297,Messner,Michael,null,null,null,contr,and highway commissioner Adams twp,null,null,null,null,null,null,null,null,null,null,null
+303,Methodist,Episcopal,Church,null,null,pastor,Rev Henry Rogers,null,null,null,null,null,null,null,null,null,null,null
+316,Nelson,Adolph,null,null,null,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+317,Nelson,August,null,null,Hulda,miner,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+318,Nelson,Oscar,null,null,Hildur,miner,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+324,Nichols,Richards,null,null,null,watchman,Atlantic Mine Co,null,null,null,null,null,null,null,null,null,null,null
+325,Nichols,Vertin,L,null,null,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+328,Niemi,Emil,null,null,Eleta,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+334,Niska,Frederick,null,null,null,miner,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+336,Oja,August,null,null,null,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+340,Palo,John,null,null,null,lab,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+342,Parviainen,Jacob,null,null,null,trammer,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+343,Pauli,Elmer,null,null,null,bkpr,Atlantic Mine Co Store,null,null,null,null,null,null,null,null,null,null,null
+344,Pauli,Joseph,null,null,Mona,mgr,Atlantic Mining Cos Store,null,null,null,null,null,null,null,null,null,null,null
+345,Paulson,Victor,null,null,null,lab,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+350,Pirtima,Dotie,null,null,null,timberman,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+356,Pollock,James,W,null,Ida,watchman,D A Stratton Co,null,null,null,null,null,null,null,null,null,null,null
+357,POST,OFFICE,null,null,null,Postmaster,Charles M Cole,null,null,null,null,null,null,null,null,null,null,null
+360,Quick,Ksenia,null,null,null,tchr,Atlantic Mine School,null,null,null,null,null,null,null,null,null,null,null
+361,Randala,Emil,null,null,null,lab,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+372,Richter,Frederick,null,Rev,null,pastor,St Marys Star of the Sea R C Church,null,null,null,null,null,null,null,null,null,null,null
+376,Rissanen,John,null,null,Annie,farmer,Rissanen Paul (Kate),null,null,null,null,null,null,null,null,null,null,null
+377,Rogers,Frederick,H,null,Hattie E,bkpr,American Handle Co,null,null,null,null,null,null,null,null,null,null,null
+378,Rogers,Henry,null,Rev,Annie E,pastor,Methodist Episcopal Church,null,null,null,null,null,null,null,null,null,null,null
+380,Ross,W,George,null,Delina,eng,D A Stratton Co,null,null,null,null,null,null,null,null,null,null,null
+388,Wenikka,Jacob,null,null,null,trammer,Isle Roy ale C Co,null,null,null,null,null,null,null,null,null,null,null
+394,Wisti,Hjalmer,null,null,null,trammer,Isle Royale C Co,null,null,null,null,null,null,null,null,null,null,null
+78,Ciucci,Amelia,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+79,Ciucci,Dominick,null,null,null,sawyer,null,null,null,null,null,null,null,null,null,null,null,null
+80,Ciucci,Natalina,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+82,Ciucci,Paul,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null,null
+95,ugge,Garda,null,Dr,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+120,Haischer,Mary,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+137,Harma,Walford,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+138,Harma,Waino,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null,null
+188,Kahkonen,Matthew,null,null,null,miner,null,null,null,null,null,null,null,null,null,null,null,null
+202,Kemppainen,Lucy,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+205,Kemppainen,Matti,null,jr,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+252,Link,Rose,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+253,Link,Wm,null,null,null,tmstr,null,null,null,null,null,null,null,null,null,null,null,null
+254,Little,Florence,J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+256,Little,Wm,L,null,null,driver,null,null,null,null,null,null,null,null,null,null,null,null
+265,McMahon,Joseph,null,null,null,brakeman,null,null,null,null,null,null,null,null,null,null,null,null
+266,McMahon,Robert,null,null,null,fireman,null,null,null,null,null,null,null,null,null,null,null,null
+267,McMahon,Wm,null,null,null,elk,Atlantic Mine Store Co,null,null,null,null,null,null,null,null,null,null,null
+275,Makkonen,Alexandria,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+277,Makkonen,Mayme,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+289,Messner,Emma,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+296,Messner,Mary,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+299,Messner,Michael,null,jr,Catherine,null,null,null,null,null,null,null,null,null,null,null,null,null
+308,aski,Thomas,null,Miss,null,trammer,Miss Superior Mine,null,null,null,null,null,null,null,null,null,null,null
+355,Pollock,Glenn,null,null,null,fireman,null,null,null,null,null,null,null,null,null,null,null,null
+375,Rissanen,Hjalmer,null,null,null,elk,Atlantic Mine Co Store,null,null,null,null,null,null,null,null,null,null,null

@@ -1,0 +1,464 @@
+1 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Abramson Waino A, lab, bds Simon Abramson
+18 ADD, JOB NOT FOUND: ALDRICH ADDISON D (Annie), Physician and Surgeon, Young Building 87 Shelden, Office Hours 1 to 4 and 7 to 8 p m, Sunday by Appointment, Tel 389F1 res 214 Vivian, Tel 389F2
+19 NAME: Algomah Mining Co, R M Edwards genl mgr, 19 Dee bldg
+29 ADD, JOB NOT FOUND: Allie George W (aged 64), died Nov 24, 1914
+32 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aloire Edward, elk, bds Hotel Jewell
+35 ADD, JOB NOT FOUND: Amphidrome The, John T McNamara mgr, ft of Portage
+38 ADD, JOB NOT FOUND: Anchor Line (Erie Western Transportation Co),
+39 NAME: Charles O Berglund agt, Copper Range depot (W H)
+41 NAME: Anderson A W Co (Mrs Mary and Frank A Anderson), cement contractors and builders 69 Pewabic
+98 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Astkienen Henry J, trammer Isle Royale C Co, bds Jacob Lin tala
+102 NAME: Atlas Powder Co, J F Maxwell mgr, Masonic bldg
+103 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubry Guy, motorman, bds Ulric Aubry
+104 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubry Lawrence, mach hd, bds Ulric Aubry
+105 ADD, JOB LOCATION NOT FOUND: Aubry Ulric (Alvina), lab Mich Smelts, res Coles Creek nr same (W H)
+117 NAME: Baer Bros, R Williams mgr, grocers and meals, 6769 Shelden
+124 ADD, JOB NOT FOUND: Baird Mary B Mrs (aged 69), died Oct 30, 1914
+132 ADD, JOB LOCATION NOT FOUND: Balconi Angelo (Mary), washer Schuermann Brg Co, res nr same (W H)
+150 NAME: Barth Henry elk Hildebrant McVicar, bds 3 Calverley, Dac Hts
+168 ADD, JOB NOT FOUND: Baudin Octavius D (aged 42), died March 12, 1914
+186 ADD, JOB NOT FOUND: Bedord Ernest (Marcelline), furnacewkr Mich Smelts, res nr same (W H)
+187 ADD, JOB LOCATION NOT FOUND: Bedrosian Sakris, lab, res 01d School House Main, Hurontown
+228 ADD, JOB NOT FOUND: Bennett Thomas H, removed to Indiana, Mich
+238 ADD, JOB NOT FOUND: BENTLEY GEORGE C HON, Probate Judge Court House, Tel 207 res Hancock, Mich, Tel 984J
+247 ADD, JOB LOCATION NOT FOUND: Bernardi Anthony, trammer Isle Royale C Co, bds John Pezzuti, Hurontown
+252 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Berry Edith, student, bds John Berry
+253 ADD, JOB LOCATION NOT FOUND: Berry John (Maude), tmstr Scheuermann Brg Co, res nr same
+309 NAME: Board of County Road Comnrs, F J McLain chairman, E S Gierson, Theodore Dengler members, Randolph Morton engr, 2425 Dee bldg
+310 ADD, JOB NOT FOUND: BOARD OF EDUCATION, John A Doelle Supt, High School Bldg, cor Albion and Pewabic, Tel 449
+311 NAME: Board of Trade Bar, F P French propr, 44 Isle Royale
+316 NAME: Bohemia Mining Co, Robert H Gross sec and treas, 19 Dee bldg
+339 ADD, JOB NOT FOUND: Bosch Block, 130 Shelden
+340 NAME: Bosch Brewing Co (Scheuermann Branch), Frank Mette mgr, ss Shelden 1 mile w of city limits
+344 NAME: Boston Lake Superior Mineral Land Co, A S Bigelow pres, WAS Chrymes sec and treas, F W Nichols agt, Leopold bldg
+349 ADD, JOB NOT FOUND: Bourbonnais Leonard (aged 36), died Feb 21, 1913
+401 ADD, JOB LOCATION NOT FOUND: Brohm Henry (Mamie), furnaceman Mich Smelts, res Coles Creek, nr same (W H)
+420 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Brunner Anna M, bkpr Frank Hildebrant, bds Max Brunner
+421 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Brunner Elsie L, opr Mich State Tel Co, bds Max Brunner
+422 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Brunner Josephine, student, bds Max Brunner
+423 ADD, JOB LOCATION NOT FOUND: Brunner Max (Anna), engr, res County rd opp Scheuermann Brg Co (W H)
+426 ADD, JOB LOCATION NOT FOUND: Bruno Joseph, trammer Isle Royale Copper Co, bds 01d School House, Plurontown
+455 ADD, JOB NOT FOUND: Burrows Ann E (wid John aged 72), died Oct 14, 1914
+461 NAME: BUSCH STORAGE BATTERY CO (Willard Service Station), 37 Isle Royale, Tel 447W (See opp page 676)
+473 ADD, JOB LOCATION NOT FOUND: Bykkonen Albert, car repr Copper Range R R, res Mill Mine Junction
+484 NAME: Cain, see also Kane
+490 ADD, JOB NOT FOUND: CALVERLEY WM D (Mae T Shelden Calverley), Pres Houghton County Loan Inv Assn, Houghton
+492 NAME: CAMERON A S STEAM PUMP WORKS, Thomas F Lynch Mgr, Direct Acting Steam Pump, Duplex Pumps and Centrifugal Pumps, 44 Dodge, Tel 144
+513 ADD, JOB NOT FOUND: Carkeek Block, 162 Shelden
+536 NAME: Carr, see Karr
+539 ADD, JOB NOT FOUND: Carrier Flats, 8082 Franklin
+543 ADD, JOB NOT FOUND: Carrier Reginald, removed to Flint, Mich
+552 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Caspary David, brakeman, bds Henry Caspary
+554 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Caspary Frederick, student, bds Henry Caspary
+555 ADD, JOB LOCATION NOT FOUND: Caspary Henry (Anna), lab Isle Royale Copper Co, res Horton, Hurontown
+556 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Caspary John, surfaceman Isle Royale Copper Co, bds Henry Caspary
+557 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Caspary Joseph W, lab Isle Royale Copper Co, bds Henry Caspary
+558 ADD, JOB NOT FOUND, PERSON NOT FOUND: Caspary Simon, bds Henry Caspary
+565 ADD, JOB LOCATION NOT FOUND: Chamberlain Eugene (Amelia), washer Scheuermann Brg Co, res nr same (W H)
+586 ADD, JOB LOCATION NOT FOUND: Chappell Wm T (Ethel), lab Isle Royale Copper Co, res Frederick, Hurontown
+589 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Charters J Hamilton, phys 77 Shelden, bds Douglass House
+593 NAME: Chicago, Milwaukee St Paul Railway, Herbert E Stewart coml agt, Masonic bldg
+594 NAME: Chicago North Western Ry Co, Charles E Webb genl agt, Douglass House blk
+616 ADD, JOB NOT FOUND: Circuit Court, Hon Patrick H OBrien judge, Court House
+617 NAME: Citizens National Bank Building, nw cor Shelden and Dodge
+618 NAME: CITIZENS NATIONAL BANK OF HOUGHTON THE, James R Dee Pres, A F Heidkamp VicePres, R A Young VicePres, Wm Warmington Cashier, nw cor Shelden and Dodge
+619 ADD, JOB NOT FOUND: CITY HALL, nw cor Montezuma and Huron
+641 NAME: Collins, see also Kollins
+643 ADD, JOB NOT FOUND: Collins Jethro, removed to Negaunee
+650 NAME: Colombe Bros (Peter and Joseph E), livery 62 Shelden
+663 NAME: Compact Copper Co, G S Goodale supt, 28 Citizens Bank bldg
+664 ADD, JOB NOT FOUND, PERSON NOT FOUND: Congdon Irving, bds Wm Congdon (D H)
+665 ADD, JOB NOT FOUND, PERSON NOT FOUND: Congdon Stella, bds Wm Congdon (D H)
+673 ADD, JOB NOT FOUND: Coon Thomas A (E May), civil engr, res 2611/ Florence
+676 ADD, JOB NOT FOUND: Cooper James B (aged 54), died Feb 27, 1914
+682 NAME: Copper City Land Co, Jeremiah T Finnegan pres, Thomas Hoatson vicepres, John G Stone sec and treas, Masonic bldg
+683 NAME: COPPER COUNTRY COMMERCIAL CLUB, A J Ruhl Pres, Henry L Baer VicePres, F K Guck Sec, W R Thompson Treas, 36 Isle Royale, Tel 831
+684 NAME: COPPER COUNTRY CREDIT BUREAU, Joseph Schulte Pres, I N Haas VicePres, Roy O Young Treas, L S Salo Mgr, 36 Isle Royale, Tel 1174 South Copper County Fair, See Houghton Co Agricultural Society
+685 NAME: Copper Range Co, John M Wagner pur agt, Masonic bldg
+686 NAME: COPPER RANGE LAND ABSTRACT CO (INC), Ira E Randall Pres and Mgr, 109 South, Tel 245J
+687 NAME: COPPER RANGE RAILROAD CO, F R Bolles Genl Mgr, C E Wright Auditor, C W Marquardt Genl Frt and Pass Agt, George Williams (Calumet, Mich) Genl Agt, A H Ehlers Genl Supt, 2d fl Dee Bldg, Clarence L Roche Local Frt and Pass Agt, Depot ss Shelden nr P L bridge, Tel 173
+716 ADD, JOB NOT FOUND: County Board Commissioners, County Clerks Office, Court House
+717 ADD, JOB NOT FOUND: COUNTY CLERKS OFFICE, Nicholas F Kaiser Clerk, Court House
+718 ADD, JOB NOT FOUND: County Jail, ss Albion bet Huron and Dodge
+719 ADD, JOB NOT FOUND: County Land Agt, N F Kaiser, Court House
+721 ADD, JOB NOT FOUND: COUNTY TREASURERS OFFICE, Andrew Bram Treasurer, Court House
+722 ADD, JOB NOT FOUND: COURT HOUSE, ss Albion bet Huron and Dodge
+727 ADD, JOB NOT FOUND: CRAGO LAUREN (Richard Crago, Eliel Lauren), Tailors to Ladies and Gentlemen, Cleaning, Pressing and Repairing, 24 Shelden, Tel 446M
+729 NAME: Creamer, see also Kramer
+736 NAME: Crouse, see Krause
+748 ADD, JOB NOT FOUND: Croze Muriel, choreman 334 College av
+749 NAME: Croze Raoul J V (Florence), engr Joseph Croze, res 20 South
+752 ADD, JOB LOCATION NOT FOUND: CRUSE JAMES A, Sheriff Houghton County, res Sheriffs residence
+753 NAME: Cudahy Packing Co, J P Wallace mgr, 40 Quincy
+757 ADD, JOB NOT FOUND: Cundy Frederick J, removed to Chicago, 111
+790 ADD, JOB NOT FOUND: Dee Bowling Alleys, Joseph Thibodeau mgr, 84 Shelden
+791 ADD, JOB NOT FOUND: Dee Building, nw cor Shelden and Isle Royale
+792 ADD, JOB NOT FOUND: DEE JAMES R, Pres Citizens Natl Bank and VicePres Houghton County Electric Light Co, res 3d fl Dee Bldg
+826 NAME: Denver Rock Drill Mfg Co, Edward Church dist mgr, 8 Post Office bldg
+841 NAME: Detroit Life Insurance Co, E C Mitchell spl agt, Young bldg
+842 NAME: Detroit and Northern Michigan Building and Loan Assn, Thomas E Mitchell branch mgr, 112 Shelden
+858 ADD, JOB LOCATION NOT FOUND: Digman Margaret E, propr Hotel Dee, res same
+872 ADD, JOB NOT FOUND: DOELLE JOHN A, Supt of Houghton Public Schools, Office High School Bldg, Phone 449 res 71 Jasper, Phone 586M
+887 NAME: Douglass Copper Co, F W Nichols agt, Leopold bldg
+888 NAME: Douglass Courtney E C, real est 20 Dee bldg, res 87 College av
+889 NAME: Douglass C C Co, C C Douglass pres, 20 Dee bldg
+890 NAME: DOUGLASS FRANK A AGENCY THE, W Corbin
+891 ADD, JOB NOT FOUND: Douglass Mgr, Insurance, Real Estate and Rentals 58 Shelden, Tel South 54 (See front cover and left top lines)
+892 ADD, JOB NOT FOUND: DOUGLASS HOUSE, John C Mann Propr, Shelden cor Isle Royale, Tel 840
+893 ADD, JOB NOT FOUND: Douglass House Block, sw cor Shelden and Isle Royale
+895 ADD, JOB NOT FOUND: DouglassMason Block, 5860 Shelden
+902 ADD, JOB NOT FOUND: Doyle Arthur, removed to Chassell, Mich
+915 NAME: Dravel Louis (Charlotte M) ticket agt D S S A Ry and MRRR, res 135 Blanche
+928 ADD, JOB NOT FOUND: Dube Ernest J (aged 54), died Oct 19, 1914
+929 NAME: Dubois, see also Wood
+937 NAME: Duluth, South Shore Atlantic Ry Co, James Robertson genl frt agt, 15 Dee bldg
+938 NAME: Duluth, South Shore and Atlantic Ry Co, C M Hoar pass and frt agt, depot ft of Huron, freight office tracks nr Franklin
+945 ADD, JOB LOCATION NOT FOUND: Dupont Edward, lab Isle Royale Copper Co, res Frogpool Grove
+974 ADD, JOB NOT FOUND: Edwards R Estate, James P and John Edwards trustees, 119 College av
+989 ADD, JOB LOCATION NOT FOUND: Endian Wm, timberman Isle Royale Copper Co, res Poplar, Hancock
+1003 NAME: Erie Western Transportation Co (Anchor Line), Charles O Berglund agt, Copper Range Depot (W H)
+1013 ADD, JOB NOT FOUND: Evans James (Matilda), res nr Michigan Smelts on County rd (W H)
+1014 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Evans Jeane, tchr Mich Smelts School, bds John Berry
+1015 ADD, JOB NOT FOUND: EVANS SILAS G (Ethel R), Electrical Contractor,
+1016 ADD, JOB NOT FOUND: Everything Electrical, Estimates Furnished, 82 Franklin, res same, Tel 954M
+1018 ADD, JOB LOCATION NOT FOUND: Evatz John (Annie), trucker Scheuermann Brewing Co, res nr same (W H)
+1033 ADD, JOB LOCATION NOT FOUND: Fedorinsky Michael, trammer Isle Royale Copper Co, res Coles loc
+1065 ADD, JOB LOCATION NOT FOUND: Finley Arthur, janitor Superior School, res Superior Mine loc
+1068 ADD, JOB NOT FOUND: Finnish Temperance Hall, es 3d 1 s of Baltic, Finn loc
+1069 ADD, JOB NOT FOUND: Fire Department Headquarters, nw cor Montezuma and Huron
+1070 ADD, JOB NOT FOUND: First Presbyterian Church, Rev Frank P Knowles pastor, ss College av 2 e of Franklin
+1071 NAME: First Christian Church Scientist, Carkeek bldg
+1084 ADD, JOB LOCATION NOT FOUND: Fitzpatrick Wm P (Margaret), foreman Mich State Tel Co res 99 Franklin
+1098 ADD, JOB LOCATION NOT FOUND: Foiles Ella, res ft of Ripley
+1099 ADD, JOB NOT FOUND: Foley Block, 98100 Shelden
+1105 ADD, JOB LOCATION NOT FOUND: Foley Martin M (Isabella M), supt Houghton County Sanitarium, res same
+1107 ADD, JOB NOT FOUND: FOLEYS BUFFET, John M Foley Propr, If You Are Looking for Anything Regarding This County Ask John M Foley, 100 Shelden, Tel 317
+1118 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Foucher Walter, lab, bds Ernest Bedord
+1121 NAME: Fovargue John R (Ella O) mgr Peninsula Wholesale Grocery, res 321 College av
+1123 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fox August, miner, bds Hotel Jewell
+1138 ADD, JOB LOCATION NOT FOUND: French Frederick P (Emma), propr Board of Trade Bar, res 3d fl Dee bldg
+1139 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Frenette Lottie, cashr F W Woolworth Co, rms 5th and Emerald
+1154 NAME: Fulton Land Trust Co, F W Nichols agt, Leopold bldg
+1156 ADD, JOB NOT FOUND: FUNKEY JOHN L (Northern Garage Supply Co), res Hancock, Tel 510W
+1182 ADD, JOB NOT FOUND: GATELYWIGGINS CO THE, Wm J Williams Mgr, Household Goods, Furniture, Mens and Womens Clothing, Etc, 161 Shelden, Tel 296
+1222 ADD, JOB LOCATION NOT FOUND: Gilbert James (Jessie), lab Isle Royale Copper Co, res 1117th (E H)
+1227 ADD, JOB LOCATION NOT FOUND: Gillespie Albert F, fireman Isle Royale Copper Co, res Coles
+1232 ADD, JOB NOT FOUND: GILT EDGE BAR, Charles T Haefer Propr, 130 Shelden, Tel 1171R
+1233 ADD, JOB LOCATION NOT FOUND: Giovanni Eugene, lab M Van Orden Co, res Mannerfield Add
+1248 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gloss Tohn, lab, bds Joseph Abb
+1257 ADD, JOB NOT FOUND: Goodell H Stuart, res Upland rd
+1265 NAME: Grace Methodist Episcopal Church, Rev Grant Perkins pastor, se cor Isle Royale and Montezuma
+1269 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grant Agnes M, student, bds James Grant
+1272 ADD, JOB LOCATION NOT FOUND: Grant James (Susanna), fireman Isle Royale C Co, res Royale Mill loc
+1273 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grant Percival J, lab, bds James Grant
+1274 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grant Sarah M, student, bds James Grant
+1289 ADD, JOB NOT FOUND, PERSON NOT FOUND: Gregory Caroline C Mrs, bds John M Croze
+1302 ADD, JOB LOCATION NOT FOUND: Gronholt John K, surveyor Houghton County, res Sidnaw
+1320 NAME: HAAS A BREWING CO, Joseph Strobel Pres, Michael Messner VicePres, W F Miller Sec and Treas, 102106 Shelden, Tel 444
+1321 ADD, JOB NOT FOUND: Haas Adolph (aged 63), died May 18, 1914
+1323 ADD, JOB NOT FOUND: Haas Block, 146148 W Shelden
+1324 NAME: Haas Ed Co (Edward, Herman, Martin J and Isaac N Haas), clothing 84 Shelden
+1343 ADD, JOB NOT FOUND: Hall Building, 110 Shelden
+1371 ADD, JOB LOCATION NOT FOUND: Hannon Nicholas (Angeline), lab, res County rd nr Sceuermann Brg Co (W H)
+1384 ADD, JOB NOT FOUND: HARKNESS ROBERT B (Alice C), Physician and Surgeon, Office Hours 13 and 78 p m, Sundays and Holidays by Appointment, Rooms 1 and 2 Young Bldg, Tel 460F1 res 240 College av, Tel 460F2
+1391 ADD, JOB NOT FOUND: Harrington Block, 8991 Shelden
+1428 ADD, JOB NOT FOUND: Hartman Block, 8688 Shelden
+1430 ADD, JOB NOT FOUND: Hartman Hall, 8688 Shelden
+1458 NAME: Healy James T Agency The (James T Healy), genl insurance, real est 96 Shelden
+1477 ADD, JOB LOCATION NOT FOUND: Heinonen Joffet, lab Isle Royale C Co, res Challenge Mine
+1479 ADD, JOB LOCATION NOT FOUND: Hemmila August, trammer Isle Royale C Co, res Huron Dam
+1497 ADD, JOB NOT FOUND: Hienan Antoinette (wid Michael), res Portage, Hurontown
+1498 ADD, JOB NOT FOUND: High School bldg, ss Albion bet Pewabic and Quincy
+1536 ADD, JOB NOT FOUND: Hoar Wm B (aged 65), died May 12, 1915
+1538 ADD, JOB NOT FOUND: Hobba Agnes (wid James aged 58), died Nov 18, 1915
+1539 ADD, JOB NOT FOUND: Hobba Building, 83 Shelden
+1583 ADD, JOB LOCATION NOT FOUND: Hooper Noal J, appr CRRR bds 258 Edwards (W H)
+1592 ADD, JOB NOT FOUND: Hosking Thomas H, turnkey County Jail
+1596 ADD, JOB NOT FOUND: Hotel Dee, Margaret E Digman propr, 8284 Shelden
+1597 ADD, JOB NOT FOUND: Hotel Jewell (James H Jewell), 119 Shelden
+1598 ADD, JOB NOT FOUND: HOTEL KNAUF, Joseph H Knauf Propr, American Plan 125 and Upwards, European Plan 50c and 75c Per Day, 9799 Shelden, Tel 28
+1599 ADD, JOB NOT FOUND: HOTEL SALO, Wm Salo Propr, American Plan 100 Per Day and Upwards, Newly Furnished, Steam Heat, 123 Shelden, Tel 925W
+1600 ADD, JOB NOT FOUND: Houghton Club, John McIntyre mgr, sw cor Portage and Shelden
+1601 NAME: Houghton Copper Co, Lucius L Hubbard mgr, 66 Shelden
+1602 NAME: Houghton County Agricultural Society, Wm D Calverley pres, Isaac N Haas sec, Wm Warmington treas, office ft of Portage
+1603 NAME: HOUGHTON COUNTY CIRCUIT COURT, Hon Patrick H OBrien Judge, Court House
+1604 NAME: HOUGHTON COUNTY CLERKS OFFICE, Nicholas F Kaiser Clerk, Court House
+1605 NAME: HOUGHTON COUNTY COURT HOUSE, ss Albion bet Huron and Dodge
+1606 NAME: HOUGHTON COUNTY ELECTRIC LIGHT CO, Frederick P Royce (Boston, Mass) Pres, James R Dee VicePres, Henry B Sawyer (Boston, Mass) Treas, W E Shaw Jr Asst Treas, Gardner Rogers Mgr, Otto Snyder Supt, 98 Shelden, Tel South 100 (See right top lines)
+1607 NAME: Houghton County Farm Bureau, John McNamara pres, John G Stone sec, Frederick W Nichols treas, Leo M Geismar agt
+1608 ADD, JOB NOT FOUND: Houghton County Infirmary, Wm G Wahl supt, 4 miles w of Court House on County rd (W H)
+1609 ADD, JOB NOT FOUND: Houghton County Jail, ss Albion bet Huron and Dodge
+1610 NAME: HOUGHTON COUNTY LOAN INVESTMENT ASSOCIATION THE, Wm D Calverley Pres, R H Shields VicePres, Edward J Ruelle Sec, 63 Shelden, Tel 702
+1611 NAME: HOUGHTON COUNTY PROSECUTING ATTORNEYS OFFICE, Wm J Galbraith Prosecuting Attorney, Court House
+1612 NAME: Houghton County Road Commrs, Frederick J McLain chairman, Theodore Dengler sec, E S Gierson treas, Dee bldg
+1613 ADD, JOB NOT FOUND: Houghton County Sanitarium, Martin M Foley supt, 4 miles w of Court House on County rd (W H)
+1614 NAME: HOUGHTON COUNTY SHERIFFS OFFICE, James A Cruse Sheriff, Court House, Tel 55
+1615 NAME: HOUGHTON COUNTY TRACTION CO, Frederick P Royce (Boston, Mass) Pres, Frederick J Bawden VicePres, Henry B Sawyer (Boston, Mass) Treas, W E Shaw Jr Asst Treas, Gardner Rogers Mgr, John Ralph Jr Supt, 98 Shelden, Tel South 100
+1616 NAME: HOUGHTON COUNTY TREASURERS OFFICE, Andrew Bram Treasurer, Court House
+1617 ADD, JOB NOT FOUND: Houghton Fire Dept, Ray E Eggleston chief, City Hall
+1618 ADD, JOB NOT FOUND: Houghton High School, ss Albion bet Pewabic and Quincy
+1619 NAME: Houghton Light Infantry Armory Amphidrome, Portage and D S S A Ry
+1620 NAME: Houghton Lumber Co, R C Pryor pres, John C Pryor vicepres and mgr, D S S A Ry tracks (E LI) nr Lake
+1621 ADD, JOB NOT FOUND: HOUGHTON NATIONAL BANK, J H Rice Pres, W D Calverley VicePres, A N Baudin Cashier, C G Frimodig and R T Bannallack Asst Cashiers, ne cor Shelden and Isle Royale (See front cover)
+1622 NAME: Houghton National Bank Bldg, 66 Shelden
+1623 ADD, JOB NOT FOUND: HOUGHTON PHARMACY, L A Lundahl Propr, Drugs and Toilet Articles, Prescriptions Our Specialty, 85 Shelden, Tel 58M
+1624 ADD, JOB NOT FOUND: Houghton Public Library, Harriet L Allen librarian, cor
+1625 ADD, JOB NOT FOUND: Huron and Montezuma
+1626 NAME: Houghton Pure Food Co, Wm A Eudy pres, Henry L Baer sectreas, meats and groceries, cor Shelden and Isle Royale
+1627 NAME: Houghton Water Works Pumping Station, Park av nr Calverley
+1638 ADD, JOB LOCATION NOT FOUND: Hoyhtya Amanda, tchr Askel School, res Askel
+1640 NAME: Hubbell Jay A School, sw cor College av and Vivian
+1644 NAME: Hulbert Mining Co, A S Bigelow pres, WAS Chrymes sec and treas, F W Nichols agt, Leopold bldg
+1650 ADD, JOB LOCATION NOT FOUND: Hurley John, foreman CRRR, res Mill Mine Junction
+1652 ADD, JOB NOT FOUND: Hurontown Fire Hall, es Main bet Horatio and Henry, Hurontown
+1653 NAME: Hurontown M E Church, Rev Joseph H Oatiy pastor, sw cor Main and James, Hurontown
+1654 ADD, JOB NOT FOUND: Hurontown School, Mary S Murphy prin, sw cor Main and Henry, Hurontown
+1657 ADD, JOB NOT FOUND: HUSEBY MAGNUS (Necoline), Paper Hanging, Fresco Painting, Hardwood Finishing, Kalsomining and Graining 154 Agate (E H), res same, Tel 737J (See right bottom lines)
+1669 ADD, JOB NOT FOUND: Ideal Restaurant, Wm S Johnson propr, 47 Huron
+1671 NAME: Indiana Copper Co, R M Edwards genl mgr, 19 Dee bldg
+1672 ADD, JOB NOT FOUND: INGERSOLLRAND COMPANY, Thomas F Lynch Mgr, Air Compressors, Rock Drills, Pneumatic Tools and General Mining Machinery 44 Dodge, Tel 144
+1683 NAME: Island Copper Co, F W Nichols agt, Leopold bldg
+1684 NAME: Isle Royale Blacksmith Shop, Wm H Champion foreman, Isle Royale loc
+1685 NAME: Isle Royale Carpenter Shop, Samuel Sawle foreman, Isle Royale loc
+1686 NAME: ISLE ROYALE COPPER CO, Rodolphe L Agassiz (Boston, Mass) Pres, Quincy A Shaw (Boston, Mass) VicePres, George A Flagg (Boston, Mass) Sec and Treas Isle Royale Loc, Tel 189
+1687 NAME: Isle Royale Machine Shop, James Richards foreman, Isle Royale loc
+1688 NAME: Isle Royale Mine Captains office, Edward Clemso capt, Isle Royale loc
+1689 NAME: Isle Royale Mine Office, Harry E Lukey chief elk, Isle Royale loc
+1690 NAME: Isle Royale Mining Co Warehouse, w s Mine, Isle Royale loc
+1691 ADD, JOB NOT FOUND: Isle Royale Pumphouse, Isle Royale Mill loc
+1692 ADD, JOB NOT FOUND: Isle Royale Roundhouse, Charles F Vollmer foreman, ws Mine, Isle Royale loc
+1693 NAME: Isle Royale Stamp Mill, Isle Royale Copper Co proprs, Isle Royale Mill
+1694 NAME: Isle Royale Stamp Mill School, Nora Robertson tchr, Isle Royale Mill loc
+1695 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ismon Aleck, painter, bds Hotel Knauf
+1704 ADD, JOB NOT FOUND, PERSON NOT FOUND: Jacobs Louis, bds Louis Kroll
+1723 ADD, JOB LOCATION NOT FOUND: Jarmloke Harry, trammer Isle Royale C Co, res No 2
+1740 ADD, JOB LOCATION NOT FOUND: Jewell James H (Christina), propr Hotel Jewell, res same
+1747 NAME: Johns H WManville Co, S T Harris mgr, asbestos goods, 96 Shelden
+1766 ADD, JOB LOCATION NOT FOUND: Johnson Jacob, trackman Isle Royale C Co, res Isle Royal
+1778 ADD, JOB LOCATION NOT FOUND: Johnson Victor (Anna), washer Scheuermann Brewing Co, res nr same (M H)
+1801 NAME: Juvenile Division Probate Court, Hon George C Bentley judge, Court House
+1809 ADD, JOB LOCATION NOT FOUND: Kaiser Arnold (Nellie), brakeman C R R R, res Shelden 4 w of Scheuermann Brewing Co
+1815 ADD, JOB LOCATION NOT FOUND: Kananen Oscar, timberman Isle Royale C Co, res Toivola
+1816 NAME: Kane, see also Cain
+1827 ADD, JOB NOT FOUND: Karger S Sons, Lessing Karger mgr, whol meats 33 Dodge
+1852 ADD, JOB NOT FOUND: Kelly Wm, chairman board of control M C M, res Vulcan
+1855 ADD, JOB LOCATION NOT FOUND: Kempanen John, car repr C R R R, res Mill Mine Junction
+1880 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kidd James, hlpr C R R R, bds E M Sleeman
+1891 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kinnee Calvin D, barber J D Kinnee, rms Dee bldg
+1903 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kirkish Solomon, peddler, bds 122Pewabic
+1905 ADD, JOB NOT FOUND: Kirkish Haggar (Stephen Kirkish, Charles Haggar), notions 122 Pewabic
+1925 ADD, JOB LOCATION NOT FOUND: Klingkammer Leona, student, bds, 107 Williams, Hurontown
+1927 ADD, JOB LOCATION NOT FOUND: Klingkammer Theodore (Irene), lab Isle Royale C Co, res Main, Hurontown
+1929 ADD, JOB NOT FOUND: Klingkammer Orchestra, Joseph E Klingkammer mgr, 74 McClellan, Hurontown
+1930 ADD, JOB LOCATION NOT FOUND: Knauf Joseph H (Mary Knauf Co), propr Hotel Knauf, res same
+1931 NAME: Knauf Co (J H Knauf, A D Rice), meats and produce, Bosch bldg
+1932 ADD, JOB NOT FOUND: Knechtges Anna (wid Peter), removed to Calumet
+1935 ADD, JOB NOT FOUND: Knechtges Joseph, removed to Calumet
+1956 NAME: Kollins, see also Collins
+1977 NAME: Kramer, see also Creamer
+1987 NAME, PERSON NOT FOUND: KRATT MARTIN M G, Reporter Copper Journal, bds 157 Ruby
+1999 ADD, JOB NOT FOUND: KRELLWITZ AUGUST L (Emma), Licensed Embalmer, Undertaking Parlors and Chapel, Picture Framing a Specialty 40 Huron, res same, Tel 134 (See right top lines)
+2018 NAME: Krolik A Co, Hyman Pimstein mgr, whol dry goods, 36 Isle Royale
+2019 ADD, JOB NOT FOUND: Kroll Building, 64 Shelden
+2020 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kroll Cyril, lab, bds Louis Kroll
+2021 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kroll Douglass, student, bds Louis Kroll
+2027 ADD, JOB LOCATION NOT FOUND: Kroll Louis H (Antonia), carp Mich Smelts, res Coles Creek nr same ( W H)
+2029 ADD, JOB NOT FOUND: KROLLS DRUG STORE (Frederick W Kroll), Drugs, Toilet Articles, Stationery, Kodaks and Supplies, Magazines and Newspapers, 64 Shelden, Tel 130
+2031 ADD, JOB LOCATION NOT FOUND: Kujala Jacob, miner Isle Royale C Co, res So Range
+2038 ADD, JOB NOT FOUND: Kura Joseph, choreman 240 College av
+2046 ADD, JOB NOT FOUND: Kutscheid Grover J, removed to Hibbing, Minn
+2057 ADD, JOB NOT FOUND: LA BINE ALFRED (Genevieve), Physician and Surgeon, Office Hours 9 to 10 a m, 2 to 3 and 7 to 8 p m, Sundays by Appointment, Masonic Bldg, Tel 1157F1 res 109 Clark, Tel 1157F2
+2065 ADD, JOB LOCATION NOT FOUND: LaFreniere Eugene, lab, res nr Mich Smelts, County rd (W H)
+2066 ADD, JOB NOT FOUND, PERSON NOT FOUND: LaFreniere Exilda, bds Mrs Mary L LaFreniere
+2067 ADD, JOB NOT FOUND, PERSON NOT FOUND: LaFreniere Laura, bds Mrs Mary L LaFreniere
+2068 ADD, JOB NOT FOUND: LaFreniere Mary L (wid Eugene), res County rd nr Mich Smelts (W H)
+2075 NAME: Lake Superior Produce Co, J P Petermann pres, Joseph Bosch vicepres, J W Ruhl sec and treas, A J Ruhl genl mgr, w of Bridge nr C R R R Depot
+2076 NAME: Lake Superior Produce Co (cold storage plant), Wm J Daly mgr, 250264 W Shelden
+2077 NAME: LAKESIDE FLORAL CO, B F Chynoweth Pres, C H Moss VicePres, John G Stone Sec and Treas, Alfred W York Mgr, 136 Shelden, Tel 499
+2082 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lamore Albert G, lineman Mich State Tel Co, rms Telegraph bldg
+2101 NAME: Lang R B Dry Goods Co, Richard B Lang pres and gen mgr, Masonic bldg
+2114 ADD, JOB LOCATION NOT FOUND: Lappalla Gus, elk Boris Kremen, res Hancock C T Barr
+2168 ADD, JOB NOT FOUND: Leopold Building, 9092 Shelden
+2175 ADD, JOB LOCATION NOT FOUND: Leskinen Wm (Anna), trammer, res 3d s of Baltic
+2202 ADD, JOB LOCATION NOT FOUND: Limatinen John, car repr CRRR, res Mill Mine Junction
+2221 ADD, JOB NOT FOUND: L00NEY RICHARD T, Attorney and CounseloratLaw, U S Referee in Bankruptcy, Western District of Michigan, Northern Division, Houghton National Bank Bldg, Tel 532 res 121 E Water, Hancock, Tel 278R
+2262 ADD, JOB LOCATION NOT FOUND: LYNCH THOMAS F, Mgr IngersollRand Co and A S Cameron Steam Pump Works, res Hancock, Tel 85J
+2264 ADD, JOB NOT FOUND: Lyric Theatre, George Lampres propr, 107 Shelden
+2268 ADD, JOB NOT FOUND: McCALL JOHN T, General Insurance 5 Post Office Bldg Tel 900J res 25 College av, Tel 589W
+2277 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McCarthy Peter, overseer of highways, bds Hotel Knauf
+2279 ADD, JOB NOT FOUND: McCLURE McARTHUR (James McClure, David McArthur), Sales Stable, Horses For Sale Or Exchange, 264 Shelden (W H), Tel 275
+2293 ADD, JOB NOT FOUND: McDonald John R, under sheriff Houghton Co
+2328 ADD, JOB NOT FOUND: McKINDLES FRANK E, Reporter Mining Gazette Co, res Hancock, Tel 734J
+2334 NAME: McLOGAN PEARCE MUSIC CO (James C MeLogan, Irving G Pearce), Pianos, Organs, Talking Machines and Diamond Disc Phonographs, Piano and Pipe Organ Tuning and Repairing, 337339 5th, Calumet, Tel North 234 (See front cover)
+2359 NAME, PERSON NOT FOUND: Maass Fred A H, architect Postoffice blk, bds 71 Portage
+2376 NAME: MACKAY JOHN E AGENCY (John E Mackay), Life and Fire Insurance, Money to Loan on Farms and Improved Real Estate, Farm and City Property For Sale, Post Office Blk, Tel 900M res 86 Prospect, Tel 415R
+2377 NAME: MAC KENZIE CLYDE S (Helen), Register of Deeds, Court House, res 114 College av
+2389 ADD, JOB NOT FOUND, PERSON NOT FOUND: Mahaffay Wilbert, bds George Singleton
+2404 ADD, JOB NOT FOUND: Major Frank, res 3d fl Dee bldg
+2409 ADD, JOB LOCATION NOT FOUND: Maki Alexander, lab, res Finn loc
+2416 ADD, JOB LOCATION NOT FOUND: Maki John, lab, res Finn loc
+2423 NAME: Malfroid Trading Co, Silvian Malfroid mgr, farm implements 296302 W Shelden (W H)
+2426 ADD, JOB LOCATION NOT FOUND: Manai Frank, trammer Isle Royale Copper Co, res Trimountain
+2432 ADD, JOB LOCATION NOT FOUND: Mann John C, propr Douglass House, res same
+2443 ADD, JOB LOCATION NOT FOUND: Mardekian John, trammer, res 01d School House Main, Hurontown
+2454 ADD, JOB LOCATION NOT FOUND: Marsh Ernest J, asst supt Michigan Smelting Co, res Coles Creek (W H)
+2462 ADD, JOB NOT FOUND, PERSON NOT FOUND: Martin Catherine, bds Pilgrim Terrace loc
+2485 ADD, JOB LOCATION NOT FOUND: Martin Wm D, farmer, res Pilgrim Terrace loc
+2491 NAME: Masonic Building and Hall, nw cor Shelden and Portage
+2519 NAME: Mayflower Mining Co, G S Goodale supt, 28 Citizens Bank bldg
+2531 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mellin Gilbert G, dept mgr Remington Typewriter Co, bds Dee Hotel
+2533 NAME: MERCANTILE COLLECTION AGENCY THE, August J Hartmann Manager, Claim Adjusting, Credit Reporting and Judgment Advertising, Room 3, 150 Shelden (See left bottom lines)
+2534 ADD, JOB NOT FOUND: MERCHANTS DELIVERY ASSOCIATION, Walter S McVicar Pres, Irene E Demars Sec, F C Strasser Mgr, 64 Montezuma, Tel 86
+2563 ADD, JOB NOT FOUND: Mineral Range Railroad, C M Hoar pass and frt agt, depot ft of Huron, freight office ss D S S A tracks nr Franklin
+2564 ADD, JOB NOT FOUND: MINING GAZETTE (Daily, Sunday and Weekly),
+2565 NAME: Mining Gazette Co Proprs, John R Pimlott SecTreas and Genl Mgr, Post Office Blk, Business Office Tel 198, Editorial Office Tel 199
+2566 NAME: MINING GAZETTE CO, Wm G Rice Pres, Homer A Guck VicePres, John R Pimlott SecTreas and Genl Mgr, Publrs Mining Gazette (Daily, Sunday and Weekly), Post Office Block, Business Office Tel 198, Editorial Offices Tel 199
+2583 NAME: Moir, see also Moore
+2590 ADD, JOB LOCATION NOT FOUND: Moncuzo Sarafino, trammer, bds John Pizzuti, Hurontown
+2613 NAME: Moore, see also Moir
+2614 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Moore George H, car repr C R R R, bds E M Sleeman
+2615 ADD, JOB LOCATION NOT FOUND: Morgan David (Anna), refiner Mich Smelts, res Coles Creek (W H)
+2628 NAME: Morris Co, John Marshall jr mgr, whol meats, 36 Dodge
+2631 ADD, JOB LOCATION NOT FOUND: Morrow Samuel G (Elizabeth), vet surgeon Beakley Flats, res same
+2632 ADD, JOB NOT FOUND: Mort Roger (Laurentia), moldmkr Mich Smelts, res Coles Creek (W H)
+2638 ADD, JOB LOCATION NOT FOUND: Moss Charles H, vicepres Lakeside Floral Co, res Ishpeming
+2643 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Moyle Gwendolyn, student, bds Mrs Mary A Moyle
+2645 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Moyle James, lab, bds Arthur Pickett
+2647 ADD, JOB NOT FOUND: Moyle Mary A (wid Frederick), res James, Hurontown
+2666 ADD, JOB NOT FOUND: Murphy Block, 9496 Shelden
+2694 ADD, JOB NOT FOUND: Nagell Paul (Helen), brewmaster Scheuermann Brewing Co, res County rd opp Scheuermann Brewing Co (W H)
+2707 NAME: NATIONAL BANK OF HOUGHTON (See Houghton National Bank) (See front cover)
+2709 NAME: Naumkeag Copper Co, S S Lang supt, 11 Houghton Natl Bank bldg
+2710 ADD, JOB LOCATION NOT FOUND: Neault Albert, lab Isle Royale C Co, res Mrs Leome Neault
+2711 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Neault Eugene, student, bds Mrs Leome Neault
+2713 ADD, JOB NOT FOUND, PERSON NOT FOUND: Neault Laura, bds Mrs Leome Neault
+2714 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Neault Leo, driver Alexander Schumacher, bds Mrs Leome Neault
+2715 ADD, JOB NOT FOUND: Neault Leome Mrs, res w Shelden (W H)
+2716 NAME: NEEDHAM BROS (Fred L and Frank), Steam Launderers, Dyers and Cleaners 107 Montezuma, Tel 400 (See left side lines and opp page 676)
+2717 ADD, JOB NOT FOUND: NEEDHAM FRANK (Needham Bros), res Ishpeming
+2726 NAME: Netted Richard (aged 67) died July 20, 1914
+2734 NAME: NEW ARCADIAN COPPER CO, R H Shields Pres, S T Everett (Cleveland, Ohio) VicePres, W F Miller Sec and Treas, 4 Post Office Bldg, Tel 373
+2735 NAME: NEW BALTIC COPPER CO, Robert H Shields Pres, James P Edwards VicePres, John Edwards Sec and Treas, 4 Post Office Bldg, Tel 373
+2738 NAME: Nicholas Bros (Albert C and Wm J), shoes 72 Shelden
+2742 ADD, JOB NOT FOUND: Nichols Wm J (Nichols Bros), res Newberry
+2750 ADD, JOB LOCATION NOT FOUND: Niemi Emily, tchr Elo School, res Elo
+2757 ADD, JOB LOCATION NOT FOUND: Niva Arvid, lab Isle Royale Copper Co, res S Range
+2763 NAME: North Lake Mining Co, R M Edwards genl mgr, 19 Dee bldg
+2764 NAME: NORTHERN GARAGE SUPPLY CO (John L Funkey, Ernest C Hansen), Garage and Livery, Distributors Overland Automobiles, Full Line Supplies, Accessories, Etc, ft Isle Royale, Tel 874 (See right side lines)
+2766 NAME: Northwestern Mutual Life Insurance Co, George S Rodd genl agt, 4 Masonic bldg
+2769 ADD, JOB NOT FOUND: Nye Anna M, supervisor Public Schools, 123 Montezuma
+2785 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: OConnor Wick, contr, bds Hotel Knauf
+2786 ADD, JOB NOT FOUND: Odd Fellows Building, 161 Shelden
+2790 ADD, JOB LOCATION NOT FOUND: Ohanian Guragos, trammer Isle Royale C Co, res No 2
+2793 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Oja Edward, student, bds John Oja
+2794 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Oja Frank, trammer Isle Royale C Co, bds John Oja
+2795 ADD, JOB LOCATION NOT FOUND: Oja John (Anna), lab, res Williams, Hurontown
+2796 NAME: Ojibway Mining Co, Lucius L Hubbard pres, F A Kennedy sec, 66 Shelden
+2798 NAME: OLD COLONY COPPER CO, G S Goodale Supt, 28 Citizens Bank Bldg
+2816 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: 01son Tolof, lineman W U Tel Co, rms Teelgraph bldg
+2821 NAME: Ontonagon Land Co, F W Nichols agt, Leopold bldg
+2832 ADD, JOB LOCATION NOT FOUND: Opie Wm J (Edith), hlpr Isle Royale C Co, res James, Hurontown
+2836 ADD, JOB NOT FOUND: ORIENTAL GRILL, Howard H Chin Propr, Chinese and American Restaurant, 166 Shelden nr County Bridge, Tel 633J (See right bottom lines)
+2855 NAME: Pacific Copper Co, F W Nichols agt, Leopold bldg
+2859 NAME: PAINE, WEBBER CO (Boston, Mass), Samuel E Byrne Res Mgr, Specialists in Copper Mining Shares and High Grade Investment Securities 72 Shelden, Tel Private Exchange 1086 (See back cover)
+2863 ADD, JOB LOCATION NOT FOUND: Palladino Dominico, trammer Isle Royale Copper Co, bds John Pizzuti, Hurontown
+2865 ADD, JOB NOT FOUND: Palmer David, stableman McClure McArthur, res Liminga
+2882 ADD, JOB LOCATION NOT FOUND: Parkin John P (Ethel), boiler inspr, res 261J/3 Florence
+2887 ADD, JOB LOCATION NOT FOUND: Paton Florence E, tchr High School, res Park Addition
+2894 ADD, JOB LOCATION NOT FOUND: Pearce Henry (Edith), miner Isle Royale Copper Co, res James, Hurontown
+2900 ADD, JOB NOT FOUND: Pelkonen Michael, dockman C R R R
+2909 ADD, JOB NOT FOUND: Penberthy Grover C, removed to Detroit, Mich
+2914 ADD, JOB NOT FOUND: Penberthy Stanley J, removed to Des Moines, la
+2915 NAME: Peninsula Wholesale Grocery The, J R Forargue mgr, ft of Isle Royale
+2916 NAME: Penn Mutual Life Ins Co, John E MacKay agt, 1 Postoffice blk
+2918 ADD, JOB NOT FOUND: Peoples Meat Market, Robert J Hill propr, 89 Shelden
+2929 ADD, JOB LOCATION NOT FOUND: Pernaski Mike, miner Isle Royale Copper Co, res William, Hurontown
+2931 ADD, JOB NOT FOUND: Perreault George F, removed to Tulsa, Okla
+2937 ADD, JOB LOCATION NOT FOUND: Perrvman Wm, miner Isle Royal Copper Co, res So Range
+2976 ADD, JOB NOT FOUND: Peterson Louis (aged 30), died Feb 25, 1914
+2996 ADD, JOB LOCATION NOT FOUND: Pickett Arthur (Eliza J), carp, res Coles Creek nr Mich Smelts (W H)
+2997 ADD, JOB NOT FOUND, PERSON NOT FOUND: Pickett Velma, bds Arthur Pickett
+3004 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pilenzo Angelo, lab Isle Royale Copper Co, bds John Pizzuti
+3005 ADD, JOB NOT FOUND: Pilgrim Terrace, ns Florence, nr Upland rd
+3024 ADD, JOB LOCATION NOT FOUND: Pizzuti John (Florence), lab Isle Royale Copper Co, res 01d School House, Hurontown
+3026 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pizzuti Mary, student, bds John Pizzuti
+3028 ADD, JOB NOT FOUND, PERSON NOT FOUND: Pizzuti Rose, bds John Pizzuti
+3040 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pollari Lena, dom Houghton Club, rms Dee bldg
+3042 ADD, JOB LOCATION NOT FOUND: Pollock Frank S (Eva A), tchr, jres 99 Blanche
+3043 ADD, JOB NOT FOUND: POLLOCKS SHOP, Charles V Pollock Propr, Books, Stationery, Amateur Work Developed and Printed,
+3044 NAME: Professional and Commercial Photography, Musical
+3045 ADD, JOB NOT FOUND: Merchandise and Instruments, Victrolas, Phonographs, Records, Etc, 160 Shelden near County Bridge, Tel 502 (See right side lines)
+3047 NAME: Port Huron Duluth Steamship Co, H W Cross agt, 96 Shelden
+3048 NAME: PORTAGE LAKE HARDWARE CO, LTD, Frank S Carlton Chairman, John J Zealand Treas, E F Trevarrow Sec, 7880 Shelden, Tel 91
+3049 NAME: Portage Township Clerks Office, Jacob Rompf elk, Hartman blk
+3050 NAME: Portage Township Treasurers Office, Fred Ouellette treas, Hartman blk
+3051 ADD, JOB NOT FOUND: POST OFFICE, James J Byers Postmaster, es Isle Royale 3 n of Shelden
+3053 NAME: POSTAL TELEGRAPHCABLE CO, M J Harnett Mgr, 43 Isle Royale, Tel 354
+3074 ADD, JOB NOT FOUND: PROBATE COURT, Hon George C Bentley Judge, Court House, Tel 207
+3076 ADD, JOB NOT FOUND: PROSECUTING ATTORNEYS OFFICE, Wm J Galbraith Attorney, Court House
+3081 ADD, JOB NOT FOUND: Pryor Arthur E, removed to Hibbing, Mich
+3082 ADD, JOB NOT FOUND: Pryor A Tennyson, removed to Detroit, Mich
+3085 ADD, JOB NOT FOUND: Pryor E LeRoy, removed to Duluth, Minn
+3093 ADD, JOB NOT FOUND: Public Library, Harriet L Allen librarian, sw cor Huron and Montezuma
+3105 ADD, JOB NOT FOUND: Quirk George W (aged 61), died May 18, 1914
+3108 NAME, PERSON NOT FOUND: Rainey J Elton W, student, bds 137 Hubbell av
+3120 NAME: Rashleigh Bros (Edgar and Joseph), contrs 103 Agate and 73 Diamond
+3124 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Rattie Thomas, painter, bds Hotel Knauf
+3171 ADD, JOB NOT FOUND: Star Theatre, John Paananen mgr, 154 Shelden
+3174 ADD, JOB LOCATION NOT FOUND: Stasko Anthony (Eva), brewer Scheuermann Brewing Co, res County rd nr Scheuermann Brg Co (W H)
+3188 ADD, JOB NOT FOUND, PERSON NOT FOUND: Stewart Herbert E, commercial agt Chicago, Milwaukee St Paul Ry, bds Douglass House
+3207 ADD, JOB NOT FOUND: Stone Martha (wid George), boarding 8 Pryors loc
+3208 ADD, JOB NOT FOUND, PERSON NOT FOUND: Stone Stephen, artist, bds Hotel Knauf
+3209 NAME: STONE, WIEDER SCHULTE (John G Stone, Herman A Wieder, Harold C Schulte), Attorneys Masonic Bldg, Tel 2
+3213 NAME: Bldg, Tel 3981R res 111 3d (W H), Tel 360 (See left top lines)
+3222 NAME: Strathen D A Co, D A Strathen pres, F W Nichols sec and treas, Leopold bldg
+3224 ADD, JOB NOT FOUND: Streeter Albert T (aged 60), died Jan 24, 1915
+3226 ADD, JOB NOT FOUND: Strobel Block, 80 Shelden
+3253 ADD, JOB NOT FOUND: Sullivan Julia (wid Jeremiah aged 80), died June 7, 1914
+3274 NAME: Superior Construction Co, Wm H Phillippi mgr, 15 Hall bldg
+3275 NAME: Superior Packing Co, George Besser mgr, Lake near Amphidrome
+3276 NAME: Superior Boston Copper Co, John R Pimlott sec and treas, P O bldg
+3282 ADD, JOB NOT FOUND: Swift Block, 116118 Shelden
+3284 NAME: SWIFT I E CO, Mrs Mabel Swift Pres, P D Swift VicePres and Treas, H L Swift Sec, Wholesale and Retail Hardware, Builders Material, Etc, 116118 Shelden, Tel 274
+3285 ADD, JOB LOCATION NOT FOUND: Swift Mabel Mrs, pres I E Swift Co, res New Haven, Conn
+3292 ADD, JOB LOCATION NOT FOUND: Tamborini Pietro (Mary), lab Scheuermann Brg Co, res nr same (W H)
+3294 ADD, JOB LOCATION NOT FOUND: Tapani John, car repr C R R R, res Mill Mine Junction
+3301 ADD, JOB NOT FOUND: Telegraph Building, 3638 Isle Royale
+3315 NAME: Theta Tau Fraternity House, 233 College av
+3340 ADD, JOB NOT FOUND, PERSON NOT FOUND: Tierney Mary A Mrs, ins Young bldg, bds Hotel Dee
+3348 NAME: Torch Lake Mining Co, F W Nichols agt, Leopold bldg
+3361 ADD, JOB NOT FOUND: Town Hall, nw cor Montezuma and Huron
+3362 ADD, JOB NOT FOUND: TOWNSHIP CLERK, Jacob Rompf Clerk, Hartman Block, Tel 934M
+3363 ADD, JOB NOT FOUND: TOWNSHIP SUPERVISOR, Gust Hartman Supervisor, Hartman Block, Tel 934M
+3367 ADD, JOB NOT FOUND, PERSON NOT FOUND: Trathen Ethel, bds James Trathen
+3371 ADD, JOB LOCATION NOT FOUND: Trathen James H (Mary), shift boss Isle Royale Copper Co, res Horatio, Hurontown
+3373 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Trathen Thomas, student, bds James Trathen
+3375 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Trathen Weldon, student, bds James Trathen
+3387 ADD, JOB NOT FOUND: Treloar Daniel E, removed to Reidley, Cal
+3391 ADD, JOB NOT FOUND: Treloar Theodore F, removed to Reidley, Cal
+3400 ADD, JOB NOT FOUND: Trinity Episcopal Church, Rev W R Cross rector, sw cor Pewabic and Montezuma
+3421 NAME: TWIN CITY SUPPLY CO, Benjamin F Chynoweth Pres, Fred W Burritt SecTre^s, Ice, Coal and Wood, 276280 W Shelden
+3422 ADD, JOB LOCATION NOT FOUND: Tyni Enno, lab Ferdinand Wieber, res Hancock Union Copper Land Mining Co, G S Goodale supt, 28 Citizens Bank bldg
+3423 NAME: U S ENGINEERS OFFICE, George H Bank Junior Engineer, 12 Houghton Natl Bank Bldg, 3d fl, Tel 137
+3424 NAME: United States Weather Bureau, see Weather Bureau
+3440 NAME: VAN ORDEN BROS (Matthew and Wm C), General Insurance Dee Bldg, Tel 15
+3442 NAME: VAN ORDEN FRANK L (Louj), VicePres and Genl Mgr The M VanOrden Co, res 334 Florence, Tel 855
+3444 NAME: VAN ORDEN M CO THE, Matthew VanOrden Pres, Frank L VanOrden VicePres and Genl Mgr, Wm McKelvie Sec and Treas, Wholesale and Retail Dealers in Coal, Feed and Builders Material, 60 Shelden, Tels 810 and 811 (See right top lines)
+3453 ADD, JOB LOCATION NOT FOUND: Verjola Henry, lab Isle Royale Copper Co, res Concord City
+3460 NAME: VERRIERS, John Verrier Propr, Fine Line of Fancy, Domestic and Imported Wines, Liquors and Cigars, 88 Shelden, Tel 407
+3471 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Vigliatore Frank, trammer Isle Royale Copper Co, bds John Pizzuti
+3474 ADD, JOB NOT FOUND: VILLAGE CLERKS OFFICE, 01iver S Marion Clerk, Village Hall
+3475 ADD, JOB NOT FOUND: Village Engineer, Herman W Fesing, Village Hall
+3476 ADD, JOB NOT FOUND: Village Hall, nw cor Montezuma and Huron
+3477 NAME: Village of Houghton Pumping Station, Edmond A Bawdin engr, Park av, Dacotah hts
+3478 ADD, JOB NOT FOUND: VILLAGE PRESIDENTS OFFICE, August T Hartman Pres, Village Hall
+3479 ADD, JOB NOT FOUND: VILLAGE TREASURERS OFFICE, Joseph Schnitzer Treas, Village Hall
+3485 NAME: Vivian Johnson Estate (Johnson Vivian jr (Laurium), Joseph H Vivian (Butte, Mont), Elizabeth Vivian, executors), 221 College av
+3514 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wagner Albert, lab, bds Jacob Messner
+3523 ADD, JOB LOCATION NOT FOUND: Wahl Wm G (Anna), supt Houghton County Infirmary, res same
+3568 ADD, JOB LOCATION NOT FOUND: Warpala S Victor (Aina J), janitor, res w*s 3d 2 s Baltic
+3572 NAME: Watchorn Print Shop The (Wm E Watchorn), 327 Shelden (W H)
+3574 ADD, JOB NOT FOUND: Water Commissioners Office, B D Dunn commr, Village Hall sw cor Huron and Montezuma
+3581 ADD, JOB NOT FOUND: WEATHER BUREAU, U S Department of Agriculture, H B Cowdrick Observer in Charge, 4th fl Masonic Bldg, Tel 461
+3598 ADD, JOB NOT FOUND: WEIR RICHARD A (Winifred), Plumbing and Heating 14 Shelden, Tel 608J res 119 Hubbell, Tel 668W (See left top lines)
+3605 ADD, JOB NOT FOUND: WELLSFARGO CO EXPRESS, Claude J Hagen Agt, 87 Shelden, Tel 602

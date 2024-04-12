@@ -1,0 +1,27 @@
+9 NAME: Adams Township High School, Goodell av nr Kearsarge
+23 NAME: Albert Paine Methodist Episcopal Church, Rev Richard Carlyon pastor
+65 NAME: Bakucainis Adam miner Champion C Co
+108 NAME: Bentz John A agt Copper Range R R, Wells, Fargo Exp Co, W U Tel Co
+116 NAME: Berryman Wm miner Champion C Co
+205 NAME: CHAMPION COPPER CO, Wm A Paine (Boston, Mass), Pres, Frederick Stanwood (Boston, Mass), Sec and Treas, F W Denton Genl Mgr, W H Schacht Asst Genl Mgr, Erick W Kruka Chief Clerk, Copper Miners
+223 NAME: Copper Range Co, Frederick Stanwood (Boston, Mass), secretary
+224 NAME: Copper Range Consolidated Co, Frederick Stanwood (Boston, Mass), sec
+371 NAME: Globe Mining Co, F W Denton genl mgr
+444 NAME: Heikkinen Lassi miner Champion C Co
+451 ADD, JOB NOT FOUND: High School Building, Goodell av opp Kearsarge
+483 NAME: I O O F Hall, Kearsage nr Goodell
+517 NAME: Jennings Sidney miner Champion C Co
+525 ADD, JOB NOT FOUND: Johns John (aged 55), died Dec 13, 1915
+533 NAME: Jorniakka Samuel lab Champion C Co
+730 ADD, JOB LOCATION NOT FOUND: LaCrosse Aurisa, asst postmaster
+731 ADD, JOB NOT FOUND: LaCrosse Daniel A, postmaster
+807 NAME: Maki Jacob miner Champion C Co
+1012 ADD, JOB NOT FOUND: Painesdale Grade School, cor Goodell av and Kearsarge
+1013 ADD, JOB NOT FOUND: Painesdale Hotel, Edward F Siller propr, County rd
+1078 ADD, JOB NOT FOUND: Petrlich Mike, miaer Champion Copper Co
+1130 ADD, JOB NOT FOUND: Post Office, Daniel A LaCrosse postmaster
+1253 NAME: Sarah Sargent Paine Memorial Library, Ethel Kellow librarian, Goodell av opp Kearsarge
+1287 ADD, JOB NOT FOUND: SILLER EDWARD F, Propr Painesdale Hotel, Agent A Haas Brewing Co
+1315 NAME: South Range Mercantile Co (Ltd), James R Dee (Houghton) pres Lessing Karger (Houghton) vicepres and sec, W H Whittle mgr, Goodell av
+1523 NAME: Wells Fargo Co, John A Bentz agt
+1528 NAME: Western Union Telegraph Co, John A Bentz agt

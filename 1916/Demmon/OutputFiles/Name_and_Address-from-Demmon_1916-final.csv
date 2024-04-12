@@ -1,0 +1,541 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+1,Abramson,Isaac,J,null,Jennie M,miner ,Franklin Mining Co,res,null,null,82,Boston loc,null,null,null,null,null,null
+3,Anderson,Eddie,null,null,Eva,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Rhode Island,null
+8,Balazse,Gega,null,null,Rosie,lab,null,res,null,null,76,Boston loc,null,null,null,null,null,null
+10,Bastion,Frank,null,null,Laura,station agt,null,res,null,null,16,County rd,null,null,null,null,null,null
+14,Beltoniara,Robert,null,null,Hilma,miner,null,res,null,null,36,New rd,null,null,null,null,null,null
+16,Benoze,Erasmus,null,null,null,trammer ,Franklin Mining Co,bds,null,null,55,Boston loc,null,null,null,null,null,null
+17,Benoze,Flori,null,null,null,trammer ,Franklin Mining Co,bds,null,null,55,Boston loc,null,null,null,null,null,null
+18,Berto,Joseph,null,null,null,miner,null,bds,null,null,6,County rd,null,null,null,null,null,null
+20,Bettini,John,null,null,Mabel,rockhouse foreman ,Franklin Mining Co,res,ns,null,null,H C T Co e of New rd,null,null,null,null,null,null
+21,Bettini,Joseph,null,null,Virginia,trammer ,Franklin Mining Co,res,ns,null,null,H C T Co e of New rd,null,null,null,null,null,null
+22,Bollari,Oscar,null,null,Anna,shoemkr ws ,New rd,res,null,null,3,n Car Station,null,null,null,null,null,null
+23,Bonds,Amelia,null,null,wid Wm,null,null,res,null,null,13,County rd,null,null,null,null,null,null
+24,Bonds,Pearl,null,null,null,null,null,bds,null,null,13,County rd,null,null,null,null,null,null
+25,Bonds,Wm,null,null,null,wiper ,Franklin Mining Co,bds,null,null,13,County rd,null,null,null,null,null,null
+26,Boschov,Stephen,null,null,null,null,null,bds,null,null,55,Boston loc,null,null,null,null,null,null
+28,Bradley,Charles,null,null,Annie,tmstr ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Rhode Island,null
+31,Bray,Percy,null,null,null,drill sharpener ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Calumet,null
+32,Broan,Alfred,null,null,Annie J,shift boss ,Franklin Mining Co,res,null,null,62,Boston loc,null,null,null,null,null,null
+33,Broan,Joseph,J,null,null,mining capt ,Franklin Mining Co,bds,null,null,52,Boston loc,null,null,null,null,null,null
+34,Broan,Mildred,null,null,null,student,null,bds,null,null,62,Boston loc,null,null,null,null,null,null
+39,Buttinen,Alexander,null,null,Aina,trammer ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,St Marys loc,null
+40,Carlson,Albert,W,null,null,lab,null,bds,null,null,88,Boston loc,null,null,null,null,null,null
+41,Carlson,Anton,null,null,Katherine,pdlr,null,res,null,null,88,Boston loc,null,null,null,null,null,null
+42,Carlson,Edward,null,null,null,rockhouse boy ,Franklin Mining Co,bds,null,null,88,Boston loc,null,null,null,null,null,null
+43,Carlson,John,null,null,Ulrica,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Highway,null
+44,Carlson,John,A,null,Ina E,miner,null,res,null,null,79,Boston loc,null,null,null,null,null,null
+45,Carlson,Kreta,null,null,wid Matthew,null,null,res,es,null,null,New rd,null,null,null,null,null,null
+46,Carlson,Magda,E,null,null,null,null,bds,null,null,88,Boston loc,null,null,null,null,null,null
+48,Choik,James,null,null,null,lab,null,bds,null,null,55,Boston loc,null,null,null,null,null,null
+49,Ciucci,Lugi,null,null,Tallion,trammer ,Franklin Mining Co,res,null,null,6,County rd,null,null,null,null,null,null
+53,Cornevolf,Christopher,null,null,null,engr ,Franklin Mining Co,res,ss,null,null,County rd opp ,16,null,null,null,null,null
+56,Crawford,John,C,null,Wilmond,prin ,Demmon and Highway Schools,res,null,null,11,County rd,null,null,null,null,null,null
+57,Crawford,Lynn,null,null,null,null,null,bds,null,null,11,County rd,null,null,null,null,null,null
+58,Crellan,Wm,null,null,Marion,miner,null,res,null,null,null,null,null,null,null,null,Rhode Island,null
+59,Crocker,Thomas,null,null,Clara,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Rhode Island,null
+60,Crowle,Albert,null,null,null,blksmith,null,bds,null,null,6,County rd,null,null,null,null,null,null
+63,Davey,Charles,null,null,Ethel,miner,null,res,null,null,null,null,null,null,null,null,Rhode Island,null
+65,Detray,Robert,null,null,null,miner,null,bds,null,null,51,Boston loc,null,null,null,null,null,null
+68,Edwards,Richard,M,null,null,pres and genl mgr ,Franklin Mining Co  Mass,res,null,null,null,null,null,null,null,null,Boston Mass,null
+69,Elliott,Henry,null,null,null,drill sharpener ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Calumet,null
+72,Erickson,John,null,null,Sanna,null,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+75,Farley,Archibald,J,null,Hulda,miner ,Franklin Mining Co,res,null,null,58,Boston loc,null,null,null,null,null,null
+76,Farley,Frank,null,null,Josephine,fireman ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Boston loc,null
+78,Faull,Thomas,null,null,null,pumpman ,Franklin Mining Co,res,null,null,13,County rd,null,null,null,null,null,null
+81,Frankela,John,H,null,Alma S,trammer ,Franklin Mining Co,res,null,null,80,Boston loc,null,null,null,null,null,null
+84,Giachino,Joseph,null,null,Minnie,fireman ,Franklin Mining Co,res,null,null,63,Boston loc,null,null,null,null,null,null
+90,Gregg,Henry,null,null,null,miner,null,bds,null,null,1,County rd,null,null,null,null,null,null
+91,Grigg,Elmer,null,null,Elizabeth,mach ,Franklin Mining Co,res,null,null,9,County rd,null,null,null,null,null,null
+92,Grigg,John,null,null,null,master mech ,Franklin Mining Co,res,null,null,50,Boston loc,null,null,null,null,null,null
+93,Grigg,Lloyd,null,null,null,appr ,Franklin Mining Co,bds,null,null,50,Boston location,null,null,null,null,null,null
+97,Haathaa,Maggie,null,null,wid John,null,null,res,null,null,null,null,null,null,null,null,Highway,null
+99,Hamalainen,Otto,null,null,Henrietta,miner,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+100,Harju,Wister,null,null,null,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,St Marys location,null
+102,Harrington,John,null,null,null,miner,null,bds,null,null,54,Boston loc,null,null,null,null,null,null
+103,Harrington,Patrick,null,null,Margaret,null,null,res,null,null,54,Boston loc,null,null,null,null,null,null
+104,Hartikka,John,null,null,Louise,lab,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+105,Harwath,Alexander,null,null,null,lab,null,bds,null,null,60,Boston loc,null,null,null,null,null,null
+106,Harwath,Benjamin,null,null,null,miner boss,null,bds,null,null,60,Boston loc,null,null,null,null,null,null
+107,Harwath,John,null,null,Esther,trammer boss,null,res,null,null,600,Boston location,null,null,null,null,null,null
+108,Harwath,Joseph,null,null,null,trammer boss,null,bds,null,null,60,Boston loc,null,null,null,null,null,null
+109,Hawke,Wm,null,null,Caroline,miner ,Franklin Mining Co,res,null,null,20,County rd,null,null,null,null,null,null
+112,Heather,Wm,null,null,null,engr ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Boston loc,null
+114,Heikkala,Charles,null,null,Ida A,null,null,res,ws,null,null,New rd ,5 ,n,of,Car Sta,null,null
+115,Heikkanen,Adam,null,null,Evelyn,lab,null,res,null,null,2,County rd,null,null,null,null,null,null
+119,Heikkanen,John,null,null,null,miner ,Franklin Mining Co,bds,null,null,2,County rd,null,null,null,null,null,null
+121,Henderson,Enoch,null,null,null,supt ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Houghton,null
+122,Hendrickson,Nicholas,null,null,Annie,janitor ,Highway School,res,null,null,null,null,null,null,null,null,Highway,null
+128,Hillonen,Louis,null,null,Hilda,miner ,Franklin Minig Co,res,null,null,71,Boston loc,null,null,null,null,null,null
+130,Hilsen,John,null,null,null,miner,null,bds,null,null,69,Boston loc,null,null,null,null,null,null
+131,Hiltunen,John,null,null,Wappu,lab,null,res,ns,null,null,H C T Co e of New rd,null,null,null,null,null,null
+132,Hiltunen,Peter,null,null,Tune,miner,null,res,ns,null,null,H C T Co e of New rd,null,null,null,null,null,null
+134,Hocking,Alfred,null,null,null,miner ,Franklin Mining Co,bds,null,null,1,County road,null,null,null,null,null,null
+135,Hocking,Thomas,null,null,Elizabeth A,shaft boss ,Franklin Mining Co,res,null,null,12,County rd,null,null,null,null,null,null
+136,Hodges,Thomas,J,null,Ida,shaft boss ,Franklin Mining Co,res,null,null,17,County rd,null,null,null,null,null,null
+141,Horn,Kendall,null,null,null,lab,null,bds,null,null,63,Boston loc,null,null,null,null,null,null
+142,Horvath,Gabor,null,null,null,lab,null,bds,null,null,55,Boston loc,null,null,null,null,null,null
+143,Horvath,Peter,null,null,Elizabeth,timberman,null,res,null,null,55,Boston location,null,null,null,null,null,null
+146,Hosking,John,null,null,Catherine,carp boss ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Rhode Island,null
+150,Houppa,Eva,null,Mrs,null,null,null,res,null,null,null,New rd,null,null,null,null,null,null
+157,Huzka,Michael,null,null,Julia,trammer ,Franklin Mining Co,res,null,null,78,Boston loc,null,null,null,null,null,null
+159,Hyvonen,Edward,null,null,Anna,miner,null,res,null,null,null,New rd,null,null,null,null,null,null
+162,Jacobson,Matti,null,null,Mary,carp ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,St Marys loc,null
+163,Jaehnig,Frank,A,null,Ella R,chief elk ,Franklin Mining Co,res,null,null,10,County rd,null,null,null,null,null,null
+164,Jaehnig,George,A,null,null,student,null,bds,null,null,10,County rd,null,null,null,null,null,null
+165,Jaehnig,Irwin,M,null,null,wiper ,Franklin Mining Co,bds,null,null,10,County rd,null,null,null,null,null,null
+166,Jaehnig,Walker,F,null,null,supply elk ,Franklin Mining Co *,bds,null,null,10,County rd ,null,null,null,null,null,null
+168,James,Wm,null,null,null,trammer ,Franklin Mining Co,res,null,null,56,Boston location,null,null,null,null,null,null
+170,Jarvi,Edward,null,null,Linda I,miner,null,res,null,null,88,Boston loc,null,null,null,null,null,null
+173,Johnson,Ernest,null,null,null,trammer,null,bds,null,null,51,Boston loc,null,null,null,null,null,null
+174,Johnson,Hjalmer,null,null,null,miner ,Franklin Mining Co,bds,null,null,19,County rd,null,null,null,null,null,null
+175,Johnson,John,null,null,Annie,carp ,Franklin Mining Co,res,null,null,19,County rd,null,null,null,null,null,null
+177,Johnson,John,W,null,Saima,miner ,Franklin Mining Co,res,null,null,57,Boston loc,null,null,null,null,null,null
+178,Johnson,J,Henry,null,null,lab,null,bds,null,null,79,Boston loc,null,null,null,null,null,null
+179,Johnson,Leonard,null,null,null,miner ,Franklin Mining Co,bds,null,null,51,Boston loc,null,null,null,null,null,null
+180,Johnson,Matt,null,null,Lillian,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Rhode Island,null
+181,Johnson,Matt,null,null,null,miner ,Franklin Mining Co,bds,null,null,1,County road,null,null,null,null,null,null
+182,Johnson,Peter,T,null,Ventla,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Highway,null
+183,Johnson,Tobbius,null,null,Rosa,lab,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+188,Juntunen,Anna,null,null,wid Jacob,null,null,res,null,null,96,Boston loc,null,null,null,null,null,null
+189,Juntunen,Anna,M,null,null,null,null,bds,null,null,96,Boston loc,null,null,null,null,null,null
+190,Juntunen,John,F,null,null,lab,null,bds,null,null,96,Boston loc,null,null,null,null,null,null
+191,Jurmu,Emil,null,null,Tillie,fireman,null,res,null,null,null,null,null,null,null,null,Highway,null
+192,Jurmu,Mathew,null,null,null,null,null,bds,null,null,null,null,null,null,null,null,Highway,null
+193,Kaarle,Abel,null,null,Anna,lander,null,res,null,null,null,null,null,null,null,null,Highway,null
+196,Kangas,John,null,null,May,timberman,null,res,null,null,18,County rd,null,null,null,null,null,null
+197,Kanniainen,Hilma,K,null,null,null,null,bds,null,null,96,Boston loc,null,null,null,null,null,null
+198,Kanniainen,Louis,null,null,Anna,null,null,res,null,null,96,Boston loc,null,null,null,null,null,null
+199,Karianen,Eva,null,Mrs,null,null,null,res,null,null,null,New rd,null,null,null,null,null,null
+200,Karvonen,Andrew,null,null,Elizabeth,shaft boss ,Franklin Mining Co,res,null,null,21,County rd,null,null,null,null,null,null
+201,Karvonen,Anton,null,null,Mia,miner ,Franklin Mining Co,res,null,null,null,New rd,null,null,null,null,null,null
+202,Karvonen,John,null,null,Ida,farmer,null,res,null,null,null,New rd,null,null,null,null,null,null
+203,Karvonen,Mary,null,null,wid Andrew,null,null,res,null,null,null,New rd,null,null,null,null,null,null
+205,Kaurala,Gustoff,null,null,Mary,miner,null,res,null,null,5,County rd,null,null,null,null,null,null
+206,Kaurala,Sophia,null,null,null,elk,null,bds,null,null,5,County rd,null,null,null,null,null,null
+207,Keast,Wm,null,null,null,pumpman,null,bds,null,null,1,County rd,null,null,null,null,null,null
+209,Kelley,Eunice,null,null,null,null,null,bds,null,null,51,Boston loc,null,null,null,null,null,null
+210,Kelley,George,null,null,null,miner ,Franklin Mining Co,bds,null,null,51,Boston loc,null,null,null,null,null,null
+211,Kelley,Julia,null,null,null,tchr ,Demmon School,res,null,null,null,null,null,null,null,null,Calumet,null
+212,Kelley,Thomas,null,null,null,miner ,Franklin Mining Co,bds,null,null,51,Boston loc,null,null,null,null,null,null
+213,Kelley,Wm,H,null,Emma,miner ,Franklin Mining Co,res,null,null,51,Boston loc,null,null,null,null,null,null
+214,Kempainen,Anna,null,null,wid Herman,null,null,res,null,null,null,New rd,null,null,null,null,null,null
+216,Kempainen,Walter,null,null,Hilda,elk,null,res,null,null,null,New rd,null,null,null,null,null,null
+218,Kemppainen,John,null,null,Eva,farmer,null,res,null,null,null,New rd,null,null,null,null,null,null
+220,Kemppainen,Matt,null,null,Ida,pumpman ,Franklin Mining Co,res,null,null,null,New rd,null,null,null,null,null,null
+222,Kennunen,John,null,null,null,miner,null,bds,null,null,1,County rd,null,null,null,null,null,null
+223,Kennunen,Lizza,null,null,wid Eric,null,null,res,null,null,1,County rd,null,null,null,null,null,null
+224,Kennunen,Thomas,null,null,null,miner,null,bds,null,null,1,County rd,null,null,null,null,null,null
+226,Keranen,Eafeti,null,null,null,miner,null,bds,null,null,96,Boston loc,null,null,null,null,null,null
+229,Keso,Lambert,null,null,Tillie,null,null,res,null,null,95,Boston loc,null,null,null,null,null,null
+230,Kiander,Emil,null,null,Emma,miner,null,res,ws,null,null,New rd ,4 ,n,of,Car Statio,null,null
+231,Kieri,John,A,null,Amanda,pumpman ,Franklin Mining Co,res,null,null,80,Boston loc,null,null,null,null,null,null
+233,Kinney,James,null,null,null,dryman,null,bds,null,null,54,Boston loc,null,null,null,null,null,null
+234,Kinnunen,Abel,null,null,Kate,farmer,null,res,ws,null,null,New rd ,7 ,n,of,Car Statio,null,null
+240,Kinnunen,Emil,null,null,Ilmi,miner,null,res,null,null,87,Boston loc,null,null,null,null,null,null
+241,Kinnunen,Henry,W,null,Anna,rockhouseman ,Franklin Mining Co,res,null,null,89,Boston loc,null,null,null,null,null,null
+242,Kinnunen,Jacob,null,null,Annie,miner ,Franklin Mining Co,res,null,null,40,New rd,null,null,null,null,null,null
+247,Kinnunen,Otto,null,null,Allia,miner,null,res,null,null,null,New rd,null,null,null,null,null,null
+251,Knuuttila,Felix,null,null,Hilma,lab,null,res,null,null,null,New rd,null,null,null,null,null,null
+265,Koupos,Sacris,null,null,Sophie,miner,null,res,null,null,null,New rd,null,null,null,null,null,null
+269,Kuisto,John,null,null,Sophie,miner ,Franklin Mining Co,res,null,null,42,New rd,null,null,null,null,null,null
+272,Kujala,Jacob,null,null,Margaret,farmer,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+275,Kumpula,Erick,null,null,Mary S,miner,null,res,null,null,92,Boston loc,null,null,null,null,null,null
+280,Kuusela,John,E,null,F Mary,lab,null,res,null,null,86,Boston loc,null,null,null,null,null,null
+282,Lainonen,Charles,null,null,Hilda,miner,null,res,null,null,null,New rd,null,null,null,null,null,null
+293,Lewis,Charles,null,null,Josephine,miner,null,res,null,null,1,County rd,null,null,null,null,null,null
+294,Lewis,Ethel,null,null,null,null,null,bds,null,null,1,County rd,null,null,null,null,null,null
+298,Liimatta,Arthur,null,null,Elizabeth,miner,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+301,Linnia,John,null,null,null,miner ,Franklin Mining Co,bds,null,null,69,Boston loc,null,null,null,null,null,null
+302,Linnia,Victor,null,null,Elvira,miner ,Franklin Mining Co,res,null,null,85,Boston loc,null,null,null,null,null,null
+303,Luhti,Isaac,null,null,Ina,miner,null,res,null,null,null,null,null,null,null,null,Highway,null
+304,Luoma,Herman,null,null,Hilma,hlpr ,Franklin Mining Co,res,null,null,67,Boston loc,null,null,null,null,null,null
+308,Maas,Rudolph,J,null,null,phys ,Franklin Mining Cos Dispensary,res,null,null,null,null,null,null,null,null,Houghton,null
+313,Maki,Richard,null,null,null,lab,null,bds,null,null,96,Boston loc,null,null,null,null,null,null
+317,Manley,Jacob,null,null,Mary,lander,null,res,null,null,null,null,null,null,null,null,Highway,null
+319,Manuelson,Manu,null,null,Selma M,rockhouseman ,Franklin Mining Co,res,ws,null,null,New rd ,6 ,n,of,car statio,null,null
+324,Matthews,H,Russel,null,null,lab,null,bds,null,null,77,Boston loc,null,null,null,null,null,null
+325,Matthews,John,S,null,null,mach ,Franklin Mining Co,bds,null,null,77,Boston loc,null,null,null,null,null,null
+326,Matthews,Katherine,null,null,null,null,null,bds,null,null,77,Boston loc,null,null,null,null,null,null
+327,Matthews,Stephen,null,null,Annie,tmstr ,Franklin Mining Co,res,null,null,77,Boston loc,null,null,null,null,null,null
+330,Mattila,John,null,null,Ida,miner,null,res,null,null,null,null,null,null,null,null,Pontiac loc,null
+338,Mattson,Paul,null,null,Britta,lab,null,res,ws,null,null,New rd ,11 ,n,of,car statio,null,null
+340,Mayrala,Oscar,null,null,Hilda,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,St Marys loc,null
+351,Mitchell,Katherine,null,null,null,tchr ,Demmon School,res,null,null,null,null,null,null,null,null,Laurium,null
+352,Moger,Thomas,null,null,null,miner,null,bds,null,null,63,Boston loc,null,null,null,null,null,null
+353,Moilanen,Erick,null,null,Kate,surfaceman ,Franklin Mining Co,res,ns,null,null,H C T Co e of New rd,null,null,null,null,null,null
+356,Moilanen,Louis,null,null,Kalina,miner ,Franklin Mining Co,res,null,null,93,Boston loc,null,null,null,null,null,null
+359,Muller,John,null,null,Mary,miner,null,res,null,null,63,Boston loc,null,null,null,null,null,null
+360,Mursu,Andrew,null,null,Ida,miner,null,res,null,null,null,null,null,null,null,null,Highway,null
+362,Mustola,Jacob,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+369,Niemi,Anton,null,null,Mary,null,null,res,null,null,null,New rd,null,null,null,null,null,null
+375,Niemi,Thelma,null,null,wid Axel,null,null,res,null,null,null,null,null,null,null,null,Highway,null
+376,Niemi,Wm,A,null,Ida M,miner ,Franklin Mining Co,res,ws,null,null,New rd ,9 ,n,of,car statio,null,null
+377,Niskala,Henry,null,null,null,miner,null,bds,null,null,68,Boston loc,null,null,null,null,null,null
+383,Nyysti,Matthew,null,null,null,miner,null,bds,null,null,96,Boston loc,null,null,null,null,null,null
+384,Odgers,Charles,H,null,null,engr ,Franklin Mining Co,bds,null,null,16,County rd,null,null,null,null,null,null
+385,Odgers,Cora,M,null,null,null,null,bds,null,null,16,County rd,null,null,null,null,null,null
+386,Odgers,Edith,null,null,wid John,null,null,res,null,null,16,County rd,null,null,null,null,null,null
+387,Odgers,Edith,null,null,null,null,null,bds,null,null,16,County rd,null,null,null,null,null,null
+388,Odgers,John,null,null,null,mach ,Franklin Mining Co,bds,null,null,16,County road,null,null,null,null,null,null
+389,Oikarinen,Sana,null,null,wid Jacob,null,null,res,null,null,null,New rd,null,null,null,null,null,null
+391,Oksanen,Wm,null,null,Ethel,cutter,null,res,null,null,null,null,null,null,null,null,Highway,null
+392,01kkonen,Matthew,null,null,Fannie,miner,null,res,ns,null,null,H C T Co e of New rd,null,null,null,null,null,null
+394,Opie,Abraham,null,null,null,blksmith ,Franklin Mining Co,bds,null,null,8,County rd,null,null,null,null,null,null
+395,Opie,Edward,null,null,Ellen,fireman,null,res,null,null,8,County rd,null,null,null,null,null,null
+396,Opie,Cora,J,null,null,null,null,bds,null,null,8,County rd,null,null,null,null,null,null
+401,Parkila,August,null,null,null,miner,null,bds,null,null,68,Boston loc,null,null,null,null,null,null
+404,Paulson,Anna,null,null,null,null,null,bds,null,null,69,Boston loc,null,null,null,null,null,null
+407,Paulson,John,null,null,Elsie T,miner ,Franklin Mining Co,res,es,null,null,New rd,null,null,null,null,null,null
+409,Peitela,Jacob,null,null,null,miner,null,bds,null,null,68,Boston loc,null,null,null,null,null,null
+412,Pelto,F,Emil,null,Minnie,miner ,Franklin Mining Co,res,ws,null,null,New rd ,12 ,n,of,Car Statio,null,null
+416,Pennala,Elias,null,null,Hattie,miner ,Franklin Mining Co,res,null,null,72,Boston loc,null,null,null,null,null,null
+424,Peterson,Louis,null,null,null,lab ,Franklin Mining Co,res,ws,null,null,New rd ,2 ,n,of,car statio,null,null
+425,Peterson,Mathew,null,null,Ida,farmer,null,res,null,null,null,null,null,null,null,null,Highway,null
+436,Piippo,John,A,null,Aina,elk,null,res,ws,null,null,New rd ,8 ,n,of,Car Statio,null,null
+437,Piippo,Margaret,null,null,wid Andrew,null,null,res,ws,null,null,New rd ,8 ,n,of,Car Statio,null,null
+439,Pikkarainen,John,null,null,null,timber boss,null,res,null,null,null,null,null,null,null,null,Pontiac loc,null
+442,Pohjola,Julius,null,null,Fannie H,miner ,Franklin Mining Co,res,null,null,81,Boston loc,null,null,null,null,null,null
+443,Pohjola,Uno,G,null,Anna A,miner ,Franklin Mining Co,res,ws,null,null,New rd ,10 ,n,of,car statio,null,null
+445,Pondi,John,null,null,Mary,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Rhode Island,null
+447,Prazka,Steven,null,null,null,miner,null,res,null,null,null,null,null,null,null,null,Rhode Island,null
+453,Pykonen,Paul,null,null,Mary,null,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+455,Rantala,Anna,null,null,wid Charles,null,null,res,null,null,90,Boston loc,null,null,null,null,null,null
+457,Raudio,John,A,null,Amanda,miner ,Franklin Mining Co,res,es,null,null,New rd,null,null,null,null,null,null
+459,Raudio,John,H,null,Hilma H,miner,null,res,ws,null,null,New rd ,10 ,n,of,Car Statio,null,null
+461,Ruohaniemi,Matt,null,null,Mary,miner,null,res,null,null,null,New rd,null,null,null,null,null,null
+462,Ruri,John,null,null,null,miner,null,bds,null,null,68,Boston loc,null,null,null,null,null,null
+465,Rowe,Wm,H,null,null,miner,null,bds,null,null,1,County rd,null,null,null,null,null,null
+479,Sarrola,Hjalmer,null,null,null,timberman,null,res,null,null,59,Boston loc Savella Matt,null,null,null,null,null,null
+480,Savola,Charles,J,null,null,pipeman,null,res,null,null,null,null,null,null,null,null,Pontiac loc,null
+481,Savola,Jacob,null,null,Fannie S,miner,null,res,null,null,null,null,null,null,null,null,Pontiac loc,null
+482,Schafer,Louis,null,null,Mary,miner ,Franklin Mining Co,res,null,null,75,Boston loc,null,null,null,null,null,null
+483,Schumacher,Anthony,I,null,Eva R,orderman ,J H Seager Co,res,ws,null,null,New rd ,4 ,n,of,car statio,null,null
+489,Sira,Matti,null,null,Preta T,null,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+491,Sivula,John,null,null,null,miner,null,bds,null,null,21,County rd,null,null,null,null,null,null
+492,Smoyak,Michael,null,null,Julia,miner,null,res,null,null,74,Boston loc,null,null,null,null,null,null
+493,Smoyak,Wm,B,null,null,blksmith,null,bds,null,null,74,Boston loc,null,null,null,null,null,null
+496,Somero,August,null,null,Helmi,miner ,Franklin Mining Co,res,null,null,4,County rd,null,null,null,null,null,null
+497,Soronen,August,null,null,Kate,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Highway,null
+499,Stieni,John,null,null,Hilda,miner,null,res,null,null,null,New rd,null,null,null,null,null,null
+500,Stoneman,Orlando,J,null,Florence,blksmith,null,res,null,null,22,County road,null,null,null,null,null,null
+501,Sues,Alexander,null,null,null,lab,null,bds,null,null,63,Boston loc,null,null,null,null,null,null
+502,Suhonen,Adam,null,null,Mary,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Boston loc,null
+506,Suttinen,Essari,null,null,Regina,section hd,null,res,null,null,null,New rd,null,null,null,null,null,null
+507,Suttinen,Matthew,null,null,Kate,null,null,res,null,null,91,Boston loc,null,null,null,null,null,null
+511,Symons,Samuel,null,null,Lillian,fireman ,Franklin Mining Co,res,null,null,65,Boston loc,null,null,null,null,null,null
+514,Teppala,John,null,null,Mary,miner ,Franklin Mining Co,res,null,null,68,Boston loc,null,null,null,null,null,null
+516,Tervo,Louis,null,null,Alina,trammer ,Franklin Mining Co,res,ws,null,null,New rd ,9 ,n,of,car statio,null,null
+517,Thomas,James,null,null,null,helper ,Franklin Mining Co,bds,null,null,1,County rd,null,null,null,null,null,null
+519,Toivola,Eli,null,null,null,miner ,Franklin Mining Co,bds,null,null,68,Boston location,null,null,null,null,null,null
+520,Toivola,Henry,null,null,null,trammer ,Franklin Mining Co,bds,null,null,68,Boston loc,null,null,null,null,null,null
+522,Tolonen,Oscar,null,null,Hilea,miner,null,res,null,null,69,Boston loc,null,null,null,null,null,null
+523,Tonkin,Emily,null,null,null,null,null,bds,null,null,61,Boston loc,null,null,null,null,null,null
+524,Tonkin,George,H,null,null,engineer,null,bds,null,null,61,Boston loc,null,null,null,null,null,null
+525,Tonkin,T,Charles,null,null,lander ,Franklin Mining Co,res,null,null,61,Boston loc,null,null,null,null,null,null
+528,Toumala,Walter,null,null,null,lab,null,bds,null,null,86,Boston loc,null,null,null,null,null,null
+531,Tredray,Wilfred,null,null,Grace,miner ,Franklin Mining Co,res,null,null,70,Boston loc,null,null,null,null,null,null
+532,Tredray,Wm,null,null,Mary,lander ,Franklin Mining Co,res,null,null,70,Boston loc,null,null,null,null,null,null
+535,Tromans,Frederick,null,null,Louise,mach,null,res,null,null,23,County rd,null,null,null,null,null,null
+539,Umisko,Abel,null,null,null,miner,null,res,null,null,94,Boston loc,null,null,null,null,null,null
+540,Urban,Louis,null,null,null,trammer ,Franklin Mining Co,bds,null,null,60,Boston loc,null,null,null,null,null,null
+544,Varga,John,null,null,Lena,null,null,res,null,null,null,null,null,null,null,null,Highway,null
+546,Vargo,Stephen,null,null,null,trammer ,Franklin Mining Co,bds,null,null,55,Boston loc,null,null,null,null,null,null
+547,Veale,Dorothy,null,null,null,tchr ,Demmon School,res,null,null,null,null,null,null,null,null,Osceola,null
+548,Vesmake,Edward,null,null,Linda,miner,null,res,null,null,null,null,null,null,null,null,Highway,null
+550,Vincent,Addie,null,null,null,null,null,bds,null,null,12,County rd,null,null,null,null,null,null
+551,Vincent,Mary,null,null,wid Thomas,null,null,bds,null,null,12,County rd,null,null,null,null,null,null
+552,Vincent,Wilbert,V,null,null,meterman,null,bds,null,null,12,County rd,null,null,null,null,null,null
+555,Vivian,James,FI,null,null,miner ,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Rhode Island,null
+563,Wargo,Louis,null,null,null,miner,null,bds,null,null,60,Boston loc,null,null,null,null,null,null
+565,Was,John,null,null,null,lab,null,bds,null,null,60,Boston loc,null,null,null,null,null,null
+567,Whennen,Richard,null,null,null,dryman ,Franklin Mining Co,bds,null,null,1,County rd,null,null,null,null,null,null
+569,Wilcox,Frank,null,null,Margaret,engr ,Franklin Mining Co,res,null,null,15,County rd,null,null,null,null,null,null
+570,Williams,Charles,null,null,Elizabeth,shift boss ,Franklin Mining Co,res,null,null,52,Boston loc,null,null,null,null,null,null
+571,Williams,James,K,null,Sarah E,foreman ,Franklin Mining Co,res,null,null,8,County rd,null,null,null,null,null,null
+574,Wyman,Albert,L,null,null,sec and treas ,Franklin Mining Co  Mass,res,null,null,null,null,null,null,null,null,Boston Mass,null
+575,Yates,Wm,null,null,null,engr ,Franklin Mining Co,res,nsHCT,null,null,Co e of New rd,null,null,null,null,null,null
+577,Zanotty,Victor,null,null,Mary,lab,null,res,ns,null,null,H C T Co e of New road,null,null,null,null,null,null
+578,Zinco,Joseph,null,null,null,lab,null,bds,null,null,60,Boston loc,null,null,null,null,null,null
+2,Agutti,Angelo,null,null,null,painter,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+4,Anderson,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+5,Anderson,Rickard,null,null,null,rockhouseboy,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+6,Baina,James,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+7,Bakkula,Henry,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+9,Baloria,George,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+11,Batcha,Stephen,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+12,Beck,Peter,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+15,Bennetts,Richard,null,null,null,gardener,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+19,Bessonen,Charles,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+29,Brady,Clifford,null,null,null,timberman,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+30,Brako,Delios,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+35,Brozenich,George,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+37,Bukkala,John,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+47,Ceratto,Dominick,null,null,null,timberman,C H M Co nr Electric Park,null,null,null,null,null,null,null,null,null,null,null
+50,Cola,Michael,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+51,Condon,Michael,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+52,Copra,Stephen,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+61,Cullin,Wm,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+62,Culliney,Michael,null,null,null,surfaceman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+64,Demmon,School,null,null,null,prin,John C Crawford,null,null,null,null,null,null,null,null,null,null,null
+66,Diglioni,Michael,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+67,Dikka,Mat,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+71,Enters,John,null,null,null,fireman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+73,Etelmaki,John,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+74,Faccino,Louis,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+80,Fraki,Gust,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+85,Giandotti,Victor,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+86,Gillette,Stephen,null,null,null,trammer,Franklin iMning Co,null,null,null,null,null,null,null,null,null,null,null
+87,Gilletti,Dominick,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+88,Giodong,Ambrose,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+89,Greb,Henry,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+94,Haataja,Emil,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+95,Haataja,Jerry,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+98,Hamainen,John,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+101,Harkonen,Henry,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+116,Heikkanen,Ed,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+117,Heikkanen,Eric,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+118,Heikkanen,Jacob,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+120,Heitala,Wm,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+123,Herrukka,Charles,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+124,Highway,School,null,null,null,prin,John Crawford,null,null,null,null,null,null,null,null,null,null,null
+126,Hilla,Gust,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+127,Hillonen,John,null,null,null,foreman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+129,Hillonen,Peter,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+133,Hinnila,Oscar,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+137,Hoem,Wendal,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+138,Holmanen,Peter,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+139,Holme,John,null,null,null,lab,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+140,Holster,Ed,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+148,Hosking,Joseph,null,null,null,mason,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+151,Hovi,Edward,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+152,Howhat,Alex,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+153,Howhat,Benjamin,null,null,null,shaft boss,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+154,Howhat,John,null,null,null,shaft boss,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+155,Howhat,Joseph,null,null,null,shaft boss,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+156,Howhat,Peter,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+160,Hyvonen,John,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+161,Jacobson,Arthur,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+167,Jafet,Michael,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+169,Jamsa,Charles,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+172,Johnson,Archie,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+176,Johnson,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+185,Johnson,Wm,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+186,Joki,Charles,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+187,Juhas,John,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+194,Kalli,Wm,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+195,Kamainen,Eric,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+204,Karvonen,Victor,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+208,Keckonen,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+217,Kemppainen,Henry,null,null,null,pumpman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+221,Kenala,Gust,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+225,Keranen,Barney,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+227,Keranen,Jafet,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+228,Keranen,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+232,Kinney,Jacob,null,null,null,dryman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+237,Kinnunen,Arthur,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+250,Kivonen,Jacob,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+252,Kochin,Michael,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+255,Komainen,Andrew,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+256,Komainen,Emil,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+257,Konges,John,null,null,null,timberman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+258,Konges,John,null,jr,null,timberman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+259,Korhonen,Andrew,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+260,Kormi,John,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+262,Koski,Ephraim,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+263,Koski,Joseph,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+264,Koski,Michael,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+266,Kowes,Charles,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+267,Kraline,Eli,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+268,Kues,Alex,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+276,Kumula,John,null,null,null,timberman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+277,Kuopees,Abram,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+278,Kuopees,Adam,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+279,Kuopees,Sakari,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+281,Lahti,Victor,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+283,Laratos,Peter,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+284,Larson,Emil,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+285,Lavender,Ernest,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+286,Lehanalo,Ova,null,null,null,rockhouse boy,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+287,Leinonen,Anti,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+288,Leinonen,Charles,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+289,Leisk,R,D,null,null,engr,civil  Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+291,Lematti,Archie,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+292,Lematti,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+295,Lewis,James,W,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+296,Leypsima,Alfred,null,null,null,rockhouse boy,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+297,Leypsima,Brunolf,null,null,null,helper,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+299,Lindberg,Victor,null,null,null,helper,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+300,Linden,Hjalmer,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+305,Luoma,Herman,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+307,McLeod,Christine,null,null,null,tchr,Demmon School rep Quincy,null,null,null,null,null,null,null,null,null,null,null
+309,Magar,Thomas,null,null,null,trammer,Frauklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+310,Maki,Einar,null,null,null,rockhouse boy,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+311,Maki,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+312,Maki,Mat,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+314,Maki,Richard,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+315,Mallner,Emery,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+321,Marco,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+322,Matta,Jacob,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+323,Matta,Peter,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+328,Mattila,Esau,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+329,Mattila,Henry,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+333,Mattson,Emil,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+337,Mattson,Jennie,null,null,null,housekpr,Wm Heather,null,null,null,null,null,null,null,null,null,null,null
+339,Mayrala,Jacob,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+341,Meinordi,Lorenzo,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+345,Merrier,Josephine,null,null,null,dom,22 Country rd,null,null,null,null,null,null,null,null,null,null,null
+348,Meyarvi,Alex,null,null,null,trammer,Franklin Co,null,null,null,null,null,null,null,null,null,null,null
+349,Miekanen,Mat,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+350,Miller,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+354,Moilanen,Hjalmer,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+365,Mysko,Henry,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+366,Mysti,Mat,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+367,Naponen,Abram,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+372,Niemi,Mary,null,null,null,dom,10 Country rd,null,null,null,null,null,null,null,null,null,null,null
+373,Niemi,Matt,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+374,Niemi,Oscar,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+378,Nisula,George,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+379,Nivala,John,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+380,Nousainen,Alex,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+381,Nurmi,Emil,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+382,Nurmi,Yalmer,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+393,ONeill,John,null,jr,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+397,Oroo,Oscar,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+398,Paatika,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+399,Palo,Peter,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+400,Panatoni,Richard,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+402,Parkkinen,David,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+403,Parkkinen,Mat,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+405,Paulson,Edward,null,null,null,rockhouse boy,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+406,Paulson,Jacob,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+408,Paulson,Wm,null,null,null,eng,ine boy Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+410,Peltola,Mat,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+411,Peltola,Mat,null,jr,null,rockhouse boy,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+413,Pelto,Robert,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+414,Pelto,Waino,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+415,Penala,Mat,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+417,Pera,Mat,null,null,null,rockhouseman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+418,Perrala,Mat,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+428,Petrie,Wm,null,null,null,mach hlpr,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+429,Pietala,Faako,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+431,Pihlaeja,Emil,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+433,Piikkila,Arthur,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+440,Pohakka,Henry,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+441,Pohjola,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+446,POST,OFFICE,null,null,null,Postmaster,Horace B Rogers Jr,null,null,null,null,null,null,null,null,null,null,null
+448,Puppo,Arthur,null,null,null,elk,J H Seeger Co,null,null,null,null,null,null,null,null,null,null,null
+449,Puppo,John,null,null,null,elk,J H Seeger Co,null,null,null,null,null,null,null,null,null,null,null
+450,Puslaa,Edward,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+451,Pykonen,August,null,null,null,helper,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+452,Pykonen,John,null,null,null,watchman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+454,Pyykla,Mat,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+460,Raymond,Clarence,null,null,null,electn,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+463,ROGERS,HORACE,B,null,Helen,Postmaster,and Mgr J H Seager Co (Branch),null,null,null,null,null,null,null,null,null,null,null
+464,Rolig,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+466,Rowe,Wm,J,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+467,Saarempa,Mat,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+468,Saari,Albert,null,null,null,rockhouse boy,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+469,Saari,Eli,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+470,Saari,Gust,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+472,Saari,Mat,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+473,Saari,Wilhart,null,null,null,timberman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+474,Salo,Otto,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+478,Sarin,John,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+485,Sebbla,Alfred,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+486,Selanho,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+487,Semberg,Victor,null,null,null,miner,Franklin Mining Co Siirtala Gust,null,null,null,null,null,null,null,null,null,null,null
+494,Soinka,Joseph,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+495,Solne,Wm,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+503,Suhonen,Mat,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+509,Swanto,Victor,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+510,Symons,Joseph,null,null,null,fireman,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+513,Taurianen,Eric,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+515,Teppala,Oscar,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+518,Tikkanen,John,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+521,Tokini,John,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+526,Tonkon,Hicks,null,null,null,mach,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+527,Torvinen,Casper,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+529,Tredray,Richard,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+530,Tredray,Robert,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+533,Trevathen,Wm,null,null,null,shaft boss,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+534,Tromans,Fred,null,null,null,mach,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+536,Tuira,Emil,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+537,Tuomala,Walter,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+538,Turanen,Paul,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+543,Varala,Mat,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+545,Vargo,Louis,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+549,Vessala,Stephen,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+553,Virkanich,Jacob,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+554,Virkanich,Mike,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+556,Waarala,Fred,null,null,null,helper,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+558,Waisainen,Andrew,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+559,Waisainen,01e,null,null,null,rockhouse boy,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+560,Waisainen,Wino,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+561,Waisainen,Wister,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+562,Walilato,Richard,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+566,Waynynen,Mat,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+568,Wikkala,Elias,null,null,null,miner,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+573,Wister,Oscar,null,null,null,trammer,Franklin Mining Co,null,null,null,null,null,null,null,null,null,null,null
+13,Beltoniara,Matt,null,null,null,lab,null,res,null,null,36,New rd,null,null,null,null,null,null
+38,Busci,Stephen,null,null,null,trammer,Franklin Mining Co,res,null,null,78,Boston loc,null,null,null,null,null,null
+77,Farley,Josephine,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Boston loc,null
+96,Haathaa,Andrew,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Highway,null
+110,Heather,John,null,null,null,blksmith,null,res,null,null,null,null,null,null,null,null,Boston loc,null
+111,Heather,Samuel,null,null,null,engr,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Boston loc,null
+144,Hosking,Eddie,null,null,null,carp,Franklin Mining Co,res,null,null,null,null,null,null,null,null,Rhode Island,null
+145,Hosking,Jennie,null,null,null,student,null,res,null,null,null,null,null,null,null,null,Rhode Island,null
+147,Hosking,John,null,jr,null,null,null,res,null,null,null,null,null,null,null,null,Rhode Island,null
+158,Huzka,Margaret,H,null,null,null,null,res,null,null,78,Boston loc,null,null,null,null,null,null
+184,Johnson,Torval,null,null,null,rockhouseman,null,res,null,null,null,null,null,null,null,null,Rhode Island,null
+219,Kemppainen,John,null,jr,null,emp,Kpainen John jr,res,null,null,null,New rd,null,null,null,null,null,null
+235,Kinnunen,Adam,null,null,null,lab,null,res,ws,null,null,New rd ,7 ,n,of,Car Statio,null,null
+236,Kinnunen,Allie,S,null,null,null,null,res,ws,null,null,New rd ,7 ,n,of,Car Statio,null,null
+238,Kinnunen,August,null,null,null,lab,null,res,ws,null,null,New rd ,7 ,n,of,Car Statio,null,null
+239,Kinnunen,Eli,null,null,null,student,null,res,ws,null,null,New rd ,7 ,n,of,Car Statio,null,null
+245,Kinnunen,Lydia,null,null,null,null,null,res,ws,null,null,New rd ,7 ,n,of,Car Statio,null,null
+246,Kinnunen,Mary,null,null,null,null,null,res,null,null,40,New rd,null,null,null,null,null,null
+249,Kiraly,Andrew,null,null,null,lab,null,res,null,null,78,Boston loc,null,null,null,null,null,null
+261,Korpa,Stephen,null,null,null,lab,null,res,null,null,78,Boston loc,null,null,null,null,null,null
+270,Kujala,Andrew,A,null,null,student,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+271,Kujala,Heino,J,null,null,lab,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+273,Kujala,Lena,M,null,null,null,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+274,Kujala,Thomas,H,null,null,lab,null,res,null,null,null,null,null,null,null,null,St Marys loc,null
+290,Lektos,Peter,null,null,null,lab,null,res,null,null,78,Boston loc,null,null,null,null,null,null
+316,Manley,Ano,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Highway,null
+318,Manley,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Highway,null
+320,Manuelson,Wainp,A,null,null,lab,null,res,ws,null,null,New rd ,6 ,n,of,car statio,null,null
+331,Mattson,Albert,null,null,null,miner,Franklin Mining Co,res,ws,null,null,New rd ,11 ,n,of,car statio,null,null
+332,Mattson,Amanda,A,null,null,null,null,res,ws,null,null,New rd ,11 ,n,of,car statio,null,null
+334,Mattson,Henry,null,null,null,miner,null,res,ws,null,null,New rd ,11 ,n,of,car statio,null,null
+335,Mattson,Hjalmer,null,null,null,miner,Franklin Mining Co,res,ws,null,null,New rd ,11 ,n,of,car statio,null,null
+336,Mattson,Ida,null,null,null,null,null,res,ws,null,null,New rd ,11 ,n,of,car statio,null,null
+355,Moilanen,Jennie,M,null,null,null,null,res,ns,null,null,H C T Co e of New rd,null,null,null,null,null,null
+357,Moilanen,Matthew,null,null,null,miner,Franklin Mining Co,res,ns,null,null,H C T Co e of New rd,null,null,null,null,null,null
+358,Molnar,Emery,null,null,null,lab,null,res,null,null,78,Boston loc,null,null,null,null,null,null
+361,Mursu,Limpi,null,null,null,elk,null,res,null,null,null,null,null,null,null,null,Highway,null
+368,Negy,Peter,null,null,null,lab,null,res,null,null,78,Boston loc,null,null,null,null,null,null
+370,Niemi,Hilda,null,null,null,null,null,res,null,null,null,New rd,null,null,null,null,null,null
+371,Niemi,John,null,null,null,miner,null,res,null,null,null,New rd,null,null,null,null,null,null
+419,Peterson,Casper,E,null,null,lab,null,res,ws,null,null,New rd ,2 ,n,of,car statio,null,null
+420,Peterson,Edward,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Highway,null
+421,Peterson,Fannie,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Highway,null
+422,Peterson,Hjalrtiar,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Highway,null
+423,Peterson,Ily,S,null,null,elk,J H Seager Co,res,ws,null,null,New rd ,2 ,n,of,car statio,null,null
+426,Peterson,Rudolph,null,null,null,lab,null,res,ws,null,null,New rd ,2 ,n,of,car statio,null,null
+427,Peterson,Wm,null,null,null,surfaceman,null,res,null,null,null,null,null,null,null,null,Highway,null
+434,Piippo,Antis,E,null,null,student,null,res,ws,null,null,New rd ,8 ,n,of,Car Statio,null,null
+438,Piippo,Mary,K,null,null,tchr,null,res,ws,null,null,New rd ,8 ,n,of,Car Statio,null,null
+444,Polasti,Michael,null,null,null,trammer,Franklin Mining Co,res,null,null,78,Boston loc,null,null,null,null,null,null
+456,Raudio,A,Henry,null,null,hlpr,blksmith,res,ws,null,null,New rd ,10 ,n,of,Car Statio,null,null
+458,Raudio,John,E,null,null,miner,null,res,ws,null,null,New rd ,10 ,n,of,Car Statio,null,null
+475,Salo,Otto,null,null,null,lab,null,res,es,null,null,New rd,null,null,null,null,null,null
+477,Samson,Henry,null,null,null,tchr,Demmon School,res,null,null,null,null,null,null,null,null,Boston loc,null
+498,Soronen,Hulda,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Highway,null
+504,Suttinen,Annie,null,null,null,student,null,res,null,null,null,New rd,null,null,null,null,null,null
+505,Suttinen,August,null,null,null,elk,null,res,null,null,null,New rd,null,null,null,null,null,null
+508,Suttinen,Waino,null,null,null,null,null,res,null,null,null,New rd,null,null,null,null,null,null
+541,Valaska,Stephen,null,null,null,lab,null,res,null,null,78,Boston loc,null,null,null,null,null,null
+542,Vanosse,Frederick,null,null,null,engr,pump  Franklin Mining Co,res,null,null,null,null,null,null,null,null,Boston loc,null
+564,Warynen,Tina,null,null,wid Adam,null,null,res,es,null,null,New rd,null,null,null,null,null,null
+572,Wirtanen,Nestor,null,null,null,miner,null,res,es,null,null,New rd,null,null,null,null,null,null

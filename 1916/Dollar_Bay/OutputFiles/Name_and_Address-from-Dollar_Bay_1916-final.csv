@@ -1,0 +1,388 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+121,Conant,Henry,D,null,null,supt ,Lake Superior Smelting Co,res,null,null,null,null,null,null,null,null,Hubbell,null
+457,Rogers,George,null,null,null,bkpr ,Union Coal Dock,res,null,null,null,null,null,null,null,null,Hancock,null
+607,Urey,James,null,null,null,boomman ,Dollar Bay Lumber Co,res,null,null,null,null,null,null,null,null,Hancock,null
+2,Abramson,Abraham,null,null,Mary,furnaceman,L S Smeltg Co,null,null,null,null,null,null,null,null,null,null,null
+5,Abramson,Matthew,null,null,Ella,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+7,Alain,Silfred,null,null,Louise,driver,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+8,Allen,James,M,null,Gertrude,Smelting,weigher Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+11,Alsenius,Henry,null,null,null,dr,wire awer F W Foley,null,null,null,null,null,null,null,null,null,null,null
+12,Alsenus,Oscar,null,null,Goldie,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+13,Amesse,James,E,null,null,watchman,Lake Superior Smelting Co,null,null,null,null,null,null,null,null,null,null,null
+17,Anderson,James,null,null,Lena,contractor,carp,null,null,null,null,null,null,null,null,null,null,null
+18,Anderson,John,null,null,null,dr,wire awer F W Foley,null,null,null,null,null,null,null,null,null,null,null
+20,Anderson,Yens,null,null,Martha,dr,wire awer,null,null,null,null,null,null,null,null,null,null,null
+23,Babich,Thomas,null,null,Mary,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+25,Backman,Andrew,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+27,Backman,August,null,null,Annie,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+28,Backman,August,null,jr,Helma,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+32,Backman,Emil,null,null,Mary,fireman,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+37,Backman,Ida,S,null,null,waitress,Donlan House,null,null,null,null,null,null,null,null,null,null,null
+43,Balmer,Wm,J,null,Harriett,inspr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+45,Barnes,Jesse,C,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+48,Beauchaine,David,null,null,Ellen,watchman,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+50,Beauchaine,Eric,null,null,null,oiler,bman L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+55,Beausejour,Napoleon,null,null,Anna,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+56,Beckman,Edward,null,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+58,Bellaire,Arthur,null,null,Mary,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+59,Bellefeuille,Albert,null,null,Sarah,watchman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+60,Bellefeuille,Archie,null,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+66,Berg,John,E,null,Sophia,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+67,Bierschbach,Edward,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+71,Boatman,August,null,null,Mary,dipper,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+73,Boatman,Charles,null,null,Ida,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+79,Bosit,Samuel,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+80,Boyd,Alfred,null,null,null,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+82,Boyd,Isaac,null,null,Sophia,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+85,Braun,Gustave,A,null,Minnie,timekpr,Lake Superior Smelting Co,null,null,null,null,null,null,null,null,null,null,null
+86,Briggs,Charles,null,null,Pereyrhino,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+87,Brown,Ernest,null,Rev,Mabel,pastor,M E Church,null,null,null,null,null,null,null,null,null,null,null
+89,Bruder,John,null,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+90,Bruder,Tony,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+97,Burns,Janies,null,null,Susan,engr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+103,Cameron,Kenneth,A,null,Lillian,elk,A H Schulte Co,null,null,null,null,null,null,null,null,null,null,null
+104,Cappello,Louis,A,null,Stella,opr,teleg  C R R R,null,null,null,null,null,null,null,null,null,null,null
+106,Carlson,Andrew,null,null,Esther,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+107,Carlson,Fred,null,null,null,dr,wire awer F W Foley,null,null,null,null,null,null,null,null,null,null,null
+108,Carlson,Nicholas,null,null,null,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+110,Chamberlain,Harry,null,null,Fidilia,oiler,b tndr L S Smeltg Co,null,null,null,null,null,null,null,null,null,null,null
+112,Chaput,Homer,null,null,Mae,ladleman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+114,Church,Neil,A,null,Emily,agent,M R R R,null,null,null,null,null,null,null,null,null,null,null
+115,Cicak,Frank,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+117,Cicak,Stephen,null,null,Mary,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+119,Clements,Silas,W,null,Kate,treas,sec Dollar Bay Lmbr Co,null,null,null,null,null,null,null,null,null,null,null
+123,Copper,Range,Railroad,null,null,agent,Chester A Renaud,null,null,null,null,null,null,null,null,null,null,null
+127,Crowley,Michael,J,null,Mary,dr,bartn John Sebbas,null,null,null,null,null,null,null,null,null,null,null
+132,Dahl,Candy,Kitchen,null,null,prop,Herman Dahl,null,null,null,null,null,null,null,null,null,null,null
+133,Dahl,Herman,null,null,Mary,propr,Dahl Candy Kitchen,null,null,null,null,null,null,null,null,null,null,null
+135,Davis,Thomas,R,null,Ruth,supt,of schools,null,null,null,null,null,null,null,null,null,null,null
+139,DesRoches,Nelson,null,null,Johanna,Smelting,foreman Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+144,Donlan,Thomas,J,null,Josephine,propr,Donlan House and insurance,null,null,null,null,null,null,null,null,null,null,null
+146,Downey,Michael,null,null,Margaret,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+148,Dunstone,James,null,null,null,bksmith,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+149,Dunstone,Annie,null,null,wid Thomas,Smelting,janitress Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+153,England,Fred,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+156,Engman,Verner,null,null,null,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+157,Ericson,John,null,null,null,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+159,Fillion,Joseph,null,null,Nelida,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+160,Fissette,Alexander,null,null,Elizabeth,emp,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+161,Fissette,Francis,null,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+162,Fissette,Joseph,null,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+163,Fissette,Louis,null,null,null,dr,wire awer F W Foley,null,null,null,null,null,null,null,null,null,null,null
+177,Franz,Isaac,null,null,Christina,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+181,Gadonas,Leon,null,null,Adeline,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+183,Gagnon,George,null,null,Ella,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+184,Gallagher,Wm,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+188,Gauthier,Raymond,W,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+190,Gendron,Arthur,null,null,Mary,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+192,Gilson,Budwell,null,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+197,Grahel,Michael,null,null,Bertha,refiner,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+199,Grant,Alexander,null,null,Rieka,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+203,Gray,Robert,null,null,Mary,lab,L S Smeltg Co,null,null,null,null,null,null,null,null,null,null,null
+209,Grentz,Joseph,null,null,Kate,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+211,Grentz,Peter,null,null,null,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+212,Gronlund,Abraham,G,null,Ida,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+216,Guilbault,August,null,null,Anna,emp,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+218,Hall,George,null,null,Eva,driver,Frank Tourville,null,null,null,null,null,null,null,null,null,null,null
+220,Hansen,Edward,L,null,Annie,mach,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+222,Hapti,A,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+223,Harrington,Stephen,null,null,Albina,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+228,HekkeJa,Margaret,null,null,null,dom,E T Abrams,null,null,null,null,null,null,null,null,null,null,null
+229,Heilman,Eric,null,null,Ida,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+230,Heilman,John,I,null,Hilda,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+231,Heilman,John,O,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+236,Hillenbrand,Wm,J,null,Vernie,Smelting,chemist Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+239,Hocking,Harry,R,null,Matilda,driver,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+240,Hocking,Roy,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+244,Holm,Emil,null,null,Matilda,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+246,Holmes,James,W,null,Bertha,iron worker,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+247,ga,John,null,Hon,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+252,Isaacson,Andrew,null,null,Bertha,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+255,Isaacson,Otto,null,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+257,Isaacson,Wm,null,null,Minnie,driver,Matt Jurmu,null,null,null,null,null,null,null,null,null,null,null
+260,Jacobsen,Andrew,null,null,Anna,elk,A M Schulte Co,null,null,null,null,null,null,null,null,null,null,null
+261,Jarvi,Emil,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+262,Joensuu,Matti,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+263,Johns,Wm,null,null,Louise,iron worker,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+264,Johnson,Andrew,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+267,Johnson,Eric,null,null,Mary,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+270,Johnson,Richard,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+271,Juntilla,Matt,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+272,Juntunen,Donald,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+273,Juntunen,Joseph,null,null,Mary,driver,A M Schulte Co,null,null,null,null,null,null,null,null,null,null,null
+274,Jurmu,Eino,null,null,null,elk,Matt Jurmu,null,null,null,null,null,null,null,null,null,null,null
+276,Jurmu,Waino,H,null,null,elk,Matt Jurmu,null,null,null,null,null,null,null,null,null,null,null
+277,Jussola,Arthur,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+278,Kahler,Frank,null,null,Emily,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+287,Kindelan,Patrick,H,null,Catherine,meat ctr,Baer Bros,null,null,null,null,null,null,null,null,null,null,null
+291,Kitto,George,H,null,Kathryn,Smelting,master mech Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+293,Kitto,Harry,null,null,Maude,mach,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+294,Kitto,John,null,null,Wilhelmina,mach,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+299,Kitto,Robert,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+303,Korpi,Emanuel,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+306,Kuopas,Ebie,null,null,null,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+307,Kyllonen,Matt,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+309,Lahaie,Aurore,null,null,Victoria,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+317,LaSalle,Wm,null,null,Emily,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+318,Laukka,August,null,null,Sophia,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+320,Lawler,Jesemiah,J,null,Anna,elk,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+321,LePine,Stanislaus,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+323,Leppla,John,null,null,null,carp,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+324,Lesieur,David,null,null,Mary,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+325,Liebetrau,Hugo,null,null,null,Smelting,foreman Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+326,Lievelyas,Victor,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+327,Locatelli,Samuel,null,null,Rose,janitor,High School,null,null,null,null,null,null,null,null,null,null,null
+330,Loncarich,Matt,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+336,Lydman,Edwin,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+343,Mailhot,Dolph,null,null,Mary,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+344,Maki,John,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+350,Marschall,John,null,null,Annie,mgr,Marschall Meat Market,null,null,null,null,null,null,null,null,null,null,null
+352,Marschall,Meat,Market,null,null,mgr,John Marschall,null,null,null,null,null,null,null,null,null,null,null
+355,Marshall,Adam,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+356,Martin,Dolph,null,null,Elizabeth,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+361,Matson,Henry,null,null,Amanda,elk,Pearce Hdwe Co,null,null,null,null,null,null,null,null,null,null,null
+362,Matson,John,null,null,Sophia,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+363,Matson,Matt,null,null,Lena,dr,wire awer F W Foley,null,null,null,null,null,null,null,null,null,null,null
+364,Matson,Victor,null,null,Mary,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+365,Matson,Wm,E,null,Matilda,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+366,Mattfolk,Charles,null,null,Ella,sec,tion boss,null,null,null,null,null,null,null,null,null,null,null
+367,Menner,Emil,null,null,null,blksmith,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+368,Menner,John,null,null,null,bkpr,A M Schulte Co,null,null,null,null,null,null,null,null,null,null,null
+369,Menner,Norman,null,null,null,Smelting,elk Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+370,Methodist,Episcopal,Church,null,null,pastor,Rev Ernest Brown,null,null,null,null,null,null,null,null,null,null,null
+371,Michaelson,Michael,null,null,Lena,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+372,Michelich,George,null,null,Mary,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+373,Mickelson,Eric,null,null,Ida,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+374,Miller,James,A,Rev,R C,pastor,St Francis  Church,null,null,null,null,null,null,null,null,null,null,null
+376,Mineral,Range,Railroad,null,null,agent,Neil A Church,null,null,null,null,null,null,null,null,null,null,null
+377,Moehrke,Wm,null,null,null,mach,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+378,Moehrke,Wm,null,jr,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+381,Moore,Hugh,null,null,Elizabeth,supt,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+385,Morancy,Donat,null,null,Rosalma,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+386,Munn,George,S,null,Delia,engr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+390,Nault,Leo,null,null,Aurora,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+391,Newman,Victor,null,null,Mary,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+392,Niemela,John,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+395,Nordbeck,John,null,null,Annie,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+396,Nordbeck,Wm,null,null,Alma,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+400,Norgard,Wm,null,null,Edna,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+402,Nye,Alfred,null,null,Anna,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+403,Nye,Charles,null,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+404,Nye,Edward,null,null,Mary,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+405,Nye,Edward,null,jr,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+406,Nye,Evart,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+412,01son,Wm,null,null,Hilda,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+413,Oppenheimer,Wm,null,null,Annie,mgr,Baer Bros,null,null,null,null,null,null,null,null,null,null,null
+414,Orosmoa,John,null,null,null,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+416,Otila,August,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+417,Otto,Andrietta,null,null,wid Elmer,dr,Otto Anietta,null,null,null,null,null,null,null,null,null,null,null
+419,Pearce,Charles,null,null,null,Smelting,laboratory asst Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+421,Perreault,Medore,null,null,null,watchman,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+422,Peters,Charles,null,null,null,emp,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+423,Peters,Jacob,null,null,null,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+424,Peterson,Aino,null,null,Mary,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+425,Phillip,John,null,null,Margaret,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+426,Philpot,Douglas,null,null,null,fireman,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+427,Pierce,Joseph,H,null,Elizabeth,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+428,Pitre,Henry,null,null,null,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+434,Polasaari,E,A,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+436,Pryor,Francis,C,null,Gertrude M,Smelting,bkpr Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+437,Quilian,Wilfred,null,null,null,barnman,Frank Tourville,null,null,null,null,null,null,null,null,null,null,null
+439,Rappanna,Louis,null,null,Annie,dr,wire awer F W Foley,null,null,null,null,null,null,null,null,null,null,null
+440,Renaud,Chester,A,null,Marion,agent,C R R R,null,null,null,null,null,null,null,null,null,null,null
+441,Rheault,Henry,null,null,Emily,refiner,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+449,Richards,Charles,null,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+453,Rintala,Samuel,null,null,null,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+454,Rioux,John,E,null,null,mach,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+455,Robarge,John,null,null,Lena,engr,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+458,Rogers,John,null,null,Mary,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+459,Ronta,Aade,null,null,null,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+460,Rose,Henry,null,null,Clara,dr,wire awer F W Foley,null,null,null,null,null,null,null,null,null,null,null
+461,Roseman,George,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+462,Roy,01iver,null,null,Annie,ladleman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+464,Ruikka,Matthew,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+468,Ryan,Patrick,null,null,Anna,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+470,St,John,Edward,null,Edith,tmstr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+474,St,Pierre,Charles,null,Philomena,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+479,Saitz,John,null,null,Mary,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+480,Saitz,Stephen,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+481,Sandelin,Jonas,null,null,Mary,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+486,Sandell,Wm,null,null,Mary,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+487,Sandstrom,Ewald,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+488,Saralampi,Charles,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+489,Saralampi,Emil,null,null,null,lab,F W Foley Sargent Blanche,null,null,null,null,null,null,null,null,null,null,null
+490,Sargent,Frederick,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+493,Savkko,John,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+497,Schneller,Frank,null,null,Catherine,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+506,Schultz,George,null,null,Mary,driver,A M Schulte Co,null,null,null,null,null,null,null,null,null,null,null
+507,Sears,John,null,null,Sophia,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+514,Skoviak,John,null,null,Marie,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+516,Sodermon,John,null,null,null,lab,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+517,Staats,August,null,null,Ida,engineer,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+518,Sorvala,Aino,null,null,Lampi,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+521,Staricha,Frank,null,null,Mary,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+523,Statuchek,John,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+525,Sterk,Peter,null,null,Hannah,blksmith,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+528,Sterventz,Joseph,null,null,Mary,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+532,Stetter,Frank,null,null,Clara,oiler,bman L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+533,Stetter,Nance,null,null,Mary,engineer,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+539,Stif,John,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+542,Stone,John,E,null,Matilda,hlpr,L S Smeltg Co,null,null,null,null,null,null,null,null,null,null,null
+543,Stone,John,G,null,null,Smelting,lab L S  Co,null,null,null,null,null,null,null,null,null,null,null
+544,Stoor,Frank,null,null,Amanda,elk,A M Schultz Co,null,null,null,null,null,null,null,null,null,null,null
+545,Stoor,John,null,null,Amanda,Smelting,lab L S  Co,null,null,null,null,null,null,null,null,null,null,null
+547,Sullivan,Dennis,null,null,Barbara,Smelting,refiner L S  Co,null,null,null,null,null,null,null,null,null,null,null
+553,Sved,Emil,null,null,Bertha,Smelting,hlpr L S  Co,null,null,null,null,null,null,null,null,null,null,null
+558,Sved,Victor,null,null,Ella,Smelting,dipper L S  Co,null,null,null,null,null,null,null,null,null,null,null
+560,Taylor,Alexander,null,null,Emma,fireman,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+565,Taylor,Wm,null,null,Hazel,engr,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+566,Teefry,Patrick,null,null,null,Smelting,refiner L S  Co,null,null,null,null,null,null,null,null,null,null,null
+567,Tellier,James,null,null,null,Smelting,hlpr L S  Co,null,null,null,null,null,null,null,null,null,null,null
+568,Tellier,Wm,null,null,null,Smelting,barn boss L S  Co,null,null,null,null,null,null,null,null,null,null,null
+573,Thibeault,Charles,null,null,null,Smelting,hlpr L S  Co,null,null,null,null,null,null,null,null,null,null,null
+576,Thomas,James,T,null,null,Smelting,refiner L S  Co,null,null,null,null,null,null,null,null,null,null,null
+579,Thomson,Joseph,L,null,null,Smelting,foreman Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+587,Tillier,Wm,null,null,Lena,foreman,barn,null,null,null,null,null,null,null,null,null,null,null
+589,Toth,John,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+590,Tourcotte,Delphuis,null,null,Amanda,tmstr,L S Smelting Co,null,null,null,null,null,null,null,null,null,null,null
+593,Trebilcock,Arnold,null,null,Emily,Smelting,engr L S  Co,null,null,null,null,null,null,null,null,null,null,null
+595,Trebilcock,Edgar,null,null,null,Smelting,furnaceman L S  Co,null,null,null,null,null,null,null,null,null,null,null
+596,Trebilcock,Llewellyn,null,null,Delina,Smelting,bkpr L S  Co,null,null,null,null,null,null,null,null,null,null,null
+597,Treglone,Joseph,null,null,Amelia,Smelting,refiner L S  Co,null,null,null,null,null,null,null,null,null,null,null
+604,Trevillian,Frederick,null,null,Nellie,Smelting,hlpr L S  Co,null,null,null,null,null,null,null,null,null,null,null
+605,Udd,August,null,null,Mary,fireman,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+606,Union,Coal,Dock,null,null,supt,Hugh Moore,null,null,null,null,null,null,null,null,null,null,null
+609,Valimaa,Elis,null,null,null,Smelting,lab L S  Co,null,null,null,null,null,null,null,null,null,null,null
+611,Vardian,Joseph,null,null,Annie,Smelting,furnaceman L S  Co,null,null,null,null,null,null,null,null,null,null,null
+613,Visti,August,null,null,null,Smelting,hlpr L S  Co,null,null,null,null,null,null,null,null,null,null,null
+615,Walter,Clarence,null,null,null,mgr,branch  Baer Bros,null,null,null,null,null,null,null,null,null,null,null
+616,Warmington,Henry,null,null,Minnie,elk,A M Schulte Co,null,null,null,null,null,null,null,null,null,null,null
+620,Watson,Robert,C,null,null,Smelting,lab L S  Co,null,null,null,null,null,null,null,null,null,null,null
+623,Westerholm,Edward,null,null,Bessie,contr,steamboat,null,null,null,null,null,null,null,null,null,null,null
+626,White,Wesley,null,null,null,Smelting,blksmith L S  Co,null,null,null,null,null,null,null,null,null,null,null
+628,Williams,Louis,E,null,Margaret,Smelting,chief elk Lake Superior  Co,null,null,null,null,null,null,null,null,null,null,null
+629,Woodbeck,Isaac,null,null,null,Smelting,lab L S  Co,null,null,null,null,null,null,null,null,null,null,null
+3,Abramson,Albin,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+4,Abramson,Anna,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+14,Anderson,Agnes,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+16,Anderson,Elmer,null,null,null,ironwkr,null,null,null,null,null,null,null,null,null,null,null,null
+19,Anderson,Lucy,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+22,Babich,Peter,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+24,Backman,Amanda,null,null,null,elk,Matt Jurmu,null,null,null,null,null,null,null,null,null,null,null
+26,Backman,Annie,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+30,Backman,Edward,null,null,null,ctr,null,null,null,null,null,null,null,null,null,null,null,null
+41,Backman,Theodore,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+47,Beauchaine,Antoinette,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+49,Beauchaine,Elmond,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+61,Bellefeuille,Eva,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+62,Bellefeuille,Melvina,null,null,null,smstrs,null,null,null,null,null,null,null,null,null,null,null,null
+63,Berg,Alfred,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+64,Berg,Elema,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+65,Berg,Hilda,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+69,Bills,Charles,G,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+72,Boatman,August,null,jr,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+74,Boatman,Edna,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+75,Boatman,Emil,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+76,Boatman,Evert,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+77,Boatman,Siverine,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+81,Boyd,Edward,null,null,null,eng,ine boy,null,null,null,null,null,null,null,null,null,null,null
+83,Boyd,John,null,null,null,electrician,null,null,null,null,null,null,null,null,null,null,null,null
+84,Braun,Edward,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+116,Cicak,Mary,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+118,Clements,Eileen,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+120,Clements,Silas,W,jr,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+124,Cozy,Theatre,null,null,null,mgr,John G Vardian,null,null,null,null,null,null,null,null,null,null,null
+128,Crowley,Mildred,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+137,DesRoches,Irene,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+138,DesRoches,Leonia,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+140,DesRoches,Robert,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+150,Dunstone,James,W,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+158,Fillion,Florence,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+180,Gadonas,Elizabeth,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+182,Gadonas,Louise,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+191,Getzen,Anna,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+194,Grahel,Arthur,null,null,null,lab,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+195,Grahel,Hattie,null,null,null,elk,A M Schulte Co,null,null,null,null,null,null,null,null,null,null,null
+196,Grahel,Hugo,L,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+206,Grentz,Joseph,null,jr,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+210,Grentz,Joseph,null,jr,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+219,Hansen,Donald,null,null,null,elk,Pearce Hdw Co,null,null,null,null,null,null,null,null,null,null,null
+221,Hansen,Harold,E,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+265,Johnson,Edwin,null,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+269,Johnson,Magnus,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+279,Keegan,Michael,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+290,Kitto,Claude,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+292,Kitto,Harold,G,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+295,Kitto,Kathryn,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+296,Kitto,Marjory,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+297,Kitto,Myrtice,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+298,Kitto,Pearl,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+301,Kitto,Wilhelmina,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+310,Lahaie,Frederick,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+311,Lahaie,Sarah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+328,Lokanen,Esther,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+329,Lokanen,Theodore,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+349,Marschall,Adolph,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+351,Marschall,Magda,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+353,Marschall,Nicholas,null,null,null,furnaceman,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+354,Marschall,Rebecca,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+357,Matson,August,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+358,Matson,Edward,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+359,Matson,Ella,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+360,Matson,Ellen,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+375,Mills,Eleanor,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+379,Moore,Edgar,null,null,null,ironwkr,null,null,null,null,null,null,null,null,null,null,null,null
+380,Moore,Ethel,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+382,Moore,John,null,null,null,engr,null,null,null,null,null,null,null,null,null,null,null,null
+383,Moore,Merwin,null,null,null,engr,Union Coal Dock,null,null,null,null,null,null,null,null,null,null,null
+384,Moore,Warren,null,null,null,engr,null,null,null,null,null,null,null,null,null,null,null,null
+387,Munn,Mae,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+388,Munn,Wesley,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+397,Norgard,Elsie,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+398,Norgard,Emil,null,null,null,hlpr,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+399,Norgard,Marie,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+418,Otto,Gladys,null,null,null,smstrs,null,null,null,null,null,null,null,null,null,null,null,null
+465,Ryan,Florence,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+466,Ryan,Irene,null,null,null,dom,Donlan House,null,null,null,null,null,null,null,null,null,null,null
+467,Ryan,Lawrence,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+483,Sandell,Annie,null,null,null,cook,null,null,null,null,null,null,null,null,null,null,null,null
+484,Sandell,Marie,null,null,null,cook,null,null,null,null,null,null,null,null,null,null,null,null
+485,Sandell,Oscar,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+519,Staats,Justina,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+520,Staats,Viola,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+522,Staricha,John,null,null,null,lab,L S Smltg Co,null,null,null,null,null,null,null,null,null,null,null
+524,Sterk,John,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+526,Sterk,Peter,null,jr,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+527,Sterventz,Anna,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+529,Sterventz,Josephine,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+530,Sterventz,Mary,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+531,Stetter,Dorothy,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+534,Stetter,Ruby,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+548,Sullivan,Michael,null,null,null,mach,F W Foley,null,null,null,null,null,null,null,null,null,null,null
+550,Sved,Bernard,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null,null
+552,Sved,Elizabeth,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+554,Sved,Helen,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+555,Sved,Ida,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+556,Sved,Josephine,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+561,Taylor,Elsie,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+562,Taylor,James,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+563,Taylor,John,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null,null
+564,Taylor,Mortimer,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+574,Thibeault,Mae,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+575,Thomas,Elmer,J,null,null,Smelting,hlpr L S  Co,null,null,null,null,null,null,null,null,null,null,null
+577,Thomas,Pearl,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+580,Tillier,Albert,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null,null
+581,Tillier,Antoinette,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+582,Tillier,Corrine,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+583,Tillier,Eva,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+584,Tillier,Jay,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+585,Tillier,Joseph,null,null,null,dipper,null,null,null,null,null,null,null,null,null,null,null,null
+586,Tillier,Josephine,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+594,Trebilcock,Audrey,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+598,Treglone,Joseph,null,jr,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+599,Treglone,Lillian,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+600,Treglone,Mary,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+601,Treglone,Norman,null,null,null,moulder,null,null,null,null,null,null,null,null,null,null,null,null
+610,Vardian,John,G,null,null,mgr,Cozy Theatre,null,null,null,null,null,null,null,null,null,null,null
+614,Voyer,Irving,L,null,null,sten,Lake Superior Smelting Co,null,null,null,null,null,null,null,null,null,null,null
+617,Warmington,Lucile,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null

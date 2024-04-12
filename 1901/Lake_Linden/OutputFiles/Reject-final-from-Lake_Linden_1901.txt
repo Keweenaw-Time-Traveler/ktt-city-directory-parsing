@@ -1,0 +1,257 @@
+16 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Alt Kate M (wid Louis), bds S J Hollister
+29 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubin Joseph, lab, bds Harmidas Aubin
+33 ADDRESS, JOB LOCATION NOT FOUND: Auger Alphonse, bartndr George Gouin, res same
+47 ADDRESS, JOB LOCATION NOT FOUND: Baril Noah, engr PEL and P Co res w s Calumet 2 n of Torch
+53 ADDRESS, JOB LOCATION NOT FOUND: Barkell James J, lab res 5735 G
+54 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Barkell Oscar, lab, bds James BarkelL
+71 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Beaudin Mrs Victoria, bds Mrs Eliza Gerouard
+97 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Benedict Charles H, elk, bds T Corbeil jr
+100 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bennett Charles, lab, bds Wm Bennett
+101 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bennett George, lab, bds Wm Bennett
+102 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Bennett Jennie, bds Wm Bennett
+103 ADDRESS, JOB NOT FOUND: BENNETT WM, Propr The Lincoln Hotel, n e cor Calumet and 4th (See page 761)
+133 ADDRESS, JOB NOT FOUND: Boivert Amedee (aged 45), died Dec 26, 1899
+143 ADDRESS, JOB LOCATION NOT FOUND: Borclos Rev Edward P, lector St Josephs Catholic Church res w s Front 1 n of Maple
+145 NAME: BOSCH BREWING CO THE, Joseph Bosch Pres, Adolph F Heidkamp Sec and Treas, Brewers and Bottlers, cor Center and Schoolcraft
+147 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Bosch Mary, bds Joseph Bosch
+156 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Boudreau Emma, elk W F Foley, bds Jacques Boudreau
+163 ADDRESS, JOB NOT FOUND: Boudreau Peter jr, removed to Escanaba, Mich
+170 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Brasard Frederick, lab, bds Mrs Celina Toupin
+212 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Burgan Mary J, bds Thomas Burgan
+213 ADDRESS, JOB LOCATION NOT FOUND: Burgan Thomas, blksmith res S435 C H loc n of Stamp Mill
+216 ADDRESS, JOB NOT FOUND: BURGAN HILL (Thomas E Burgan, Thomas Hill), Fresh and Salt Meats, Fish and Game in Season, w s Calumet 2 s of 4th
+217 ADDRESS, JOB LOCATION NOT FOUND: Burkhart John, lab ,bds Mathias Goldsworthy
+228 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Butler Mary (wid Thomas), bds J F Nancarrow
+232 NAME: Calumet and Hecla Dispensary, F E Fletcher M D phys, A G Mogk pharmacist, s w cor Calumet and 1st
+233 ADDRESS, JOB NOT FOUND: C H Hotel, J B Beaudoin propr, n w cor Front and 1st
+234 NAME: Calumet and Hecla Library, s w cor Trestle and County road
+237 ADDRESS, JOB LOCATION NOT FOUND: Cameron Euphemia D, bkkpr The E F Sutton Co bds Euphemia Cameron
+246 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cantin Napoleon L, bartndr Henry Duquette, bds same
+256 NAME: Castler Wm lab bds Mrs Selina Toupin
+261 NAME: Castonia Helen G domestic 5466 Tunnel
+271 ADDRESS, JOB LOCATION NOT FOUND: Chenevert Narcisse, carp, res res Front 3 s of Torch
+279 ADDRESS, JOB NOT FOUND: City Drug Store, Trefde Belhumeur propr, e s Calumet 2 n of 3d
+297 ADDRESS, JOB NOT FOUND: Congregational Church, Rev Arthur Metcalf pastor, s e cor 1st and Hecla
+319 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Crago Richard, appr Robert Rickard, bds same
+321 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cunningham Michael, helper Alexander Larmondre, bds same
+324 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Currie Agnes, bds Mrs Agnes Curried
+361 NAME: Des Ormiers Joseph O, elk L Hennes Co, res w s Front 3 n of Vetter
+407 ADDRESS, JOB NOT FOUND: EAGLE HOUSE, Mrs Wilhelmina Mayer Proprietress, Rate 100 Per Day, w s Calumet 3 n of Center
+416 ADDRESS, JOB NOT FOUND: EDDY SAMUEL, General Insurance Agent, Office Hermann Blk, Mich Tel 66 res e s Front 1 n of Vetter
+424 ADDRESS, JOB NOT FOUND: Emporium Saloon, H Kettenbeil Son proprs, 209 Calumet
+427 ADDRESS, JOB LOCATION NOT FOUND: Erb Peter, bottler, res on Hill head of E
+431 ADDRESS, JOB LOCATION NOT FOUND: Evnault Leon, appr Charles Labine bds S Lake Linden
+433 ADDRESS, JOB LOCATION NOT FOUND: Falardeau Peter, lab res 5970 Mill rd
+454 NAME: FIRST NATIONAL BANK THE, Joseph Bosch Pres, Charles Smith VicePres John E Jones Cash, cor 4th and Hecla
+462 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Fleury Olympe, bds Pierre Fleury
+463 ADDRESS, JOB LOCATION NOT FOUND: Fleurv Pierre, lab res Gregoryville
+464 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fleury Pierre jr, lab, bds Pierre Fleury
+468 ADDRESS, JOB LOCATION NOT FOUND: Foley Win F, dry goods, n s 4th 1 e of Calumet res Calumet, Mich
+482 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Forkie Mary, bds Louis Forkie
+502 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Frennette Eugene, shoemkr e s Calumet 4 n of 1st, res same Gadouas Denise, bds Leon Gadotias
+512 ADDRESS, JOB LOCATION NOT FOUND: Galipeau Adolph F, barber w s Calumet 3 n of Pine, res same
+515 ADDRESS, JOB LOCATION NOT FOUND: Garisch Labau, lab Bosch Brewing Co bds Ulrich Waldenmaier
+518 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gauthie Arthur, lab, bds Telesphore Gauthier
+520 ADDRESS, JOB LOCATION NOT FOUND: Gehrke Charles T, lab res s s Douglass 2 w of Atlantic
+521 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gehrke Edward, lab, bds Charles J Gehrke
+531 NAME: Gerouard Eliza (wid Valere) res w s Calumet 2 n of Pine
+537 NAME, PERSON NOT FOUND: Gibbons John J boilermkr, bds Hotel Larose
+539 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Gilbert Frank G (City Bakery), bds j B Harris
+544 ADDRESS, JOB LOCATION NOT FOUND: Gillet Victor, lab bds Henriette Gillet
+548 ADDRESS, JOB LOCATION NOT FOUND: Girardin Gasperd O, bkkpr Lake Linden Cooperative Society res w s Front 2 n of Vetter
+549 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Girardin Flartense, bds G O Girardin
+557 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Glanville Edgar L, helper Joseph Pearce, bds Janies Glanville
+588 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Goulet Mrs Elizabeth J, bds Mrs E G Sutton
+609 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Greene Theresa, elk, bds T H Harris
+611 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grecnhoot Max, elk D E Toplon, bds same
+627 ADDRESS, JOB NOT FOUND: Guck Eva (wid Kasper aged 72), died June 19, 1901
+642 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Guilbault Delvina, elk, bds Louis Guilbault
+644 ADDRESS, JOB LOCATION NOT FOUND: Guilbault Louis, mach res 5643 C H loc n of Center
+651 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gurd Richard, lab, bds Mrs Mary Kelil
+653 ADDRESS, JOB NOT FOUND: Haefer Charles F, removed to Quincy Mills
+654 ADDRESS, JOB NOT FOUND: Haefer Herman, removed to Isle Rovale Mills
+656 NAME: Hagen August F W, foreman, res 5469 Tunnel
+668 ADDRESS, JOB LOCATION NOT FOUND: Hamel Delore, lab, res Charles Hamel
+675 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Harrington Jeremiah, lab, bds S A Harington
+678 NAME: Harrington Sylvester J bds S A Harrington
+684 ADDRESS, JOB LOCATION NOT FOUND: Harbour Henry, lab bds Casper Harbour
+686 ADDRESS, JOB NOT FOUND: Harbour Oliver, moved to Houghton, Mich
+700 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Heidkamp Adolph F, shec and treas Bosch Brewing Co, rms Front nr Maple
+710 NAME: Hennes L Co, T J Hennes mngr, general store, n w cor Calumet and 3d
+714 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hermann John F, elk, bds John Hermann
+715 NAME, PERSON NOT FOUND: Hermann Joseph A opr Mich Tel Co, bds John Hermann
+728 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hollister Ina, tchr, bds S J Hollister
+733 NAME: Holy Rosary Catholic Church, Rev Joseph E Neumair pastor, w end Center
+734 NAME: Holy Rosary Parochial School, in charge of Sisters of Notre Dame, w end Center
+741 ADDRESS, JOB LOCATION NOT FOUND: Hopf Felicite (wid Simon H), shoes w s Calumet 3 s of 4th, res same
+742 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Hopf Ida M, bds Mrs Felicite Hopf
+743 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Hopf Otilda, bds Mrs Felicite Hopf
+744 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hopf Wm, elk Felicite Hopf, bds same
+753 ADDRESS, JOB NOT FOUND: Hotel Larose, Henry Larose propr, Lake
+756 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Houle Leon, bartndr Hector Baril, bds same
+765 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Jacques Selvina, bds Laurent Jacques
+766 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: James Annie, elk M Levine, bds Tames James
+768 ADDRESS, JOB NOT FOUND: James James jr, removed to Calumet, Mich
+769 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: James Jennie, bds James aines
+770 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: James Stephen, tryer, bds James James
+771 ADDRESS, JOB NOT FOUND: Janes Barbara (wid Nicholas aged 60), died Aug 7, 1900
+784 ADDRESS, JOB LOCATION NOT FOUND: Jobin Elzear, lab, res res Front opp Pine
+795 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Joyal Cora, elk J C T Joyal, bds same
+796 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Joyal Eva, bds j C T Joyal
+797 NAME: Joyal Justa G T, grocer w s Front 5 n of Vetter, res same
+810 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kauffman Sophia, nurse s w cor Torch and Front, bds same
+816 ADDRESS, JOB NOT FOUND: Kehl Herman E, removed to Houghton, Mich
+817 ADDRESS, JOB NOT FOUND: Kehl Mrs Marv, res alley w s Osceola bet 1st and 2d
+818 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kehl Wm, lab, bds Mrs Mary Kehl
+821 ADDRESS, JOB NOT FOUND: Keifer Christian (aged 63), died Dec 13, 1899
+827 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kennedy James, boilermkr, bds Henry Dullinger
+836 NAME: KETTENBEIL H SON (Herman and Henry), Proprs Emporium Saloon, 209 Calumet
+844 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Kimball Ralph, bds Henry Dullinger
+848 ADDRESS, JOB NOT FOUND: Kirchen Edward, removed to Ann Arbor, Mich
+849 ADDRESS, JOB NOT FOUND: Kirchen Matthew, removed to Mexico
+874 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Krause George, lab, bds Edward Krause
+875 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Krause Henry S, lab, bds Edward Krause
+882 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: La Belle Frank, bds Stanislaus La Belle
+883 NAME, PERSON NOT FOUND: La Belle Laura C, elk The E F Sutton Co, bds Stanislaus La Belle
+885 ADDRESS, JOB LOCATION NOT FOUND: Labine Charles, barber, e s Calumet 2 s of 4th res same
+886 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Labranche Delina, bds Louis Labranclie
+901 ADDRESS, JOB NOT FOUND: Lahaie Joseph, removed to Calumet, Mich
+903 ADDRESS, JOB NOT FOUND: Lake Linden Band, Joseph Williams ldr, Village Hall
+904 NAME: Lake Linden Bottling Works, Dominick W Sutter proprietor, w s Hecla 4 s of 3d
+905 NAME: LAKE LINDEN CARRIAGE SHOP, Laurent Jacques Propr, e s Front bet Pine and Torch Lake (See p 761)
+906 NAME: Lake Linden Cooperative Society, Wm Trewartha mngr, w s Hecla 2 e of 3d
+907 NAME: Lake Linden Fire Dept, Village Hall
+908 NAME: LAKE LINDEN MARBLE AND GRANITE WORKS,
+909 NAME: J B Tibor Co Proprs, Calumet opp Postoffice (See left bottom lines)
+910 NAME: LAKE LINDEN OPERA HOUSE, Henry Duquette, Mngr, cor Center and Front (See page 761)
+911 NAME: Lake Linden Water Works, Patria Gregoire propr, Gregoryville
+912 NAME: LAKE LINDEN GENERAL HOSPITAL AND Training School for Nurses, George W Orr, M D, Physician in Charge, s w cor Calumet and Beesley
+913 ADDRESS, JOB NOT FOUND: LAKE VIEW HOUSE, Mrs Tena Horton Propr, Rates 150 Per Day, w s Front 3 n of 4th
+931 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Larkin Mary A, mngr W F Foley, rms same
+946 ADDRESS, JOB LOCATION NOT FOUND: Laverdiere John B, lab, res alley w s Osceola bet 1st and 2d
+970 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Le Page Alexander, bds Mrs Delma Le Page
+974 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Le Page Eli, bds Mrs Delma Le Page
+975 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Le Page Eugene, bds Mrs Delma Le Page
+976 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Page Frank, lab, bds Constant Le Page
+977 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Le Page Joseph, bds Mrs Delma Le Page
+978 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Page Joseph, lab, bds Constant Le Page
+979 ADDRESS, JOB NOT FOUND: Le Page Nelson (aged 48), died July 1, 1900
+980 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Page Peter, lab, bds Constant Le Page
+981 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lepin Felix, lab John McKerroll, rms same
+986 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Sage Charles jr, lab, bds Charles Le Sage
+987 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Le Sage Jessie, bds Charles Le Sage
+988 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Sage John, lab, bds Charles Le Sage
+989 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Le Sage Julia, bds Charles Le Sage
+990 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Sage Mamie, elk The E F Sutton Co, bds Charles Le Sage
+993 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Leveille Joseph R, groom Wm Kline, bds Frank Savard
+996 ADDRESS, JOB LOCATION NOT FOUND: Levesque Dennie, lab, res end e s alley w of Calumet
+1001 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Liberty Joseph, carriagemkr Laurent Jacques, bds Mrs Georgina Mayotte
+1002 ADDRESS, JOB NOT FOUND: LINCOLN HOTEL THE, Wm Bennett Propr, n e cor Calumet and 4th (See p 761)
+1003 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Lizott Maxime,1ab, bds Joseph St John
+1032 ADDRESS, JOB LOCATION NOT FOUND: McDonald John, lab res 5518 1st, C H loc
+1041 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McEachran Hector, lab, bds Thomas Guard
+1042 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: McEachran John, bds Thomas Guard
+1048 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McKerroll Archibald, driver John McKerroll, bds same
+1058 ADDRESS, JOB NOT FOUND: MacDonald Donald A (aged65), died Feb 16, 1900
+1071 ADDRESS, JOB NOT FOUND: MAMMOTH ICE RINK, Sarazin Barbeau Proprs, foot of 4th
+1078 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Marcotte Frederick, bartndr Samuel La Clare, bds same
+1083 ADDRESS, JOB NOT FOUND: Masonic Hall, s e Calmet and 3d
+1093 ADDRESS, JOB NOT FOUND: Mayer Michael (aged 56), died May 18, 1900
+1094 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Mayer Minnie, bds Mrs Wilhelmina Mayei
+1097 ADDRESS, JOB LOCATION NOT FOUND: Mavotte Archibald, lab, res Gregory n of Corbeil
+1105 ADDRESS, JOB LOCATION NOT FOUND: Mellon Lyman R, mach, res 547a Tunnel
+1110 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Mertes Clara, bds Jacob Merles
+1115 ADDRESS, JOB NOT FOUND: Methodist Episcopal Church, s w cor Comity rd and 1st
+1123 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Michel Goudias, bartndr Hector Baril, bds same
+1127 NAME: Michigan Telephone Co, A A Guck mngr, w s Front 2 n of 4th
+1134 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mills Charles, lab, bds T H Mills
+1140 NAME: Mineral Range R R Depot, w s County rd s of Trestle
+1145 ADDRESS, JOB NOT FOUND: Miron Julius (aged 54), died Feb, 1900
+1158 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Morrison Rebecca (wid Samuel), bds H Morrison
+1166 NAME: Native Copper Times The (weekly), J H Wilson propr e s Calumet
+1175 ADDRESS, JOB NOT FOUND: Neumair Joseph E, rector Holy Rosary (R C) Church, res w end Center
+1176 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Newton Augusta M, tchi1, bds Marcella*Newton
+1179 ADDRESS, JOB NOT FOUND: Newton Thpmas H, removed to Pittsburg, Pa
+1197 NAME: Northern Michigan Bilding and Loan Assn, Frederick M B Penniston agt, s e cor Calumet and Center
+1199 ADDRESS, JOB NOT FOUND: Odd Fellows, Hall, n e cor Calumet and 3d
+1200 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: OLeary Daniel, lab, bds Frank Buschell
+1201 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: OLeary Jeremiah, lab, bds Frank Buschell
+1209 ADDRESS, JOB NOT FOUND: ORR GEORGE W, PhysicianinCharge Lake Superior General Hospital and Training School for Nurses, s w cor Calumet and Peesley
+1214 NAME, PERSON NOT FOUND: Otte Mary G J, nurse, 5731 C H loc, bds same
+1215 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Oubain Frank, lab, bds Charles A Pearce
+1218 NAME: Owens Emma L bds George Owens
+1224 ADDRESS, JOB NOT FOUND: Paine Louis D, removed to Grover, Midi
+1234 ADDRESS, JOB NOT FOUND: Parker Walter T, house surgeon Lake Superior General Hospital, res same
+1271 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pearce Joseph E, bkkpr Joseph Pearce, bds same
+1285 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Peck Sarah A, bds Mary A T Sutton
+1289 ADDRESS, JOB NOT FOUND: Peiffer John jr, clk,b ds John Peiffer
+1294 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pelland Alfred, lab, bds Aleci Pelland
+1299 NAME: Peninsular Electric Light and Power Co, Samuel S Rob inson chief engineer, s s Mill e of Front
+1301 NAME: Penniston Frederick M B, agt Northern Mich Building and
+1335 NAME: Pichette Dr J M Peter, health officer, s e cor Calumet and Pine, res same
+1341 ADDRESS, JOB NOT FOUND: Plantation Saloon, Charles A Pearce propr, w s Calumet 4 n of 1st
+1342 ADDRESS, JOB NOT FOUND: Plante Adeline, removed to Montreal, Can
+1345 ADDRESS, JOB NOT FOUND: Plante Camille jr, removed to Ashland, Wis
+1365 NAME: Postoffice, John Amesse postmaster, w s Calumet 3 s of 3c
+1370 NAME: POULL MERCANTILE CO, Joseph Bosch Pres, Franli Deiss Sec and Treas, General Merchandise, n w cor Calumet and 3d
+1371 ADDRESS, JOB NOT FOUND: Poull Nicholas G (aged 46), died March 2, 1900
+1378 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Privcll Octave, tmstr Bosch Brewing Co, bds George Mayotte
+1393 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Reardon Jeremiah, boilermkr, bds Mrs^Selina Taupin
+1406 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Renz Elmer, lab, bds August Renz
+1411 ADDRESS, JOB LOCATION NOT FOUND: Rhault Octave, lab res e s Hecla 1 s of Mine
+1416 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Richards George, bds Richard Richards
+1417 ADDRESS, JOB LOCATION NOT FOUND: Richards Richard, mach res 5437 C H loc n of Stamp Mill
+1422 ADDRESS, JOB LOCATION NOT FOUND: Roberge Philip, lab res e s Front 1 n of Beesley
+1426 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Roberts John A, lab, bds Prosper Roberts
+1430 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Roberts Louis ,lab, bds Prosper Roberts
+1431 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Roberts Pamela, bds Prosper Roberts
+1432 ADDRESS, JOB NOT FOUND: Roberts Prosper, res Front opp Vettei
+1455 ADDRESS, JOB NOT FOUND: Rule Thomas M (aged 63), died March, 1900
+1456 NAME: Rule T H Bro (Thomas H and Joseph), grocers, e s Calumet 4 n of 4th
+1460 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Amour Clara, dressmkr, bds Christina St Amour
+1461 ADDRESS, JOB NOT FOUND: St Anns Academy, in charge of Sisters of St Joseph, w s Calumet bet Maple and Vetter
+1462 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Antoine John, lab, bds Henry St Peter
+1468 NAME: St Jean Baptiste Hall, St Jean Baptiste Society proprs, s s Center 2 e of Calumet
+1470 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St John Simeon, lab, bds Joseph St John
+1471 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: ST JOHN WILFRED, High Class Shoe Repairing, Cripple Boots and Shoes a Specialty, w s Calumet 2 s of Center, bds Joseph St John
+1472 NAME: St Josephs Catholic Church, Rev Edward P Bordas rector, w s Front bet Maple and Vetter
+1473 NAME: St Joseph Parochial School, in charge of Sisters of St Joseph, w s Calumet bet Maple and Vetter
+1476 NAME, PERSON NOT FOUND: St Pierre Joseph U, bartndr, bds same
+1480 ADDRESS, JOB NOT FOUND: SARAZIN BARBEAU (Norbert Sarazin Alexander A Barbeau), Proprs Mammoth Ice Rink, foot of 4th
+1481 ADDRESS, JOB NOT FOUND: Sarazin Wrri G, agl implements, w s Front 2 s of Pine
+1501 ADDRESS, JOB NOT FOUND: Schleeter Carl S (aged 31), died April 24, 1901
+1512 ADDRESS, JOB LOCATION NOT FOUND: Schlichting Herman A, foreman, res 54^5 Tunnel
+1526 NAME: School Sisters of Notre Dame, in charge of Holy Rosary Parochial School, w end Center
+1532 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Seaberg Anna, milliner The E F Sutton Co, bds Mrs M A F Sutton
+1552 NAME: Slonaker Wm J C, driver, res n w cor Hecla and 2d
+1553 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Smetheram Edwin, timekpr, bds Francis Smctheram
+1567 NAME: Smith James L lab, bcls 5458 Tunnel
+1568 ADDRESS, JOB LOCATION NOT FOUND: Smith John, lab res 5616 Hecla
+1575 ADDRESS, JOB NOT FOUND: Snyder Wm F (aged 19), died September, 1900
+1578 NAME: Spahn Casimir lab C H M Co
+1596 ADDRESS, JOB NOT FOUND: STEHLIN EMIL, Grocer and Confectioner w s Calumet 4 n of Pine, res same
+1597 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stehlin John H, tmstr, bds Emil Stehlin
+1598 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stehlin Joseph A, elk Emil Stehlin, bds same
+1601 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stewart Catherine M, teacher, bds Christine Stewart
+1602 NAME: Stewart Christine (wid Dougall) res 5515 1st, C H loc
+1619 ADDRESS, JOB NOT FOUND: Suprenant Peter jr, moved to Detroit, Mich
+1621 ADDRESS, JOB NOT FOUND: Sutton Elias F, died May, 1901
+1622 NAME: Sutton Elizabeth G (wid Wm) res n s 1st 2 e of H C R R
+1623 NAME: Sutton E F Co The, Charles Briggs (Calumet, Mich) pres, Mrs Mary A F Sutton vicepres, Janies Hoar sectreas and mngr, general merchandise, s w cor Calumet and 3d
+1624 NAME: Sutton Mary A F (wid Elias F), vicepres The E F Sutton Co, res n w cor Hecla and 3d
+1634 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tappe John, bartndr F W Tappe, bds same
+1637 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Teschler Wm,lab, bds Charles Gehrke
+1671 NAME: TIBOR J B CO (John B Tibor, Robert Thill), Proprs Lake Linden Marble and Granite Works, Calumet opp Postoffice (See left bottom lines)
+1673 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Toupin Alfred, bds Mrs Selina Toitpin
+1679 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tourville Minnie D, elk D E Toplon, bds same
+1685 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Trathen Irving, elk James Trathen, bds same
+1703 ADDRESS, JOB NOT FOUND: Uren Wm J (aged 44), died May 7, 1900
+1713 ADDRESS, JOB LOCATION NOT FOUND: Versaill Philip, lab,bds Jeremiah Versaille
+1718 ADDRESS, JOB NOT FOUND: Village Hall, n e cor Calumet and Center
+1721 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Vine Eliza J, bds J H Lyle
+1736 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wareham Richard M, lab, bds Matthew7 Wareham
+1756 NAME: Western Express Co, A A Guck agt, w s Front 211 of 4th
+1757 NAME: Western Union Telegraph Co, A A Gck mngr, w s Front 2 n of 4th
+1775 NAME: Wilson G Morgan A, moved to Bessemer
+1785 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Wisenauer John C, bds John Wisenauer
+1791 NAME: Zimmerman Henry J lab, C H M Co

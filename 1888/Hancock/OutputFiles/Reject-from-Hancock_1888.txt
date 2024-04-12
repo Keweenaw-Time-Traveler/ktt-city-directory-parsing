@@ -1,0 +1,81 @@
+6 JOB NOT FOUND: Alb J W, Meat Market, 402 Quincy,
+3 NAME: American Express Co, H L Paddock agt, office foot of Tezcuco
+11 JOB NOT FOUND: Axley Paul, bds M J Gemuend
+5 NAME: BAER BROS, est 1858, wholesale and retail dealers in meats and cattle, and horse dealers, 200 202 Quincy
+8 NAME: Barrett, Electrician, res Smeltingville
+66 JOB NOT FOUND: Boudette Fred, wks M M Moralee, res Quincy near Cemetery, W Hancock
+22 NAME: Brunell, res near 404 Hancock
+24 NAME: Carkeek S Co, wholesale and retail dealers in general merchandise, 408 Hancock
+28 NAME: CLEAVES S E SON, manufacturers of all kinds of machinery, mining and heavy machinery a specialty, wks Ripley
+32 NAME: COUGHLTN D SON, established 1878, livery boarding and sale stables, undertaking and embalming, 221 and 223 Quincy
+139 JOB NOT FOUND: Cudihy Michael, res Shantytown near 207 Franklin
+37 NAME: Detroit Lake Superior Copper Co, J R Cooper Agt, office and works Smeltingville
+166 JOB NOT FOUND: Donahoue John, res Shantytown rear 213 Franklin
+43 NAME: DRITTLER, BROS, business est 1860, Liquor Dealers and Tobacconists, 204 Quincy
+44 NAME: Duncan, Houghton, trav salesman, res Franklin
+184 JOB NOT FOUND: Dwyer Miss, dressmaker
+46 NAME: EDWARDS, JOHN HARDEN, Secy and Treas Hancock Chemical Co, res Ripley
+47 NAME: EMERY S SON, business est 1884, general merchandise, 330 Quincy
+52 NAME: FIRST NATIONAL BANK of Hancock, S D North, president, Wm Condon Vice President, E H Towar, cashier, 200 Reservation
+56 NAME: Fisher S and Bro, dry goods and clothing, 201 Quincy
+224 JOB NOT FOUND: Fountain Eugene, res Shantytown rear 209 Front st
+60 NAME: Franklin Mining Co, mine located sec 24, town 55, range 33
+62 NAME: Farlo, brickmaker, bds 402 Hancock
+239 JOB LOCATION NOT FOUND: Gangness Andrew, lab
+251 JOB NOT FOUND: Germania Hall, 311 Quincy
+282 JOB NOT FOUND: HANCOCK CALUMET, R R Co, C A Wright genl manager, R H Brelsford genl freight and passenger agt, offices foot of Tezucco st, depot Smeltingville
+80 NAME: HANCOCK CHEMICAL CO, manufacturer gelatine, dynamite and all grades of blasting powder, office Woodside, P O Houghton, telephone connections, pres R W Warren, sec and treas John Haldane Edwards
+81 NAME: HANCOCK HAIR CUTTING AND SHAVING B00MS bath rooms in connection, Chas Linder prop, 115 Quincy
+82 NAME: Hancock Land and Iron Co, D Crawford pres, M Finn sec and treas, Hancock
+286 JOB NOT FOUND: HANCOCK LAUNDRY, Ford Rainey props, fancy work a specialty, strictly hand work, 400 Hancock
+84 NAME: HANCOCK MINING Co, Edward Ryan pres, office 127 Quincy st
+302 JOB NOT FOUND: Healy Mrs Mary, res Shanty Town near 209 Franklin
+307 JOB NOT FOUND: Henkel August, res Shanty town
+315 JOB NOT FOUND: HOCKING SHIELDS, bus est 1884, leading merchant tailors, 133 Quincy
+356 JOB LOCATION NOT FOUND: Jones Wm T, iron melter
+115 NAME: Kroll F Wr Co, stationery and notions, news agents, etc, 214 Quincy
+120 NAME: LAKE SUPERIOR IRON WORKS, Chas J Hodge prop, manufacture all kinds of machinery, mining machinery a specialty, works at E Hancock, P O Houghton
+121 NAME: LAKE SUPERIOR TRANSIT CO, J C Thompson agt, office Ruppes dock, Hancock
+409 JOB NOT FOUND: LAKE VIEW HOUSE, Thomas Smart prop, 200 204 Tezenco st
+123 NAME: LAKE MICHIGAN LAKE SUPERIOR TRANSPORTATION Co, H C Haddock agt, office foot of Tezcuco
+417 JOB NOT FOUND: Langdon Leon, bds Frank Turcot
+133 NAME: Ley James C Co, general merchandise, 107 Quincy
+447 JOB NOT FOUND: Ley Sami, pitman
+455 JOB NOT FOUND: Logan Wm, cook, bds Mrs D Donahoue
+465 JOB LOCATION NOT FOUND: Lour John, molder
+139 NAME: MACLEANCHARLES, D D S, dentist, 213 Hancock, res same
+470 JOB NOT FOUND: Maclean A, physician, bds Win Hosking
+481 JOB NOT FOUND: Masonic Hall, 306 to 312 Hancock
+488 JOB NOT FOUND: McCarthy Thos, res Shantytown rear 207 Franklin
+152 NAME: MINERAL RANGE R R Co, R H Brelsford Genl Frt and Passenger Agt, Chas A Wright Genl Manager, office and depot foot of Tezcuco
+553 JOB NOT FOUND: NEW NORTHWESTERN HOTEL, strictly first class, John R Gorden propr, 211 215 Quincy
+160 NAME: NORTH S D SON, Bus est 1866, General Merchandise ware rooms, Quincy Mine
+163 NAME: 01son 01e roadmaster Mineral Range R R, and H C R R, res 423 Hancock
+576 JOB NOT FOUND: Ongre Chas, master car builder M R and H C R Rs, res R R Yard, foot of Montezuma
+583 JOB NOT FOUND: Pacific House, Jno Verhoven propr, 217 Hancock
+591 JOB NOT FOUND: Payne SB, meatmarket 418 Quincy, res same
+593 JOB NOT FOUND: Pearce James H, mangr Pearces livery, bds Hancock House
+595 JOB NOT FOUND: Pearce William, mngr Pearces bus and freight line, res Hancock House
+175 NAME: PIERCE B H Co, architects and contractors, over 210 Quincy
+617 JOB NOT FOUND: Post office, J B Looney P M Ill Quincy
+624 JOB NOT FOUND: Pruner Nathan, 206 Dakota
+630 JOB NOT FOUND: QUEBEC HOUSE, T H Raymond prop, 200 Ravine
+669 JOB NOT FOUND: ROGERS H B, Meat market at Franklin mine, res same
+672 JOB NOT FOUND: Rohlman Jacob Jr, driver S Emery Bon
+193 NAME: Ruppe P Son, genl merchandise, 128 Quincy
+704 JOB NOT FOUND: St Anns School, 224 Franklin
+705 JOB NOT FOUND: St Josephs Convent, 224 Franklin
+707 JOB NOT FOUND: St Patricks Hall, entrance 244 Quincy
+738 JOB NOT FOUND: Sincock Richard, casting cleaner
+208 NAME: STANDARD OIL CO, M R Goldsworthy agent, office N end of Portage bridge, Hancock
+759 JOB NOT FOUND: Stewart Robert, school teacher
+761 JOB NOT FOUND: Stohre Fred, shoe mkr Geo Ehler, bds Alec Stohre
+215 NAME: STURGEON RIYER LUMBER Co, mnfrs and deals in timber, lumber, laths, shingles, pickets c Mills Pike Bay, Principal yard and office, Hancock
+770 JOB LOCATION NOT FOUND: Sulfin Carl, molder
+775 JOB NOT FOUND: Sullivan Florence, res Shantytown rear 213 Franklin
+779 JOB NOT FOUND: Sullivan P C, res n s Quincy, w end
+825 JOB NOT FOUND: WARREN R W, president Hancock Chemical Co, res Woodside, Houghton Co
+844 JOB NOT FOUND: WERTIN JOS SONS, general merchants, 215 to 219 Tezcuco cor Quincy
+241 NAME: Western Union Telegraph Office, manager A I Beaubien, 111 Quincy
+858 JOB NOT FOUND: Whitmire Michael, res Shantytown
+890 JOB NOT FOUND: WRIGHT STRINGER, est 1868, General Insurance agents, over 210 Quincy

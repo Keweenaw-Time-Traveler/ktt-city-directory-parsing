@@ -1,0 +1,269 @@
+1 ADD, JOB LOCATION NOT FOUND: Aho Daniel, lab
+2 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aho John, lab, bds Daniel Aho
+3 ADD, JOB NOT FOUND, PERSON NOT FOUND: Aho Josephine, bds Daniel Aho
+5 ADD, JOB LOCATION NOT FOUND: Allord John (Mary), lab
+6 ADD, JOB LOCATION NOT FOUND: Anderson Andrew S (Pauline), scaler
+7 ADD, JOB LOCATION NOT FOUND: Anderson Charles C (Rebecca), lab
+8 ADD, JOB NOT FOUND: Antilla Hilda (wid Charles)
+9 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Archambeau Adelore, tmstr, bds Albert Archambeau
+10 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Archambeau Adrain, smelter, bds Albert Archambeau
+11 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Archambeau Albena, student, bds Edward Archambeau
+12 ADD, JOB NOT FOUND: Archambeau Albert (Delia)
+13 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Archambeau Albert, lab, bds Trebble Archambeau
+14 ADD, JOB LOCATION NOT FOUND: Archambeau Albert (Eva), lab
+15 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Archambeau Cyril, lab, bds Joseph Archambeau
+16 ADD, JOB LOCATION NOT FOUND: Archambeau Edward (Rose), lab
+17 ADD, JOB NOT FOUND: Archambeau Joseph (Jean)
+18 ADD, JOB NOT FOUND, PERSON NOT FOUND: Archambeau Josephine, bds Edward Archambeau
+19 ADD, JOB NOT FOUND, PERSON NOT FOUND: Archambeau Mary, bds Albert Archambeau
+20 ADD, JOB LOCATION NOT FOUND: Archambeau Trebble (Artimise), farmer
+21 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Archambeau Trebble jr, lab, bds Trebble Archambeau
+22 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Arsneault Alexander, lab, bds Edward Arsneault
+23 ADD, JOB LOCATION NOT FOUND: Arsneault Edward (Delia), lab
+24 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubin Frank, lab, bds Henry Belhumer
+25 ADD, JOB LOCATION NOT FOUND: Audet Odilon (Octavie), farmer
+28 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Autio Gustaf, lab, bds John Autio
+29 ADD, JOB LOCATION NOT FOUND: Autio John (Tini), lab
+30 ADD, JOB LOCATION NOT FOUND: Autio Mattheus (Evelyn), lab
+31 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Barger Alexander, driver, bds John Barger
+32 ADD, JOB NOT FOUND, PERSON NOT FOUND: Barger Jacob, bds John Barger
+33 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Barger James, lab, bds John Barger
+34 ADD, JOB LOCATION NOT FOUND: Barger John (Annie), lab
+35 ADD, JOB LOCATION NOT FOUND: Beaucasius Peter, tmstr
+36 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beaulieu Esther, bds Walter Beaulieu
+37 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beaulieu Marie, bds Walter Beaulieu
+38 ADD, JOB LOCATION NOT FOUND: Beaulieu Walter H (Carrie), barber
+39 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Belhumer Cyril, lab, bds Henry Belhumer
+40 ADD, JOB LOCATION NOT FOUND: Belhumer Felix (Polma), tmstr
+41 ADD, JOB LOCATION NOT FOUND: Belhumer Henry (Virginia), lab
+42 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Belhumer Lawrence, lab, bds Henry Belhumer
+43 ADD, JOB NOT FOUND, PERSON NOT FOUND: Belhumer Rebecca, bds Henry Belhumer
+44 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Belhumer Roland, lab, bds Felix Belhumer
+45 ADD, JOB LOCATION NOT FOUND: Belinger Howard (Myrtle), lab
+46 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Berglund Eric, lab, bds Chassell House
+47 ADD, JOB LOCATION NOT FOUND: Bezotte Archibald (Clina), lab
+48 ADD, JOB LOCATION NOT FOUND: Bezotte Ernest (Ethel), lab
+49 ADD, JOB NOT FOUND: Bezotte Frederick, removed to Hubbell
+50 ADD, JOB NOT FOUND: Bezotte Wm, removed to Hubbell
+51 ADD, JOB LOCATION NOT FOUND: Bienela Matt (Mary), lab
+52 ADD, JOB NOT FOUND: Bishop Albert (Bertha), pool
+53 ADD, JOB LOCATION NOT FOUND: Brunelle Adolphus, lab
+54 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Brunelle Beatrice, student, bds Joseph Brunelle
+55 ADD, JOB NOT FOUND, PERSON NOT FOUND: Brunelle Jennie, bds Adolphus Brunelle
+56 ADD, JOB NOT FOUND: Brunelle Joseph (Sarah)
+57 ADD, JOB LOCATION NOT FOUND: Bunt Wm P (Edith), filer
+58 ADD, JOB NOT FOUND: Buskela Mary Mrs
+59 ADD, JOB NOT FOUND: Cadeau Georgiana (wid Charles)
+60 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cadeau Ruby, smelter, bds Mrs Georgiana Cadeau
+61 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cahoon Esther, tchr Chassell Public School, bds Mrs M P Ingram
+62 ADD, JOB LOCATION NOT FOUND: Campbell Jeremiah, lab
+63 ADD, JOB LOCATION NOT FOUND: Carigan Frederick (Hattie), lab
+64 ADD, JOB LOCATION NOT FOUND: Charles Edward (Blanche), tmstr
+65 ADD, JOB NOT FOUND: Chassell Cemetery, ws Calumet
+66 ADD, JOB NOT FOUND: CHASSELL DRUG STORE, P H Willson Propr, Drugs Toilet Articles, Stationery, Kodaks and Supplies, Rexall Remedies, Tel 338W
+67 NAME: Chassell Mercantile Co (Wm H and John H Funk), genl store
+69 NAME: Chassell State Bank The, C H Worcester pres, E A Hamar, vicepres, M A Nadeau cashr
+75 ADD, JOB LOCATION NOT FOUND: Collins Nelson (Marie), janitor
+76 ADD, JOB NOT FOUND: Congregational Church
+77 ADD, JOB LOCATION NOT FOUND: Craig J Wm (Priscilla), carp
+78 ADD, JOB NOT FOUND, PERSON NOT FOUND: Craig Priscilla, bds J W Craig
+79 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Craig Robert, lab, bds J W Craig
+80 ADD, JOB NOT FOUND, PERSON NOT FOUND: Crooks Mildred, bds S B Simpson
+82 ADD, JOB LOCATION NOT FOUND: Decaraire Joseph (Lucy), driver
+85 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Destramp Albert, student, bds Duidionne Destramp
+86 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Destramp Amedie, lab, bds Duidionne Destramp
+87 ADD, JOB LOCATION NOT FOUND: Destramp Charles J (Josephine), tmstr
+88 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Destramp Delina, bds Duidionne Destramp
+89 ADD, JOB LOCATION NOT FOUND: Destramp Duidionne (Georgiana), farmer
+90 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Destramp Elsie, bds Duidionne Destramp
+91 ADD, JOB LOCATION NOT FOUND: Destramp Walter (Laxena), lab
+92 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Docksteader Frank, baggageman D S S A Ry, bds Chassell House
+93 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dollinger Joseph, lab, bds Chassell House
+94 ADD, JOB NOT FOUND, PERSON NOT FOUND: Drapeau Adeline (wid Frank), bds Mrs Mary LePage
+95 NAME: Duluth, South Shore and Atlantic Ry, Carl W Danielson agt
+96 ADD, JOB LOCATION NOT FOUND: Duncan Frederick (Malissa), fireman
+97 ADD, JOB NOT FOUND: EBER P REID, Grocer and Confectioner, Tel 1150J
+98 ADD, JOB LOCATION NOT FOUND: Eckman John (Carolina), lab
+100 ADD, JOB LOCATION NOT FOUND: Fish Adolph (Georgiana), carp
+101 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fish Eldridge, lab, bds Adolph Fish
+102 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fish Eva, student, bds Adolph Fish
+103 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fish Josephine, student, bds Albert Bishop
+104 ADD, JOB NOT FOUND, PERSON NOT FOUND: Fish Lida, bds Adolph Fish
+105 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fish Wm, electn, bds Adolph Fish
+106 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fisher Levi, student, bds W D Fisher
+107 ADD, JOB LOCATION NOT FOUND: Fisher Paul (Emma F), watchman
+108 ADD, JOB LOCATION NOT FOUND: Fisher Wm D (Malvina), saloon
+110 ADD, JOB LOCATION NOT FOUND: Fountain Archibald (Agnes), lab
+112 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fountain George, lab, bds Chassell House
+113 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Funk Harry J, elk, bds W H Funk
+114 ADD, JOB NOT FOUND: Funk John H (Chassell Mercantile Co)
+115 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Funk Thomas, elk Chassell Mercantile Co, bds W H Funk
+116 ADD, JOB NOT FOUND: Funk Wm H (Ida Chassell Mercantile Co)
+117 ADD, JOB NOT FOUND, PERSON NOT FOUND: Gagnon John A, flour and feed, bds Mrs M Prudhom
+118 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gagnon Joseph, lab, bds Mrs M Prudhom
+119 ADD, JOB NOT FOUND, PERSON NOT FOUND: Gagnon Mary (wid John B), bds Mrs M Prudhom
+120 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gagnon Walter J (Jermie L), tmstr T A Gagnon, bds Mrs M Prudhom
+122 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Giddins Abraham, lab, bds Perry Giddins
+123 ADD, JOB NOT FOUND, PERSON NOT FOUND: Giddins Flora, bds Perry Giddins
+124 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Giddins Lawrence, student, bds Perry Giddins
+125 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Giddins Lutre, lab, bds Perry Giddins
+126 ADD, JOB LOCATION NOT FOUND: Giddins Perry (Matilda), lab
+127 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Girard Anthony, lab, bds G A Girard
+128 ADD, JOB NOT FOUND: Girard George A (Johannah), mech
+129 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Girard George E, lab, bds G A Girard
+130 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Girard Gertrude C, tchr, bds G A Girard
+131 ADD, JOB NOT FOUND, PERSON NOT FOUND: Girard Wm H, bds G A Girard
+133 ADD, JOB LOCATION NOT FOUND: Golden Alexander, lab
+134 ADD, JOB NOT FOUND, PERSON NOT FOUND: Golden Rose, bds Alexander Golden
+135 ADD, JOB NOT FOUND: Goodreau Wm J (Emma M), setter
+136 ADD, JOB LOCATION NOT FOUND: Goudreau Edward (Clara), lab
+137 ADD, JOB LOCATION NOT FOUND: Gougeon Edward (Eliza), lab
+138 ADD, JOB LOCATION NOT FOUND: Gougeon Eugene (Lillian), lab
+142 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grigg 01ive, tchr Chassell Public School, bds Mrs M P Ingram
+143 ADD, JOB LOCATION NOT FOUND: Hakala Eddie (Saima), lab
+144 ADD, JOB LOCATION NOT FOUND: Hakola Emil (Alma), lab
+145 ADD, JOB LOCATION NOT FOUND: Hale George B (Mary), lab
+146 ADD, JOB NOT FOUND: Hall Charles F (Addie E), caretaker
+148 ADD, JOB NOT FOUND: Hancock Claude F (Cassie E), stave mfr
+149 ADD, JOB NOT FOUND, PERSON NOT FOUND: Hancock Seba W, bds C F Hancock
+150 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hardinger Hugh D, lab, bds Wm M Hardinger
+151 ADD, JOB LOCATION NOT FOUND: Hardinger Wm M (Eva V), lab
+152 ADD, JOB LOCATION NOT FOUND: Henderson Eino (Hilma), lab
+153 ADD, JOB LOCATION NOT FOUND: Hendrickson Eric (Maggie), fireman
+154 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hendrickson Wm, elk, bds Eric Hendrickson
+155 ADD, JOB LOCATION NOT FOUND: Hill Edward (Hannah), lab
+156 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hodges Ralph, lab, bds Chassell House
+158 ADD, JOB NOT FOUND: Holappa Annie (wid Sakari)
+159 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Holappa Edward, lab, bds Mrs Annie Holappa
+160 ADD, JOB NOT FOUND: Holappa Michael (Sanna)
+161 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Holappa Sannah, elk, bds Mrs Annie Holappa
+162 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Holappa Soko, lab, bds Mrs Annie Holappa
+163 ADD, JOB LOCATION NOT FOUND: Holappa Wm F (Mary), propr
+164 ADD, JOB NOT FOUND, PERSON NOT FOUND: Hood Caroline (wid Louis), bds Archibald Bezotte
+167 ADD, JOB LOCATION NOT FOUND: Ilola John (Mary), lab
+168 ADD, JOB NOT FOUND: Ingram Millie P (wid Wm)
+169 ADD, JOB LOCATION NOT FOUND: Jalkonen Mathew (Mae), lab
+170 ADD, JOB LOCATION NOT FOUND: Johnson Mathew (Mary), lab
+171 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jones Emily E Mrs, sten Worcester Lumber Co Ltd, bds Mrs Theresa Lund
+172 NAME: Knights of Pythias Hall
+173 ADD, JOB LOCATION NOT FOUND: Kropp Ewald (Tilda), section foreman
+174 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kumula Edward, lab, bds John Autio
+175 ADD, JOB LOCATION NOT FOUND: LaFond Ephriam G (Marie), slsmn
+176 NAME: Lakeside Floral Co, Alfred W York mgr
+177 ADD, JOB NOT FOUND, PERSON NOT FOUND: Langevin Alice O, bds Mrs Lucy LePage
+178 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Langevin Edward N, lab, bds Mrs Lucy LePage
+180 ADD, JOB LOCATION NOT FOUND: Lapierre Napoleon, livery
+182 ADD, JOB LOCATION NOT FOUND: Laurien Joseph, lab
+183 ADD, JOB LOCATION NOT FOUND: Lavane Thomas (Lottie), eng
+184 ADD, JOB LOCATION NOT FOUND: Leitzke Frederick, lab
+185 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: LePage Edward, lab, bds Mrs Lucy LePage
+186 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: LePage Frank D, carp, bds Mrs Lucy LePage
+187 ADD, JOB NOT FOUND: LePage Lucy (wid Eustace)
+188 ADD, JOB NOT FOUND: LePage Mary (wid Joseph)
+189 ADD, JOB NOT FOUND: Lund Theresa (wid Charles)
+190 ADD, JOB NOT FOUND, PERSON NOT FOUND: McKenney Elizabeth Mrs, bds Wm P Bunt
+191 ADD, JOB LOCATION NOT FOUND: McLaughlin Alfred A (Louise), oiler
+192 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McLean Mattie, tchr Chassell Public School, bds Mrs M P Ingram
+194 ADD, JOB NOT FOUND, PERSON NOT FOUND: Madden Ruth, bds Thomas D Madden
+195 ADD, JOB LOCATION NOT FOUND: Madden Thomas D, foreman
+196 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Madden Violet, student, bds Thomas D Madden
+198 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Makki Walter, laborer, bds Michael Holappa
+201 ADD, JOB LOCATION NOT FOUND: Markinen John (Fina), laborer
+202 ADD, JOB LOCATION NOT FOUND: Masalin Solomon (Amanda), carpenter
+204 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mattson Adolf, lab, bds Mrs Lizzie Mattson
+206 ADD, JOB NOT FOUND: Mattson Lizzy (wid Wm)
+207 ADD, JOB NOT FOUND, PERSON NOT FOUND: Merrill Carl, bds Wm Merrill
+208 ADD, JOB LOCATION NOT FOUND: Merrill Wm (Lulu), foreman
+209 ADD, JOB LOCATION NOT FOUND: Michard Charles J (Winifred M), laborer
+210 ADD, JOB LOCATION NOT FOUND: Mikkonen Henry (Kate), laborer
+211 ADD, JOB LOCATION NOT FOUND: Miller Wm (Della), carpenter
+213 ADD, JOB NOT FOUND: Misslitz Franklin A, meat cutter
+215 ADD, JOB LOCATION NOT FOUND: Misslitz Wm O (Lena), meats
+216 ADD, JOB LOCATION NOT FOUND: Morin Amos, shoemaker
+217 ADD, JOB NOT FOUND, PERSON NOT FOUND: Morin Florence, bds Joseph Morin
+218 ADD, JOB NOT FOUND: Morin John, removed to Marinette, Wis
+219 ADD, JOB LOCATION NOT FOUND: Morin Joseph (Julia), foreman
+220 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Morin Thomas, lab, bds Amos Morin
+222 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Naslund Zelma, tchr Chassell Public School, bds Wm Holappa
+224 ADD, JOB NOT FOUND, PERSON NOT FOUND: Niemi Elsie, bds Mrs Ida Niemi
+225 ADD, JOB NOT FOUND: Niemi Ida (wid Ansel)
+227 ADD, JOB LOCATION NOT FOUND: Ohman John (Beada), laborer
+228 ADD, JOB LOCATION NOT FOUND: 01son August, laborer
+229 ADD, JOB NOT FOUND, PERSON NOT FOUND: 01son Nels, bds August 01son
+230 ADD, JOB LOCATION NOT FOUND: 01son Oscar (Matilda), laborer
+231 ADD, JOB LOCATION NOT FOUND: Opie Frank (Mary), laborer
+232 ADD, JOB LOCATION NOT FOUND: Overmeyer Charles H (Jennie C), foreman
+233 ADD, JOB LOCATION NOT FOUND: Partanen Charles (Johannah), laborer
+234 ADD, JOB NOT FOUND: Partridge Frank L (Ruth C)
+235 ADD, JOB LOCATION NOT FOUND: Paterson Herbert J (Mabel), contractor
+236 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Peltonen Walter, lab, bds Eddie Hakala
+237 ADD, JOB LOCATION NOT FOUND: Perrault Adolph, laborer
+238 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Perrault Oscar, elk Chassell Mercantile Co, bds Adolph Perrault
+239 ADD, JOB NOT FOUND: Perrault Wm, removed to Detroit
+240 ADD, JOB NOT FOUND, PERSON NOT FOUND: Peterson Anna, bds Gustaf Peterson
+241 ADD, JOB LOCATION NOT FOUND: Peterson Gustaf, laborer
+242 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Peterson John, student, bds Gustaf Peterson
+243 ADD, JOB NOT FOUND: Plante Arthur J (Marie), stableman
+244 ADD, JOB NOT FOUND: Poisson Albert (Sarah)
+246 ADD, JOB LOCATION NOT FOUND: Predhome Desire (Elizabeth), laborer
+247 ADD, JOB NOT FOUND, PERSON NOT FOUND: Predhome *Earle, student, bds Desire Predhome
+248 ADD, JOB LOCATION NOT FOUND: Price Colone (Malvina), laborer
+249 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Prudhom Blanche R, student, bds Mrs M Prudhom
+251 ADD, JOB LOCATION NOT FOUND: Purirer Eiigene (Emma), laborer
+252 ADD, JOB LOCATION NOT FOUND: Pyer Elmer F (Amanda), fireman
+253 ADD, JOB LOCATION NOT FOUND: Reedy Patrick, teamster
+254 ADD, JOB LOCATION NOT FOUND: Remington Arthur, driver
+255 ADD, JOB LOCATION NOT FOUND: Remington Henry F (Albena), cook
+256 ADD, JOB NOT FOUND: Ricard Exilda (wid Nelson)
+257 ADD, JOB LOCATION NOT FOUND: Roberts Edward (Exilda), carpenter
+258 ADD, JOB NOT FOUND, PERSON NOT FOUND: Roberts Elvin, bds Edward Roberts
+259 ADD, JOB LOCATION NOT FOUND: Roberts Joseph (Lillian), laborer
+260 ADD, JOB NOT FOUND, PERSON NOT FOUND: Roberts Lida, bds Edward Roberts
+261 ADD, JOB NOT FOUND, PERSON NOT FOUND: Robinson Ethel, bds O W Robinson
+262 ADD, JOB NOT FOUND: Robinson Owen W
+263 ADD, JOB LOCATION NOT FOUND: Rodgers James A (Caroline), engineer
+264 ADD, JOB NOT FOUND, PERSON NOT FOUND: Rodgers Pearl B, bds J A Rodgers
+267 ADD, JOB LOCATION NOT FOUND: Ruelle Eli (Katherine), farmer
+268 ADD, JOB NOT FOUND, PERSON NOT FOUND: Ruelle Eli A, bds Eli Ruelle
+269 ADD, JOB NOT FOUND, PERSON NOT FOUND: Ruelle Harold*, student, bds Eli Ruelle
+270 ADD, JOB NOT FOUND, PERSON NOT FOUND: Ruelle Sophia, bds Eli Ruelle
+271 ADD, JOB NOT FOUND, PERSON NOT FOUND: Ruelle Walter, mail carrier, bds Eli Ruelle
+272 ADD, JOB LOCATION NOT FOUND: Ruotsi Otto, shoemaker
+273 ADD, JOB LOCATION NOT FOUND: Rushford George (Mary), laborer
+275 NAME, PERSON NOT FOUND: St Clair Sarah P (wid Wm J), bds F L Partridge
+276 ADD, JOB LOCATION NOT FOUND: Salo Emil (Ida), laborer
+277 ADD, JOB NOT FOUND: Samuels August C (Louise A), setter
+278 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Santimoe Delore, laborer, bds Mrs Exilda Ricard
+279 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Savalos Frederick, lab, bds Michael Savalos
+280 ADD, JOB NOT FOUND, PERSON NOT FOUND: Savalos Mary, bds Michael Savalos
+281 ADD, JOB LOCATION NOT FOUND: Savalos Michael (Sophia), laborer
+282 ADD, JOB NOT FOUND, PERSON NOT FOUND: Savalos Selma, bds Michael Savalos
+283 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schannenk Anna, elk, bds P H Schannenk
+284 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schannenk Margaret, student, bds P H Schannenk
+285 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schannenk Maud, tchr, bds P H Schannenk
+286 ADD, JOB LOCATION NOT FOUND: SCHANNENK PATRICK H, Postmaster
+288 ADD, JOB NOT FOUND: Shrewsbury Frank, butter and eggs
+290 ADD, JOB LOCATION NOT FOUND: Simpson Samuel B (Polly), gardener
+291 ADD, JOB NOT FOUND, PERSON NOT FOUND: Smith Charles, bds P H Schannenk
+292 ADD, JOB LOCATION NOT FOUND: Smith Oscar, foreman
+293 ADD, JOB LOCATION NOT FOUND: Soumis Eugene (Ida), farmer
+294 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Spahn Albert, asst bkpr Worcester Lumber Co Ltd, bds Mrs M P Ingram
+295 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Springer Walfred C, lab, bds Wm Springer
+296 ADD, JOB LOCATION NOT FOUND: Springer Wm (Matilda), farmer
+297 ADD, JOB LOCATION NOT FOUND: Stroud Robert F (Margaret K), blksmith
+298 ADD, JOB NOT FOUND: Sumner Wm H (Lorraine A)
+299 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Swanson Elsie, tchr Chassell Public School, bds Wm Holappa
+300 ADD, JOB LOCATION NOT FOUND: Sweeney Wm (Belle), lab
+301 ADD, JOB NOT FOUND, PERSON NOT FOUND: Taford Amanda, bds Mrs Victelen Taford
+302 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Taford Mary, student, bds Mrs Victelen Taford
+303 ADD, JOB NOT FOUND: Taford Victelen (wid Telesphore)
+304 ADD, JOB LOCATION NOT FOUND: Takala John (Kate), lab
+305 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Towar Mabel, tchr Chassell Public School, bds Mrs M P Ingram
+306 ADD, JOB NOT FOUND: Tredeau Alphonse (Lucy)
+307 ADD, JOB NOT FOUND, PERSON NOT FOUND: Tredeau Delia, bds Alphonse Tredeau
+312 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ward Angus I, lumber inspr Worcester Lumber Co Ltd, bds Mrs M A Ward
+313 ADD, JOB NOT FOUND: Ward Mary A (wid Rufus J)
+314 ADD, JOB NOT FOUND: Ward Rufus J (aged 66), died May 5, 1909
+317 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Warner Earle D, reprmn Warners Garage, bds E E Warner
+319 ADD, JOB NOT FOUND, PERSON NOT FOUND: Warner Edwin E, bds W W Warner
+320 ADD, JOB NOT FOUND: WARNERS GARAGE, Edwin E Warner Propr, Agent for Hudson Automobiles, Full Line of Supplies and Accessories, Tel 338J (See adv)

@@ -1,0 +1,236 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outWid, outSpouse, outJob, outWorkPlace, outT, outStSide, outStNum, outStNum(changed), outSt, outRd, outCity, outLoc, outMoved, outH/Rdo
+7,Baima,John,null,null,null,null,flremn ,Copper Range Co,r,null,null,null,null,null,Baltic,null,null,null
+13,Bogren,Geo,null,null,null,null,null,null,r,null,802,null,Division,null,null,null,null,null
+14, Bogren, John, null, null, null, Anna, confr , 802 Division,r, null, 802, null, Division, null, null, null, null, null
+15,Bogren,Wm,null,null,null,null,student,null,r,null,802,null,Division,null,null,null,null,null
+47,Fausone,Peter,null,null,null,null,lab ,Copper Range Co,r,null,null,null,null,null,Baltic,null,null,null
+65,Hanson,Anton,null,null,null,null,shoe repr ,906 Division,h,null,210,null,7th av,null,null,null,null,null
+89, Hyvonan, Adolph, H , null, null, Aili, barber , null,h, null, 210, null, 7th av, null, null, null, null, null
+134,Major,Richd,null,null,null,null,elk ,Copper Range Co,r,null,104,null,6th av,null,null,null,null,null
+140, Manukian, Manuel, K , null, null, null, billiards , null,r, null, 104, null, 6th av, null, null, null, null, null
+151,Olkkonan,Eino,null,null,null,null,eng ,Copper Range Co,r,null,null,null,null,null,South Range,null,null,null
+201,Schacht,W,H ,null,null,null,v pres genl mgr ,Copper Range Co,r,null,null,null,null,null,Painesdale,null,null,null
+204,Sheehan,Wm,null,null,null,null,eng ,Copper Range Co,r,null,null,null,null,null,Baltic,null,null,null
+210,Stimac,Edw,null,null,null,null,barber ,Adolph H Hyvonan,r,null,null,null,null,null,Painesdale,null,null,null
+227,Turner,H,F ,null,null,null,phys ,Copper Range Hosp,r,null,null,null,null,null,Baltic,null,null,null
+234,Wagner,John,M ,null,null,null,asst treas ,Copper Range Co,r,null,null,null,null,null,Hancock Mich,null,null,null
+1,Aho,Andrew,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+2,Aho,Chas,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+3,Aho,Edw,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+4,Allen,W,J ,null,null,null,eng ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+5,Arvo,Clyde,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+6,Arvo,John,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+8,Baird,J,S ,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+9,Barsolomei,Candido,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+10,Benny,Thos,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+11,Benny,Wm,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+12,Benny,Wm,null,jr,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+16,Brannanen,John,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+17,Briacomb,W,J ,null,null,null,tmstr ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+18,Briski,Anton,null,null,null,null,timbermn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+19,Brotz,Chas,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+20,Bukovich,John,S ,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+21,Butala,Peter,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+22,Byykkonen,Abel,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+23,Canova,Frank,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+24,Carlson,C,M ,null,null,null,hlpr ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+25,Carlson,Richd,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+26,Cartepassi,Jos,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+27,Ceplas,Anton,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+28,Chapman,Jesse,null,null,null,null,hlpr ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+29,Cockbain,Ernest,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+30,Coffin,L,E ,null,null,null,chf surg ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+31,Commons,Richd,null,null,null,null,formn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+34,Cortepassi,Salvatore,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+35,Coruswzski,Jos,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+37,Cutinen,Emil,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+38,Datto,John,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+39,Derva,Jack,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+40,DeSanti,Albino,null,null,null,null,wtchmn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+41,Dyer,John,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+42,Dyer,Reuben,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+43,Eathorne,Venetta,null,null,null,null,slswn ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+44,Erickson,Peter,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+45,Erickson,Walfred,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+46,Eskola,Otto,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+48,Filpus,Eino,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+49,Fisher,Vera,null,null,null,null,nurse ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+50,Fissetti,Gordon,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+51,Garnero,Gildo,null,null,null,null,eng ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+52,Gauthier,Francis,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+53,Gauthier,Frank,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+54,Givens,Howard,null,null,null,null,tmstr ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+55,Givens,Wm,null,null,null,null,elk ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+56,Good,Bernice,null,null,null,null,supt ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+57,Goodman,Ralph,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+58,Gokey,Leo,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+59,Haataja,Adolph,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+60,Haataja,Alf,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+61,Hakala,M,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+62,Hannula,Andrew,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+63,Hannula,Ascel,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+64,Hansen,Edwin,null,null,null,null,eng ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+66,Hanson,Lawrence,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+67,Harju,Matt,null,null,null,null,carp ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+68,Karrie,John,null,null,null,null,tmstr ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+69,Harris,Edgar,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+70,Harris,Percy,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+71,Haywell,Wm,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+72,Heikkinen,Edw,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+73,Heikkinen,John,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+74,Hendrickson,Otto,W ,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+75,Hendrickson,Toivo,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+76,Hendrickson,Uno,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+77,Hendrickson,Wayne,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+78,Hendrickson,Wm,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+79,Hirvela,Clara,null,null,null,null,maid ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+80,Hirvela,Olga,null,null,null,null,maid ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+81,Hoar,Albert,null,null,null,null,formn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+82,Hoar,Clarence,null,null,null,null,eng hlpr ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+83,Hoitola,Waino,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+84,Holman,W,N ,null,null,null,acct ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+85,Holoppa,Wm,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+86,Hoopala,Teckla,null,null,null,null,nurse ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+87,Hustari,John,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+88,Hutti,Andrew,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+90,Isaacson,Matt,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+91,Jackovich,Steve,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+92,Jarvi,Frank,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+93,Johnson,Chas,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+94,Johnson,Fabian,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+95,Johnson,H,E ,null,null,null,phys ,Copper Range Hosp r Redridge,null,null,null,null,null,null,null,null,null,null
+96,Johnson,Hjalmer,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+97,Jokela,John,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+98,Jurvellini,Gust,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+99,Kajfes,Geo,null,jr,null,null,pipemn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+100,Kananen,Erkki,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+101,Kangas,Adri,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+102,Kaukkala,Hans,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+103,Kellow,R,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+104,Kemppainen,Felix,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+105,Kemppainen,Hannes,null,null,null,null,timbermn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+106,Kemppainen,Harry,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+107,Kerranen,Oscar,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+108,Kilponen,Karl,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+109,King,Frank,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+110,King,Fred,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+111,King,Jas,F ,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+112,Kinnunen,Peter,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+113,Kolia,John,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+114,Kopola,John,null,null,null,null,carp ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+115,Kovela,Jacob,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+116,Kucan,Ignac,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+117,Kvokar,Geo,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+118,Kustti,Eino,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+119,Kylloneu,Chas,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+120,Lahnala,John,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+121,Laiti,Aate,null,null,null,null,pumpmn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+122,Laiti,Alphin,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+123,Laitila,Elias,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+124,Lake,Donald,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+125,Lasio,Baldo,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+126,Latvala,Wm,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+127,Lohnala,Herbert,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+128,Lorenz,Philip,null,null,null,null,firemn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+129,Luitila,Edw,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+130,Luukkonen,Aug,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+131,Mack,Martin,null,null,null,null,elk ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+132,Magnimo,Jos,null,null,null,null,firemn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+133,Mainard,Frank,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+135,Maki,Matt,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+136,Maki,Peter,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+137,Maki,Wm,null,null,null,null,timbermn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+138,Malstrom,Ernest,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+139,Maltz,Agnes,null,Mrs,null,null,nurse ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+141,Mattson,John,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+142,Michaels,Beatrice,null,null,null,null,nurse ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+143,Mickalich,Paul,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+144,Mihelcic,Jos,null,null,null,null,timbermn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+145,Morris,Hilda,null,null,null,null,maid ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+146,Mulari,Eric,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+147,Nutini,Orlando,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+148,Nutini,Pietro,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+149,OConnell,Josephine,null,null,null,null,slswn ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+150,Olkkanen,Bernhart,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+152,Olkkonen,Arth,null,null,null,null,eng ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+153,Olson,Anton,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+154,Olson,Arnold,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+155,Olson,Edw,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+156,Paavala,Waino,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+158,Palmeri,Frank,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+159,Pantto,John,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+160,Parker,J,C ,null,null,null,mgr ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+161,Pautovic,John,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+162,Pekkala,Gustaf,null,null,null,null,lab ,Coper Range Co,null,null,null,null,null,null,null,null,null,null
+163,Pekkola,Isaac,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+164,Pekkola,Waino,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+165,Pekula,Emil,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+166,Pekula,Wm,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+167,Perala,Walter,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+168,Phillips,Arth,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+169,Piiapahen,Wm,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+170,Pomeroy,Gordon,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+172,Powell,Wm,null,null,null,null,formn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+173,Pringle,Stanley,null,null,null,null,timbermn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+174,Proctor,Wm,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+175,Pyykko,Minnie,null,null,null,null,cook ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+176,Pyykkonen,Isak,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+177,Raappanen,Anse,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+178,Radosevich,Jos,null,null,null,null,tmstr ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+179,Raivio,Alex,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+180,Recore,Jos,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+181,Redensek,Ludvic,null,null,null,null,timbermn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+182,Reed,Agnes,null,null,null,null,elk ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+183,Reed,Henry,null,null,null,null,lander ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+184,Riddle,Jasiah,null,null,null,null,drymn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+185,Rinkinen,John,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+186,Rissanen,Adolph,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+187,Rissanen,Peter,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+188,Roberts,Sami,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+189,Rova,Harold,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+190,Ruikuno,Stanley,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+191,Ruitta,Waino,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+192,Russell,Raymond,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+193,Saari,Bernhart,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+194,Saari,Matt,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+195,Saari,Wilbert,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+196,Salo,Nestor,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+197,Saviko,Chas,null,null,null,null,lander ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+198,Saviko,Harold,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+199,Saviko,Henry,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+200,Saviko,Rudolph,null,null,null,null,eng ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+202,Seppanen,Ivan,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+203,Sertich,Nick,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+205,Simons,Frank,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+206,Sipola,Eino,null,null,null,null,eng ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+207,Sokilis,Walter,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+208,Stefanich,John,null,null,null,null,timbermn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+209,Stevens,Henry,null,null,null,null,janitor ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+211,Stimac,John,null,null,null,null,timbermn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+212,Styrk,Karl,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+213,Suo,Mae,null,null,null,null,maid ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+214,Taipalo,Walter,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+215,Talso,Sami,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+216,Tamblyn,Benj,null,null,null,null,meatetr ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+217,Tamblyn,Wm,J ,null,null,null,hlpr ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+218,Taro,Frank,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+219,Telin,Chas,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+220,Telin,Ralph,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+221,Tihinen,Isak,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+222,Tikkanen,Olli,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+223,Tornberg,Arnold,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+224,Toyri,Peter,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+225,Toyri,Sigurd,null,null,null,null,timbermn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+226,Trimountain,Methodist,Church ,null,null,null,pastor ,Sunday service 630 p m,null,null,null,null,null,null,null,null,null,null
+228,Tyson,Tersa,null,null,null,null,nurse ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+229,Usinaki,Eino,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+230,Usimaki,Eino,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+231,Usimaki,Emil,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+232,Usunoki,Elmer,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+233,Vincent,Philip,null,null,null,null,formn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+235,Weso,Waino,null,null,null,null,eng ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+236,Westerberg,Allen,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+237,Whitmore,R,C ,null,null,null,phys ,Copper Range Hosp,null,null,null,null,null,null,null,null,null,null
+238,Wills,Harry,null,null,null,null,lab ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+239,Yaasko,Albert,null,null,null,null,miner ,Copper Range Co,null,null,null,null,null,null,null,null,null,null
+240,Yaasko,Albert,null,jr,null,null,enginemn ,Copper Range Co,null,null,null,null,null,null,null,null,null,null

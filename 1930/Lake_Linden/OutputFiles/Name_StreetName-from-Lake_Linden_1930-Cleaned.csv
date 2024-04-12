@@ -1,0 +1,165 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outSt
+2,Aesche,Mary,Mrs ,null,Bridge
+3,Allan,Alex,null,null,Depot
+10,Annabelle,Barrette,null,null,Gregory
+12,Asselin,Albert,J ,null,Woodlawn av 
+15,Aubin,Lawrence,null,null,Tunnel
+28,Baril,Alphonse,null,null,Gregory
+41,Baril,Pulcherie,null,null,Gregory
+45,Barrette,Ulric,null,null,Gregory
+46,Bawden,John,null,null,County rd
+47,Beauchaine,Jos,null,null,Library
+65,Benedict,Harry,null,null,County rd
+67,Bennett,Wm,null,null,Tunnel
+77,Bissonnette,Lea,null,null,Gregory
+78,Bissonnette,Peter,null,null,Gregory
+91,Bourdeau,Antoinette,null,null,Depot
+95,Bourdeau,Francis,null,null,Depot
+96,Bourdeau,Isabelle,null,null,Depot
+101,Bourdeau,Rosanna,null,null,Depot
+107,Briggs,Edith,M ,null,County rd
+108,Briggs,Louise,null,null,County rd
+109,Briison,David,null,null,County rd
+110,Briison,Victoria,null,null,County rd
+115,Brown,John,B ,null,Mill
+120,Burgan,Leslie,null,null,Library
+125,Burmester,Elsie,null,null,Bridge
+126,Burmester,Fredk,null,null,Bridge
+127,Burmester,Otto,null,null,Bridge
+132,Buzzo,Juanita,null,null,Tunnel
+133,Buzzo,Richd,null,null,Tunnel
+134,Buzzo,Robt,null,null,Tunnel
+135,Cadwell,Raymond,null,null,Tunnel
+137,Cammerschen,Chris,null,null,Tunnel
+168,Clark,Fred,null,null,w 5523 Bridge
+179,Condon,John,null,null,Log rd
+202,Daniel,Edmund,null,null,Mill
+203,Daniels,Irene,null,null,Mill
+209,Decareau,Orphie,null,null,Mill
+222,Desellier,Alex,null,null,Depot
+223,Desellier,Arth,null,null,Depot
+224,Desellier,Henry,null,null,Depot
+225,Desellier,Mercedes,null,null,Depot
+226,Desellier,Victoria,null,null,Depot
+235,Dolan,John,null,null,County rd
+244,Dudley,John,null,null,Tunnel
+245,Dulong,Irving,null,null,Gregory
+268,Duteau,Jos,E ,null,Lake
+269,Duteau,Marietta,G ,null,Lake
+270,Duteau,Oliver,null,null,Lake
+271,Duteau,Robt,P ,null,Lake
+292,Faull,E,Lois ,null,Tunnel
+293,Faull,Mary,null,null,Tunnel
+304,Flerios,Elise,null,null,Tunnel
+305,Flerios,Frank,null,null,Tunnel
+306,Flerios,Gertrude,null,null,Tunnel
+307,Flerios,Unis,null,null,Tunnel
+308,Fluri,Rose,null,null,Bridge
+324,Francis,John,F ,jr,Bridge
+333,Frazer,John,null,null,w 6004 1st
+357,Gerard,Nicholas,null,jr,w 6004 1st
+369,Glesener,Fred,null,null,Lake
+370,Glesener,Theresa,null,null,Lake
+378,Goldsworthy,Clement,null,null,Tunnel
+379,Goldsworthy,Jas,null,null,Tunnel
+381,Goldsworthy,Wm,J ,null,w 5526 Bridge
+396,Guard,Thos,null,null,Bridge
+398,Gugoun,Eug,null,null,Depot
+399,Gugoun,Geo,null,null,Depot
+415,Haller,Alice,Mrs ,null,Osceola
+416,Haller,Herman,null,null,Osceola
+424,Haskell,Robt,null,null,County rd
+441,Henry,Frank,null,null,Mill
+444,Hodge,Elva,null,null,Gregory
+479,Johnston,Cath,Mrs ,null,Bridge
+497,Kettenbeil,Henry,null,null,Mill
+503,Kirshweng,Agnes,null,null,County rd
+504,Kirshweng,Sarah,null,null,County rd
+505,Kirshweng,Veronica,null,null,County rd
+509,Kohlmier,Helen,null,null,Bridge
+510,Kohlmier,Mathew,null,null,Bridge
+518,Kus,Clarence,null,null,County rd
+519,Kus,Susan,null,null,Bridge
+550,LaMotte,Edmund,R ,null,Gregory
+555,LaMotte,Rosaire,null,null,Tunnel
+571,Lashance,Dorothy,null,null,County rd
+574,Lavager,John,null,null,Hecla
+580,Laverdiere,Isabelle,null,null,Mill
+582,Laverdiere,John,B ,null,Mill
+583,Laverdiere,Mercedies,null,null,Mill
+584,Laverdiere,Michl,null,null,Mill
+585,Lawrence,Barrette,null,null,Gregory
+623,MacDonald,Hector,Mrs ,null,Torch
+626,MacDonald,Sarah,null,null,Torch
+629,MacEachran,Glenn,null,null,Bridge
+630,MacEachran,Gordon,null,null,Bridge
+631,MacEachron,Jean,null,null,Bridge
+632,MacEachron,John,null,null,Bridge
+643,MacLay,Merdic,null,null,Tunnel
+647,Manthei,Wyllys,A ,null,Calumet
+649,Marchand,Eug,null,null,Mill
+650,Marchand,Eug,null,jr,Mill
+651,Marchand,Raymond,null,null,Mill
+652,Marchand,Wallace,null,null,Mill
+663,McIntosh,Fred,Robt ,jr,County rd
+664,McIntosh,Mary,Helen ,null,County rd
+665,McIntosh,Robt,null,null,County rd
+669,McNickle,Geo,C ,null,1st
+684,Michaud,Geo,null,null,Depot
+685,Michaud,Peter,null,null,Depot
+695,Mills,Clarence,null,null,w 6004 1st
+696,Mills,Sami,null,null,Tunnel
+700,Mitchell,Arth,null,null,Gregory
+702,Mitchell,Raymond,null,null,Gregory
+716,Nester,John,null,null,Tunnel
+718,Nicholas,Richd,null,null,Tunnel
+750,Pahkola,Alma,null,null,County rd
+781,Pauline,Anna,null,null,C H loc
+782,Pauline,Henry,null,null,C H loc
+810,Pelland,Eli,null,null,C H loc
+818,Pelleren,Edw,null,null,Mill
+819,Pelleren,Louis,null,null,Mill
+820,Pelleren,Louis,null,null,Mill
+852,Plfugi,Francis,null,null,Bridge
+853,Plfugi,Julia,null,null,Bridge
+864,Pomroy,Richd,null,null,County rd
+879,Quirk,Ann,null,null,Tunnel
+880,Quirk,Cathryn,null,null,Tunnel
+881,Quirk,Jos,null,null,Tunnel
+882,Quirk,Michl,null,null,Tunnel
+888,Raduchel,Ethel,M ,null,1st
+889,Raduchel,Herman,null,null,1st
+903,Ressman,Clayton,null,null,Depot
+904,Ressman,Douglas,null,null,Depot
+905,Ressman,John,null,null,Depot
+906,Ressman,Stewart,null,null,Depot
+916,Robert,Barrette,null,null,Gregory
+924,Roth,Jos,null,null,County rd
+925,Roth,Madonna,null,null,County rd
+926,Roth,Regina,null,null,County rd
+933,StGermain,Guy,null,null,1st
+934,StJohn,Eug,null,null,Mill
+944,Saladin,Herman,null,null,Gregory
+945,Sanders,E,G ,null,Log
+948,Schank,Chester,null,null,Tunnel
+949,Schank,Mathiew,null,null,Tunnel
+966,Schwab,Jos,null,null,Hecla
+1002,Smith,Esther,null,null,County rd
+1003,Smith,Frank,null,null,County rd
+1004,Smith,Gretha,null,null,County rd
+1010,Smith,Norma,null,null,County rd
+1012,Smith,Walta,null,null,County rd
+1019,Stebler,Adolph,null,null,1st
+1036,Sweet,Wm,null,null,Tunnel
+1038,Taper,Amelia,E ,null,w of 6002 1st
+1039,Taper,Thos,A ,null,w of 6002 1st
+1048,Thibodeau,Alcide,null,null,Tunnel
+1056,Tourville,Henry,null,null,Bridge
+1092,Vivian,Frank,null,null,Mill
+1094,Vivian,Nina,null,null,Mill
+1102,Warren,Cleo,null,null,Depot
+1106,Werner,Chas,null,null,Tunnel
+1108,Werner,Wm,null,null,Library
+1110,Wickliffe,Thos,null,null,Calumet h do
+1114,William,Bott,null,null,Gregory
+1115,William,T,Hodge ,null,Gregory

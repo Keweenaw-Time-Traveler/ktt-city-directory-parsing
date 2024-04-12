@@ -1,0 +1,404 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outSt
+2,Abramson,John,null,null,Douglass
+3,Adams,Jas,null,null,Baltic
+4,Adams,Sami,null,null,Kearsarge
+6,Aho,Arne,null,null,Adams
+7,Aho,Joel,null,null,Globe
+8,Aho,Kust,null,null,Evergreen
+9,Aho,Leonard,null,null,Baltic
+10,Ahonen,Albert,null,null,Baltic
+11,Andrews,John,null,null,Adams
+12,Andrews,Wm,J ,null,Iroquois
+13,Antilla,Henry,null,null,Evergreen
+14,Arvo,John,null,null,Adams
+15,Austin,Fred,null,null,Highland
+16,Austin,Steph,null,null,Globe
+17,Baccetti,Martin,null,null,Baltic
+18,Bagniski,Aug,null,null,2d
+19,Bailey,Steph,H ,null,Concord
+20,Ballard,Emil,null,null,Adams
+21,Barkla,Sami,null,null,Hubbard av
+22,Bechius,John,null,jr,Kearsarge
+23,Becker,Albert,null,null,Baltic
+24,Bednoski,John,null,null,2d
+25,Berge,Karl,null,null,Baltic
+26,Bergman,Fritz,null,null,Baltic
+27,Bertolli,Giovanin,null,null,Ontonagan rd
+28,Bianchi,Basilio,null,null,Ontonagon rd
+30,Bologna,Jas,null,null,Forest
+31,Bonneau,Jos,null,null,Kearsarge
+32,Bottger,Paul,null,null,Cherokee av
+33,Branstrom,Abram,null,null,Concord
+34,Brayton,Ivan,T ,null,Cherokee av
+35,Brumbill,Robt,null,null,Adams
+36,Brumbill,Robt,W ,null,Douglass
+37,Buckovitch,Antone,null,null,Baltic
+38,Butina,Jos,null,null,2d
+39,Carlson,Harry,null,null,Concord
+40,Carne,Josiah,null,null,Kearsarge
+41,Carslake,Alf,null,null,Iroquois
+42,Chapman,Eldred,null,null,Forest
+43,Chapman,Steph,null,null,Cherokee av
+44,Chapman,Thos,null,null,Cherokee av
+45,Charles,Edw,null,null,Ontonagon rd
+46,Chinn,Grace,null,null,Globe
+47,Chinn,John,null,null,Globe
+48,Chopp,Jos,null,null,Baltic
+49,Chopp,Michl,null,null,Douglass
+50,Chopp,Vinko,null,null,2d
+51,Chopp,Wm,null,null,2d
+52,Clark,Clara,L ,Mrs,Cherokee av
+53,Clark,Jas,null,null,Cherokee av
+54,Coffin,L,E ,null,Algomah
+55,Cole,Fred,null,null,Highland
+56,Collins,Wm,null,null,Algomah
+57,Combellack,Henry,null,null,Kearsarge
+58,Combellack,Jas,null,null,Highland
+59,Coombe,John,null,null,Highland
+60,Coponen,Urho,null,null,Concord
+61,Cor,Jos,null,null,Lake av
+62,Cor,Stanley,null,null,Iroquois
+63,Cowling,Edw,null,null,Iroquois
+65,Crowley,Danl,null,null,Globe
+66,Davey,Wm,J ,null,Iroquois
+69,Dragicevich,Aug,null,null,Douglass
+70,Drew,Gladstone,null,null,Baltic
+72,Dunstan,Thos,J ,null,Highland
+74,Durham,Allen,W ,null,Cherokee av
+75,Eilola,Evart,null,null,Adams
+76,Eilola,Evert,null,null,Adams
+77,Erbetti,Bartolome,null,null,Ontonagon rd
+78,Erickson,Anna,Mrs ,null,Concord
+79,Erickson,Harold,null,null,Douglass
+80,Erickson,Victor,null,null,Adams
+81,Etilmaki,Gusti,null,null,Adams
+83,Fiera,Domenic,null,null,Forest
+84,Fisher,Willy,null,null,Concord
+85,Fleury,Reuben,null,null,Kearsarge
+86,Fossterling,Henry,null,null,Highland
+87,Francesco,Enrietti,null,null,Lake av
+88,Gasparac,Anthony,null,null,Baltic
+89,Gasparich,John,null,null,Baltic
+90,Gasparoc,Bloz,null,null,Baltic
+92,Gauthier,Lawrence,null,null,Lake av
+93,Geboroff,Martin,null,null,Concord
+94,Gedvelas,Julius,null,null,Adams
+95,Gerzetich,Peter,null,null,Baltic
+96,Geyer,Karl,null,null,Baltic
+97,Gosatti,Giovanni,null,null,Douglass
+98,Gotze,Bruno,null,null,Concord
+99,Gregurich,Anton,null,null,Kearsarge
+100,Gregurich,Frank,null,null,Evergreen
+101,Gregurich,Marion,null,null,Evergreen
+102,Gregurich,Rudolph,null,null,Forest
+103,Gregurich,Sylvester,null,null,Concord
+104,Grentz,Geo,null,null,2d
+105,Grentz,Michl,null,null,Lake av
+106,Grohman,Paul,null,null,Iroquois
+107,Grohmann,Gustaf,null,null,Baltic
+108,Grohmann,Gustave,null,jr,Adams
+109,Groitzsch,Oskar,null,null,Kearsarge
+110,Hagen,Michl,null,null,Highland
+111,Hakala,Chas,null,null,Evergreen
+113,Hall,Herbert,null,null,Hubbard av
+114,Harju,Matti,null,null,Evergreen
+115,Harju,Otto,null,null,Adams
+116,Hart,Henry,null,null,Highland
+117,Hatala,Sami,null,null,Evergreen
+118,Hatula,Geo,null,null,Forest
+119,Hautala,Henry,null,null,Forest
+120,Hendrickson,Arth,null,null,Baltic
+121,Hietala,Isaac,null,null,Concord
+122,Hill,John,null,null,Evergreen
+123,Hiltonen,Matt,null,null,Adams
+124,Hiltunen,Simon,null,null,Baltic
+125,Hirvonen,Henry,null,null,Baltic
+126,Hitchens,Ernest,null,null,Kearsarge
+127,Hoebbel,Eric,null,null,Evergreen
+128,Hoffenbecker,Wm,null,null,Adams
+129,Holappa,Matt,null,null,Baltic
+130,Hoski,David,null,null,Laurium
+131,Hovey,Arne,null,null,Concord
+132,Huttonen,Matt,null,null,Adams
+133,Hyttinen,Oscar,null,null,Adams
+134,Iskra,Starko,null,null,Ontonagon rd
+135,Jacobs,Paul,null,null,Iroquois
+138,Johnson,Andrew,null,null,Iroquois
+139,Johnson,Axel,null,null,Baltic
+141,Jokela,John,null,null,Douglass
+142,Jose,Russell,null,null,Cherokee av
+143,Jose,Wm,null,null,Hubbard av
+144,Junttila,Jack,null,null,Douglass
+145,Junttonsen,Waino,null,null,Douglass
+146,Juntunen,Antti,null,null,Evergreen
+147,Juntunen,Aug,null,null,Douglass
+148,Juntunen,Eino,null,null,Baltic
+149,Juntunen,Ensio,null,null,Concord
+150,Juopperi,Evert,null,null,Adams
+151,Kaakinen,Jos,null,null,Douglass
+152,Kalka,Jos,null,null,Baltic
+153,Kallio,Henry,null,null,Evergreen
+154,Kallio,Oscar,null,null,Concord
+156,Kangas,Eliz,null,null,Concord
+157,Kangas,John,null,null,Douglass
+158,Kangas,Nicholas,null,null,Kearsarge
+160,Kama,Osmo,null,null,Baltic
+161,Kama,Urho,null,null,Evergreen
+162,Karpinen,Matt,null,null,Evergreen
+163,Katalin,John,null,null,Lake av
+164,Katalin,Nicholas,null,null,2d
+165,Kauppila,Arnold,null,null,Evergreen
+166,Kaykka,Antti,null,null,Evergreen
+167,Kazmierczak,Franz,null,null,Baltic
+168,Kemppainen,Abram,null,null,Evergreen
+170,Keranen,Einard,null,null,Adams
+171,Keranen,Eli,null,null,Baltic
+172,Keranen,Victor,null,null,Evergreen
+173,Kerr,Alex,null,null,Hubbard av
+174,Keto,Andrew,null,null,Concord
+175,Keto,Jacob,null,null,Kearsarge
+176,Key,Oscar,W ,null,Hubbard av
+177,Kinnunen,Chas,null,null,Douglass
+178,Kiviniemi,John,null,null,Adams
+179,Kiviniemi,Matt,null,null,Concord
+180,Klarich,Matt,null,null,Evergreen
+181,Klobucar,Antone,null,null,Concord
+182,Klobucher,Jos,null,null,Forest
+183,Klobucher,Jos,null,jr,Forest
+184,Knihtila,Amanda,Mrs ,null,Globe
+185,Knucky,John,null,null,Kearsarge
+186,Kobe,Matt,null,jr,Adams
+187,Kochevar,Frank,null,null,Baltic
+188,Koho,John,null,null,Concord
+189,Kolar,Jos,null,null,Concord
+190,Kopoytic,Antonia,null,null,Evergreen
+191,Korpi,Karl,null,null,Adams
+192,Korpi,Levi,null,null,Baltic
+193,Koski,John,null,null,Douglass
+194,Koskinen,Geo,null,null,Concord
+195,Kovala,Emil,null,null,Kearsarge
+196,Krieber,Ernest,null,null,Iroquois
+197,Kruka,E,W ,null,Hubbard av
+199,Kusito,Wm,null,null,Baltic
+200,Kyllonen,Leonard,null,null,Iroquois
+201,Laakaniemi,Edw,null,null,Baltic
+202,Lahti,Emil,null,null,Douglass
+203,Lamich,Peter,null,null,Forest
+204,Lammie,Eska,null,null,Adams
+205,Lampinen,Eino,null,null,Concord
+206,Laru,Andrew,null,null,Concord
+207,Laru,Edw,null,null,Adams
+208,Laru,Matti,null,null,Evergreen
+209,Laska,Jos,null,null,Baltic
+210,Latvala,Walfred,null,null,Adams
+211,Lembi,Orlando,null,null,2d
+212,Liimatainen,John,null,null,Concord
+213,Lindstrom,Edw,null,null,Concord
+214,Lindstrom,Rudolph,null,null,Baltic
+215,Linna,John,null,null,Douglass
+216,Lombardi,Louis,null,null,Adams
+217,Lonanen,Nestor,null,null,Concord
+218,Lovelli,Carlo,null,null,Forest
+219,Lowrey,Jas,null,null,Laurium
+222,Luukkonen,Abel,null,null,Evergreen
+223,Lydia,Geo,null,null,Evergreen
+224,Lystila,Alex,null,null,Concord
+225,Lyttinen,Abram,null,null,Baltic
+226,Maata,Chas,null,null,Evergreen
+227,Magnino,Jos,null,null,Adams
+228,Maki,Arth,null,null,Baltic
+229,Maki,Fanny,null,null,Baltic
+230,Maki,Henry,null,null,Concord
+231,Maki,John,J ,null,Baltic
+232,Maki,John,T ,null,Douglass
+233,Manninen,Wm,null,null,Baltic
+234,Mannisto,Peter,null,null,Adams
+235,Mariconi,Guiseppi,null,null,2d
+236,Markie,Emil,null,null,Evergreen
+237,Markovich,Jos,null,null,2d
+238,Markovich,Peter,null,null,Baltic
+239,Marnich,Antonia,Mrs ,null,Concord
+240,Masiunas,Geo,null,null,Baltic
+241,Matero,John,null,null,Iroquois
+242,Mattila,Sam,null,null,Baltic
+243,Mehelcich,Jos,B ,null,Evergreen
+244,Mercer,H,T ,null,Algomah
+245,Meyers,Martin,G ,null,Algomah
+246,Michaud,Casper,null,null,Cherokee av
+247,Michels,Fredk,null,null,Kearsarge
+249,Miettinen,Waino,null,null,Baltic
+250,Mihalko,John,null,null,2d
+252,Mihelich,Emanuel,null,null,2d
+253,Millard,Herman,null,null,Kearsarge
+254,Miller,Paul,null,null,Baltic
+255,Mitchell,Chas,null,null,Iroquois
+256,Moilanen,Toivo,null,null,Evergreen
+257,Mornich,Anna,null,null,Concord
+258,Morrish,Jos,null,null,Iroquois
+259,Mueller,P,G ,null,Cherokee av
+260,Murtomaki,Henry,null,null,Adams
+261,Najorka,Clements,null,null,Adams
+263,Nancarrow,Bessie,null,null,Kearsarge
+265,Nevins,Louis,null,null,Evergreen
+266,Nicholas,Arth,null,null,Adams
+267,Nicholls,Wm,P ,null,Cherokee av
+268,Niemela,Wm,null,null,Ontonagon rd
+269,Niemi,Arne,null,null,Douglass
+270,Niemi,Edw,null,null,Concord
+271,Niemi,John,null,null,Concord
+272,Niva,Isaac,null,null,Baltic
+273,Nordstrom,Bergman,null,null,Baltic
+274,Nousiainen,Alex,null,null,Concord
+275,OConnell,John,null,null,Highland
+276,Ojala,Arvo,null,null,Evergreen
+277,Ollila,John,null,null,Forest
+278,Olson,Wm,null,null,Adams
+280,Oreson,Erwin,null,null,Concord
+281,Osteroth,Franz,null,null,Concord
+282,Ozanich,Antone,null,null,Evergreen
+283,Ozanich,Chas,null,null,Concord
+284,Paavilainen,John,null,null,Douglass
+288,Pakkala,Jacob,null,null,Baltic
+289,Palmer,Chas,null,null,Iroquois
+290,Panian,John,null,null,Concord
+291,Panian,Sylvester,null,null,Baltic
+292,Panott,Christ,null,null,Lake av
+293,Parlich,John,null,null,Highland
+294,Paulson,Geo,null,null,Douglass
+295,Pawlovich,Louis,null,null,Lake av
+296,Pellosmoa,Oscar,null,null,Baltic
+297,Pelon,Jos,null,null,Highland
+298,Peltola,Nick,null,null,Adams
+299,Perala,Matti,null,null,Evergreen
+300,Perala,Sam,null,null,Baltic
+301,Perfetti,Casumiro,null,null,Lake av
+302,Perkins,Wm,null,null,Laurium
+303,Peterson,Nels,null,null,Forest
+304,Petronovich,Nick,null,null,Forest
+306,Pintar,Louis,null,null,Evergreen
+308,Pintar,Matt,null,null,Evergreen
+309,Pinter,Jos,null,null,Douglass
+310,Pizzi,Vincent,null,null,Forest
+311,Plecha,Geo,null,null,Ontonagon rd
+312,Plesha,John,null,null,Douglass
+313,Plesha,Jos,null,null,Concord
+314,Plesha,Jos,null,null,Globe
+315,Plesha,Luka,null,null,Lake av
+316,Podnar,Jos,null,null,2d
+317,Polglase,John,null,null,Iroquois
+318,Polglase,Wm,null,null,Highland
+319,Polovaara,Axel,null,null,Douglass
+320,Priniski,Peter,null,null,Hubbard av
+321,Priniski,Steph,J ,null,Ozima
+322,Pyykkonen,Peter,null,null,Evergreen
+325,Rantala,Emil,null,null,Evergreen
+326,Rantala,Niilo,null,null,Baltic
+327,Ravaz,John,null,null,Adams
+328,Raymond,Harry,null,null,Highland
+329,Recore,Edw,null,null,Lake av
+330,Redeker,Paul,D ,null,Algomah
+331,Redlick,Walter,null,null,Iroquois
+332,Reed,Howard,null,null,Iroquois
+334,Richards,Thos,H ,null,Iroquois
+336,Rintala,Walter,null,null,Adams
+337,Romanini,Americo,null,null,Concord
+338,Ropponen,Chas,null,null,Concord
+339,Routh,J,M ,null,Kearsarge
+340,Rowe,Sami,null,null,Highland
+341,Rozich,Jos,null,null,Highland
+342,Ruhling,Fritz,null,null,Adams
+343,Rule,Clayton,null,null,Adams
+344,Rusich,Geo,null,null,Globe
+345,Russell,Ray,null,null,Baltic
+346,Saagback,Mike,null,null,Iroquois
+347,Saari,Jacob,null,null,Baltic
+348,Saari,John,null,null,Douglass
+349,Saari,John,H ,null,Evergreen
+350,Saastamoinen,Aug,null,null,Concord
+351,Saastamoinen,Nestor,null,null,Baltic
+352,Sakarins,Henry,null,null,Baltic
+353,Saksa,Emil,null,null,Adams
+354,Samuelson,Godfrey,null,null,2d
+355,Sanders,Reginald,C ,null,Adams
+356,Schnabel,Louise,null,null,Baltic
+357,Scholl,Otto,null,null,Cherokee av
+358,Schultz,Albert,null,null,Baltic
+359,Schultz,Max,null,null,Ontonagon rd
+360,Schwarz,Kurt,null,null,Forest
+361,Sechon,John,null,null,Baltic
+362,Sedlar,Henry,null,null,Baltic
+363,Seigman,Rudolph,null,null,Laurium
+364,Seiler,Wilhelm,null,null,Cherokee av
+365,Seppanen,Eaver,null,null,Concord
+366,Seppanen,Louis,null,null,Cherokee av
+367,Sergy,Jos,null,null,2d
+368,Sheehan,Wm,null,jr,Adams
+369,Shugg,Harold,null,null,Iroquois
+370,Siirila,Ero,null,null,Concord
+371,Silvala,Raymond,null,null,Adams
+372,Sirvio,Wm,null,null,Adams
+373,Sivonen,Edw,null,null,Adams
+374,Sivonen,Henry,null,null,Evergreen
+375,Skiba,Michl,null,null,Cherokee av
+376,Skoviak,Edw,null,null,Evergreen
+377,Sloviak,John,null,null,Baltic
+378,Sloviak,Michl,null,null,Forest
+379,Smith,Alva,null,null,Forest
+380,Smith,Kenneth,null,null,Baltic
+381,Snickari,Henry,null,null,Baltic
+382,Sonnenberg,Wm,null,null,Evergreen
+383,Sormala,Eino,null,null,Adams
+385,Spoljarich,Martin,null,null,1st
+386,Sporalski,Paul,null,null,Adams
+387,Sporbert,Erick,null,null,Baltic
+388,Staisel,Felix,null,null,Concord
+389,Staisel,Stanley,null,null,Baltic
+390,Steinberger,Steve,null,null,2d
+391,Steinen,Peter,null,null,Kearsarge
+393,Stephen,Jos,null,null,Iroquois
+394,Stephen,Sylvia,null,null,Iroquois
+395,Stevens,Ernest,null,null,Highland
+396,Stevens,Wm,E ,jr,Baltic
+397,Stimac,Antone,null,null,Iroquois
+398,Stimac,Edw,null,null,Baltic
+399,Stimac,Geo,null,null,Evergreen
+400,Stimac,Toni,null,null,Forest
+401,Stimac,Vinko,null,null,Evergreen
+402,Stone,Clemens,null,null,Adams
+403,Stoneman,Orlando,null,null,Highland
+404,Stott,Geo,F ,null,Algomah
+405,Sydanmaa,Axel,null,null,Evergreen
+406,Sydanmaa,Emil,null,null,Forest
+407,Taro,Axel,null,null,Adams
+408,Taro,Isaac,null,null,Ontonagon rd
+410,Tolksdorf,Hermann,null,null,Evergreen
+411,Tolonen,Eli,null,null,Douglass
+412,Tomlonovich,Jos,null,null,Baltic
+413,Tretheway,Richd,null,null,Globe
+414,Trethewey,Melvin,null,null,Iroquois
+415,Trudgeon,Henry,null,null,Concord
+416,Trudgeon,Henry,null,null,Kearsarge
+417,Trudgeon,Wm,J ,null,Kearsarge
+418,Tuohimaa,Henry,null,null,Concord
+419,Tuomaala,Wilho,null,null,Baltic
+420,Tuominen,Victor,null,null,Adams
+421,Vertnar,Philip,null,null,Adams
+422,Vincent,Philip,null,null,Iroquois
+423,Vittori,Emilio,null,null,1st
+424,Volf,Geo,null,null,1st
+425,Waara,Gustof,null,null,Baltic
+426,Waara,Wm,null,null,Forest
+427,Wainio,Axel,null,null,Concord
+428,Wainio,Selmi,null,null,Douglass
+429,Walikainen,Arnold,null,null,Baltic
+430,Waltonen,Oscar,W ,null,Concord
+431,Wesa,Emil,null,null,Baltic
+432,Wesa,Geo,null,null,Baltic
+433,Wesa,Oscar,null,null,Iroquois
+434,Wesa,Waino,null,null,Baltic
+436,Williams,Geo,null,null,Baltic
+437,Wills,Geo,F ,null,Highland
+438,Ylitalo,Jacob,null,null,Evergreen
+439,Zagar,Slavko,null,null,Evergreen
+440,Zagar,Thos,null,null,Forest
+441,Ziegler,Andreas,null,null,Concord

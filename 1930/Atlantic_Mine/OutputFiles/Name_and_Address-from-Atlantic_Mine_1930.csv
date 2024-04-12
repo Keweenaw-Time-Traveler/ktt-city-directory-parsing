@@ -1,0 +1,35 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outWid, outSpouse, outJob, outWorkPlace, outT, outStSide, outStNum, outStNum(changed), outSt, outRd, outCity, outLoc, outMoved, outH/Rdo
+33, Denneking, Bernadina, null, null, null, null, hskpr , Rev Fredk Richter, outT,  outStSide,  outStNum,  outStNum(changed),  outSt,  outRd,  outCity,  outLoc,  outMoved,  outH/Rdo
+36, Erickson, Louis, null, null, null, null, barber , Edw Erickson,null, null, null, null, null, null, null, null, null, r do
+177,Mason,Diadama,null,null,null,null,tchr,null,r,null,null,null,null,null,Albert Mason,null,null,null
+370, Willson, P, H , null, null, Jennie, phys and drugs , Calumet,r, null, null, null, null, null, Albert Mason, null, null, null
+372,Worcester,C,H ,null,null,null,pres ,Chassell State Bank ,r,null,null,null,null,null,Chicago ,null,null,null
+7,Anderson,Elmer,null,null,null,null,meat ctr ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+11,Atlantic,Methodist,Episcopal ,null,null,null,pastor ,Sunday services 5pm Sunday school 2pm,null,null,null,null,null,null,null,null,null,null
+35,Erickson,Erick,null,null,null,null,driver ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+50,Haischer,Andrew,null,null,null,Irene,formn,null,null,null,null,null,null,null,null,null,null,null
+94,Juntenen,Chas,null,null,null,null,confr ,Depot,null,null,null,null,null,null,null,null,null,null
+97,Juntunen,John,null,null,null,null,elk ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+109,Kangas,Gustave,null,null,null,Minnie,wtchmkr ,Depot,null,null,null,null,null,null,null,null,null,null
+111,Karpinen,Aug,null,null,null,Hilda,carp,null,null,null,null,null,null,null,null,null,null,null
+134,Kinnunen,Chas,null,null,null,Anna,woodsmn,null,null,null,null,null,null,null,null,null,null,null
+166,Maki,Benj,null,null,null,Hilma,woodsmn,null,null,null,null,null,null,null,null,null,null,null
+182,Matson,Geo,A ,null,null,Mamie,mgr ,Copper Range Co Store,null,null,null,null,null,null,null,null,null,null
+197,Mikkola,Richd,null,null,null,Kath,woodsmn,null,null,null,null,null,null,null,null,null,null,null
+201,Monkoski,John,null,null,null,Mary,meat ctr,null,null,null,null,null,null,null,null,null,null,null
+203,Monkoski,Jos,R ,null,null,Margt,gro ,County rd,null,null,null,null,null,null,null,null,null,null
+222,Nicholls,Richd,null,null,null,Eliz,mech,null,null,null,null,null,null,null,null,null,null,null
+251,Putkela,Jacob,null,null,null,Anna,tmstr,null,null,null,null,null,null,null,null,null,null,null
+260,Richter,Fredk,Rev ,null,null,null,pastor,null,null,null,null,null,null,null,null,null,null,null
+276,StMary,Catholic,Church ,null,null,null,pastor,null,null,null,null,null,null,null,null,null,null,null
+282,Soimunen,Wm,null,null,null,null,driver ,Edw Bilto,null,null,null,null,null,null,null,null,null,null
+283,Sorrella,Eino,null,null,null,null,lab ,S L Boutin Son,null,null,null,null,null,null,null,null,null,null
+286,Stromer,Aug,null,null,null,Selma,lab ,S L Boutin Son,null,null,null,null,null,null,null,null,null,null
+345,Tepsa,Isaac,null,null,null,Hilma,lab ,S L Boutin Son,null,null,null,null,null,null,null,null,null,null
+349,Tuomi,Leo,null,null,null,null,lab ,S L Boutin Son,null,null,null,null,null,null,null,null,null,null
+356,Varnen,Walter,null,null,null,null,lab ,S L Boutin Son,null,null,null,null,null,null,null,null,null,null
+358,Vassa,Jos,null,null,null,Josephine,woodsmn,null,null,null,null,null,null,null,null,null,null,null
+359,Wareham,Jos,C ,null,null,Anna,barber ,Calumet,null,null,null,null,null,null,null,null,null,null
+360,Warner,Earl,D ,null,null,Anna,mgr ,Warner Garage Co,null,null,null,null,null,null,null,null,null,null
+363,Wayrynen,Benj,null,null,null,null,lab ,S L Boutin Son,null,null,null,null,null,null,null,null,null,null
+366,Weinlander,Martin,null,null,null,Margt,supt ,Chassell Township School,null,null,null,null,null,null,null,null,null,null

@@ -1,0 +1,367 @@
+1 ADD: Abramson Abram (Mary)
+2 RESIDING WITH PERSON NOT FOUND: Abramson Anne S tchr r Mrs Edla Abramson
+3 ADD: Abramson Edla (wid Matt)
+4 RESIDING WITH PERSON NOT FOUND: Abramson Herbert r Mrs Edla Abramson
+5 NAME: Alcenius Oscar
+6 ADD: Anderson Gunnar J (Hath) filling sta
+7 RESIDING WITH PERSON NOT FOUND: Backman Agnes E tchr Osceola Twp Sch Dist r Aug Backman
+8 ADD: Backman Andrew (Mary) firemn
+9 RESIDING WITH PERSON NOT FOUND: Backman Arnold lab r Aug Backman
+10 ADD: Backman Aug (Hilma) eng
+11 RESIDING WITH PERSON NOT FOUND: Backman Beatrice r Andrew Backman
+12 RESIDING WITH PERSON NOT FOUND: Backman Ernest r Andrew Backman
+13 RESIDING WITH PERSON NOT FOUND: Backman Francis r Andrew Backman
+14 RESIDING WITH PERSON NOT FOUND: Backman Lorna r Aug Backman
+15 RESIDING WITH PERSON NOT FOUND: Backman Marie S (wid John) r Mrs Irene Champion
+16 ADD: Backman Oscar (Hilda) elk
+17 RESIDING WITH PERSON NOT FOUND: Backman Ralph r Oscar Backman
+18 RESIDING WITH PERSON NOT FOUND: Backman Raymond lab r Andrew Backman
+19 RESIDING WITH PERSON NOT FOUND: Backman Roger lab r Aug Backman
+20 RESIDING WITH PERSON NOT FOUND: Backman Rudolph lab r Andrew Backman
+21 RESIDING WITH PERSON NOT FOUND: Backman Ruth dom r Aug Backman
+22 RESIDING WITH PERSON NOT FOUND: Backman Walfred lab r Andrew Backman
+23 RESIDING WITH PERSON NOT FOUND: Backman Winifred student r Oscar Backman
+24 RESIDING WITH PERSON NOT FOUND: Backmen Arvi r Mrs Marie Backmen
+25 ADD: Backmen Marie (wid Reino)
+26 RESIDING WITH PERSON NOT FOUND: Banfield Clemeth (Elna) slsmn r Emil A Sved
+27 NAME: Beaudette Albert
+28 ADD: Beckman Edw jr
+29 ADD: Beckman Edw C (Amanda) lab
+30 RESIDING WITH PERSON NOT FOUND: Beckman Enair lab r Edw C Beckman
+31 RESIDING WITH PERSON NOT FOUND: Beckman Ingrid r Edw C Beckman
+32 RESIDING WITH PERSON NOT FOUND: Beckman Leo student r Edw C Beckman
+33 RESIDING WITH PERSON NOT FOUND: Bellefenille Eva r Mrs Sarah Bellefenille
+34 ADD: Bellefenille Sarah (wid Albert)
+35 RESIDING WITH PERSON NOT FOUND: Bengs Midred r Werner O Bengs
+36 ADD: Bengs Werner O (Ida) barber
+37 RESIDING WITH PERSON NOT FOUND: Berg Christina hsekpr r John Heilman
+38 RESIDING WITH PERSON NOT FOUND: Biggs Janet M tchr Osceola Twp Sch Dist r Wm Oppenheimer
+39 RESIDING WITH PERSON NOT FOUND: Boatman Aug scaler r Chas Boatman
+40 ADD: Boatman Chas (Ida)
+41 ADD: Boatman Mary (wid Aug)
+42 ADD: Borsum Emil A (Anna B) formn
+43 RESIDING WITH PERSON NOT FOUND: Borsum Wm student r Emil A Borsum
+44 RESIDING WITH PERSON NOT FOUND: Boyd Edw r Isaac Boyd
+45 ADD: Boyd Isaac (Sophia)
+46 ADD: Boyd John (Ellen)
+47 RESIDING WITH PERSON NOT FOUND: Boyd June r John Boyd
+48 RESIDING WITH PERSON NOT FOUND: Boyd Marguerite r John Boyd
+49 RESIDING WITH PERSON NOT FOUND: Boyd Ramsdeel student r John Boyd
+50 RESIDING WITH PERSON NOT FOUND: Brozovich Anna r Mrs Mary Brozovich
+51 RESIDING WITH PERSON NOT FOUND: Brozovich John r Mrs Mary Brozovich
+52 ADD: Brozovich Mary Mrs
+53 ADD: Burbank Harry F (Anne) tavern
+54 ADD: Burns Jas (Susie)
+55 ADD: Bykkonen Chas (Johanna)
+56 ADD: Cadeau Hubert (Stella)
+57 RESIDING WITH PERSON NOT FOUND: Cadeau Raymond r Wm Cadeau
+59 RESIDING WITH PERSON NOT FOUND: Cadeau Willard lab r Wm Cadeau1
+60 ADD: Cadeau Wm (Exilda) formn
+61 RESIDING WITH PERSON NOT FOUND: Carlson Alice r Andrew Carlson
+62 ADD: Carlson Andrew (Esther) lab
+63 RESIDING WITH PERSON NOT FOUND: Carlson Edith r Andrew Carlson
+64 RESIDING WITH PERSON NOT FOUND: Carlson Edw longshoremn r Andrew Carlson
+65 RESIDING WITH PERSON NOT FOUND: Carlson Fred (Minnie) r Mrs Mary Sandell
+66 ADD: Carlson Nicholas (Amanda) lab
+67 RESIDING WITH PERSON NOT FOUND: Carney Agnes (wid John) r Patk J Kindelan
+69 RESIDING WITH PERSON NOT FOUND: Champion Bernice r Mrs Irene Champion
+70 ADD: Champion Irene (wid Jos)
+71 ADD: Chechack Steven (Mary)
+72 ADD: Christopherson Malcolm P (Augusta)
+73 RESIDING WITH PERSON NOT FOUND: Clements Colleen student r Silas W Clements
+74 RESIDING WITH PERSON NOT FOUND: Clements Silas M r Silas W Clements
+75 ADD: Clements Silas W (Inga) formn
+76 ADD: Clish Walter (Rosella) lab
+77 ADD: Copper Range Railroad Co (frt office) Leonard J Tumquist agt
+78 RESIDING WITH PERSON NOT FOUND: Dahl Esther Mrs (Herman Dahl & Co) r Herman Dahl
+79 ADD: Dahl Herman (Esther Herman Dahl & Co)
+80 ADD: Dahl Herman & Co (Signe Mrs Esther and Herman Dahl) gros and meats
+81 RESIDING WITH PERSON NOT FOUND: Dahl Signe (Herman Dahl & Co) r Elena Palosaari
+83 ADD: Denstel Mary hsekpr Rev John J Leckman
+84 ADD: Dollar Bay Fire Dept Bert Neavue chief
+85 RESIDING WITH PERSON NOT FOUND: Dunstone Jane r Silas Dunstone
+86 NAME: Dunstone Silas
+88 ADD: Evangelical Lutheran Church
+89 NAME: Finnish Hall
+90 RESIDING WITH PERSON NOT FOUND: Fisher Beatrice (wid Harvey) r Wm Cadeau
+91 ADD: Foley Frank (Mary)
+92 ADD: Franz Arvid (Elona) lab
+93 RESIDING WITH PERSON NOT FOUND: Franz Caroline r John Franz
+94 RESIDING WITH PERSON NOT FOUND: Franz Herbert lab r Isaac Franz
+95 ADD: Franz Isaac (Christina)
+96 ADD: Franz John (Sophia) farmer
+97 RESIDING WITH PERSON NOT FOUND: Franz Leonard r John Franz
+98 RESIDING WITH PERSON NOT FOUND: Franz Lorraine student r Isaac Franz
+99 RESIDING WITH PERSON NOT FOUND: Franz Raymond lab r Isaac Franz
+100 ADD: Fretter Lawrence P (Lydia) ship elk
+101 RESIDING WITH PERSON NOT FOUND: Frost Gwendolyn student r Oscar Frost
+102 RESIDING WITH PERSON NOT FOUND: Frost Ida r Oscar Frost
+103 ADD: Frost Oscar (Sofie) surfacemn
+104 RESIDING WITH PERSON NOT FOUND: Frost Wallace r Oscar Frost
+105 ADD: Gagnon Geo H (Ella)
+106 ADD: Gendron Arth (Mary)
+107 RESIDING WITH PERSON NOT FOUND: Gendron Marion J student r Arth Gendron
+108 RESIDING WITH PERSON NOT FOUND: Gestal Dorothy r John Gestal
+109 ADD: Gestal John (Mary) slsmn
+110 RESIDING WITH PERSON NOT FOUND: Gibbons Frances (wid John) r Mrs Mary Stetter
+111 RESIDING WITH PERSON NOT FOUND: Gilbert Alvin lab r Robt Gilbert
+112 RESIDING WITH PERSON NOT FOUND: Gilbert Arnold lab r Robt Gilbert
+113 RESIDING WITH PERSON NOT FOUND: Gilbert Harry r Robt Gilbert
+114 ADD: Gilbert Robt (Lillian)
+115 RESIDING WITH PERSON NOT FOUND: Gilbert Verna r Robt Gilbert
+116 ADD: Glanville J Aldon (Sigrid) lab
+117 ADD: Grahel Bertha (wid Michl)
+118 RESIDING WITH PERSON NOT FOUND: Grahel Margt maid r Mrs Bertha Grahel
+119 ADD: Greenleaf Maurice (Evelyn)
+120 ADD: Grentz Jos (Kath)
+121 RESIDING WITH PERSON NOT FOUND: Grentz Jos jr lab r Jos Grentz
+122 ADD: Gronnund Abram (Ida)
+123 RESIDING WITH PERSON NOT FOUND: Gronnund Hilda r Abram Gronnund
+124 ADD: Grontz Myrtle (wid Jos)
+125 ADD: Gutscher Clarence (Justine) mech
+126 RESIDING WITH PERSON NOT FOUND: Haryu Chas lab r Mrs Mary Haryu
+127 RESIDING WITH PERSON NOT FOUND: Haryu Hilma student r Mrs Mary Haryu
+128 RESIDING WITH PERSON NOT FOUND: Haryu John r Mrs Mary Haryu
+129 ADD: Haryu Mary (wid John)
+130 RESIDING WITH PERSON NOT FOUND: Haryu Nestor r Mrs Mary Haryu
+131 RESIDING WITH PERSON NOT FOUND: Haryu Toivo r Mrs Mary Haryu
+132 RESIDING WITH PERSON NOT FOUND: Haun Edw r Ronald H Macdonald
+133 RESIDING WITH PERSON NOT FOUND: Haun Frank r Ronald H Macdonald
+134 RESIDING WITH PERSON NOT FOUND: Hebner Chas E (Beatrice) elk r Mrs Anna Johnson
+135 NAME: Heilman John
+136 ADD: Heilman Russell (Edith) filling sta
+137 ADD: Helman Eric (Ida) tapper
+138 RESIDING WITH PERSON NOT FOUND: Helman Evelyn r Eric Helman
+139 RESIDING WITH PERSON NOT FOUND: Helman Gordon r John I Helman
+140 ADD: Helman John I (Hilda)
+141 RESIDING WITH PERSON NOT FOUND: Helman Robt r Eric Helman
+142 RESIDING WITH PERSON NOT FOUND: Helman Thurston slsmn r Eric Helman
+143 RESIDING WITH PERSON NOT FOUND: Hiltunen David delmn r Sakari Hiltunen
+144 RESIDING WITH PERSON NOT FOUND: Hiltunen Donald elk Herman Dahl & Co r Sakan Hiltunen
+145 ADD: Hiltunen Geo (Mary)
+146 NAME: Hiltunen Sakari
+147 ADD: Holmes Emil (Matilda) farmer
+148 RESIDING WITH PERSON NOT FOUND: Holmes Theo lab r Emil Holmes
+149 ADD: Horner Flooring Co Sami Homer prestreas C D Zagelmeier vpres H R McIntyre sec
+151 ADD: Hould Arth (Jessie) mech
+152 RESIDING WITH PERSON NOT FOUND: Hould Joan r Arth Hould
+153 ADD: Hoyer Elmer (Margt) lab
+154 NAME: Hoyer Emil
+155 ADD: Hoyer Olivia (wid Aug)
+156 RESIDING WITH PERSON NOT FOUND: Hoyer Robt r Mrs Olivia Hoyer
+157 ADD: Hulman John (Hulda)
+158 RESIDING WITH PERSON NOT FOUND: Isaac John W loader r Mrs Mary Sandell
+159 ADD: Isaacson Andrew (Breta)
+160 RESIDING WITH PERSON NOT FOUND: Isaacson Chester r John E Isaacson
+161 RESIDING WITH PERSON NOT FOUND: Isaacson Edith r Andrew Isaacson
+162 ADD: Isaacson John E (Anna)
+163 RESIDING WITH PERSON NOT FOUND: Isaacson Lloyd r John E Isaacson
+164 RESIDING WITH PERSON NOT FOUND: Isaacson Peter atndt Russell Heilman r Mrs Fred Carlson
+165 RESIDING WITH PERSON NOT FOUND: Isaacson Peter student r Mrs Mary Sandell
+166 RESIDING WITH PERSON NOT FOUND: Johnson Aldrich r Paul Johnson
+167 ADD: Johnson Anna (wid Erick) dom
+168 ADD: Johnson Clayton A (Alma) carp
+169 RESIDING WITH PERSON NOT FOUND: Johnson Edw r Eric Johnson
+170 NAME: Johnson Eric
+171 ADD: Johnson Gunnar (Eleanor) tchr
+172 RESIDING WITH PERSON NOT FOUND: Johnson Kenneth r Paul Johnson
+173 RESIDING WITH PERSON NOT FOUND: Johnson Lawrence lab r Mrs Anna Johnson
+174 ADD: Johnson Nels W (Sylvia) grader
+175 ADD: Johnson Paul (Lucina)
+176 ADD: Johnson Victor J (Martha) lab
+177 ADD: Johnson Wm (Tynne)
+178 ADD: Joyal John (Milma)
+179 ADD: Joyal Jos (Delia)
+180 RESIDING WITH PERSON NOT FOUND: Juntunen Bertha r Iver Juntunen
+181 RESIDING WITH PERSON NOT FOUND: Juntunen Carl r Iver Juntunen
+182 ADD: Juntunen Iver farmer
+183 RESIDING WITH PERSON NOT FOUND: Jurmu Bernhardt elk Jurmu Grocery r Erven Malgren
+184 RESIDING WITH PERSON NOT FOUND: Jurmu Fred elk Jurmu Grocery r Erven Malgren
+185 ADD: Jurmu Grocery Waino Jurmu mgr
+186 RESIDING WITH PERSON NOT FOUND: Jurmu Lloyd elk Jurmu Grocery r Erven Malgren
+187 RESIDING WITH PERSON NOT FOUND: Jurmu Ralph elk Jurmu Grocery r Erven Malgren
+189 RESIDING WITH PERSON NOT FOUND: Kindelan Anna G postmistress PO r Patk H Kindelan
+190 RESIDING WITH PERSON NOT FOUND: Kindelan Julia H asst postmistress PO r Patk H Kindelan
+191 ADD: Kindelan Patk H
+192 ADD: Kitto Geo H (Cath) supt
+194 ADD: Kunick Maurice M (Bertha) grader
+195 RESIDING WITH PERSON NOT FOUND: Lahikainen Arnold r Otto Lahikainen
+196 ADD: Lahikainen Edwin (Antoinette)
+197 RESIDING WITH PERSON NOT FOUND: Lahikainen Eino r Otto Lahikainen
+198 ADD: Lahikainen Otto (Rose)
+199 RESIDING WITH PERSON NOT FOUND: Lahikainen Sylvia r Otto Lahikainen
+200 RESIDING WITH PERSON NOT FOUND: Lampsa Jas r John H Lampsa
+201 ADD: Lampsa John H (Ellen) welder
+202 RESIDING WITH PERSON NOT FOUND: Lampsa Raymond student r John H Lampsa
+203 ADD: Larche Arth (Laura) Ice
+204 ADD: Larche Prime (Florence)
+206 ADD: LeClaire Wilfred (Helen) plmbr
+207 RESIDING WITH PERSON NOT FOUND: Locatelli Robt r Sami Locatelli
+209 RESIDING WITH PERSON NOT FOUND: Lundman Alvin mech r John Lundman
+210 ADD: Lundman Amanda (wid Isaac)
+211 RESIDING WITH PERSON NOT FOUND: Lundman Hugo (Eleanor) supvr r Mrs Amanda Lundman
+212 ADD: Lundman John (Hulda) shipper
+213 RESIDING WITH PERSON NOT FOUND: Lundman Leonard lab r Mrs Amanda Lundman
+215 RESIDING WITH PERSON NOT FOUND: Macdonald Roderick r Ronald H Macdonald
+216 ADD: Macdonald Ronald H (Mary L)
+217 ADD: Mailhot Dolph (Mary)
+218 RESIDING WITH PERSON NOT FOUND: Mailhot John student r Dolph Mailhot
+219 RESIDING WITH PERSON NOT FOUND: Mailhot Thos r Dolph Mailhot
+221 ADD: Malgren Erven (Lina) meatctr Jurmu Grocery
+222 ADD: Malm Frank (Matilda) firemn
+223 RESIDING WITH PERSON NOT FOUND: Malm Miriam student r Frank Malm
+224 ADD: Marcotte Jas J (Mary)
+225 ADD: Mattson Adeline (wid Mathias)
+226 ADD: Mattson Matt (Olivia) lab
+227 RESIDING WITH PERSON NOT FOUND: Mattson Raymond student r Mrs Adeline Mattson
+229 NAME: Methodist Church
+231 ADD: Michelson Eric (Ida)
+234 ADD: Michelson Michael (Lena) farmer
+238 RESIDING WITH PERSON NOT FOUND: Micklich Francis r Geo Micklich
+239 ADD: Micklich Geo (Mary)
+240 RESIDING WITH PERSON NOT FOUND: Micklich John lab r Geo Micklich
+241 RESIDING WITH PERSON NOT FOUND: Micklich Jos r Geo Micklich
+242 RESIDING WITH PERSON NOT FOUND: Micklich Peter lab r Geo Micklich
+243 RESIDING WITH PERSON NOT FOUND: Moralee Eleanor E r Antoine M Schulte
+244 NAME: Morency Donat
+245 RESIDING WITH PERSON NOT FOUND: Morency Leo (Celia) shipkpr r Donat Morency
+246 ADD: Morton Ernest A (Mary)
+247 RESIDING WITH PERSON NOT FOUND: Nault Adolphus r Leo Nault
+248 ADD: Nault Leo (Aurore)
+249 RESIDING WITH PERSON NOT FOUND: Nault Mae student r Leo Nault
+250 ADD: Neavue Bert (Ellen) chief Dollar Bay Fire Dept
+251 RESIDING WITH PERSON NOT FOUND: Neveau Florence r Peter J Neveau
+252 RESIDING WITH PERSON NOT FOUND: Neveau Jas r Peter J Neveau
+253 ADD: Neveau Peter J (Mary)
+254 ADD: Newman Gust (Josephine) hd runner
+255 RESIDING WITH PERSON NOT FOUND: Newman Wm driver r Gust Newman
+256 RESIDING WITH PERSON NOT FOUND: Nordbeck Ebert r John Nordbeck
+257 ADD: Nordbeck John (Melvina)
+258 ADD: Nordbeck Matt (Louise)
+259 RESIDING WITH PERSON NOT FOUND: Nordbeck Robt r Matt Nordbeck
+260 RESIDING WITH PERSON NOT FOUND: Norgard Chas r Emil V Norgard
+261 ADD: Norgard Edla (wid Wm)
+262 ADD: Norgard Emil V (Anna)
+263 RESIDING WITH PERSON NOT FOUND: Norgard Norman sta atndt Gunnar Anderson r Emil V Norgard
+264 RESIDING WITH PERSON NOT FOUND: Norgard Robt r Emil V Norgard
+265 ADD: Norlin Axel E (Ina)
+266 RESIDING WITH PERSON NOT FOUND: Norrbeck Adolph r John Norrbeck
+267 RESIDING WITH PERSON NOT FOUND: Norrbeck Alf lab r John Norrbeck
+268 ADD: Norrbeck Anna (wid Andrew)
+269 RESIDING WITH PERSON NOT FOUND: Norrbeck Enor r John Norrbeck
+270 RESIDING WITH PERSON NOT FOUND: Norrbeck Ina tchr r Mrs Anna Norrbeck
+271 ADD: Norrbeck John (Anna)
+272 RESIDING WITH PERSON NOT FOUND: Nye Edith r Mrs Matilda Nye
+273 ADD: Nye Edw jr (Mary) wtchmn
+274 RESIDING WITH PERSON NOT FOUND: Nye Grace student r Edw Nye jr
+275 ADD: Nye Matilda (wid Chas)
+276 RESIDING WITH PERSON NOT FOUND: Nye Oscar r Mrs Matilda Nye
+277 ADD: Olson Arth (Irene) lab
+278 ADD: Oppenheimer Wm (Anna) mgr
+279 ADD: Osceola Township School District Thos R Davis supt
+280 ADD: Ostrand Mary (wid Hjaimer)
+281 ADD: Palosaari Elena variety store
+282 ADD: Pelosari Erik A
+283 RESIDING WITH PERSON NOT FOUND: Pelosari Ernest lab r Erik A Pelosari
+284 RESIDING WITH PERSON NOT FOUND: Pelosari Harold r Erik A Pelosari
+285 RESIDING WITH PERSON NOT FOUND: Pelosari Norman student r Erik A Pelosari
+286 RESIDING WITH PERSON NOT FOUND: Philip Agnes r John Philip
+287 ADD: Philip John (Margt)
+289 NAME: Randeau Xavier
+290 RESIDING WITH PERSON NOT FOUND: Rank Ellen student r Felix J Rank
+291 ADD: Rank Felix (Fern) saw filer
+292 RESIDING WITH PERSON NOT FOUND: Rank Robt student r Felix J Rank
+293 ADD: Ratelle Emma (wid Onesime)
+295 ADD: Roehm Frank (Nellie)
+296 RESIDING WITH PERSON NOT FOUND: Roehm Leslie r Frank Roehm
+297 RESIDING WITH PERSON NOT FOUND: Rose Evelyn r Mrs Georgiana Rose
+298 ADD: Rose Georgiana (wid Geo)
+299 ADD: Rose Henry (Clara)
+301 RESIDING WITH PERSON NOT FOUND: Ryan Eileen r Patk Ryan
+302 RESIDING WITH PERSON NOT FOUND: Ryan Fern student r Patk Ryan
+303 ADD: Ryan Lawrence (Celina) lab
+304 ADD: Ryan Patk (Defoe)
+305 ADD: Sager Fred (Hulda)
+306 NAME: StArnold Thos
+307 RESIDING WITH PERSON NOT FOUND: StArnold Thos R r Thos StArnold
+308 ADD: StFrancis Catholic Church Rev John J Leckman pastor
+309 ADD: StJohn Fred (Ruby) slsmn
+311 RESIDING WITH PERSON NOT FOUND: Saity Jos r John Gestal
+312 RESIDING WITH PERSON NOT FOUND: Saity Valerie tchr r John Gestal
+313 ADD: Sandelin Jonas (Mary) farmer
+314 RESIDING WITH PERSON NOT FOUND: Sandelin Raymond student r Jonas Sandelin
+315 ADD: Sandell Mary (wid Wm)
+316 ADD: Savard Theo J (Eloise) mach opr
+317 ADD: Sawyer Alger V (Irene) lab
+318 RESIDING WITH PERSON NOT FOUND: Sawyer Stillman S r Alger V Sawyer
+319 ADD: Schneller Frank (Kath)
+320 RESIDING WITH PERSON NOT FOUND: Schneller Frank jr auto mech r Frank Schneller
+321 RESIDING WITH PERSON NOT FOUND: Schneller Jos grader r Frank Schneller
+322 RESIDING WITH PERSON NOT FOUND: Schneller Kath r Mary Schneller
+323 NAME: Schneller Mary
+324 ADD: Schulte Antoine M (Melissa M)
+326 RESIDING WITH PERSON NOT FOUND: Schulte Josephine elk Osceola Twp Sch Dist r Mrs Josephine Schulte
+327 ADD: Schulte Josephine (wid John C)
+328 RESIDING WITH PERSON NOT FOUND: Sebbas Arnold (Mildred Sebbas Tavern) r Nicholas Carlson
+329 RESIDING WITH PERSON NOT FOUND: Sebbas John (Sebbas Tavern) r Nicholas Carlson
+330 ADD: Sebbas Tavern (Arnold and John Sebbas)
+331 NAME: Sedaman John
+332 ADD: Seiler Eug G (Angelina) slsmn
+333 NAME: Sippala Edw
+334 RESIDING WITH PERSON NOT FOUND: Smith Bernhardt r Erik Smith
+335 ADD: Smith Erik (Irene)
+336 RESIDING WITH PERSON NOT FOUND: Smith Raymond r Erik Smith
+337 ADD: Sormunen John (Signe) lab
+338 ADD: Starika Michl (Josephine)
+339 RESIDING WITH PERSON NOT FOUND: Sterbentz John lab r Mrs Mary Sterbentz
+340 ADD: Sterbentz Mary (wid Jos)
+341 RESIDING WITH PERSON NOT FOUND: Stetter Francis sawyer r Frank Stetter
+342 NAME: Stetter Frank
+343 RESIDING WITH PERSON NOT FOUND: Stetter Margt r Frank Stetter
+344 ADD: Stetter Mary (wid Nonce)
+346 RESIDING WITH PERSON NOT FOUND: Stoor Alf J r John E Stoor
+347 ADD: Stoor John E (Amanda)
+348 RESIDING WITH PERSON NOT FOUND: Stoor Ralph r John E Stoor
+349 ADD: Storves Emil (Amanda) formn
+350 RESIDING WITH PERSON NOT FOUND: Storves Roger student r Emil Storves
+351 ADD: Stwor Carl (Adeline) firemn
+352 RESIDING WITH PERSON NOT FOUND: Stwor Harry student r Carl Stwor
+353 RESIDING WITH PERSON NOT FOUND: Stwor Pearl r Carl Stwor
+354 RESIDING WITH PERSON NOT FOUND: Sullivan Julia (wid Gerald) r Dolph Mailhot
+355 RESIDING WITH PERSON NOT FOUND: Sushek Eileen nurse r John Sushek
+356 RESIDING WITH PERSON NOT FOUND: Sushek Frank trimmer r John Sushek
+357 ADD: Sushek John (Mary)
+358 RESIDING WITH PERSON NOT FOUND: Sved Carl V pump runner r Matt Sved
+359 RESIDING WITH PERSON NOT FOUND: Sved Elmer E student r Emil A Sved
+360 ADD: Sved Emil A
+361 RESIDING WITH PERSON NOT FOUND: Sved Leo W mach opr r Emil A Sved
+362 ADD: Sved Matt (Ida) carp
+363 ADD: Sved Theo (Winifred) carp
+364 RESIDING WITH PERSON NOT FOUND: Swed Cath student r Otto W Swed
+365 ADD: Swed Edwin filling sta
+366 RESIDING WITH PERSON NOT FOUND: Swed Jas P student r Otto W Swed
+367 RESIDING WITH PERSON NOT FOUND: Swed Josephine r Victor Swed
+368 RESIDING WITH PERSON NOT FOUND: Swed Maurice r Otto W Swed
+369 RESIDING WITH PERSON NOT FOUND: Swed Nester (Florence) mach opr r Victor Swed
+370 ADD: Swed Otto W (Anna S) wtchmn
+371 NAME: Swed Victor
+372 ADD: Tascott Merrill (May) sawyer
+373 ADD: Thors Carl (Virginia) hlpr
+374 ADD: Toppanila Mary (wid Matt)
+375 ADD: Turcatte Amanda (wid Delphias)
+376 ADD: Tumquist Leonard J (Mary) agt Copper Range RR Co
+377 RESIDING WITH PERSON NOT FOUND: Turnquist Mary r Leonard J Tumquist
+378 ADD: Udd Aug (Mary) eng
+379 RESIDING WITH PERSON NOT FOUND: Udd Dorothy r Aug Udd
+380 ADD: Udd Harold W (Alice) lab
+381 NAME: UNITED STATES GOVERNMENT Post Office Anna G Kindelan postmistress
+382 ADD: Urquhart Fred (Ida) caretkr
+383 ADD: Vardian John (Margt) edgermn
+384 NAME: Visine Frank
+385 ADD: Warmington Henry (Minnie)
+386 ADD: Warmington Robt (Adeline) slsmn
+387 ADD: Wasberg Leonard A (Genevieve)
+388 ADD: Westerholm Edw (Bessie) mach opr
+389 RESIDING WITH PERSON NOT FOUND: Westerholm Elrick kilntndr r Edw Westerholm
+390 ADD: Westerholm Geo M (Helen) longshoremn
+391 RESIDING WITH PERSON NOT FOUND: Westerholm Gilbert lab r Edw Westerholm

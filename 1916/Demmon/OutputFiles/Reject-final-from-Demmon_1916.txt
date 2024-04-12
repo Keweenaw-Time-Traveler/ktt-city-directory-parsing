@@ -1,0 +1,38 @@
+27 NAME: Boston Methodist Episcopal Church, Rev J Strike pastor, ns County rd 1 w of 8 County rd
+36 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Buhakka Henry, lab, bds Kreta Kinnunen
+54 ADD, JOB LOCATION NOT FOUND: Cortopassi Carby (Dominica), confr H C T Co Station, res same
+55 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cortopassi Natalina, tchr Demmon School, bds Corby Cortopassi
+70 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Elio Otto, lab, bds Mrs Margaret Piipps
+79 NAME: Finnish Evangelical Lutheran Church
+82 NAME: Franklin Mining Co, Richard M Edwards (Boston, Mass) res and genl mgr, Albert L Wyman (Boston, Mass) sectreas, Enoch Henderson supt
+83 NAME: Franklin Mining Co Dispensary, Rudolph J Maas phys
+113 NAME: Heikkala Abram trammer Franklin Mining Co
+125 NAME: Hill, see Maki
+149 NAME: Houghton County Street Car Station, 11s H C T Co Boston loc
+171 ADD, JOB LOCATION NOT FOUND: Jiusti Orlando (Mary), blksmith res ws New rd 1 n of Car Station
+215 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kempainen Eli, elk, bds Mrs Anna Kampainen
+243 ADD, JOB LOCATION NOT FOUND: Kinnunen John (Ida), miner Franklin Mining Co, res e of New rd
+244 ADD, JOB NOT FOUND: Kinnunen Kreta, boardinghouse ns H C T Co e of New rd, res same
+248 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kinnunen Waino, rockhouseman, bds John Kinnunen
+253 ADD, JOB NOT FOUND, PERSON NOT FOUND: Kolmonen Mary, bds Peter Kolmonen
+254 ADD, JOB LOCATION NOT FOUND: Kolmonen Peter, lab, res Gust Waarla
+306 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Luoma Solomon, timberman Franklin Mining Co, bds Kreta Kinnunen
+342 ADD, JOB NOT FOUND, PERSON NOT FOUND: Merrier Arthur, farm hd, bds Joseph Merrier
+343 ADD, JOB NOT FOUND, PERSON NOT FOUND: Merrier Fred, farm hd, bds Joseph Merrier
+344 ADD, JOB LOCATION NOT FOUND: Merrier Joseph (Anna), farmer
+346 ADD, JOB NOT FOUND, PERSON NOT FOUND: Merrier Mary, bds Joseph Merrier
+347 ADD, JOB NOT FOUND, PERSON NOT FOUND: Merrier Susie, bds Joseph Merrier
+363 ADD, JOB NOT FOUND: Mustola Jacob jr, bds Jacob Mustola, St Marys loc
+364 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mustola Lenard, lab, bds Jacob Mustola St Marys loc
+390 NAME: Oikarinen Vieno bds Mrs Sana Oikarinen
+430 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pihlaeja Eino, lab, bds Kreta Kinnunen
+432 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pihlaeja John, trammer Franklin Mining Co, bds Kreta Kinnunen
+435 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Piippo Frederick A, elk, bds Mrs Margaret Piippa
+471 ADD, JOB LOCATION NOT FOUND: Saari Isaac, laborer
+476 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Salo Waino, trammer Franklin Mining Co, bds Louis Teroo
+484 NAME: Seager James H Co (branch), Horce B Rogers mgr
+488 ADD, JOB LOCATION NOT FOUND: Sira Albert W, blksmith hlpr, bds Matti Sira, St Marys location
+490 ADD, JOB LOCATION NOT FOUND: Sira Paul, lab bds Matti Sira, St Marys loc
+512 ADD, JOB LOCATION NOT FOUND: Tarvinan Charles (Annie), res e of New rd
+557 ADD, JOB LOCATION NOT FOUND: Waarla Gust (Mary), confr ws New rd nr car station, res same
+576 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Yjana Herman, trammer Franklin Mining Co, bds Kreta Kinnunen

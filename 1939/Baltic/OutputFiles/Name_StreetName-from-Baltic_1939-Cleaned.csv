@@ -1,0 +1,136 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outSt
+2,Andreine,Julio,null,null,14th av
+3,Andreine,Wm,null,null,13th av
+4,Andreini,Emil,null,null,14th av
+5,Baccetti,Giuseppe,null,null,15th av
+6,Bailey,Garfield,null,null,13th av
+8,Baima,Louis,null,null,13th av
+9,Barkari,Carl,null,null,15th av
+11,Beauchamp,Geo,null,null,16th av
+12,Beauchamp,Raymond,null,null,15th av
+14,Bernier,Frank,null,null,14th av
+16,Bloshenko,Fred,null,null,15th av
+18,Bond,Wm,null,null,11th av
+20,Budd,Ernest,null,null,11th av
+21,Cappo,Cesare,null,null,12th av
+22,Carli,Frank,null,null,16th av
+24,Ceruttl,Antonio,null,null,13th av
+26,Chaput,Edw,null,null,12th av
+27,Chaput,Francis,null,null,14th av
+28,Charles,Walter,null,null,11th av
+32,Comina,David,null,null,14th av
+33,Coombe,Ewart,J ,null,11th av
+35,Cortese,Louis,null,null,13th av
+38,DelGhingaro,Franchi,null,null,13th av
+40,Dexter,Philip,null,null,12th
+42,Etapa,Wm,null,null,16th av
+45,Fleury,Frank,null,null,11th av
+47,Genovesi,Oliver,null,null,13th av
+52,Gougeon,Jos,null,null,13th av
+53,Gougeon,Wm,null,null,13th av
+54,Hakala,John,null,null,11th av
+55,Hakala,Maunu,Ilmar ,null,15th av
+56,Harju,Matt,null,null,16th
+57,Harry,Russell,null,null,16th av
+59,Hirvela,Jacob,null,null,15th av
+60,Johnson,Nellie,null,null,15th av
+61,Johnson,Wm,null,null,15th av
+62,Jutunen,Arne,null,null,13th av
+64,Kamppinen,Arvo,null,null,15th av
+65,Karp,John,null,null,13th av
+66,Kaspala,Henry,W ,null,14th av
+67,Katela,Emily,null,null,14th av
+68,Kehus,Wm,null,null,13th av
+69,Kemppainen,Howard,null,null,14th av
+72,Kinsley,John,null,null,11th av
+73,Kobe,Matt,null,null,16th av
+74,Koski,Toivo,null,null,15th av
+75,Kovala,Edw,null,null,14th av
+77,Lammie,Nestor,null,null,15th av
+78,Lantto,Matt,null,null,13th av
+79,LaPointe,Russell,null,null,13th av
+81,Long,Axel,null,null,Stanton av
+85,Luttinen,Paul,A ,null,15th av
+86,Lyttinen,Appa,null,null,11th av
+88,Maki,Wm,null,null,15th av
+90,Manderfield,Bernard,null,null,12th av
+91,Manderfield,John,S ,null,12th av
+93,Marier,Donat,null,null,12th av
+94,Marier,Jos,null,null,13th av
+95,Martilla,Peter,null,null,15th av
+96,Matheus,Michl,null,null,16th av
+98,Mattila,John,null,null,16th av
+99,Mattila,Walter,null,null,13th av
+100,Mattson,Albert,null,null,13th av
+101,Maurin,P,Mrs ,null,13th av
+102,Metsa,Henry,null,null,13th av
+103,Micheletti,Florindo,null,null,15th av
+104,Miller,Edw,null,null,13th av
+107,Mustonen,Chas,null,null,14th av
+108,Myllyla,Wilho,null,null,14th av
+109,Naneville,Geo,null,null,14th av
+110,Naneville,Louis,null,null,15th av
+113,Niemi,Chas,null,null,15th av
+114,Oates,Harry,null,null,11th av
+117,Ostrander,Lewis,null,null,16th av
+118,Paakko,John,null,null,13th av
+119,Paananen,Anna,Mrs ,null,15th av
+122,Pellow,Vivian,null,null,11th av
+123,Peltola,Matt,null,null,15th av
+124,Perala,John,null,null,13th av
+127,Perfetti,Louis,null,null,14th av
+129,Pettitti,John,null,null,12th av
+130,Pidgeon,Harvey,null,null,15th av
+131,Pierozzi,Frank,null,null,13th av
+132,Plesha,Geo,null,null,15th av
+133,Pomylaski,Vincent,null,null,15th av
+135,Priniski,John,null,null,11th av
+137,Raapana,Einar,null,null,15th av
+138,Raffaelli,Frank,null,null,16th av
+140,Raffaelli,Jos,null,null,14th av
+141,Raffaelli,Julia,Mrs ,null,14th av
+142,Raisanen,John,null,null,15th av
+143,Recore,Arth,null,null,15th av
+144,Reed,Josiah,null,null,12th av
+145,Reed,Leonard,null,null,15th av
+146,Reed,Rodwell,null,null,14th av
+148,Rowe,Hartie,null,null,12th av
+151,Seppanen,Oscar,null,null,16th av
+154,Sheehan,Wm,null,null,12th av
+155,Silvola,Irving,null,null,15th av
+156,Singleton,Eliz,null,null,12th av
+158,Smith,Walter,null,null,12th av
+159,Sotala,Aug,null,null,15th av
+160,Sparks,Eug,W ,null,15th av
+162,Spearman,Russell,null,null,14th av
+163,Stark,Carl,null,null,12th av
+165,Stephens,Arth,null,null,15th av
+166,Sweet,Andrew,null,null,12th av
+167,Sweet,Geo,null,null,14th av
+168,Talso,Sami,null,null,13th av
+169,Tavcar,Peter,null,null,14th av
+173,Tormala,Ahti,null,null,15th av
+176,Tretheway,Albert,null,null,14th av
+177,Tretheway,Eliz,null,null,12th av
+178,Tretheway,Fred,null,null,14th av
+179,Tretheway,Robt,null,null,12th av
+180,Tretheway,Robt,J ,jr,13th av
+181,Typpi,Edw,null,null,16th av
+182,Typpi,Frank,null,null,15th av
+183,Urmas,John,null,null,15th av
+184,Valentino,Emil,null,null,11th av
+185,Valentino,Jas,null,null,14th av
+186,Valois,Clifford,null,null,11th av
+188,Venture,Frank,null,null,14th av
+189,Verran,Glenn,null,null,15th av
+190,Verran,Sami,null,null,12th av
+194,Vial,Thos,C ,null,13th av
+195,Vinsek,Michl,null,null,14th av
+196,Vivian,Emma,null,null,13th av
+197,Waltanen,Eino,null,null,16th av
+198,Waltanen,Henry,null,null,15th av
+199,Warrick,Jas,null,null,15th av
+200,Wenberg,Jack,null,null,15th av
+201,West,Walfred,null,null,13th av
+202,Williams,Emily,A ,Mrs,14th av
+203,Zerbst,Irving,null,null,15th av

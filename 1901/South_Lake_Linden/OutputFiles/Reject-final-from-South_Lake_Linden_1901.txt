@@ -1,0 +1,153 @@
+1 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Abrams Samuel, dry goods, e s Duncan, bds R H Davidson
+5 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Allport Alexander K, elk W B Klein, bds Valentine Klein
+12 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Argero Dominick, lab Osceola Con M Co, bds Dominick Catechi
+15 NAME: ArmstrongThielman Lumber Co, planing mill, Tamarack, yards Calumet and Hancock
+24 ADDRESS, JOB NOT FOUND: Axford Joseph jr, removed to Hancock, Mich
+25 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Axford Joseph T, lab Osceola Con M Co, bds Elizabeth Satterly
+44 NAME: Beard Josiah lab bds J Coppinger
+59 ADDRESS, JOB NOT FOUND: Bedell George (aged 75), died December, 1899
+64 ADDRESS, JOB NOT FOUND: Benson Anthony, removed to Houghton, Mich
+72 NAME: Bentfield Mary K died August, 1900
+84 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Bogan Agnes E, bds Patrick Bogan
+85 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bogan Edward C, lab, bds Patrick Bogan
+86 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bogan James G, lab Osceola Con M Co, bds Patrick Bogan
+87 ADDRESS, JOB NOT FOUND: Bogan Patrick, justice of peace, s w cor Ontonagon and Kessler
+88 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bogan Thomas B, lab, bds Patrick Bogan
+122 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Bungart Emma, bds Peter Kohlmeier z
+127 NAME: CALUMET HECLA SMELTING WORKS, James B Cooper Supt, Linwood
+144 ADDRESS, JOB LOCATION NOT FOUND: Catechi Dominick, lab Tam M Co res Grover
+145 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Catechi Spiro, lab Osceola Con Mining Co, bds Dominick Catechi
+155 ADDRESS, JOB LOCATION NOT FOUND: Chapman James O, lab Tam M Co res Tamarack
+160 ADDRESS, JOB LOCATION NOT FOUND: Chevalier Joseph, lab res Tamarack
+161 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Christian Margaret, bds Mathias Enders
+162 ADDRESS, JOB NOT FOUND: Christs Congregational Church, Rev Henry Harris pastor, Grover
+165 ADDRESS, JOB NOT FOUND: Closs Edward, removed to Lake Linden
+168 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Coggin Albert G, dentist, e s Duncan av, bds Henry Guilbault
+169 ADDRESS, JOB LOCATION NOT FOUND: Collins Alexander, lab res w s Ontonagon2 s of Guck
+170 ADDRESS, JOB LOCATION NOT FOUND: Collins Alexander jr, lab bds Alexander Collins
+174 NAME: Collins Walter S removed to Lake Linden Mich
+175 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Collins Wm f, lab, bds Alexander Collins
+178 ADDRESS, JOB LOCATION NOT FOUND: Conley George P, oiler Osceola Con Mining Co, res Grovei
+185 ADDRESS, JOB NOT FOUND: Connors Cecelia ,bds John Connors
+195 NAME: CORBEIL McLAUGHLIN (Treffle C Corbeil Jr, Owen McLaughlin Jr) General Merchandise Duncan, av
+201 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cuddihy Anna M, bkkpr Hodges Opal, bds Michael Cuddihv
+202 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cuddihy John, cooper Tam M Co, bds Joseph Surprenaw
+203 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cuddihy John jr, lab, bds Joseph Surprenaw
+220 NAME: Davidson Robert O bkkpr, res Linwood
+228 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Dee Givina, bds Mrs flonora Dee
+230 ADDRESS, JOB NOT FOUND: Dee Martin M (aged 73), died Feb 2, 1901
+236 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: De Langis* Anna, bds Delphine De Langis
+238 ADDRESS, JOB NOT FOUND: De Langis Martial (aged 47), died August, 1900
+239 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: De Langis Orel, lab, bds Delphine De Langis
+273 ADDRESS, JOB LOCATION NOT FOUND: Dunstone Wm, blksmith res s s Kessler 3 w of Euclid av
+289 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ethier Alexander, lab, bds Joseph Ethier
+290 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ethier Clara M, music tchr, bds Joseph Ethier
+291 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Ethier Eugene L, bds Joseph Ethier
+292 ADDRESS, JOB LOCATION NOT FOUND: Ethier Joseph (Joseph Ethier Co), res Roseland opp Mildred
+293 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ethier Joseph J, lawyer, bds Joseph Ethier
+294 NAME: ETHIER JOSEPH CO, Coal and Wood, Lumber, Lath and Shingles, Etc, Grover
+340 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fretter John, lab, bds Louisa Kerschweng
+374 ADDRESS, JOB NOT FOUND: Glanville Johnson (aged 48), died January, 1901
+378 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Goodman Frederick, elk, bds J C Goodman
+379 ADDRESS, JOB NOT FOUND: Goodman John C, res Lin wood
+394 ADDRESS, JOB NOT FOUND: Gregory Rose (wid Napoleon), housekppr Oscar Sanregret
+397 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gross Theodore, head runner Osceola Con M Co, bds Theodore Gross
+398 ADDRESS, JOB NOT FOUND: Grover Public School, Mary J MacDonald principal, W end Gregory
+405 ADDRESS, JOB NOT FOUND: Gunville Isaac (aged 54), died April 10, 1901
+416 ADDRESS, JOB NOT FOUND: Hanner John G (aged 21), died Feb, 1901
+418 NAME: Harrington Bros (John J and Michael J), saloon, Duncan av
+420 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Harrington John J (Harrington Bros), bds John Harrington
+421 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Harrington Michael J (Harrington Bros), bds John Harrington
+435 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hartman Harry S, elk D E Toplon, bds Meyer Toplon
+439 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Haywood C Albert, bds Louis Goodspeed
+440 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Haywood Mamie, bds Louis Goodspeed
+442 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hebert Daniel, lab, bds Mary Hebert
+444 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hebert Felix, lab, bds Mary Hebert
+450 NAME: Hebert Mary (wid Amaible) res Tamarack
+451 ADDRESS, JOB NOT FOUND: Hebert Mathew (aged 47), died June, 1900
+460 ADDRESS, JOB NOT FOUND: Hexham George (aged 72), died Oct, 1899
+472 ADDRESS, JOB LOCATION NOT FOUND: Holland Dennis, lab, res w end Guck
+473 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Holland Dennis jr, lab, bds Dennis Holland
+474 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Holland John, fireman Osceola Con Mining Co, bds Dennis Holland
+475 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Holland Josephine, bds Dennis Holland
+476 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Holland Mary J, bds Dennis Holland
+477 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Holland Michael, painter Tamarack Mining Co, bds Dennis Holland
+480 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hopkins Lewellyn F, carp Tam M Co, bds Isaac Fillion jr
+482 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Horst Elizabeth, bds John Horsf
+490 ADDRESS, JOB NOT FOUND: Hotel Bismarck, Herman Kahler propr, e s Duncan av
+493 ADDRESS, JOB NOT FOUND: Ingersoll Gertrude L, removed to Lansing, Mich
+516 ADDRESS, JOB LOCATION NOT FOUND: Jestila Anton, head runner Osceola Con Mining Co res Osceola
+519 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jolie Albert, bartndr M Jolie, bds same
+522 ADDRESS, JOB NOT FOUND: Jolie Peter, removed to Hancock, Mich
+532 NAME: Kahler Herman J R, bartndr Hotel Bismarck, res Duncan av
+541 ADDRESS, JOB LOCATION NOT FOUND: Kelley John, lab, res w end of Gregory
+551 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kimball Truman, tmstr Hodges Opal, bds Mrs Juila Kimball
+552 ADDRESS, JOB LOCATION NOT FOUND: Kimball Walter, lab Osceola Con M Co bds Mrs Julia Kimball
+559 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: King Mary (wid John), bds John Helmgrt
+566 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Klein Katherine (wid John), bds W B Klein
+567 ADDRESS, JOB NOT FOUND: KLEIN WM B, Groceries, Meats, Confectionery, Cigars and Tobacco, Etc, Tamarack, res same Mich Tel 61
+573 ADDRESS, JOB NOT FOUND: Koenig Julius (aged 44), died Nov, 1899
+576 ADDRESS, JOB NOT FOUND: Kohlmeier Henry, removed to Houghton, Mich
+593 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Laboix Dennis, lab, bds F Merchand
+594 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: La Chance George, lab Tam M Co, bds Henry La Chance
+596 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: La Chance Rose, bds Henry La Chance
+598 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: La Compte Agnes, bds George La Compte
+600 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: La Compte Wm, lab Tam M Co, bds George La Compte
+602 NAME, PERSON NOT FOUND: La Fave Mabel O, bds Frank La Fave
+615 NAME: Lanctot Nellie bds A J Lanctot
+619 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lavoix Anthony, lab, bds Joseph Poirer
+624 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Blanc David, lab, bds Joseph Le Blanc
+626 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Blanc Joseph jr, lab, bds Joseph Le Blanc
+630 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Febvre Caesar, lab, bds Moses Le Febvre
+631 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Febvre Maxime, lab, bds Moses Le Febvre
+676 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: McGrath Eleen, bds James IMcGrath
+679 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McGregor John, blksmith I B Lester, bds same
+706 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Marcelain Mary, bds Thomas Marcelaiti
+722 ADDRESS, JOB LOCATION NOT FOUND: Marian Joseph, fireman res Grover
+723 ADDRESS, JOB NOT FOUND: Masonville School, Masonville
+728 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mayworm Joseph, bartndr August Mayworm, bds same
+738 ADDRESS, JOB LOCATION NOT FOUND: Merrifield Nicholas, blksmith, Duncan av res Grover
+749 ADDRESS, JOB LOCATION NOT FOUND: Michel Frank, helper Osceola Con Mining Co res Tamarack
+754 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Miller Charles, watchman ArmstrongThielman Lumber Co, bds George Chapman
+768 NAME, PERSON NOT FOUND: Monroe George mach Osceola Con Mining Co, bds Isaac Fillion jr
+782 ADDRESS, JOB NOT FOUND: Moulton Frederick (aged 44), died Dec 20, 1900
+804 ADDRESS, JOB NOT FOUND: New Grover School, Mary J MacDonald priii, e s Duncan av
+820 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ouelette Joseph, lab, bds F Merchand
+833 ADDRESS, JOB NOT FOUND: Paynter Minnie, removed to Lake Linden, Mich
+849 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pepin Alphonse, lab Osceola Con M Co, bds F Merchand
+874 ADDRESS, JOB NOT FOUND: Post Office, Joseph Wise postmaster, e s Duncan av
+897 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Quile Ed, lab ArmstrongThielman Lumber Co, bds Casinino Biocchi
+908 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Reding Benedict J, elk N Reding, bds same
+910 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Reding Frank P, elk N Reding, bds same
+911 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Reding John N, elk N Reding, bds same
+912 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Reding Mary A, bkkpr N Reding, bds same
+923 ADDRESS, JOB NOT FOUND: Rheaume Eugene jr, removed to Dollar Bay, Mich
+938 ADDRESS, JOB NOT FOUND: Roberts Timothy, removed to Mass, Mich
+957 ADDRESS, JOB LOCATION NOT FOUND: St Amant Felix, smelter, res vv s Euclid av 2 s of Guck
+959 NAME: St Cecelia Catholic Church, Rev Hubert Zimmerman pastor
+960 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Germain Anton, lab Tam M Co, bds Elezear St Germain
+961 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Germain Charles, lab, bds Thomas St Germain
+962 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: ST GERMAIN CLARA, Dressmaking and Ladies Tailoring, e s Duncan av nr M R R R crossing, bds Thomas St Germain
+964 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: St Germain Elsie, bds Elezear St Germain
+965 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Germain Frederick, lab Tam M Co, bds Elezear St Germain
+966 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: St Germain Rosie, bds Thomas St Germain
+970 NAME: Sanregret Bros (George and Oscar), saloon, e s Duncan av
+971 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sanregret Della, elk D E Toplon, bds Samuel McGray
+984 ADDRESS, JOB NOT FOUND: Scanlan Thomas F, removed to Montana
+1008 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Senter Albert W, chemist, bds J B Cooper
+1019 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Slattery John, driver Patrick Slattery, bds same
+1022 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Slattery Joseph R, lab Patrick Slattery, bds same
+1023 ADDRESS, JOB NOT FOUND: Slattery Julia (aged 22), died Dec 4, 1899
+1036 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Spahn Casimer J, bds Casimir Spahn
+1037 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Spahn Charles, lab, bds Casimir Spahn
+1038 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Spahn Elizabeth, bds Casimir Spahn
+1039 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Spahn Wm, shoemkr, bds Casimir Spahn
+1069 ADDRESS, JOB LOCATION NOT FOUND: Sullivan Timothy, dipper Osceola Con M Co, res w end Guck
+1074 NAME: Tamarack Osceola Mills School, David McCall prin, Tamarack
+1082 ADDRESS, JOB LOCATION NOT FOUND: Thurmes Louis, blksmith res s s Lakeview 4 w of Center, Linwood
+1087 ADDRESS, JOB LOCATION NOT FOUND: Toplon Meyer, mngr D E Toplon, res same
+1088 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Toupin Louis, bds Louis Toupin jr
+1107 ADDRESS, JOB NOT FOUND: Trevillian Herbert, removed to Franklin Mills, Mich
+1112 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Trottier Philomena (wid Andrew), bds F Merchand
+1134 ADDRESS, JOB NOT FOUND: Wareham Ernest, feeder Tam M Co
+1167 NAME: Woods John lab bds J Coppinger

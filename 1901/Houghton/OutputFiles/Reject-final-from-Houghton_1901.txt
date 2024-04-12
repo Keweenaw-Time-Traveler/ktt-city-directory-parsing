@@ -1,0 +1,819 @@
+3 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Abel Isaac (Browarsky Abel), rms O F Fogelsang
+7 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Adams Edward, barn foreman Wm J Patterson, bds same
+8 ADDRESS, JOB LOCATION NOT FOUND: Adams Mrs Emma, dressmkr National Bank Bldg, res same
+15 ADDRESS, JOB NOT FOUND: Allen John Q, removed to Chicago, Ill
+17 ADDRESS, JOB NOT FOUND: Allie David, removed to Copper Range, Mich
+35 ADDRESS, JOB NOT FOUND: Anthony Gustav, etnp Isle Royale Copper Co
+36 ADDRESS, JOB NOT FOUND: Appleton Thomas, removed to New York
+39 ADDRESS, JOB NOT FOUND: Armory Opera House, Charles V Hendrickson mngr, n e cor Montezuma and Huron
+41 ADDRESS, JOB LOCATION NOT FOUND: Armstrong Lysander B, travagt Ferdinand Wieber res Laurium
+42 NAME, PERSON NOT FOUND: Arnold George A asst in mechanical engineering Michigan College of Mines, bds J C Pryor
+48 NAME: Atlantic Dock School (District No^), Wm Yarvallo tchr, Atlantic Dock (W H)
+49 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Audt Joseph L, lab James Pryor Son, bds Henry Corbielle (E H)
+51 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Avery C Dwight, student, rms W H Thomson
+55 ADDRESS, JOB NOT FOUND: BACHAND MRS MARGARET, Propr Palmer1 House, n s Shelden 2 e of Portage
+57 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Baer Herbert S, sectreas and mngr Lake Superior Soap Co, bds Henry L Baer (Hancock)
+72 ADDRESS, JOB NOT FOUND: Baldwin Howard (aged 40), died April 16, 1899
+85 ADDRESS, JOB NOT FOUND: BARRY HOUSE, Napoleon Barry Propr, s s Shelden 5 e of Isle Royale
+86 ADDRESS, JOB NOT FOUND: BARRY NAPOLEON, Propr Barry House, s s Shelden 5 e of Isle Royale
+90 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Bassett Bessie M, bds E J Bassett
+91 ADDRESS, JOB LOCATION NOT FOUND: Bassett Edward J, livery w s Ripley 2 n of Shelden, res same
+92 ADDRESS, JOB LOCATION NOT FOUND: Bassett Florence M, bkkpr Joseph Phillips Co bds E J Bassett
+93 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Bassett Jessie S, bds E J Bassett
+96 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bath Wm, elk, bds Catherine Douglas
+118 ADDRESS, JOB NOT FOUND: Beck August, dep sheriff Houghton County, res Old Court House
+120 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Beeble Frank J, helper, bds Wm Beeble, Hurontown
+121 NAME, PERSON NOT FOUND: Beeble Leonard J miner, bds Wm Beeble, Hurontown
+122 ADDRESS, JOB LOCATION NOT FOUND: Beeble Wm, lab res Hurontown
+132 ADDRESS, JOB LOCATION NOT FOUND: Benesh Louis W, janitor, res r foot Isle Royale
+134 NAME: Main 1 w of Mich College of Mines
+137 ADDRESS, JOB NOT FOUND: BENNETTS GEORGE, Propr Oriental Hotel, w s Isle Royale, 2 s of Montezuma
+139 ADDRESS, JOB NOT FOUND: Bennetts George W, removed to Marinette, Wis
+144 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Berend Peter, bds M B Rehraiter
+146 ADDRESS, JOB LOCATION NOT FOUND: Berktold Edward J, elk M J Dillion res n e cor Montezuma and Pewabic
+151 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bertrand J Walter, elk B T Barry, rms Shelden Bldg
+160 ADDRESS, JOB NOT FOUND: Biscomb Etta (aged 22), died Dec 25, 1900
+164 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bishop Chamberlin, student, rms E G Emmons
+171 ADDRESS, JOB NOT FOUND: Bleise Charles W, removed to Washington State
+185 ADDRESS, JOB NOT FOUND: Bloing Marguerite, removed to Montana
+187 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Bloing Theresa, bds Matilda Bloing Hurontown
+188 ADDRESS, JOB NOT FOUND: Bloing Tony, removed to Montana
+190 NAME: Board of Trade Cafe, Sackrider McKenzie, proprs, SheldenDee Blk
+192 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bogan Mary M, elk Arnovits Seidenfeld, bds John Bogan (Hancock)
+207 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Brand Catherine, bds Casper Brand
+209 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Brand Russell, elk Union Transit Co, bds Casper Brand
+210 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Brand Wm J, water collr Town Hall, bds Casper Brand
+211 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Brelsford Mary (wid Rowland H), bds E F Douglass
+214 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Briese Anna (wid Louis), bds J P Chappel
+216 ADDRESS, JOB NOT FOUND: Briese Ludwig* (aged 56), died Sept 30, 1900
+219 ADDRESS, JOB NOT FOUND: Brimacombe John, removed to Arizona
+228 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Britz Anthony, plumber, bds Cataherine Britz, Hurontown
+229 NAME: Britz Catherine (wid Peter) res Hurontown
+231 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Britz Peter, lab, bds Catherine Britz, Hurontown
+234 ADDRESS, JOB LOCATION NOT FOUND: Bronder Nicholas A, tailor n s Shelden 2 w of Ripley, res same
+239 ADDRESS, JOB NOT FOUND: Browarsky Abel (Solomon Browarsky, Isaac Abel), whol liquors, s s Shelden 2 e of Isle Royale
+244 ADDRESS, JOB NOT FOUND: Bruneau Damien (aged 44), died April 25, 1900
+251 ADDRESS, JOB LOCATION NOT FOUND: Brunner Max, engr Scheuermann Brewery, res Adams twp (W H)
+257 ADDRESS, JOB LOCATION NOT FOUND: Bunt Robert O, bkkpr Siller Bros, res Hartmann Blk
+258 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: BURDON REGINALD M, Physician MasonDouglass Block, rms Same
+262 ADDRESS, JOB NOT FOUND: Burg Peter, removed to the Wyandot Mine
+263 ADDRESS, JOB NOT FOUND: Burg Peter jr, removed to the Wyandot Mine
+269 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burrows Amanda, dressmkr s s Montezuma 2 w of 1st (W H), bds same
+280 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Byrne Samuel E jr, cashier Paine, Webber Co, bds Mrs Nellie Kaspers
+293 ADDRESS, JOB NOT FOUND: Campbell House, James Kinifick propr, South Side (W H)
+299 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Carey Margaret, prin Graded School (E H), bds Joseph Croze
+306 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Carnaham Sarah (wid John), bds P A McNamaara (W H)
+314 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Carpentier Louis, bds Napoleon Carpentier
+315 ADDRESS, JOB LOCATION NOT FOUND: Carpentier Napoleon, saloon n w cor Shelden and Quincy, res same
+316 ADDRESS, JOB NOT FOUND: Carroll Foundry The (Philip and Richard Carroll jr), D, S S A Ry tracks (E H)
+322 ADDRESS, JOB LOCATION NOT FOUND: Carufel Charles, carp, res s Montezuma 2 w of Isle Royale
+324 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Caudle Thomas, tmstr, bds Herman Zeibel
+334 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chadwick Frank, student, rms S H Vaughan
+342 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chappell Frederick, elk Portage Lake Hardware Co (Ltd), bds Mrs Emily Young (W H)
+346 ADDRESS, JOB NOT FOUND: Charboutte Charles (aged 49), died March 3, 1899
+347 ADDRESS, JOB NOT FOUND: Charboutte Lena (wid Charles), res nw cor Franklin and Montezuma
+351 ADDRESS, JOB LOCATION NOT FOUND: Chaunard Peter, lab, res D, S S A Rv tracks nr Lake (E H)
+353 NAME: CHICAGO, MILWAUKEE ST PAUL RY CO, Commercial Agents Office, S H Vaughan Agent, Douglass House Blk
+354 ADDRESS, JOB NOT FOUND: Chicago Northwestern Ry, city ticket and freight office, C W Blodgett genl agt, Douglass House Blk
+355 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Childers Frank W, bkkpr Mining Gazette, bds Theodore Lange
+356 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chope Wm E, student, rms Ernest J Dube (E FI)
+361 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Christensen George L, instr in Mechanical Engineering Michigan College of Mines, rms Mrs C Didier
+363 ADDRESS, JOB NOT FOUND: Chubb Frederick, erap Isle Royale Copper Co
+365 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Chynoweth Clarence B, bds Mrs Phillippa Chynoweth
+366 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Chynoweth Emma A, bds Mrs Phillippa Chynoweth
+368 ADDRESS, JOB NOT FOUND: Circuit Court, A T Streeter judge, s s Albion bet Huron and Dodge
+369 NAME: CITIZENS NATIONAL BANK THE, Reginald C Pryor Pres, Charles H Hall VicePres, Charles H Moss Cashier, Shelden (See page 637)
+371 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Clarke Edward, rms Casper Brand
+372 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Clarkson James F (Prendergast Clarkson), rms Nellie Kaspers
+373 ADDRESS, JOB LOCATION NOT FOUND: Climat John, lab bds 25 Isle Royale, Hitrontown
+375 NAME: Cole Adelbcrt R mason, res s s Douglass 6 w of 2d (W H)
+376 ADDRESS, JOB LOCATION NOT FOUND: Cole Elmer E, mason, res ss Albion 2 e of 4th (W H)
+378 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cole Walter, lab, bds John J Murray
+381 NAME: Collin Henry A asst in Chemistry Mich College of Mines
+382 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Collins John, bds Michigan Plouse
+391 ADDRESS, JOB NOT FOUND: Colombe Zepherin motorman, bcls Peter Colombe
+393 ADDRESS, JOB NOT FOUND: Commercial House, Peter Lessard propr, s s Shclden 3 e of Dodge
+396 NAME: Continental Fire Co No 1, n w cor Montezuma and Huron
+398 NAME: Convent of Sisters of St Agnes, n s Albion 2 e of Portage
+399 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Coon Henry A, student, rms Caroline Schmcisser
+400 NAME: Cooper Frederick M bds Hotel Pfeiffer
+402 ADDRESS, JOB NOT FOUND: Cooper James R, removed to Hancock, Mich
+403 NAME: Cooper Laura J bds Henry Bannister
+404 ADDRESS, JOB LOCATION NOT FOUND: Cooper Wm G, agt Portage Entry Quarries Co, Hartimann Blk rms F G Winkler (W H)
+405 ADDRESS, JOB NOT FOUND: COPPER HANDBOOK, Horace J Stevens Propr and Publr, Postoffice Blk
+406 NAME: COPPER RANGE LAND ABSTRACT CO, Ira E Randall Attorney and Manager, Abstracts of Land Title, Strobci Block Tel 245 (See backbone of book)
+407 NAME: COPPER RANGE R R, Wm A Paine (Boston, Mass) Pres, Frederick, Stan wood (Boston, Mass) Sec and Treas, R T McKeever Genl Mngr, C W Sanders Chief Engr, W J Souder Genl Passngr and Freight Agt, s s Shelden near P L bridge
+411 NAME, PERSON NOT FOUND: Corey W L blksmith, bds Hotel Pfeiffer
+412 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cornellier Alderic, student, bds Amadee Cornellier
+415 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cornellier Harvey, elk E C Des Rochers, bds Amadee Cornellier
+416 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Cornellier Mary, bds Amadee Cornellier
+417 NAME, PERSON NOT FOUND: Cornellier Wilfred W L, elk Graham Pope, bds Amadee Cornellier
+420 NAME, PERSON NOT FOUND: Corrier Joseph O carp, bds Joseph T Corrier
+421 NAME: Corrier Joseph T carp, s s Montezuma 1 w of Franklin, res same
+422 NAME, PERSON NOT FOUND: Corrier Reginald J appr The Carroll Foundry, bds Joseph T Corrier
+427 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cotton Charles S, student, rms Mrs Nan Pryor
+430 ADDRESS, JOB NOT FOUND: County Jail, s s Albion bet Huron and Dodge
+431 ADDRESS, JOB NOT FOUND: County Lagents Office, W F Miller agent, P O Blk
+432 ADDRESS, JOB NOT FOUND: County Poor Farm, John Schabach supt, 5 miles w of Court Flouse
+433 ADDRESS, JOB NOT FOUND: COUNTY TREASURERS OFFICE, W Frank James Treasurer, Michael M Foley Deputy, Court House
+434 ADDRESS, JOB NOT FOUND: COURT HOUSE, s s Albion between Huron and Dodge
+440 ADDRESS, JOB LOCATION NOT FOUND: Crawford Andrew, lab res r n s Main nr Emerald and D, S S A Ry (E H)
+441 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Crawford Cora, bds Mrs Mdry Crawford
+446 NAME, PERSON NOT FOUND: Crebassa M L lab, bds Oriental Hotel
+450 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Crowder Elmer, billiard marker Sackrider McKenzie, rms Shelden Blk
+452 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Croze Charles E, elk D, S S A Ry, bds Joseph Croze
+459 ADDRESS, JOB NOT FOUND: Croze John M, removed to South Africa
+463 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Croze Lawrence L (Croze Healy), lawyer, bds Joseph Croze
+466 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Croze P Albert, bds Joseph Croze
+472 ADDRESS, JOB NOT FOUND: Croze Healy (Lawrence L Croze, Janies J Healy)binsurance, real estate and loans SheldenDee Blk
+475 ADDRESS, JOB NOT FOUND: Cundy Emily L, lids Sarah J Curnly
+476 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cundy Jabez G, elk, bds Sarali J Cundy
+481 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Curnow John, miner, bds 6j Isle Royale, Hurontown
+490 ADDRESS, JOB LOCATION NOT FOUND: Cutler Arthur F, acct Michigan College of Mines bds Louis Miller (E H)
+491 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Cutler Frank, rms Edward B McNamara (EH)
+494 ADDRESS, JOB LOCATION NOT FOUND: Dalaire Peter, lab bds Henry Corbeille (EH)
+496 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Daly Joseph, messngr Lake Superior Produce Cold Storage Co, bds Mrs Mary Daly
+497 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Daly Mary, bds Mrs Mary Daly
+498 NAME: Daly Mary (wid John G) res c s East 4 s of Florence (Eli)
+499 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Daly Nellie, dressmkr, bds Mrs Mary Dalv
+500 NAME, PERSON NOT FOUND: Daly Rose A dressmkr, bds Mrs Mary Dalv
+501 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Daly Thomas, watchman, bds Mrs Mary Dalv
+502 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Daly Wm J, ship elk Lake Superior Produce Cold Storage Co, bds Mrs Mary Daly
+504 NAME: Daskam W R Co (Walter R Daskam, George W Hogben), hardware Postoffice Blk
+519 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: DEE JAMES R, Mngr Peninsula Electric Light and Power Co, Michigan Telephone Co Dealer in Electrical Supplies, Postoffice Blk, bds R B Lang (See front cover)
+521 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Dee Martin C, rms Dee Blk
+522 ADDRESS, JOB NOT FOUND: DEE THOMAS S, Resident Manager Paine Webber Company SheldenDee Block, res same
+524 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Deeble Edward, miner, bds Stephen Terrill Hurontown
+526 NAME, PERSON NOT FOUND: De Forge Sadie C, bkkpr E F Douglass, bds Xavier De Forge
+531 NAME: DE GRAFF CHARLES H, House and Sign Painting, Paperhanging, Kalsomining Etc, n s Montezuma w of Dodge, res s e cor Isle Royale and Albion
+537 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Donnelly Benjamin, lab E J Bassett, bds same
+538 NAME: Douglas Catherine (wid Edward F) res e s Isle Royale 2 n of Albion
+539 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Douglass Courtney C, office S SheldenDee Blk, rms same
+541 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Douglass Edward F jr, student, bds E F Douglass
+542 NAME: Douglass F A Agency, W C Douglass mngr, insurance, DouglassMason Blk
+543 ADDRESS, JOB NOT FOUND: DOUGLASS HOUSE, John C Mann Proprietor, Shelden cor Isle Royale
+544 ADDRESS, JOB NOT FOUND: Douglass House Block, Shelden cor Isle Royale
+545 NAME: Douglass House Co, James H Seager pres, John H Rice sec and treas, office National Bank of Houghton
+547 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Douglass R Spencer, student, bds E F Douglass
+552 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Down Seth A, painter, bds Mrs Emily Young (W H)
+560 ADDRESS, JOB LOCATION NOT FOUND: Driscoll Dennis, lab bds Lawrence Driscoll
+561 ADDRESS, JOB LOCATION NOT FOUND: Driscoll James, lab bds Mary Driscoll Hurontown
+571 NAME: DUBE ERNEST J (Ruelle Dube) Real Estate, Mineral and Pine Lands, foot of Ripley, res s s Main 2 e of Franklin (E H) (See left side lines)
+574 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Du Fresne Joseph, tmstr, bds West Superior Plotel
+575 NAME: Duluth, South Shore Atlantic Ry, Clarence M Hoar agt, depot foot of Isle Royale
+578 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dunn Bird W, engr, bds W A Dunn
+580 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Dunn Daisy O, bds W A Dunn
+584 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dunn Frank A, elk Douglass House, rms Shelden BIk
+587 ADDRESS, JOB NOT FOUND: Dunn Michael, removed to Butte Mont
+588 ADDRESS, JOB NOT FOUND: Dunn Wm A, mining capt res s e cor Montezuma and Dacotah
+589 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Dunn Wnt L, bds W A Dunn
+591 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Eagle Frederick, cooper Scheuermann Brewery, bds Gottlieb Flaess
+595 NAME: Echlin Ethel M bds Daniel Echlin, Hurontown
+598 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Eddy Wm H, miner, bds Emeline, Hurontown
+600 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Edwards Emma C, bdsi Mrs E R Edwards
+601 ADDRESS, JOB LOCATION NOT FOUND: Edwards George C, teller National Bank of Houghton, res sS Albion 4 w of Dacotah (W H)
+603 ADDRESS, JOB NOT FOUND: EDWARDS JAMES P, Civil and Mining Engineer, s w cor Montezuma and Dacotah (W H) res same (See page 641)
+606 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Edwards Richard J, student, bds P Edwards (W H)
+607 ADDRESS, JOB LOCATION NOT FOUND: Edwards Richard M, asst supt Isle Royale Mining Co res n w cor Main and Agate(E H)
+609 ADDRESS, JOB NOT FOUND: Edwards Thomas W (aged 61), died July 6, 1899
+610 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Eggleston Ray L, tinner, bds C J Markham (W H)
+611 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Eggleston Rosanna (wid George D), bds C J Markham (WH)
+622 ADDRESS, JOB NOT FOUND: Elsila John (aged 30), died June 6, 1900
+625 ADDRESS, JOB LOCATION NOT FOUND: Emmons Edgar G, clerk I E Swift Co res e s Garnet 4 s of Diamond (E H)
+629 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Enderich Oscar A, bartndr Martin Kratt, bds Same
+630 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Engel Peter, miner, bds Nicholas Kutsdhoid, Hurontown
+631 ADDRESS, JOB LOCATION NOT FOUND: Englert Adolph, engr A Haas Brewing Co res n s Montezuma 3 w of Huron
+632 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Englert Catherine, bds Adolph Englert
+633 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Englert Elizabeth M, milliner Mrs L Miller, bds Adolph Englert
+646 NAME: EUREKA MEDICINE CO, Box 651, Houghton, Mich
+649 ADDRESS, JOB NOT FOUND: Evans Alfred H, removed to Montana
+650 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Evans George W, lab Scheuermann Brewery, bds James W Evans
+651 ADDRESS, JOB NOT FOUND: Evans James W, res Adams twp (W H)
+652 ADDRESS, JOB NOT FOUND: Evans Mary A, removed to Hancock, Mich
+653 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Evans Wm, engr, bds James W Evans
+654 ADDRESS, JOB NOT FOUND: Eveland Robert, removed to Fenton, Mich
+655 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Eveland Wm D, painter, bds John J Murray (W H)
+657 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Evertz Christopher, tmstr A Haas Brewing Co, rms same
+658 ADDRESS, JOB NOT FOUND: EXCHANGE THE, Frank J Voith Propr, Wines, Liquors and Cigars, Shelden cor Huron (See p 643)
+660 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fagg Wm E, elk Michigan Supply Co, bds Theodore Lange
+662 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Fales Charles S, trainmaster Copper Range R R, rms Mrs Phillippa Chynoweth
+672 ADDRESS, JOB NOT FOUND: Fesing Ernest (aged 24), died March 17, 1901
+674 ADDRESS, JOB NOT FOUND: Fesing George F, removed to Hancock, Mich
+687 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Flannigan Jessie T, bds Mrs Ada Murray (W H)
+691 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fletcher Bert, sec Portage Lake Hardware Co (Ltd), rms Strobel Blk
+693 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Flynn Win F, bkkpr Kelson Morris Co, bds Win H Dee
+694 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Flynn Wm J, bartndr Sackrider McKenzie, rms Shelden Blk
+705 ADDRESS, JOB NOT FOUND: Forest Hill Cemetery, C G Baudin sexton, Portage twp s s Main 24 mde e of Franklin (E H)
+713 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fox Florence, student, bds Christof Pox
+717 NAME: Fredericks Hans lab bds West Superior Hotel
+718 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fremodig C Hjalmer, elk National Bank of Houghton, bds F W Stoyle (W H)
+723 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fricke Arthur, lab, bds Andrew Fricke
+724 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fricke Henry, lab, bds Andrew Fricke
+729 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fugina Peter, tailor N A Bronder, bds same
+733 NAME: Gagnon Eli capt steamer Hennes, res s s Jasper 2 c of Agate (EH)
+734 ADDRESS, JOB NOT FOUND: Gagnon Mary (wid John), removed to Chassel, Mich
+738 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gaines Edward P, solr Lake Superior Produce Cold Storage Co, rms F J Major
+739 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Gaines Gail, rms F J Major
+747 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gasperich Charles, miner, bds Stephen Terrill Hurontown
+749 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gebeau Henry, mach, bds Eusebe Reault
+753 ADDRESS, JOB NOT FOUND: Germania Hotel, Gottlieb Feurer propr, s s Shelden 2 e of Pewabic
+763 ADDRESS, JOB NOT FOUND: GIBSON JOHN L, Dentist, 12 Young Bldg, Tel 360 rms Ernest J Dube (EH)
+767 ADDRESS, JOB NOT FOUND: Gilbert Sheldon D (aged 24), died April 23, 1899
+769 ADDRESS, JOB NOT FOUND: Gillingham Rev Henry, removed to Atlantic, Mich
+775 ADDRESS, JOB LOCATION NOT FOUND: Gitzen Albert, tmstr L Henncs Co bds Joseph Gitzen
+778 NAME: Gitzen Joseph boxman Ferdinand Wieber, res e s Islet Royale 3 e of Albion
+784 ADDRESS, JOB NOT FOUND: Glass Rev D Hasler, removed to Clarkson, Mich
+793 NAME: Goggin John S removed to Butte, Mont
+798 NAME: Goodell Horatio S agent, res s s Main 5 w of Haas Park (EH)
+805 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gordon Henry, wiper, bds Wm Beeble, Hurontown
+806 NAME: Gordon Wm D tailor, e s Tsle Royale n of Shelden, res s s Montezuma 3 w of Franklin
+813 NAME: Grace Methodist Episcopal Church, cor Isle Royale and Montezuma
+818 NAME, PERSON NOT FOUND: Grass May E elk J L Grass, bds same
+823 ADDRESS, JOB NOT FOUND: Gravier Peter, removed to Calumet, Mich
+827 NAME: Gray Wm T bkkpr Lake Superior Produce Cold Storage Co, res s s Albion 2 e of 1st (W H)
+828 NAME: Gray, Haire Rice (Albert R Gray, Norman W Haire, Wm G Rice), lawyers, National Bank Bldg
+836 NAME, PERSON NOT FOUND: Gribble Eva L milliner L Loranger, bds I W Gribble (W H)
+838 ADDRESS, JOB LOCATION NOT FOUND: Gries Jacob, elk Scheuermann Brewery, res Adams twp (W H)
+839 NAME: Griffen Frank D tel opr 1) S S A Ry res s w cor Montezuma and Quincy
+845 NAME: Grignon Mary L bds Antoine Grignon
+847 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Gripple John, bds Mrs Emily Young (W H)
+850 ADDRESS, JOB LOCATION NOT FOUND: Guerin Michael, lab res s e cor Shelden and Ripley
+851 ADDRESS, JOB LOCATION NOT FOUND: Guibord Frank G, elk res e s 3d 1 s of Albion (W H)
+852 NAME, PERSON NOT FOUND: Gundlach Herman E genl ningr P F P Mueller, rms Flerman Shetney
+853 ADDRESS, JOB LOCATION NOT FOUND: Gunnard Louis, trucker D, S S A Ry res r n s Shelden 4 e of Ripley
+856 NAME: Gutheil Carl (aged 74) died March 21, 1900
+858 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Haas Albert C, foreman A Haas Brewing Co, bds Joseph Haas
+859 NAME: HAAS A BREWING CO, Joseph Haas Pres, Adolph
+860 ADDRESS, JOB NOT FOUND: Haas VicePres, Christof Fox Sec and Treas, Shelden n e cor Dodge
+862 NAME: Haas Ed Co (Edward, David and Herman Haas) clothing, hats and caps, Strobel Blk
+864 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Haas Elizabeth, student, bds Joseph Haas
+866 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Haas Harriet M, bds Joseph Haas
+867 ADDRESS, JOB NOT FOUND: Haas Herman (Ed Haas Co), res CgJumet
+869 ADDRESS, JOB LOCATION NOT FOUND: Haas Toseph, pres A Haas Brewing Co, res e end Main (EH)
+871 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Haas Matta, bds Joseph Haas (E H)
+872 ADDRESS, JOB NOT FOUND: Haas Park, Joseph Haas propr, e end of Main 1/4 miles from City Hall (E H)
+877 ADDRESS, JOB LOCATION NOT FOUND: Haess Gottlieb, lab Scheuermann Brewery, res Adams twp (W H)
+878 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Hafenreffer Jacobina (wid Charles), bds Matilda Alt
+881 ADDRESS, JOB NOT FOUND: Hahn John (aged 62), died Nov 13, 1899
+891 ADDRESS, JOB NOT FOUND: Haller Christian, iab, removed to Milwaukee, Wis
+895 NAME, PERSON NOT FOUND: Halonen Hjalmar drill boy, bds 75 Isle Royale
+899 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Hambitzer Blanche, bds Joseph F Hambitzer
+901 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Hambitzer Mabel H, bds Joseph F Hambitzer
+902 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hamet Ralph W, bkkpr M Van Orden, rms Caspar Brand
+908 ADDRESS, JOB LOCATION NOT FOUND: Hankey J Wm, tmstr A Haas Brewing bds Jacob Hankey
+925 ADDRESS, JOB NOT FOUND: Hansen Oscar (aged 41), died Sept 15
+931 NAME: Hardiu Alexander miner bds 78 Isle Royale, Hurontown
+935 ADDRESS, JOB NOT FOUND: HARKNESS R BRUCE, Physician and Surgeon, 12 Young Bldg Tel 360 res E Houghton, Tel 3602 r
+939 ADDRESS, JOB LOCATION NOT FOUND: Harper John, propr Harpers Ferry, Atlantic Dock (WH), res same (WH)
+940 ADDRESS, JOB NOT FOUND: Harpers Ferry, John Harper propr, Atlantic dock (W H)
+951 ADDRESS, JOB LOCATION NOT FOUND: Harrington Jeremiah, lab bds Katherine Harrington, Hurontown
+952 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Harrington Jeremiah, miner, bds Hannah Harrington
+954 ADDRESS, JOB NOT FOUND: Harrington Josephine (aged 22), died July 11, 1900
+962 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Harrington Philip, miner, bds Hannah Harrington
+964 ADDRESS, JOB NOT FOUND: Harrington Timothy, removed to Colorado
+968 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Harris Stephen, carp, bds Mrs Amelia Plarris
+973 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hart Henry, lab, bds Mrs Mary Lutz
+974 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hart Henry W, ticket agt D, S S A Ry and M R and H C R Rs, bds Pumerviile House
+975 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hartman Otto, carp, bds Killian Neugebauer Hurontown
+978 ADDRESS, JOB NOT FOUND: Hartmann Block, n e cor Shelden and Huron
+985 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hartz John, cook Knauf McNeil, bds W T McIntyre (W H)
+988 ADDRESS, JOB LOCATION NOT FOUND: Hassenger Edward, condr Copper Range R R res s s Albion 2 w of Franklin
+991 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Haug Anna L, bds Matthew Haug
+992 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Haug Elizabeth, bds Matthew Haug
+994 ADDRESS, JOB LOCATION NOT FOUND: Haukipuro John, employe Isle Royale Copper Co bds 78 Isle Royale, Hurontown
+995 ADDRESS, JOB LOCATION NOT FOUND: Hauta Isaac, lab bds Mrs Susan Kangas
+1001 ADDRESS, JOB LOCATION NOT FOUND: Hazel Thomas, bartndr George Reisewitz bds Hotel Pfeiffer
+1005 ADDRESS, JOB LOCATION NOT FOUND: Healy John J, lawyer, Kroll Bldg, res same
+1011 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Heather Edward, emp Isle Royale Copper Co, bds Erneline Foote, Hurontown
+1017 NAME: Hebert Alary bds Narcisse Hebert
+1018 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hebert Moses, marine engineer, bds Narciss Hebert
+1020 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hecker Frederick, miner, bds Stephen Terrilk Hurontown
+1025 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Heiman George W, tel opr Paine, Webber Co, bds Theodore Langes
+1026 ADDRESS, JOB LOCATION NOT FOUND: Heinze Emil, lab, res Hurontovvn
+1027 ADDRESS, JOB LOCATION NOT FOUND: Heiser Adam, carp, res Hurontovvn
+1030 ADDRESS, JOB LOCATION NOT FOUND: Hendricks Emil, lab res Hurontovvn
+1047 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hennes Agnes, asst bkkpr L Hennes Co, bds Mrs Elizabeth Hennes
+1048 ADDRESS, JOB NOT FOUND: Hennes Elizabeth (wid Joseph), res s vv cor Huron and Montezuma
+1049 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hennes Frank C, student, bds Mrs Elizabeth Hennes
+1051 NAME, PERSON NOT FOUND: Hennes Louis P elk L Hennes Co, bds Mrs Elizabeth Hennes
+1052 NAME: HENNES L CO (Louis Hennes), General Merchandise, foot of Huron
+1053 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hennes May, student, bds Mrs Elizabeth Hennes
+1054 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hennes Olivette, student, bds Mrs Elizabeth Fiennes
+1055 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hennes Robert L, mngr L Hennes Co, bds Mrs Elizabeth Hennes
+1056 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hennes Wm, sexton St Ignatius (R C) Church, bds Rev A J Rizek
+1063 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Herron Matthew, bds Mrs Emily Young (W H)
+1068 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Hicken Joseph, bds Mrs Emily Young (W H)
+1072 ADDRESS, JOB NOT FOUND: High School, w s Pewabic bet South and Albion
+1103 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hocking Anna, elk W J Sampson, bds Wm Snowden, Hurontown
+1106 ADDRESS, JOB NOT FOUND: Hocking Win J, removed to Copper Range, Minn
+1109 ADDRESS, JOB NOT FOUND: HODGE IRON COMPANY, Charles J Hodge Pres and Mngr, Charles H Lang Asst Treas, W H Harris Supt, Works Franklin Twp on H C R R, P O Houghton (See inside front cover)
+1111 ADDRESS, JOB NOT FOUND: Hodgson Bros Hoar (Joseph H and Wm A Hodgson, Wm B Hoar), general store, s s Shelden 3 w of Isle Royale
+1116 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hofmann Henry C, tailor N A Bronder, bds same
+1138 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hosking Edwin, coachman F J Bawden, bds same
+1143 ADDRESS, JOB NOT FOUND: Hosking Mary (wid John aged 78), died Jan 18, 1901
+1152 ADDRESS, JOB NOT FOUND: Hotel Pacific, Mrs Eliza J Hoskins propr, s e cor Shelden and Dodge
+1153 ADDRESS, JOB NOT FOUND: HOTEL PFEIFFER, Capt Ernest Meyer Propr, s s Shelden 5 e of Dodge
+1154 ADDRESS, JOB NOT FOUND: Houghton Athletic Club, Larry Gleason mngr and instr, s e cor Shelden and Dacotah
+1155 NAME: Houghton Cash Grocery Co (Wm L McVicar, Edward W Bonsall), n s Shelden 4 e of Dacotah
+1156 ADDRESS, JOB NOT FOUND: Houghton House, A H Elder propr, n e cor Shelden and Ripley
+1157 NAME: Houghton Light Infantry Armory (Co F, 5th Reg), n e cor Montezuma and Huron
+1158 ADDRESS, JOB NOT FOUND: Houghton School, w s Pewabic bet South and Albion
+1159 NAME: Houghton School of Music, G L Johnson propr, Hartmann Blk
+1160 NAME: HOUGHTON STEAM DYE WORKS, F R Paine Proprietor, e s Dodge 2 s of Montezuma (See p 4)
+1161 NAME: Houghton Hancock Stage Line, Lorenzo H Hind proprietor, n s Main 4 e of Franklin (E H)
+1165 ADDRESS, JOB NOT FOUND: Hubbell Jay Abel (aged 71), died Oct 13, 1900
+1169 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hukoff John, bartndr Erickson Keskitah, rms same
+1170 ADDRESS, JOB NOT FOUND: Hull Frank (aged 36), died May 11, 1899
+1178 ADDRESS, JOB NOT FOUND: Hunt Estelle, bcls J P Hunt (W H)
+1184 ADDRESS, JOB NOT FOUND: Huron School, Elizabeth Reis principal, Hurontown
+1186 NAME: Hurontown Fire Co No 1, John Kroll pres, John Meyers chief, Wm Sampson sec, Ernest F P Liebetrau treas
+1187 NAME: Hurontown M E Church, Rev E D White pastor, Hurontown
+1195 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hyde Walter, student, rms Mrs Catherine Didier
+1197 ADDRESS, JOB NOT FOUND: IDEAL RESTAURANT, Knauf McNeil proprs, Hartmann Blk, foot of Fluron
+1203 NAME: ISLE ROYALE COPPER CO, Albert S Bigelow (Boston, Mass) Pres, W J Ladd (Boston, Mass) Sec and Treas, Win E Parnell (Calumet) Supt, R M Edwards Asst Supt, Copper Mines, Isle Royale
+1207 ADDRESS, JOB NOT FOUND: Jackson Frederick W, removed to Redridge, Mich
+1212 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Jackson Wm S (Wheeler Jackson), bds Albert W Wheeler
+1220 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: James Chester A, bds James James
+1223 ADDRESS, JOB NOT FOUND: James John R, removed to Calumet
+1228 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: James Wm J, fireman Copper Range R R, bds James James (W H)
+1229 ADDRESS, JOB NOT FOUND: JAMES W FRANK, County Treasurer, Court House, res Hancock, Miclo
+1233 ADDRESS, JOB LOCATION NOT FOUND: Jauch Wm, foreman Scheuermann Brewery, res Adams twp (W H)
+1243 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Johns Trowbridge, printer, rms Nellie Kaspers
+1245 NAME: Johnson Charles B student, bcls E B McNamara (E H)
+1253 ADDRESS, JOB LOCATION NOT FOUND: Johnson George L, music teacher, Hartmann Blk res same
+1265 NAME: Johnston John T bds F L Otto
+1269 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jones Cleon G, barber, rms Thomas McQuire
+1271 ADDRESS, JOB NOT FOUND: Jones John (aged 79), died Sept 29, 1900
+1276 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Junker Annie, teacher Houghton School, bds Jost Junker
+1278 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Junker Minnie, opr Mich Tel Co, bds Jost Junker
+1295 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kangas Hilda, laundress, bds Charles Lehto, Hancock
+1301 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Karger Lessing (S Karger Sons), rms SheldehDee Block
+1305 ADDRESS, JOB NOT FOUND: Karger S Sons (Simon, Samuel and Lessing), whol meats, ft of Dodge
+1315 ADDRESS, JOB NOT FOUND: Kaspers Annie (aged 37), died Feb 15, 1901
+1316 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kaspers Gabriel, bartndr John Kaspers, bds same Hurontown
+1318 ADDRESS, JOB NOT FOUND: Kaspers Joseph M (aged 34), died Oct 30 1899
+1319 NAME: Kaspers Nellie (wid Joseph M) res s s Albion 2 w of Dodge
+1321 ADDRESS, JOB NOT FOUND: Kaufman Wm C (aged1 38), died April 14, 1900
+1329 NAME: Kehl Harriet (wid Christian aged 77) died Jan 16 1000
+1330 NAME: Kehl Herman C bds C F Kehl
+1336 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Kelleher Kate, bds John Kelleher
+1344 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kemp VVm, elk Portage Lake Hardware Co (Ltd), bds w E r airbairn
+1346 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kenerson Charles G, electrician, bds F O Morrison
+1347 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kennedy Anna I, elk Mrs L Miller, bds Wm Kennedy
+1353 ADDRESS, JOB NOT FOUND: Keskitalo Axsel (Erickson Keskitalo),, res Red Jacket, Mich
+1354 ADDRESS, JOB NOT FOUND: Keweenaw Club, Lucius L Hubbard tres, Alfred C Lane sec and treas, s s Main 4 e of Pearl (E H)
+1360 ADDRESS, JOB NOT FOUND: Kibbee Wm, removed to Washington, D C
+1361 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kieler Henry, carp, bds Michigan Plouse
+1363 ADDRESS, JOB NOT FOUND: Killian Bernard, removed to Grand Rapids, Mich
+1374 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: King James, coachman Johhson Vivian, rms same
+1392 ADDRESS, JOB NOT FOUND: Klingkammers Orchestra, Joseph Klingkammer leader, Hurontown
+1395 ADDRESS, JOB LOCATION NOT FOUND: Klotz Frank, tmstr bds Christ Willmes, Hurontown
+1398 ADDRESS, JOB NOT FOUND: KNAUF McNEIL (Joseph H Knauf,Thomas McNeil), Proprs Ideal Restaurant, Hartmann Blk, ft of Huron
+1401 ADDRESS, JOB NOT FOUND: Knisley W W, director commercial dept High School
+1403 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Knox Laura E, bds Wm Metzger
+1406 NAME, PERSON NOT FOUND: Koenen Joseph S miner, bds 8 Isle Royale
+1408 ADDRESS, JOB LOCATION NOT FOUND: Koenen Simon, lab res 8 Isle Royale
+1410 NAME: Koeppler John lab bds Parry House
+1411 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Kolezer Wm carp, bds Herman Zerbet
+1415 ADDRESS, JOB NOT FOUND: Koppletnann John, linotype opr Mining Gazette, bcls Ripley
+1426 ADDRESS, JOB LOCATION NOT FOUND: Kratt Martin, saloon n s Shelden 1 w of Dodge, res same
+1430 ADDRESS, JOB NOT FOUND: Krellwitz August (aged 70), died Dec 22, 1900
+1431 ADDRESS, JOB NOT FOUND: Krellwitz August L, furniture and undertaker, foot of Huron, res same
+1432 ADDRESS, JOB LOCATION NOT FOUND: Krellwitz Edmund C, engraver M Haug res w s Garnet 2 s of Diamond (E H)
+1435 NAME: Krellwitz Henry A foreman The Mining Gazette, res w s 3d 1 s of South(W H)
+1439 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Krellwitz Wm, moldcr, bds Mrs Henrietta Krellwitz
+1442 ADDRESS, JOB NOT FOUND: Kroll Frank, removed to Cape Nome, Alaska
+1445 NAME, PERSON NOT FOUND: Kroll John J bkkpr Ferdinand Wieber, bds Frederikai Kroll
+1448 ADDRESS, JOB LOCATION NOT FOUND: Krueger Henry R, barber e s Huron 2 n of Shelden res w s Portage 2 s of Montezuma
+1457 ADDRESS, JOB LOCATION NOT FOUND: Lafortune Ovilas, gardener w s Franklin 1 s of Shelden res same
+1458 ADDRESS, JOB LOCATION NOT FOUND: Lafreniere Edmond, lab bds Eugene Lafreniere (W H)
+1459 NAME: Lafreniere Eugene res Adams twp (W H)
+1460 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Lafreniere Joseph, bds Eugene Lafreniere
+1468 NAME: Lake Superior Produce Cold Storage Co, J P Petermann pres, E M Lieblein vicepres, J W Ruhl sec and treas A J Ruhl genl mngr, w of Bridge on line of Copper Range R R (W H)
+1469 NAME: Lake Superior Soap Co, Henry L Boer pres (Hancock), Herbert S Boer sec, treas and mngr, n s Shelden foot of 3d
+1472 ADDRESS, JOB NOT FOUND: Lancioni Louis, res Adams twp (W H)
+1473 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Land Charles, student, rms S H Vaughan
+1478 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Lang Edna M, bds R B Lang
+1479 NAME: Lang Richard B postmaster and dry goods Shelden s e cor Isle Royale, res e s Portage 1 s of Shelden
+1480 ADDRESS, JOB NOT FOUND: Lang Sidney S, removed to Buffalo, NW
+1481 NAME: Langdon Priscilla (wid Edward E) res s s South 4 e of 2d (WH)
+1482 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Langdon Thomas F, engr, bds Mrs Priscilla Langdon (W H)
+1484 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Lange Louise, bds Theodore Lange
+1485 NAME: LangeTheodore( furniture and undertaker w s Isle Royale 1 n of Shelden, res n s Albion 1 w of Dodge
+1487 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Langlois Mrs Angeline, bds Ferdinand Pelletier
+1490 NAME: Larsen Ludwig A salesman Nelson Morris Co, res n e cor Montezuma and Pewabic
+1494 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: La Rue, Fred W, student, bds M Van Orden
+1504 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Laundroche Albena, bds Antoine Laundroche
+1505 ADDRESS, JOB NOT FOUND: Laundroche Amic, removed to Calumet, Mich
+1506 ADDRESS, JOB LOCATION NOT FOUND: Laundroche Antoine, lab res s s Shelden 2 e of Ripley
+1507 ADDRESS, JOB NOT FOUND: Laundroche Mary, removed to LAnse, Mich
+1509 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Laux Bernard, porter, bds John Laux
+1510 ADDRESS, JOB NOT FOUND: Laux John, res Swcdetown
+1512 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Laux Mary, dressmkr, bds John Laux
+1513 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Laux Rudolph, driver, bds John Laux
+1522 ADDRESS, JOB NOT FOUND: Learv John (aged 60), died June 17, 1899
+1529 NAME: LISE R G CO (Robert G Lee, Miss Grace V Cavan, Ice Cream Mnfrs, Cut and Potted Flowers, Confectionery, Stationery, Musical Mdse, Cigars and Tobacco, s s Sheldcn 3 w of Huron
+1530 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Grin Louis, lawyer, rms Casper Brand
+1531 ADDRESS, JOB NOT FOUND: LEGRIS LOUIS N, AttorneyatLaw, Postoffice Block, res Casper Brand (See right bottom lines)
+1534 NAME: Leigh Albert R driver Smalls Laundry, res s s Douglass 2 w of 1st (W H)
+1535 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Leigh Allan, bds Lucinda Lee
+1540 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Page Constantine, carp, bds Frank D Le Page (E H)
+1541 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Le Page Edward, carp, bds Frank D Le Page (E H)
+1543 NAME: Le Page Frank I), carp, res s s Diamond 2 e of Agate (E H)
+1544 ADDRESS, JOB NOT FOUND: Lesard Peter, removed to Calumet, Mich
+1549 ADDRESS, JOB NOT FOUND: Levine Morris, Marcus Meyer mngr, clothing and shoes, n s Shelden r w of Huron, res Michigan City, Ind
+1552 ADDRESS, JOB LOCATION NOT FOUND: Levis James E, supply elk Isle Royale Copper Co bds Philomena Levis
+1556 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Libissenia Wm, lab Malcolm Wallace, rms same
+1557 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Liebetrau Alma, student, bds Ernest F P Liebetrau, Hurontown
+1559 NAME: Liebetrau Ernest F P, meats, Hurontown, res same
+1567 ADDRESS, JOB NOT FOUND: LINDNER HIERONIMUS, Physician and Surgeon, HartmannBik, res same
+1568 NAME: Link Wm H engr, res s s South 3 w of Franklin
+1574 NAME: Looney James D notary public and lawyer Gray Haire Rice, National Bank Bldg, res Hancock
+1586 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lovette Samuel W, elk R G Lee Co, bds Mrs Hobba
+1590 NAME: Lucas James H mngr fruit dept Lake Superior Produce Cold Storage Co, res n e cor Emerald and Jasper (EH)
+1602 ADDRESS, JOB NOT FOUND: Lutz Jacob (aged 70), died Dec 2, 1899
+1604 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lyons Andrew, painter, bds Edward Hassengcr
+1605 ADDRESS, JOB LOCATION NOT FOUND: Lyons Daniel, condr Copper Range R R res n s South 1 w of 3d (W H)
+1606 NAME: McAllister Agnes L bds Robert McAllister
+1610 ADDRESS, JOB NOT FOUND: McAuliff Mary (wid Dennis aged 81), died June 14, 1899
+1627 NAME: McCURDY BROS (Wm and Alexander), General Contractors, n w cor Dacotah and South (W H) (See left top lines)
+1636 ADDRESS, JOB NOT FOUND: McDonald Mrs Frank, temperance saloon, s e cor Ripley and D, S S A Ry, res same
+1640 NAME: McDonnell Mrs Margaret bds Margaret Sullivan, Huron town
+1641 ADDRESS, JOB NOT FOUND: McDOUGALL ALEXANDER, Tin, Copper and Sheet Iron Work, Galvanized Iron Cornices, Roofing and Siding, Plumbing, Steam and Hot Water Heating, n s Shelden near the bridge Tel 329 (See right bottom lines)
+1642 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McDougall Alexander jr, tinner Alexander McDougall, bds Alexander McDougall
+1643 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: McDougall Edith B, bds Alexander McDougall
+1644 ADDRESS, JOB LOCATION NOT FOUND: McDougall James M, elk Alexander McDougall bds Alexander McDougall
+1660 ADDRESS, JOB LOCATION NOT FOUND: McKeeby Dan, horseshoer, s w cor Shelden and 4th (WH) res same
+1669 NAME: McKernan Philip L sec and treas Michigan Supply Co, res LAnse, Mich
+1673 ADDRESS, JOB LOCATION NOT FOUND: McMillan Hugh, trucker D, S S A Ry, res (Ripley), Hancock, Mich
+1676 ADDRESS, JOB NOT FOUND: McNamara Edward B,timber contr, w s Agate 2 s of Main, (EH), res same
+1680 ADDRESS, JOB NOT FOUND: McNeil Thomas (Knauf McNeil), res Hartmann Blk
+1681 ADDRESS, JOB NOT FOUND: McNellis Mrs Catherine (wid Dennis aged 75), died May 14, 1899
+1684 NAME, PERSON NOT FOUND: McRandle Win E student, bds H FI Hollister (W H)
+1711 NAME, PERSON NOT FOUND: Mahan Sallie dressmkr Mary Mahan, bds Tames Mahan
+1715 ADDRESS, JOB NOT FOUND: Maher James, removed to Marquette, Mich
+1716 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Maher Mary, seamstress, bds Bridget Maher Hurontown
+1722 ADDRESS, JOB NOT FOUND: Major Eugene, coach cleaner Copper Range R R bds F W Stoyle
+1725 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Major Jeremiah, lab, bds Peter Chaunard (E H)
+1729 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Malcolm Fred, barber E B Muma, bds Ideal Restaurant
+1735 ADDRESS, JOB NOT FOUND: Manderfield Gertrude (aged 18), died June 3, 1899
+1736 ADDRESS, JOB NOT FOUND: Manderfield John (aged 67), died Sept 23, 1900
+1742 ADDRESS, JOB NOT FOUND: MANN JOHN C, Proprietor Douglass House, res same
+1743 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Mann Roy K, bds Mrs Ada Murray (W H)
+1748 ADDRESS, JOB NOT FOUND: Mansfield Patrick (aged 30), died June 16, 1901
+1753 ADDRESS, JOB NOT FOUND: Mertes Michael (aged 35), died Oct 21, 1900
+1754 ADDRESS, JOB LOCATION NOT FOUND: Mcssner John, tmstr Scheuermann Brewery, res Adams twp (W H)
+1756 ADDRESS, JOB NOT FOUND: Methodist Episcopal Church, Hurontown
+1757 NAME: Mette Joseph bell boy Douglass House
+1758 NAME: Metzger Win elk L Hennes Co res s s Sheldon 2 w of Quincy
+1763 ADDRESS, JOB NOT FOUND: MEYER CAPT ERNEST, Propr Hotel Pfeiffer, s s Shelden 5 e of Dodge
+1766 ADDRESS, JOB LOCATION NOT FOUND: Meyer George, lab res Hurontown
+1769 NAME: Movers John J highway commissioner, res Hurontown
+1770 NAME: Movers Win waiter Sackrider McKenzie, rins Thomas McGuire
+1771 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Michael Janies, carp, bds West Superior Plotel
+1773 ADDRESS, JOB LOCATION NOT FOUND: Michels Andrew, brakeman bds Michael Michels, Hurontown
+1775 NAME: Michels Joseph J brakeman, res Hurontown
+1777 ADDRESS, JOB LOCATION NOT FOUND: Michels Matthew, elk L Hennes Co res Hurontown
+1781 NAME: MICHIGAN COLLEGE OF MINES, Walter Fitch Pres Board of Control, Fred W McNair Sec Board of Control and Pres of College, Frederick W Nichols Treas, Mrs Frances H Scott Librarian and Sec of Faculty, Main (East Houghton) 1 mile east of Postoffice
+1782 NAME: Michigan College of Mines Alumni Assn, Main (EH)
+1783 NAME: Michigan College of Mines Library, Mrs Frances H Scott librarian Main (E H) 1 mile e of Postoffice
+1785 NAME: MICHIGAN SUPPLY CO, J W Black Pres, T H Robinson VicePres, P R McKernan Sec and Treas, V A H Robinson Supt, Building Material and Brick Mnfrs, Pryors Dock
+1786 NAME: MICHIGAN TELEPHONE CO, James R Dee Mngr, Postoffice Blk
+1792 ADDRESS, JOB LOCATION NOT FOUND: Mildon Bronson H, carp, res New Atlantic rd 2 s of Albion (W H)
+1793 ADDRESS, JOB LOCATION NOT FOUND: Mildon Henry R, elk bds J F Mildon (W*H)
+1794 ADDRESS, JOB LOCATION NOT FOUND: Mildon John F, res New Atlantic rd 1 s of Albion (W H)
+1802 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: MILLER FRANK C, Mngr W U Telegraph Co, foot of Isle Royale, bds Theodore Lange
+1804 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Miller Helena, dressmkr n w cor Albion and Portage, bds same
+1807 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Miller Joseph, lab, bds IMaria L Mailer, Hurontown
+1822 NAME: Mineral Range Tel Co, amalgamated with W U Tel Co
+1823 NAME: Mineral Range and Hancock Calumet Railroads, Clarence M Hoar genl agt, depot foot of Isle Royale
+1824 ADDRESS, JOB LOCATION NOT FOUND: Minge Selma, stenogr bds Mrs Eliza Matthews
+1825 ADDRESS, JOB NOT FOUND: MINING GAZETTE (Daily Sunday and Weekly),
+1826 NAME: Mining Gazette Co Proprs, F A Vennev Mngr, Postoffice Block
+1827 NAME: Mining Gazette Co The, J H Seager pres, F McM Stanton vicepres W G Rice sec and treas, F A Venney mngr, publrs Mining Gazette (daily, Sunday and weekly) Postoffice Blk
+1829 ADDRESS, JOB LOCATION NOT FOUND: Minzjehr Matthew, contr bds Nicholas Kutscheid, Hurontown
+1836 NAME: Mitchell John F foreman M Van Orden res n s Albion 2 e of 1st (W H)
+1857 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Montgomery Richard W, student, rms Mrs Nan Pryor
+1858 NAME: Monville Cora A bds Ovilas Lafortune
+1860 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Moon Alma I, bds Janies Moon, Hurontown
+1880 NAME: Morris Nelson Co, S E Nobles mngr, whol meats, toot of Dodge
+1883 NAME: Morrisette John C warehouseman D S S A Ry bds Pumerville House
+1884 NAME: Morrison Frank O cashlX S S A Ry res s s Albion 2 e of Huron
+1885 ADDRESS, JOB LOCATION NOT FOUND: Morrison John, trucker D, ,S S A Ry bds Mrs Mary Crawford
+1889 NAME, PERSON NOT FOUND: Mott James W mngr Postal TelegraphCable Co, bds Theodore Lang
+1892 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Moyer Allen, student, bds J C Pryor
+1897 NAME: Mueller Paul F P contr Young Bldg, res Chicago Ill
+1898 ADDRESS, JOB LOCATION NOT FOUND: Muenzel Emil, saloon, s w cor Shelden and Pewabic res s s Albion 2 w of 4th (W H)
+1904 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Mulvey Margaret (wid John), bds J P Edwards (W H)
+1931 ADDRESS, JOB LOCATION NOT FOUND: Murphy Patrick L, helper P E L P Co bds J M Kelly (W H)
+1933 ADDRESS, JOB LOCATION NOT FOUND: Murray Ada (wid Alexander), res s South l e of 4th (W H)
+1935 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Murray Frank, niolder, bds Mrs Mary Murray
+1937 NAME: Murray John J lab res South Side (W H)
+1938 NAME: Murray Man (wid Ihomas) dressrnkr s s Shelden 3 e of Dacotah, res same
+1941 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mutter bred, saloon, Hurontown, rms same
+1944 NAME: Nagell laid foreman Scheuermann Brewery, res Adams twp (WH)
+1945 NAME: Najorka Paul lab res Hurontown
+1948 NAME: Nanearrow James S painter, res e s Isle Royale 2 e of Albion
+1950 NAME: Nasanen Matti bds John Hendrickson
+1952 NAME: National Bank Building Shelden n e cor Isle Royale
+1953 NAME: NATIONAL BANK OF HOUGHTON THE, Z W Wright Pres, John H Rice Cashier, Shelden n e cor Isle Royale
+1954 ADDRESS, JOB LOCATION NOT FOUND: Nauelt Joseph, carp Copper Range R R res South Side (W H)
+1955 NAME, PERSON NOT FOUND: Neal Alvin C student, bds Keweenaw Club
+1958 ADDRESS, JOB NOT FOUND: Needham Albert C, pedler, res foot of w s Dodge
+1959 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Needham Arthur, pedler, bds Thomas Needham
+1960 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Needham George, bds Thomas Needham
+1961 NAME: Needham Chornas confr and restaurant, s w cor Shelden and Dodge, res foot of w s Dodge
+1962 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Needham Violet M, bds Thomas Needham
+1969 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nelson Alexander, lab M Van Orden, bds Zerbel House
+1972 ADDRESS, JOB LOCATION NOT FOUND: Nelson John M, foreman P E L P Co res n s Shelden 1 w of P L bridge (W H)
+1974 ADDRESS, JOB NOT FOUND: Nemin Wm (aged 22), died Aug 4, 1900
+1978 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Newell Robert L, dentist F Runge jr, bds JF Mildon
+1979 ADDRESS, JOB NOT FOUND: Newfield Albert, ice cream maker R G Lee Co bds Mrs Hobba
+1986 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nichols Edward, tmstr Scheuermann Brewery, bds John Messner
+2002 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Nordman Frederick, ferryman Harpers Ferry, bds same (WH)
+2005 NAME: Northern Construction Co, Henry Kimpel, mngr and treas, genl contractors, s vv cor Ruby and Emerald
+2007 ADDRESS, JOB LOCATION NOT FOUND: Northey Matthew, res ft of Isle Royale
+2009 NAME: Northwestern Hotel Register Co F A Yenney pres, hotel registers, postoffice blk
+2011 NAME, PERSON NOT FOUND: Norton James T student, bds J F Dillon
+2013 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Novak fames, lab, bds L AV Benesh
+2014 NAME, PERSON NOT FOUND: Numa Eli barber n s Shelden 2 w of Portage, bds Barry House
+2015 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Nutini Christopher, bds Louis Lancioni
+2016 NAME: Nyce A J emp Isle Royale Copper Co
+2020 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Oats John, miner, bds Emeline Foote Hurontown
+2021 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Obenhoff AddieH, bds O H ObenhofL
+2022 ADDRESS, JOB NOT FOUND: Obenhoff Glen O, removed to Calumet Mich
+2023 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Obenhoff Howard H, elk Siller Bros, bds O H Obenhoff
+2046 ADDRESS, JOB LOCATION NOT FOUND: OLeary Daniel, lab L Hennes Co bds Dennis OLeary
+2050 ADDRESS, JOB LOCATION NOT FOUND: OLeary Julia, milliner n s Shelden 2 w of Ouincy, res same
+2060 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: OMalley Agnes, milliner Julia OLeary, bds same
+2062 NAME: ONE PRICE STORE THE, Hyman Pimstein Propr, Jacob Gottliebson Mngr, Dry Goods, Shoes, Clothing, Carpets Iron Beds and Bedding, Ladies Cloaks and Furs, SheldenDee Blk, n s Shelden 3 w of Isle Royale
+2063 ADDRESS, JOB NOT FOUND: ONeil Frank, tnistr bds Mrs Rebecca Thomas, Swedetown
+2068 ADDRESS, JOB NOT FOUND: Opera Orchestra, G L Johnson director, Hartmann Blk
+2069 ADDRESS, JOB NOT FOUND: ORIENTAL HOTEL, George Bennetts Propr, w s Isle Royale 2 s of Montezuma
+2072 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Orth Frank O, bds Matthew McDonnell
+2080 NAME: Osborne John C removed to Duluth, Wis
+2083 ADDRESS, JOB NOT FOUND: Ostrom August (aged 32), died July 27, 1899
+2086 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Ouiellette Emily (wid John), bds Peter Chaunard (E H)
+2087 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ouielleite Victor, lab James Pryor Son, bds Peter Chaunarl (E H)
+2088 ADDRESS, JOB NOT FOUND: Overfield Adam, phvs s e cor South and 1st, res same (W H)
+2090 NAME: Owens Maniir A opr Mich Tel Co
+2093 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Packard Lucy L, agt, bds W L Me Vicar
+2098 NAME: PAINE, WEBBER COMPANY (Boston, Mass), Bankers and Brokers, Thomas R Dee Resident Mngr, SheldenDee Blk (see back cover)
+2099 ADDRESS, JOB LOCATION NOT FOUND: Pajot Thomas C, collr Croze Healv bds Oriental House
+2102 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Palmeir Wm, elk, rms F J Major
+2105 ADDRESS, JOB NOT FOUND: PALMER HOUSE, Mrs Margaret Bachand Proprietress, Rates Si00 per Day, 2000 per Month, n s Shelden 2 e of Portage
+2108 ADDRESS, JOB LOCATION NOT FOUND: Pappe Frederick, tmstr Scheuermann Brewery, res Adams twp (W H)
+2112 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Parish Frank L, brakeman Copper Range R R, bds H J Rukamp (W H)
+2120 ADDRESS, JOB LOCATION NOT FOUND: Patterson Wm J, vet surgeon, s vv cor Shelden and 4th (W H), res same
+2125 ADDRESS, JOB NOT FOUND: Pavlik Rose, bcls 14 Isle Royale, Hurontown
+2131 NAME, PERSON NOT FOUND: Pearce Edward J miner, bds 67 Isle Royale Hurontown
+2139 NAME: Pekkaia Ida domestic Mrs Ada Murray (W H)
+2141 NAME, PERSON NOT FOUND: Pelierin Toseph bartndr Toseph Morin, bds Henry Corbielle (EH)
+2142 NAME: Pelletier Eerdinand saloon n s Shelden 1 e of Portage, res same
+2143 ADDRESS, JOB LOCATION NOT FOUND: Pelmear Duncan, drillboy bds Stephen Terrill Hurontown
+2144 NAME: Pelmear John drillboy bds Stephen Terrill Hurontown
+2145 NAME: Pelmear Wm T elk I Hennes Co bds Mrs Anna Burrows
+2153 NAME: Penberthv Edward R bkkpr res s e cor Montezuma and 2d (W H)
+2154 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Penberthv Emma, bds E R Penberthv (W H)
+2155 ADDRESS, JOB NOT FOUND: Penberthy John E, removed to Atlantic Mine
+2156 NAME, PERSON NOT FOUND: Pendray Win H miner, bds 71 Isle Royale Hurontown
+2157 NAME: Pendua Wm emp Isle Rovale Copper Co
+2158 NAME: PENINSULA ELECTRIC LIGHT AND POWER CO, James H Seager Pres Charles A Wright VicePres, John B Doe Sec and Treas James R Dee Mngr, Post office Bldg Power ETouse Foot of Dacotali
+2159 ADDRESS, JOB NOT FOUND: PENINSULA NEWS BUREAU, Horace J Stevens Mngr, Postoffice Polk
+2160 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Penrose Jennie, student, bds J S Penrose
+2161 NAME: Penrose John S asst mngr The Mining Gazette Co, res s s Ruby 3 e of Agate (E H)
+2162 ADDRESS, JOB LOCATION NOT FOUND: Peppard David, switchman D S S A R R res D S S A R R depot
+2173 ADDRESS, JOB LOCATION NOT FOUND: Petermann John P, pres Lake Superior Produce and C S Co, res Allotiez, Mich
+2175 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Peters Hans J, tailor Frank Kostka, bds same
+2179 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Petersen John T, barber C K Grewar, rms Wm Dee
+2194 NAME: PHILLIPS JOSEPH CO (Joseph Phillips, Styles H Vaughan), Grocers, Franklin opp end of Shelden
+2198 ADDRESS, JOB LOCATION NOT FOUND: Piepo John, miner, bds 52, Isle Royale, Hurontown
+2199 ADDRESS, JOB NOT FOUND: Pieranoski Conrad, removed to Wyandotte, Mich
+2219 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Poirier Anna, bds Edmond Dumas
+2223 ADDRESS, JOB NOT FOUND: Pommel Frank (aged 40), died Dec 28, 1899
+2228 NAME: Portage Entry Quarries Co W G Cooper agt, Hartman Blk
+2229 NAME: PORTAGE LAKE HARDWARE* CO Ltd, Frank S Carlton Chairman, J J Zealand Treas, Bert Fletcher Sec, Strobel Blk
+2230 NAME: Portage Lake Ship Canal, U S engineers office National Bank Bldg
+2232 NAME: Postal TelegraphCable Co, J W Mott mngr, Douglass House Blk
+2233 NAME: Postoffice, R B Lang postmaster, e s Isle Royale 1 n of Shelden
+2241 ADDRESS, JOB NOT FOUND: Power Hannah (wid John, aged 85), died June 2, 1901
+2242 ADDRESS, JOB NOT FOUND: Power Thomas (aged 50), died Feb 25, 1901
+2244 NAME: Prendergast Clarkson (Thomas J Prendergast, James F Clarkson) general contractors, National Bank Bldg
+2250 NAME: Prince Flora (wid John) res e s East 1 s of Florence (EH)
+2253 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Prince Wm R, bds S L Princt(E H)
+2255 ADDRESS, JOB NOT FOUND: Probate Court, Willard E Gray judge, Court House
+2258 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Prue Gilbert, lab, bds Henry Corbelile (E H)
+2260 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Pryor Alfred T, bds James Pryor (E H)
+2262 NAME, PERSON NOT FOUND: Pryor Blanche E L, bds James Pryor (E H)
+2264 ADDRESS, JOB NOT FOUND: Pryor Edwin J (aged 33), died July 7, 1899
+2266 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Pryor Estella B, bds James Pryor (E H)
+2268 NAME: PRYOR JAMES SON (James, Charles H and James C), Planing Mill and Lumber Dealers, D, S S A Ry tracks (E H) nr Lake (See page^i)
+2272 ADDRESS, JOB LOCATION NOT FOUND: Pryor Joseph R, elk bds Joseph F Pryor
+2274 NAME: Prvor Nan (wid Edwin J) res s s Main 2 e of Agate (E H)
+2284 NAME: Pumerville House John S Ferries propr n e cor Albion and Isle Royale
+2286 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Quasius Bert, porter Strobel Bros, bds Mrs Barbara Strobel
+2303 ADDRESS, JOB NOT FOUND: Rand Mrs Mary (wid Allan aged 83), died Feb 11, 1901
+2307 NAME: Raney Robert emp Isle Royale Copper Co
+2314 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Raviler Carrie, bds Mrs Catherine Young
+2317 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Raymond Harriet M (wid Charles E), bds Mrs Philippa Chynoweth
+2318 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Raymond J Chester, fireman Copper Range R R, bds Mrs Philippa Chynoweth
+2319 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Raymond Lucy II, bds Mrs Philippa Chynoweth (W H)
+2326 ADDRESS, JOB LOCATION NOT FOUND: Reault Eusebe, lab res e s East 1 s of Florence (E H)
+2329 NAME: Rees Allen F (Chadbourne Rees) and village attorney, Natl bank Bldg, res 11 w cor Main and Lake
+2331 NAME: Rees John L asst cashr National Bank of Houghton, res s w cor Main and Agate
+2332 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Regan Mary A, elk J Treas, bds Thomas De Rosia
+2333 NAME: Register of Deeds Office Wm Calls register, Court House
+2355 ADDRESS, JOB LOCATION NOT FOUND: Reynolds Eugene H, salesman C A Mayworm, res West Hancock
+2367 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Richards Henry E, student, rms Ernest J Dube (E H)
+2380 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Richey Frederick A, molder, bds Mrs S A Rtchey
+2390 NAME: ROACH SEEBER CO (Waterloo, Wis), C V Seeber Mngr, Wholesale Butter, Eggs and Cheese, Flour, Hay, Grain and Salt, foot of Isle Royale
+2395 ADDRESS, JOB NOT FOUND: Roberts James H (aged 39), died Oct 16, 1900
+2402 ADDRESS, JOB LOCATION NOT FOUND: Robinson Thomas H, vicepres Michigan Supply Co, res LAnse, Mich
+2403 NAME: Robinson Victor A H, supt Michigan Supply Co, res LAnse, Mich
+2408 ADDRESS, JOB LOCATION NOT FOUND: Roggy Jacob, lab Scheuermann Brewery, res Adams twp (W H)
+2418 ADDRESS, JOB LOCATION NOT FOUND: Rompf Julius, elk L Hennes Co bds Mrs Regina Rompf
+2427 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ross Louis, lab J F Dillon, bds same
+2430 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Rossberg Wm N, student, rms Ernest J Dube (E H)
+2442 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ruelle John G, driver J W Goggin, bds Peter Shelden
+2447 ADDRESS, JOB NOT FOUND: RUELLE DUBE (Charles Ruelle, Ernest J Dube), Wholesale Flour, Feed and Grain, Forwarding Agts, Etc, foot of Ripley (See left side lines)
+2450 NAME, PERSON NOT FOUND: Ruhl Matilda L stenogr Lake Superior Produce and Cold Storage Co, bds Adolph Ruhl
+2452 NAME: Rukamp Heurv J pipefitter, res r w s 3d 11 s of South (W H)
+2454 NAME, PERSON NOT FOUND: Runge Frederick jr dentist Mason Douglass Blk, rms same
+2464 ADDRESS, JOB NOT FOUND: Ryan Cornelius (aged 65), died Jan 15, 1900
+2470 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Sackrider Frederick M (Sackrider McKenzie), rms Shelden Blk
+2473 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: ST DENIS FRANK, Propr Senate Saloon, n w cor Shelden and Ripley, rms N A Bronder
+2474 NAME: St Ignatius Parochial School, in charge of Sisters of St Agnes, s e cor Albion and Portage
+2475 NAME: St Ignatius Roman Catholic Church, Rev Antoine I Rezek pastor, s s Albion 2 e of Portage
+2476 NAME, PERSON NOT FOUND: St John Joseph E, barfndr Ferdinand Pelletier, bds same
+2478 NAME: St Marys Canal Mineral Land Co, R R Goodell agt, n w cor Pewabic and Albion
+2490 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sanders John J, draughtsman U S Engineer Office, bds Theodore Lange
+2491 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Santamore Delore, bartndr Frank Monette, bds same
+2508 ADDRESS, JOB LOCATION NOT FOUND: Schabach John, supt County Poor Farm, res same
+2511 ADDRESS, JOB NOT FOUND: Schaul Appolonia, removed to Chicago Ill
+2514 ADDRESS, JOB NOT FOUND: Schaul Mary, removed to Calumet, Mich
+2516 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schaul Wm, carp, bds Cecilia Schaul Hurontown
+2517 NAME: Scheuermann Brewery of the Bosch Brewing Co, F G Brown agt, Adams twp (W H)
+2518 ADDRESS, JOB NOT FOUND: Scheuermann Frank J, removed to Milwaukee, Wis
+2520 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schlaak August G, packer Nelson Morris Co, bds Jost Junker
+2522 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Scldichting Lillie, dressmkr, bds Adelaide Schlichting
+2533 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Schnitzer Lena, bds Joseph Schnitzel
+2538 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schoof Charles, lab Scheuermann Brewery, bds Gottlieb Haess
+2552 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Scobie Andrew, lab James Pryor Son, bds Andrew Baird
+2553 ADDRESS, JOB NOT FOUND: Scott Albert B, removed to Hancock, Mich
+2554 ADDRESS, JOB NOT FOUND: Scott Mrs Frances H, librarian and sec of Faculty Michigan College of Mines, res Portage st
+2555 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Scott Jennie, bds John M Nelson
+2564 ADDRESS, JOB NOT FOUND: SENATE SALOON, Frank St Denis Propr, n w cor Shelden and Ripley
+2572 NAME: Sewell Wm E water comnr, res s s Albion 2 e of 3d (W H)
+2573 ADDRESS, JOB LOCATION NOT FOUND: Seymour Joseph, lab, res Adams twp (W H)
+2576 NAME: Shea Abbie bds Daniel Shea, Hurontown
+2579 ADDRESS, JOB LOCATION NOT FOUND: Shea Daniel, lab res Hurontown
+2580 NAME: Shea Kate (wid Michael) res Hurontown
+2587 ADDRESS, JOB NOT FOUND: Shelden Building, Shelden n w cor Isle Royale
+2590 ADDRESS, JOB NOT FOUND: Shelden Ransom (Est of), Hon Carlos D Shelden executor, e s Isle Royale 4 N of Shelden
+2592 ADDRESS, JOB NOT FOUND: Shelden Calverley Block, Shelden s e cor Isle Royale
+2593 ADDRESS, JOB NOT FOUND: SHERIFFS OFFICE, Joseph Wills sheriff, Court House
+2595 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Sherman Rosa (wid Abner), bds R B Lang
+2597 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Shewell Frank S, student, bds E B McNamara (E H)
+2606 NAME: SigmaRho Society of Michigan, Main (E H)
+2607 NAME: Siller Bros (Edward F and Frank J), grocers, n s Shelden e of Dodge
+2636 ADDRESS, JOB LOCATION NOT FOUND: Slock Louis, overseer, res res Quincy 1 n of Shelden
+2637 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Slockett Anna J, bds John Slockett
+2638 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Slockett Edward H, student, bds John Slockett
+2639 ADDRESS, JOB NOT FOUND: SLOCKETT GEORGE, General Insurance Agent
+2642 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Slockett John M, carp, bds John Slockett
+2644 ADDRESS, JOB NOT FOUND: SMALLS LAUNDRY, Small Co Proprs, Montezuma cor Dodge
+2646 NAME: Small Co, proprs Smalls Laundry, Montezuma, cor Dodge
+2650 ADDRESS, JOB LOCATION NOT FOUND: Smith Charles, blksmith Andrew Weir, res foot of Isle Royale
+2654 ADDRESS, JOB NOT FOUND: Smith Jacob (aged 65), died Nov 24, 1899
+2655 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Smith John D, tailor N A Bronder, bds same
+2671 ADDRESS, JOB NOT FOUND: Spring John S (aged 36), died July 6, 1900
+2673 NAME: Spring Mary A bds Michael Spring
+2678 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sprouse Philip S, bkkpr Paine, Webber Co, bds Theodore Lange
+2680 ADDRESS, JOB NOT FOUND: Stachly Christian, removed to Green Bay, Wis
+2681 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stahl John H, plumber s s Shelden 2 e of Dodge, bds Joseph Stahl
+2683 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Stahl Mary, bds Joseph Stahl
+2684 NAME, PERSON NOT FOUND: Stahl Rosa L dressinkr, bds Joseph Stahl
+2685 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stahl Thomas, engr A Haas Brewing Co, bds Joseph Stahl
+2686 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stahl Win B, student, bds Joseph Stahl
+2695 ADDRESS, JOB NOT FOUND: State Geological Survey, A C Lane, Ph D (Lansing, Mich), state geologist, P S Smith and W V Savicki assts, ij s Main 2 e of Mich College of Mines
+2697 ADDRESS, JOB NOT FOUND: Steele Frederick W (aged 30), died Sept 30, 1899
+2698 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Steffen Henry, brakeman, bds Mrs Emily Young (W H)
+2703 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Stevenson Mark, bds Mark Stevenson jr
+2705 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stewart Ralph, student, rms E G Emmons
+2708 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stiegler Joseph, lab A Haas Brewing Co, rms same
+2722 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Stoyle Naomi (wid John), bds Marmaduke Trebilcock jr
+2726 ADDRESS, JOB LOCATION NOT FOUND: Strobel Barbara (wid Nicholas), res foot of Huron
+2727 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Strobel Barbara, bds Mrs Barbara Strobel
+2729 NAME: Strobel Bros (Joseph and Charles), saloon, foot of Huron
+2731 ADDRESS, JOB LOCATION NOT FOUND: Strobel John N, bartndr Emil Muenzel, res n vv cor 3d and Douglass (W H)
+2732 ADDRESS, JOB LOCATION NOT FOUND: Strobel Joseph (Strobel Bros), res foot of Huron
+2733 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Strobel Wm, bartndr Joseph Strobel, bds Mrs Barbara Strobel
+2738 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sturtevant Charles F, student, rms Mrs Nan Pryor
+2744 ADDRESS, JOB NOT FOUND: Sullivan Daniel jr, removed to Butte City, Mont
+2748 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sullivan James, carp, bds Mark Melville
+2750 ADDRESS, JOB NOT FOUND: Sullivan Jeremiah (aged 73), died July 22, 1900
+2752 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Sullivan Johanna, bds Julia Sullivan
+2759 ADDRESS, JOB NOT FOUND: Sullivan Katherine (aged 62), died Dec 18, 1900
+2760 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Sullivan Mrs Margaret, bds Hannah Harrington
+2769 ADDRESS, JOB LOCATION NOT FOUND: Sullivan Richard, lab bds Hannah Sullivan
+2770 ADDRESS, JOB LOCATION NOT FOUND: Sullivan Timothy, lab bds Julia Sullivan
+2771 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sumich Peter, miner, bds Stephen Terrill Hurontown
+2772 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sumner Howard, student, rms E G Emmons
+2774 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sundhurg Ray W, elk D, S S A Ry, bds E O Morrison
+2776 NAME: Sutherland Wm H ins agt bds Samuel Sewall
+2777 ADDRESS, JOB LOCATION NOT FOUND: Sutti Joseph, lab res 34 Isle Rovale, Hurontown
+2780 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Sweeney Elizabeth, bds Samuel Sweenev
+2782 NAME: Sweenev Henrv lab bds Samuel Sweeney
+2786 NAME: Swift I E Co, H F Nickerson mngr, mining supplies, Shelden and Calverley Blk
+2787 NAME: Swift Paul D rms n s Isle Rovale 1 s of R R
+2788 NAME: Sylvestre Joseph O tmstr A Haas Brewing Co, res s w cor Sheldon and Riplcv
+2790 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sylvestre Pomela, dressmkr, bds Oliver Sylvester
+2792 ADDRESS, JOB NOT FOUND: Szydonska Mrs Hedroich (aged 84), died April 19, 1900
+2795 ADDRESS, JOB NOT FOUND: Taylor George W, removed to Hancock, Mich
+2796 NAME: Taylor Jennie V stenogr L FI Richardson, res Hancock, Mich
+2797 NAME: Tecumseh Copper Co, John C Watson (Boston, Mass) pres, D L Demmon (Boston, Mass) sec and treas, James Chynoweth mngr, 9 miles n e of Houghton
+2805 ADDRESS, JOB NOT FOUND: Terry George, removed to Duluth, Minn
+2812 ADDRESS, JOB NOT FOUND: Thomas David, mis Roch Grigrtbn
+2813 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Thomas Edward, fireman, bds Wm FI Thomas
+2815 ADDRESS, JOB NOT FOUND: Thomas James A, removed to Arizona
+2817 NAME: Thomas Lillie bds Wm H Thomas
+2819 ADDRESS, JOB NOT FOUND: Thomas Mary (aged 20), died Jan 21, 1900
+2824 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Thomas Sarah J, student, bds Wm IF Thomas
+2825 ADDRESS, JOB LOCATION NOT FOUND: Thomas Stephen, miner, res Flurontown
+2834 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Thurston Wm M, jeweler G W Quirk, bds same
+2840 NAME: Tislov Lyda O stenogr H J Stevens, res Hancock, Mich
+2841 ADDRESS, JOB LOCATION NOT FOUND: Tobin James, lab res Hurontown
+2842 NAME, PERSON NOT FOUND: Tobin James W driver Smalls Laundry, bds James Tobin
+2843 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Tobin iargaret, bds James Tobin
+2847 ADDRESS, JOB NOT FOUND: Tourangeau Clovis (aged 69), died Jan 8 1901
+2852 ADDRESS, JOB LOCATION NOT FOUND: Toussignant Edmond, appr bds Zepherin Toussignant
+2853 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Toussignant Onesime, helper, bds Zepherin Toussignant
+2854 NAME: Toussignant Zepherin calker James Pryor, res s s Albion 1 e of Ripley
+2855 ADDRESS, JOB NOT FOUND: Town Hall, n w cor Montezuma and Huron
+2883 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Trevillian Nellie, bkkpr, bds Mrs Eliza Matthews
+2888 ADDRESS, JOB NOT FOUND: Trimm Helen, removed to Spokane, Wash
+2889 ADDRESS, JOB NOT FOUND: Trinity Episcopal Church, Rev John E Curzon rector, s w cor Pewabic and Montezuma
+2905 NAME: Union Transit Co, A J Ottersor agt, National Bank Bldg
+2906 NAME: United States Engineers Office (Portage Lake Ship Canals), George A Marr asst U S engr, National Bank Bldg
+2907 NAME: United States Express Co, W D McIntosh agt, s e cor Shelden and Huron
+2908 NAME: United States Weather Bureau, R Bruce Harkness observer, 34 Shelden Bldg
+2909 NAME: Upper Peninsula Firemens Assn, Casper Brand pres, Town Hall
+2912 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Uren John, bds Anna Temby
+2920 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Van Orden Agnes, teacher, bds Matthew Van Orden
+2921 NAME: VAN ORDEN BROS (Matthew and Wm), General Insurance Agents, National Bank Bldg (See right top lines)
+2922 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Van Orden Elizabeth, bds Matthew Van Orden
+2923 NAME: Van Orden Frank L, removed to Wyandot Mine, Mich
+2924 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Van Orden Jean, student, bds Matthew Van Orden
+2927 ADDRESS, JOB NOT FOUND: Vaudrin Albert W, removed to Misery Bay, Mich
+2928 ADDRESS, JOB NOT FOUND: Vaudrin Charles W, removed to Ely, Minn
+2933 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Vaughan lone, student, bds S H Vaughan
+2934 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Vaughan May, tchr Pilgrim School, bds S H Vaughan
+2936 ADDRESS, JOB LOCATION NOT FOUND: Vavoie Eteinne, lab, res Adams twp (W H)
+2943 ADDRESS, JOB NOT FOUND: Vial James H, removed to S Lake Linden, Mich
+2952 ADDRESS, JOB NOT FOUND: Voetsch Albert (aged 29), died July 4, 1899
+2963 ADDRESS, JOB NOT FOUND: Volia John, cmp Isle Royale Copper Co
+2964 ADDRESS, JOB LOCATION NOT FOUND: Volmer Adolph, engr Copper Range R R res Hancock Mich
+2965 ADDRESS, JOB NOT FOUND: Volmer Charles, cmp Isle Royale Copper Co
+2968 ADDRESS, JOB NOT FOUND: Waara John, cmp Isle Royale Copper Co
+2984 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wall Michael, bartndr, rms Shelden Blk
+2998 ADDRESS, JOB NOT FOUND: Wallace Wm, removed to Ely, Minn
+3018 NAME: Walters Lena waitressDouglass House
+3026 ADDRESS, JOB NOT FOUND: Warmington John, removed to Calumet Mich
+3028 NAME: Warmington Wm blksmith bds 48 Isle Royale, Hurontown
+3029 NAME, PERSON NOT FOUND: Warner Pearl M eashr Mrs L Miller, bds Mrs Eliza Matthews
+3030 ADDRESS, JOB LOCATION NOT FOUND: Warner Stephen, porter C K Grewar bds L M Bennett
+3032 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Warren Alba H, bds W J Spencer (W H)
+3034 NAME: WASHINGTON LIFE INSURANCE CO THE, John Slockett Genl Agt, 7 SheldenDee Blk (See right side lines)
+3041 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wedcmeycr Christopher, tailor Frank Kostka, bds Frank Ivostka
+3047 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Wedge Mary, bds John Wedga,^Hurontown
+3051 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Weingarden Julius, cook Sackrider McKenzie, rms Jacob Hildebrand
+3066 ADDRESS, JOB NOT FOUND: West Superior Hotel, Peter C Chartraw propr, n s Shelden 4 e of Ripley
+3067 NAME: Western Express Co, W D McIntosh agt, s e cor Shelden and Huron
+3068 NAME: WESTERN UNION TELEGRAPH CO, Frank C Miller Mngr, foot of Isle Royale
+3069 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Westlake George, lab, bds Samuel Sewall
+3080 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Whitford Wm J, engr Copper Range RR, bds Mrs Emily Young (W H)
+3084 ADDRESS, JOB NOT FOUND: Wickley Clara (wid Leopold), res Adams twp (W H)
+3085 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wickley Joseph, engr, bds Mrs Clara Wickley (W H)
+3086 ADDRESS, JOB NOT FOUND: Wickley Leopold (aged 72), died Nov 22, 1900
+3088 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wieber Ferdinand O, elk Ferdinand Wieber, bds same
+3097 ADDRESS, JOB NOT FOUND: Willesen Benjamin J, removed to Calumet, Mich
+3109 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Williams John P, student, rms Mrs Nan Pryor
+3111 ADDRESS, JOB LOCATION NOT FOUND: Williams Thomas, miner, bds, 71 Isle Royale, Hurontown
+3113 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Willman Mary, bds W E Fairbairif
+3117 ADDRESS, JOB LOCATION NOT FOUND: WILLS JOSEPH, Sheriff Houghton County, Court House, res same
+3118 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wilson Clarence, student, rms Ernest J Dube (E H)
+3134 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Winwood Mary A (wid Wm), bds J H Wmwood
+3135 NAME: Wisconsin Bridge and Iron Co, John F Jackson contracting engr, 2 Shelden Bldg, 2d floor
+3142 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Witte Graham, rms Casper Brand
+3143 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wivel James W, elk Peninsula E L P Co, bds Mrs Mary Wivcl (W H)
+3149 ADDRESS, JOB NOT FOUND: Wolfsky Mrs Millie, removed to Plancock, Mich
+3155 ADDRESS, JOB NOT FOUND: WORTLEY ALFRED L, Photographer, n s Shelden 1 w of Pewabic
+3156 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Woydziak John, bartndr Stephen Woydziak, bds same, Hurontown
+3161 NAME: Wright Harry A A, tailor, res n s Montezuma 2 e of Pewabic
+3162 ADDRESS, JOB LOCATION NOT FOUND: Wright Z Washington, pres Natl Bank of Houghton, res Franklin twp
+3172 ADDRESS, JOB NOT FOUND: Young Building, s e cor Shelden and Huron
+3173 ADDRESS, JOB NOT FOUND: Young Catherine (wid Jacob), res Young Blk
+3175 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Young Fred E, student, rms Mrs Nan Pryor
+3177 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Young James H, driver E J Bassett, bds same
+3189 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Zenner Elvira A, elk P O, bds Emil Muenzel
+3205 ADDRESS, JOB LOCATION NOT FOUND: Zurcher John, tmstr Scheuermann Brewery, res Adams twp (W H)

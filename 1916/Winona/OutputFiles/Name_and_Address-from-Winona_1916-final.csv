@@ -1,0 +1,383 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+99,Goodell,H,Stuart,null,H S Goodell Co,null,null,res,null,null,null,null,null,null,null,null,Houghton,null
+1,Aari,Oscar,null,null,null,trmmer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+2,Abramovic,Roko,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+3,Aho,Andrew,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+4,Aho,Charles,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+5,Aho,Emanuel,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+6,Aho,Crista,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+7,Aho,Gust,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+9,Aho,Otto,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+10,Aho,Victor,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+11,Alatala,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+12,Albright,Jacob,null,null,null,bkpr,Stackpole Lumber Co,null,null,null,null,null,null,null,null,null,null,null
+13,Allen,A,P,null,null,eng,mech  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+14,Anderson,Andrew,null,null,null,janitor,Winona School,null,null,null,null,null,null,null,null,null,null,null
+15,Anderson,Andrew,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+16,Anderson,Charles,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+17,Anderson,Hjalmar,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+18,Anderson,Victor,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+19,Anich,John,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+20,Antikainen,August,null,null,null,fireman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+21,Antilla,Ephraim,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+22,Antilla,Isaac,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+23,Arsenault,Adolph,null,null,null,foreman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+24,Babbini,Charles,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+25,Babich,Peter,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+26,Baretincich,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+27,Barhich,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+28,Barrett,J,Richard,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+29,Barukis,Peter,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+30,Bezotte,James,null,null,null,fireman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+31,Bezotte,Paul,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+32,Bjorkgrist,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+33,Blaha,A,Joseph,null,null,steno,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+35,Bozich,Jacob,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+36,Bracina,Charles,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+37,Branshaw,H,Fred,null,null,eng,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+38,Branshaw,J,George,null,null,engr,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+39,Briski,Frank,null,null,null,pumpman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+40,Britnich,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+41,Brown,John,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+44,Burcar,Joseph,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+45,Burkman,F,N,null,null,assayer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+46,Burns,T,Andrew,null,null,eng,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+47,Bushna,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+48,Butkovic,Joseph,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+49,Calamari,Ugo,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+50,Cantin,Edward,null,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+51,Cappelli,Armeno,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+52,Carlson,Conrad,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+53,Carlson,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+54,Carne,Albert,null,null,null,eng,loco  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+55,Cashion,Edward,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+56,Chebuhar,Fred,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+57,Chopp,Frank,null,null,null,wash hd,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+58,Chopp,Joseph,null,null,null,head runner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+59,Chopp,Tony,null,null,null,lab,Wyandot Copper Co,null,null,null,null,null,null,null,null,null,null,null
+60,Clarich,Fred,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+61,Clarich,Tony,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+62,CLINE,H,B,null,null,Mgr,Grocery Dept H S Goodell Co,null,null,null,null,null,null,null,null,null,null,null
+63,COCKING,RALPH,null,null,null,Machinist,Winona Copper Co Treas Elm River Township,null,null,null,null,null,null,null,null,null,null,null
+65,Connor,Joseph,null,null,null,head runner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+66,Connor,Wm,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+67,Coon,L,Myrtle,null,null,dom,tchf estic science,null,null,null,null,null,null,null,null,null,null,null
+68,Courtois,Arthur,null,null,null,wash hd,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+70,Daniels,Frank,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+71,Dary,James,null,null,null,trammer boss,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+72,Dellach,Thomas,null,null,null,timberman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+73,Dellanti,Albino,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+74,Deluca,Frank,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+75,Derose,Eppolito,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+76,Dombrosio,John,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+77,agechevich,Joseph,null,Dr,null,mill runner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+78,apeau,Adlor,null,Dr,null,eng,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+79,iscoll,Roy,null,Dr,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+80,Dubuque,Arthur,null,null,null,wash hd,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+81,Duby,James,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+83,Dudley,S,John,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+84,Durocher,Edmund,null,null,null,wash boss,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+85,Durocher,F,Wm,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+87,Eade,Newton,G,null,null,electn,chief  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+88,Eade,Roy,null,null,null,electn,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+89,Elimanen,Eli,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+91,Enters,John,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+92,Eskoli,Werti,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+93,Fak,Paul,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+94,Fountain,Leon,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+97,Frinal,Otto,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+98,Gipp,Louis,null,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+101,Granroos,Oscar,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+102,Gregorich,Frank,null,null,null,pumpman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+103,Gregorich,John,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+104,Gribben,Wm,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+105,Guidii,Gio,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+106,Hagerstrom,Victor,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+107,Halley,L,John,null,null,eng,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+108,Hamalan,Charles,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+109,Hanley,Eugene,null,null,null,elk,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+111,Harrington,Ban,null,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+112,Harrington,Leo,null,null,null,elk,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+113,Harrington,Wm,null,null,null,hlpr,blksmith  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+114,Harris,Thomas,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+115,Hauta,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+116,Hautanen,Oscar,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+117,Hautoviita,Ivar,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+118,Heather,Ernest,null,null,null,pumpman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+119,Heikinen,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+120,Heikkinen,Abraham,null,null,null,fireman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+121,Heikkinen,Charles,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+122,Heikkinen,Gust,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+123,Hietala,Isaac,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+124,Hill,Victor,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+125,Hiltunen,John,null,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+126,Hirvanen,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+127,Hitchens,Ernest,null,null,null,tram boss,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+128,Hitchens,John,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+129,Hocking,Ben,null,null,null,miner,Wyandot Copper Co,null,null,null,null,null,null,null,null,null,null,null
+130,Holmes,Edward,null,null,null,mine capt,asst  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+131,gala,Edward,null,Hon,null,elk,H S Goodell Co,null,null,null,null,null,null,null,null,null,null,null
+132,Hosking,Edwin,null,null,null,mine capt,asst  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+133,Houles,Thomas,null,null,null,eng,Wyandot Copper Co,null,null,null,null,null,null,null,null,null,null,null
+134,Hughes,A,George,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+135,Hughes,Willard,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+136,Huorinen,Arvid,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+137,Huttinen,Ben,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+138,Hytianin,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+139,Isaacson,Isaac,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+140,Isaacson,Wm,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+142,James,Archie,null,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+143,James,Clyde,null,null,null,wash hd,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+144,Janson,Peter,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+145,Jarvela,Leonard,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+146,Jarvi,Victor,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+147,Jarvis,Erick,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+148,Jaska,Albert,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+149,Jefferson,Geoffrey,null,null,null,tchr,manual training,null,null,null,null,null,null,null,null,null,null,null
+150,Johnson,Charles,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+151,Johnson,Charles,null,null,null,tram boss,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+152,Johnson,Iver,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+153,Jonson,Antti,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+154,Juntinen,Herman,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+155,Juntinen,Victor,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+156,Juntunen,Charles,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+157,Kaipio,Tony,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+158,Kallio,Warner,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+159,Kane,Edward,null,null,null,electn,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+160,Kangas,Emil,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+161,Kangas,P,Andrew,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+162,Kantala,John,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+163,Karen,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+164,Kasanen,Oscar,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+165,Kataja,Emanuel,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+166,Kauppi,John,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+167,Kaurala,Wm,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+168,Kempinen,Gust,null,null,null,teamster,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+169,Kempinen,Henry,null,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+170,Kemppainen,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+171,Keranen,Abel,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+172,Keranen,Edward,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+173,Keranen,J,Earl,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+174,Keranen,R,Charles,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+175,Kertu,Jack,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+176,Kidder,Albert,null,null,null,eng,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+177,Kieranen,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+179,Klaric,George,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+180,Kohne,LeRoy,null,null,null,wash hd,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+181,Komu,Charles,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+182,Korpi,Matti,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+183,Koskey,Edward,null,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+184,Koski,Isaac,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+185,Kotala,Aarne,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+186,Kotila,Agrikala,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+187,Kovalainen,Charles,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+188,Kovich,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+190,Krsul,Matt,null,null,null,runner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+191,Kumenius,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+192,Laakso,Evar,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+193,Lagom,Frank,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+194,Lagom,Armes,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+195,Lagom,Carl,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+196,Lahti,Henry,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+197,Lahti,Paul,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+198,Lahti,Wm,null,null,null,fireman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+199,Lambert,John,null,null,null,carp,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+200,Lampi,Jacob,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+201,LANGE,A,EDWARD,null,null,Clerk,Elm River Township Railroad and Express Agent,null,null,null,null,null,null,null,null,null,null,null
+202,Lantalla,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+203,LaRochelle,Louis,null,null,null,mine capt,Wyandot Copper Co,null,null,null,null,null,null,null,null,null,null,null
+204,Latramaki,Matt,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+205,Laurenti,James,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+209,Lehtinen,Oscar,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+210,Lenzi,Luigi,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+211,Lepisto,Emil,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+212,Leppanen,Manu,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+213,Leppanen,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+214,Liki,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+215,Lindgren,John,null,null,null,carp,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+216,Line,Charles,null,null,null,wash hd,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+217,Linfors,Frank,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+218,Lisach,Frank,null,null,null,trammer,Winona Copper Cf,null,null,null,null,null,null,null,null,null,null,null
+219,Lisach,Joseph,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+220,Lund,Richard,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+221,Luzmoor,Thomas,null,null,null,pumpman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+222,McCarthy,Dennis,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+224,McConville,John,null,null,null,eng,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+225,Mailum,Charles,null,null,null,pumpman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+226,Maki,Charles,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+227,Maki,Henry,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+228,Maki,Isaac,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+229,Maki,K,John,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+230,Maki,Nick,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+231,Mak1,P,John,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+232,Maki,Waina,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+233,Makinen,Jalmar,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+234,Malin,Peter,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+235,Malin,Wiljo,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+236,Manninen,John,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+237,Marcheski,Paris,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+238,Marion,Eugene,null,null,null,blksmith,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+239,MARKS,I,HARRY,null,null,Mgr,Asst  H S Goodell Co,null,null,null,null,null,null,null,null,null,null,null
+240,Marra,Thomas,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+241,Martilla,Arttii,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+243,Martin,Thomas,null,null,null,blksmith,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+244,Martinelli,Ansara,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+245,Martinic,John,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+246,Martinich,Joseph,null,null,null,mason,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+247,Matokovich,John,null,null,null,timberman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+248,Mattilla,John,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+249,Mattson,Albert,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+250,Mattson,David,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+251,Mattson,Everett,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+252,Mattson,Helge,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+253,Mattson,Herman,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+254,Mattson,Wm,null,null,null,teamster,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+255,Mattson,Wm,C,null,null,hlpr,blksmith  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+256,Medridech,Rock,null,null,null,timberman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+257,Mele,Antonio,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+258,Meville,John,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+259,Meville,Mark,null,null,null,lab,Wyandot Copper Co,null,null,null,null,null,null,null,null,null,null,null
+260,Mihelich,Joseph,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+261,Mikkonen,Matti,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+262,Mikolosevich,Joseph,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+263,Miller,Mary,null,null,null,elk,H S Goodell Co,null,null,null,null,null,null,null,null,null,null,null
+264,Mills,Fred,J,null,null,foreman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+265,Milosevich,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+266,Milosevich,Philip,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+268,Moilanen,Joseph,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+270,Nardi,James,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+271,Naskanen,Emil,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+272,Niemi,Ed,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+273,Niemi,Herman,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+274,Niemi,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+275,Niemi,Peter,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+277,Niemien,John,null,null,null,overseer,highways,null,null,null,null,null,null,null,null,null,null,null
+278,Niemisto,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+279,Nikkola,Isaac,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+280,Nistanen,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+281,Niva,Arvid,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+282,Nordstrom,Alfred,null,null,null,hlpr,blksmith  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+283,Nordstrom,Charles,null,null,null,carp,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+284,Norkoli,Herman,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+285,Nowakowski,Peter,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+286,Nulu,Isaac,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+287,Obramovich,Stanley,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+288,011ilo,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+289,Orich,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+290,Ozanich,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+291,Paaka,Alex,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+292,Pagliaro,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+293,Pajnich,Joseph,null,null,null,head feeder,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+294,Pantaleone,Umberto,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+295,Parker,Frank,null,null,null,fireman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+296,Parks,Cecil,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+297,Paski,Henry,null,null,null,tram boss,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+298,Paskran,Blosh,null,null,null,mill runner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+299,Pedin,Victor,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+300,Pernu,Everett,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+301,Peters,John,null,null,null,timber boss,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+302,Petronovic,Mike,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+303,Petterson,Matt,null,null,null,carp,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+304,Pezzi,Antonio,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+305,Pilenzo,Angelo,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+306,Pintar,Anton,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+307,Pintar,Jacob,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+308,Pintar,Joseph,null,null,null,timberman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+309,Pintar,Mike,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+310,Plesha,Andrew,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+311,Plesha,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+312,Powell,James,null,null,null,washhd,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+313,Pugel,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+314,Raisanen,Nestor,null,null,null,head feeder,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+315,Ranta,Rudolph,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+316,Ranta,Toiva,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+317,Rautio,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+318,Ravio,Alex,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+319,Ray,ton,Thomas,null,null,carp,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+320,Reath,E,Sarah,null,null,supt,schools,null,null,null,null,null,null,null,null,null,null,null
+321,Recore,Edward,null,null,null,teamster,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+322,Reda,Tony,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+323,Reppa,Joseph,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+324,Rintola,Edward,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+325,Robertson,Wm,null,null,null,timekpr,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+326,Rockala,Isaac,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+327,Rodda,B,John,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+328,Rodich,Nick,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+329,Rodich,Steve,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+330,Rodosky,Andrew,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+331,Rogers,Henry,null,null,null,mach,helper Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+332,Ronceivich,Paul,null,null,null,tram,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+333,Saari,Albert,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+334,Saari,August,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+335,Saari,Edward,null,null,null,pumpman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+336,Saari,Matt,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+337,Saari,Matt,null,jr,null,dr,bartn N P Fournier,null,null,null,null,null,null,null,null,null,null,null
+338,Saari,Victor,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+339,Saari,Yalmar,null,null,null,blksmith,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+340,Sabbatini,Antonio,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+341,Sands,John,null,null,null,butcher,H S Goodell Co,null,null,null,null,null,null,null,null,null,null,null
+342,Sarja,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+343,Sayoric,Frank,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+344,Scarcello,Joseph,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+345,Scarcello,Joseph,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+346,Scarcello,Vincenzo,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+348,Scott,Gerorge,null,null,null,fireman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+349,Seccombe,J,Thomas,null,null,foreman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+351,Seppala,Herman,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+352,Sheehan,Michael,null,null,null,eng,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+353,Shiroda,Otto,null,null,null,wash hd,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+354,Shutte,George,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+355,Siltola,Einar,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+356,Sirunen,Erik,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+357,Skoviak,Joseph,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+358,Smith,John,null,null,null,fireman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+359,Soini,Herman,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+360,Suargo,Raymond,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+361,Sporciah,Steve,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+363,Stephens,John,null,null,null,foreman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+364,Stimac,George,null,null,null,head runner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+365,Stimach,Michael,null,null,null,timberman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+366,Stiperski,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+367,Stopar,Anton,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+368,Takkinen,Alexander,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+369,Takkinen,Isaac,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+370,Tammela,Wm,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+371,Tapala,John,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+372,Tapala,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+373,Tassoni,Frank,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+374,Thiton,Julius,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+375,Thomas,Charles,null,null,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+376,Thomas,Leslie,null,null,null,blksmith,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+377,Thomas,Wm,null,null,null,pumpman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+378,Thomas,Wm,null,jr,null,mach,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+379,Tienhaara,Victor,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+380,Tomac,Anton,null,null,null,timberman,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+381,Tomasi,Rocco,null,null,null,fireman,Winona Conper Co,null,null,null,null,null,null,null,null,null,null,null
+382,Tomojanovich,Daniel,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+383,Tomorich,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+384,Toupin,Archie,null,null,null,wash boss,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+385,Tuiska,Emil,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+386,Tuiska,Solomon,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+387,Uren,Richard,null,null,null,lab,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+388,Venn,Robert,null,null,null,master mech,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+389,Wahlman,August,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+390,Waisenen,Charles,null,null,null,miner,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+391,Waisenen,John,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+392,Walkeinen,Matt,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+393,Warja,Victor,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+394,Wealton,John,null,null,null,eng,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+395,Wehman,Carl,null,null,null,trammer,Winona Copper Co Weitman Mary Mrs,null,null,null,null,null,null,null,null,null,null,null
+396,Werry,E,L,null,null,phys,asst mine  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+397,WESSELS,DANIEL,J,null,null,Mgr,H S Goodell Co Justice of the Peace and Postmaster,null,null,null,null,null,null,null,null,null,null,null
+398,Wierema,011i,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+399,Wiklund,Fred,null,null,null,blksmith,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+400,Williams,James,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+401,Willunen,Eli,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+402,Wilson,Gust,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+405,Wirta,Herman,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+407,Yakovich,Mike,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+408,Yeso,Paul,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+409,Yokinen,Sefani,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+410,Zechine,Kostok,null,null,null,trammer,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+411,Ziegler,George,null,null,null,hlpr,blksmith  Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null
+412,Ziegler,Henry,null,null,null,mach hlpr,Winona Copper Co,null,null,null,null,null,null,null,null,null,null,null

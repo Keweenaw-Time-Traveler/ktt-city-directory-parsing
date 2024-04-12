@@ -1,0 +1,441 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outSt
+1,Abramson,Abram,null,null,1st
+2,Abramson,Matt,null,null,1st
+4,Aho,Chas,null,null,3d
+5,Aho,Evert,null,null,Trimountain av
+6,Aho,Jorma,null,null,3d
+7,Aimonetto,Peter,null,null,Baltic av
+9,Anderson,Clarence,null,null,Baltic av
+10,Anderson,Frank,null,null,Baltic av
+12,Anderson,John,null,null,Baltic av
+13,Anderson,Margt,null,null,Baltic av
+14,Andreini,Elsie,null,null,Trimountain av
+15,Andreini,Geno,null,null,Trimountain av
+16,Andreini,Jos,null,null,do
+17,Andreini,Jos,null,jr,Trimountain av
+18,Aro,Arth,null,null,3d
+19,Aro,Edw,null,null,3d
+20,Aro,Oscar,null,null,3d
+21,Arvola,Leonard,null,null,2d
+22,Asiala,Carlo,null,null,2d
+23,Asiala,Hannah,null,null,2d
+24,Asiala,Jos,null,null,2d
+25,Asiala,Leimo,T ,null,4th
+26,Asiala,Waino,null,null,4th
+28,Auger,Geo,A ,null,2d av
+29,Auger,Henry,null,null,2d av
+30,Auger,Jos,null,null,2d av
+31,Auger,Marguerite,null,null,2d av
+32,Auno,Abr,null,null,5th
+33,Auno,Arth,null,null,5th
+34,Auno,Aug,null,null,5th
+35,Auno,Chas,null,null,5th
+36,Bahdi,Eino,A ,null,1st
+37,Balagno,Angeline,null,null,3d
+38,Balagno,Lydia,null,null,3d
+39,Balagno,Michl,null,null,4th
+41,Basso,Louis,J ,null,Trimountain av
+42,Basso,Louise,null,null,Trimountain av
+44,Benassi,Felix,null,null,1st
+45,Bergman,Morris,null,null,3d
+47,Bertolozzi,Attilio,null,null,2d av
+48,Bertolozzi,Mary,A ,null,2d av
+49,Boggio,Mary,null,null,2d av
+50,Bolf,Andrew,null,null,Trimountain av
+51,Bolf,Frank,null,null,Trimountain av
+52,Bolf,Mary,null,null,Trimountain av
+53,Bolf,Matt,null,null,Trimountain av
+54,Bolf,Philip,null,null,Trimountain av
+55,Bradford,Mary,S ,null,2d
+56,Brako,Jos,null,null,Trimountain av
+57,Brannala,Martha,null,null,4th
+59,Braun,Geo,null,null,2d
+63,Braun,Robt,W ,null,2d
+65,Carlson,Anna,null,null,3d
+67,Carlson,Kate,null,null,3d
+68,Camauskas,Jos,null,null,3d
+70,Cerutti,Anthony,null,null,Baltic av
+72,Cerutti,Jas,null,null,Baltic av
+73,Cerutti,John,null,null,Baltic av
+74,Cerutti,Mary,null,null,Baltic av
+79,Cibosek,Matt,null,null,2d
+80,Cibosek,Matt,null,jr,2d
+81,Cincotta,Dominic,null,null,Trimountain av
+85,Eilola,Marie,null,null,3d
+86,Eskola,Aina,null,null,3d
+87,Eskola,Arth,null,null,3d
+88,Eskola,John,null,null,3d
+89,Eskola,Niilo,null,null,3d
+90,Eskola,Thos,null,null,3d
+95,Frice,Peter,null,null,3d
+96,Gauthier,Odelon,null,null,2d av
+97,Gavello,Cath,null,null,1st
+98,Gavello,Hiliery,G ,null,1st
+99,Giachino,Ann,null,null,1st
+100,Giachino,Edith,null,null,1st
+101,Giachino,Irene,null,null,1st
+102,Giachino,Jas,null,null,1st
+103,Giacoletto,Paul,null,null,3d
+104,Giacoletto,Victor,null,null,3d
+105,Giannelli,Guido,null,null,Baltic av
+106,Giannelli,Jennie,null,null,Baltic av
+107,Giannelli,Ralph,null,null,Baltic av
+108,Givens,Edw,null,null,2d
+109,Givens,Florence,null,null,2d
+110,Givens,Geo,null,null,2d
+111,Givens,Herbert,null,null,2d
+114,Glass,Wm,null,null,Trimountain av
+115,Goodfellow,Jas,A ,null,1st
+116,Goodman,Blanche,Mrs ,null,Trimountain av
+117,Goodman,Ralph,R ,null,Trimountain av
+118,Gossette,Mary,null,null,1st
+119,Guisto,Allen,null,null,1st
+120,Haavela,Eliz,null,null,4th
+121,Haavela,Helen,null,null,4th
+122,Haavela,Isaac,null,null,4th
+123,Haavela,Marie,null,null,4th
+127,Hannula,Axel,null,null,Champion av
+128,Hannula,Mary,null,null,6th
+129,Hannula,Sylvia,null,null,6th
+133,Heikkinen,Arnold,null,null,3d
+134,Heikkinen,Chas,null,null,3d
+136,Heikkinen,Helmi,null,null,3d
+138,Heikkinen,Isaac,null,null,1st
+140,Heikkinen,Rudolph,null,null,3d
+141,Heikkinen,Sylvia,null,null,1st
+144,Hendrickson,Martin,null,null,2d
+145,Hendrickson,Mildred,null,null,2d av
+146,Hendrickson,Walter,null,null,2d av
+147,Hendrickson,Wilho,null,null,2d av
+148,Hendrickson,Wille,null,null,3d
+149,Hietala,Silas,null,null,3d
+151,Hirvela,Eidar,null,null,2d
+152,Holappa,Bertha,null,null,5th
+153,Holappa,Edwin,null,null,5th
+154,Holappa,Louis,null,null,5th
+155,Honkanen,Edw,null,null,Trimountain
+156,Honkanen,Eug,null,null,Trimountain av
+158,Hukkala,Gabriel,null,null,Champion av
+159,Hukkala,Russell,null,null,Champion av
+160,Huokinen,Gust,null,null,Trimountain av
+161,Huotari,Fred,null,null,2d av
+162,Huotari,Jalmer,null,null,4th
+163,Huotari,John,null,null,2d av
+164,Hurskainen,John,null,null,1st
+165,Hurskainen,John,null,jr,1st
+166,Isaacson,Edw,A ,null,4th
+167,Isaacson,John,null,null,3d
+170,Isola,Norman,A ,null,2d av
+171,Janchar,Antone,null,null,2d av
+172,Janchar,Antone,null,jr,2d av
+173,Jarvenpaa,Ann,M ,null,3d
+174,Jarvenpaa,Gertrude,null,null,3d
+175,Jarvenpaa,Viola,null,null,3d
+176,Jarvey,Albert,null,null,1st
+177,Jarvey,Aug,null,null,1st
+178,Jarvey,Carl,null,null,1st
+179,Jarvey,Ellen,null,null,1st
+180,Jarvey,Leonard,null,null,1st
+181,Jarvinen,Theo,O ,null,4th
+184,Jose,Audrey,Mrs ,null,Shelden apt 15 
+185,Jose,Melvin,E ,null,Shelden apt 15 
+186,Juidorzi,Jos,null,null,2d av
+187,Jukkala,Jalmer,null,null,2d
+188,Jukkala,Leonard,null,null,2d
+190,Jukkala,Waino,null,null,2d
+191,Junttila,Evelyn,null,null,2d
+192,Junttila,Gertrude,null,null,2d
+194,Junttila,John,null,jr,3d
+196,Kaariainen,Eug,null,null,Globe av
+197,Kaaraininen,Hannah,null,null,Globe av
+198,Kaaraininen,Mae,null,null,Globe av
+199,Kaaraininen,Sylvia,null,null,Globe av
+200,Kaarlela,Elaine,null,null,Trimountain av
+201,Kaarvala,John,null,null,Trimountain av
+202,Kahkola,Hans,null,null,2d
+203,Kahkola,Russell,null,null,2d
+205,Kalliainen,Arth,null,null,4th
+206,Kalliainen,Aug,null,null,4th
+207,Kalliainen,Ralph,null,null,4th
+208,Kangas,Carl,null,null,3d
+209,Kangas,Ina,null,null,6th
+210,Kangas,Lila,null,null,Concord 
+212,Kantola,Theo,null,null,2d
+213,Kantola,Walfred,null,null,Trimountain
+214,Karhula,Jacob,null,null,2d
+215,Karhula,Toivo,null,null,2d
+217,Katlin,Jos,null,null,Champion av
+218,Kauppila,Herman,null,null,3d
+219,Kauppila,Leona,null,null,3d
+220,Kellow,Herbert,A ,null,1st
+221,Kilpela,Henry,null,null,3d
+222,Kilpela,Tauno,null,null,3d
+223,Kinnunen,Chas,null,null,5th
+224,Kinnunen,Douglas,null,null,6th
+225,Kinnunen,Geo,null,null,6th
+226,Kinnunen,Jacob,null,null,5th
+227,Kinnunen,Oscar,null,null,6th
+228,Kivi,Alina,null,null,4th
+229,Kivi,Arvo,null,null,4th
+231,Kivi,Matt,null,null,4th
+232,Kivikangas,Adolph,null,null,4th
+233,Kivikangas,Arne,null,null,4th
+234,Kivikangas,Aug,null,null,4th
+235,Kivisto,Andrew,null,null,2d
+236,Klind,Henry,null,null,2d av
+237,Knodt,Elmer,null,null,Globe av
+238,Knodt,Florence,null,null,Globe av
+239,Knodt,John,H ,null,Trimountain av
+240,Knodt,Margt,null,null,Globe av
+242,Koivunen,John,null,jr,2d
+243,Kokko,Henry,null,null,2d av
+244,Kolehmainen,Eino,H ,null,3d
+245,Kolehmainen,Hemming,null,null,1st
+246,Kolehmainen,Leo,null,null,1st
+248,Kolehmainen,Waino,null,null,1st
+249,Kolehmainen,Wm,null,null,1st
+250,Koski,Carl,null,null,2d
+251,Koski,Nestor,null,null,2d
+252,Koski,Robt,null,null,2d
+253,Kostamo,Matt,null,null,3d
+254,Kostamo,Tauno,null,null,3d
+255,Kostamo,Thos,null,null,3d
+256,Kramer,Fred,null,null,1st
+257,Kyllonen,Erich,null,null,3d
+259,Laajala,Henry,null,null,3d
+260,Laajala,Mary,null,null,3d
+263,Laitinen,Albin,null,null,2d
+264,Lakkala,Frank,null,null,2d av
+266,Lassila,Nestor,null,null,3d
+267,Lassila,Sally,null,null,3d
+269,Likovich,Carl,null,null,1st
+270,Likovich,Margt,null,null,1st
+271,Likovich,Mary,null,null,1st
+272,Likovich,Matt,null,null,1st
+273,Likovich,Rudolph,null,null,2d
+274,Lindberg,Erik,null,null,3d
+275,Lindberg,Hugo,null,null,3d
+276,Lindberg,Waino,null,null,3d
+277,Lohela,Edwin,null,null,1st
+278,Lohela,Ilmar,null,null,1st
+279,Lohela,John,null,null,1st
+280,Lohela,Toivo,null,null,1st
+281,Lohela,Viljo,null,null,1st
+282,Loverini,Jacob,null,null,Baltic av
+283,Lucchesi,Bruno,null,null,1st
+284,Lucchesi,Caesar,null,null,1st
+286,Lucchesi,Geno,null,null,Trimountain av
+287,Lucchesi,Leo,null,null,1st
+288,Luttinen,Alver,null,null,4th
+290,Lutheran,Church,null,null,4th
+291,Magnino,Jas,null,null,1st
+292,Magnino,Mary,null,null,1st
+293,Malila,Onni,A ,null,4th
+294,Malstrom,Levi,null,null,Champion av
+295,Malstrom,Milma,null,null,Champion av
+296,Manderfield,Eldred,null,null,1st
+297,Manderfield,Eldred,null,jr,1st
+298,Manderfield,John,null,null,1st
+299,Marcheschi,Olinto,null,null,Baltic av
+300,Matero,Helen,null,null,3d
+301,Matero,Matt,null,null,3d
+302,Mattila,John,null,null,4th
+303,Mattson,Edw,null,null,2d
+304,Mattson,Eliz,null,null,2d
+305,Mattson,Ernest,null,null,2d
+306,Mattson,John,null,null,2d
+307,Mattson,John,null,null,3d
+308,Mattson,John,A ,null,2d
+309,Mattson,Matt,null,null,2d
+310,Mattson,Walter,null,null,2d
+311,Mattson,Wesley,null,null,2d
+312,Merila,Eli,null,null,Trimountain av
+313,Merila,John,null,null,4th
+315,Michaelson,Thos,null,null,4th
+317,Miller,Gunnar,D ,null,4th
+318,Miller,Kenneth,null,null,4th
+319,Miller,Matt,null,null,4th
+320,Moilanen,Aug,null,null,6th
+321,Moilanen,Roy,null,null,6th
+322,Montonati,Geo,null,null,2d av
+323,Montonati,Kath,null,null,2d av
+324,Montonati,Theo,null,null,2d av
+325,Montonati,Urho,null,null,2d av
+326,Montonati,Wesley,null,null,2d av
+327,Morin,Corrine,null,null,1st
+328,Morin,Hilaire,null,null,2d av
+329,Morin,Jos,null,null,1st
+330,Murphy,Patk,null,null,Trimountain av
+331,Nelson,John,null,null,2d
+332,Nevala,Emil,null,null,1st
+334,Niemitalo,Arnold,null,null,1st
+335,Niemitalo,Hubert,null,null,1st
+336,Niemitalo,Norman,null,null,1st
+337,Niemitalo,Selma,null,null,1st
+338,Niskanen,Tilda,null,null,2d
+339,Niskanen,Wilfred,null,null,2d
+340,Notari,Antonio,null,null,Trimountain av
+341,Nysti,Martin,null,null,3d
+342,Oja,Axel,null,null,4th
+343,Oja,Emil,N ,null,4th
+344,Ojala,John,null,null,4th
+345,Ojala,Sigrid,null,null,4th
+346,Ojala,Sophia,null,null,4th
+347,Ojala,Tauno,null,null,4th
+348,Olkkonen,Arnold,null,null,2d
+349,Olkkonen,Eino,null,null,2d
+350,Olkkonen,John,null,null,2d
+351,Olkkonen,Sylvia,null,null,2d
+352,Olkkonen,Tauno,null,null,2d
+355,Olson,Brynolf,null,null,2d
+356,Ozanich,John,null,null,1st
+359,Pakkala,Edw,null,null,2d
+360,Pakkala,Isaac,null,null,3d
+362,Paoli,Angeline,null,null,Baltic av
+363,Paoli,Guido,null,null,Baltic av
+364,Paoli,Guilio,null,null,Baltic av
+365,Paoli,Linda,null,null,Baltic av
+366,Pastore,Geo,null,null,Trimountain av
+367,Pastore,Geo,J ,null,Trimountain av
+368,Pastore,Irene,null,null,Trimountain av
+370,Pastore,Louis,null,null,Trimountain av
+371,Pastore,Mary,null,null,Trimountain av
+372,Paulson,Arth,null,null,1st
+374,Paulson,Rudolph,null,null,2d av
+375,Paulson,Urban,null,null,1st
+377,Pennanen,Arne,null,null,1st
+378,Pennanen,John,null,null,1st
+379,Pennanen,Wesley,null,null,1st
+380,Pennanen,Wilho,null,null,1st
+381,Pera,Pierina,null,null,1st
+382,Perryman,Wm,null,null,Stanton av
+383,Perryman,Wm,null,jr,Stanton av
+384,Pesonen,Emil,null,null,4th
+385,Pesonen,Johanna,null,null,2d
+386,Pesonen,Seth,null,null,2d
+387,Pesonen,Wm,null,null,2d
+388,Peterson,Bertha,null,null,3d
+389,Phillipi,Geno,null,null,4th
+390,Phillippi,Alando,null,null,1st
+391,Phillippi,Mary,null,null,1st
+392,Pidgeon,Alphonse,null,null,1st
+393,Pidgeon,Emil,null,null,1st
+394,Pidgeon,Leo,null,null,1st
+395,Pidgeon,Walter,null,null,1st
+397,Piira,Arvid,null,null,Trimountain av
+398,Piira,John,null,null,Trimountain av
+400,Piiranen,Albert,null,null,3d
+401,Pilon,Philip,null,null,Trimountain av
+402,Pirini,Marie,null,null,Trimountain av
+403,Pirini,Paul,null,null,Trimountain av
+404,Pirini,Peter,null,null,Trimountain av
+405,Pizzi,David,null,null,1st
+406,Pizzi,Ralph,null,null,1st
+408,Plassa,Albert,B ,null,Trimountain av
+409,Plassa,Theo,null,null,Trimountain av
+410,Polso,Christina,null,null,Trimountain av
+411,Polso,Heimi,null,null,Trimountain av
+412,Polso,Otto,null,null,Trimountain av
+413,Polso,Roy,null,null,Trimountain av
+414,Preblich,Albert,null,null,2d
+415,Preblich,John,null,null,2d
+417,Preblich,Marie,null,null,2d
+418,Priami,Anton,null,null,Stanton av
+419,Priami,John,null,null,1st
+420,Raappana,Louis,null,null,Trimountain av
+421,Raffaelli,Cath,null,null,Champion av
+422,Raffaelli,Italo,null,null,1st
+423,Raffaelli,Marie,null,null,1st
+424,Raffaelli,Martin,null,null,1st
+425,Raffelli,Mario,J ,null,2d av
+427,Raisanen,Paul,null,null,1st
+428,Raisanen,Robt,null,null,1st
+432,Recore,Jos,null,null,Trimountain av
+433,Recore,Louise,null,null,Trimountain av
+436,Rimpela,John,null,null,1st
+438,Robertson,Robt,null,null,Trimountain av
+439,Romano,John,null,null,2d av
+440,Romano,Peter,null,null,2d av
+441,Rugani,Allie,null,null,Trimountain av
+443,Rugani,Jean,null,null,Trimountain av
+444,Rugani,Rose,null,null,Trimountain av
+445,Ruikka,Wm,null,null,3d
+447,Ryan,Antoinette,null,null,1st
+448,Ryynanen,Eino,null,null,1st
+449,Saaranen,Henry,null,null,2d av
+450,Saaranen,Walter,null,null,2d av
+451,Saaranen,Wilfred,null,null,2d av
+452,Saarela,John,null,null,4th
+455,Salo,Felix,null,null,Trimountain av
+456,Salo,Russell,null,null,2d
+457,Samuli,Frank,null,null,3d
+458,Sandell,Olga,null,null,3d
+459,Santori,Amerigo,null,null,Trimountain av
+464,Sechen,Jos,null,null,2d
+465,Sechen,Nicholas,null,null,2d
+467,Seppala,Harold,null,null,Champion av
+468,Seppala,Sakris,null,null,Champion av
+471,Siira,Jacob,null,null,6th
+472,Siira,John,null,null,6th
+473,Siira,Raymond,null,null,6th
+474,Siira,Reino,null,null,6th
+476,Simonina,Jos,null,null,Trimountain av
+477,Singleton,Geo,null,null,1st
+479,Sipola,Ray,null,null,1st
+480,Sipola,Yalmar,null,null,1st
+481,Siponen,Edw,null,null,Wright 
+482,Sivula,Alice,null,null,3d
+483,Sivula,John,G ,null,3d
+484,Sjostrand,Arth,null,null,5th
+485,Sjostrand,Einar,null,null,5th
+486,Sjostrand,Esther,null,null,5th
+487,Smith,Gervase,null,null,1st
+488,Sorvala,Albert,null,null,5th
+489,Sorvala,Casper,null,null,5th
+490,Sorvala,Helen,null,null,5th
+491,Sorvala,Lempi,null,null,5th
+492,Sorvala,Lina,null,null,5th
+499,Stark,Sonna,null,null,3d
+500,Stark,Wesley,null,null,3d
+503,Stimac,Peter,null,null,1st
+505,Stone,Walter,L ,null,2d av
+507,Sutinen,Jacob,null,null,2d av
+509,Telin,Ahti,null,null,3d
+510,Telin,Chas,null,null,3d
+511,Telin,Eino,null,null,3d
+512,Telin,Haakon,null,null,3d
+513,Telin,Oliver,null,null,3d
+514,Telin,Ralph,null,null,3d
+515,Telin,Reino,null,null,3d
+516,Tervo,Matt,A ,null,2d
+517,Tervo,Tauno,null,null,2d
+518,Tikkanen,Allan,null,null,2d av
+519,Tikkanen,Aurora,null,null,2d av
+520,Tikkanen,Olli,null,null,2d av
+522,Tomberg,Carl,null,null,2d av
+523,Tomberg,Wm,null,null,2d av
+524,Tormala,Andrew,null,null,4th
+525,Tormala,Kauno,null,null,4th
+526,Tormala,Toivo,null,null,4th
+527,Toscano,Mary,null,null,2d av
+528,Toscano,Mary,A ,null,2d av
+530,Tuomela,Chas,null,null,2d
+531,Tuomela,Wilma,null,null,2d
+532,Turcotte,Albert,null,null,1st
+533,Turcotte,Emma,null,null,1st
+534,Turcotte,Leona,null,null,1st
+536,Tyrvanen,Alina,Mrs ,null,Quincy 
+537,Uitti,Irving,null,null,2d
+538,Uitti,John,null,null,2d
+539,Uitti,Paul,null,null,2d
+540,Uitti,Sami,null,null,2d
+542,Walikainen,John,null,null,2d
+543,Walikainen,Paul,null,null,2d
+544,Wanhainen,Christine,null,null,1st
+545,Wanhainen,Oscar,null,null,1st
+547,Wayrynen,Elmi,null,null,4th
+548,Wayrynen,Matt,null,null,4th
+549,Wayrynen,Toivo,null,null,4th
+551,Whitmore,Mary,null,null,2d
+552,Whitmore,Rayclose,C ,null,2d
+554,Wolpe,John,null,null,1st

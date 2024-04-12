@@ -1,0 +1,818 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outJob, outJobLocation, outT, outStNum, outStName, outCity, outBuilding
+2,Adams,John,null,null,lab,null,res near,314 ,Quincy,null,null
+3,Adams,Gustave,null,null,of ,Pelto Allen,bds,null,null,Aug Pelto,null
+4,ALLEN,JAMES,null,null,ice dealer,null,res,109 ,Water,null,null
+5,Alloid,Joseph,null,null,lab ,null,res,304 ,Ravine,null,null
+7, Alb, Wm, null, null, bookkeeper, null, bds,217,null,Hancock,null
+8,Ament,Herman,null,null,null,null,wks,null,null,Quincy Mills,null
+10,Axford,Joseph,null,null,grocer,null,res null,311,null,null,null
+12,Azelina,Mother,null,null,null,null,res,224 ,Frauklin,null,null
+14,BAER,HENRY,null,null,with ,Baer Bros,res,102 ,Hancock,null,null
+15,BAER,JACOB,null,null,of ,Baer Bros,res,100 ,Hancock,null,null
+16,Bahan,John,null,null,furnaceman,null,res,null,null,Smeltingville,null
+17,Baratte,Peter,null,null,lab,null,res near,428 ,Quincy,null,null
+19,Barkell,Chas,null,null,sawyer,null,res,null,Lake st W Hancock,null,null
+22,Bartle,Harry,null,null,carpenter,null,res,null,null,Franklin tp,null
+24,BATES,S,M,null,propr ,Hancock Heavy Truck line,res,null,null,No 114 Franklin,null
+25,Baudette,George,null,null,lab,null,bds,210 ,Ravine,null,null
+26,Baum,E,null,Mrs,wid,null,res,812 ,Ravine,null,null
+27, Bauman, Frank, W, null, molder, null, bds,217,null,Hancock,null
+28,BAWDEN,FRED,J,null,commission merchant,null,res,803 ,Water,null,null
+29,Bawden,Richard,null,Mrs,null,null,res,600 ,Hancock,null,null
+32,Beauchemin,C,null,null,lab,null,bds,702 ,Hancock,null,null
+33,Beauchemin,Louis,null,null,carpenter,null,res,702 ,Hancock,null,null
+34,Beauchesne,Z,null,null,wks saw mill,null,res,201 ,Ravine,null,null
+36,BEDELL,CORNELIUS,null,null,machinist ,Quincy Mills,res,null,null,Quincy township,null
+38,Behrena,Odaw,null,null,null,null,wks,null,null,Quincy Mills,null
+40,Belfele,Albert,null,null,null,null,res,307 ,Quincy,null,null
+42,Benfield,John,null,null,null,null,wks,null,null,Quincy Mill,null
+43,Bennett,Henry,null,null,jeweler for ,G Beimel,res,207 ,Tezcuco,null,null
+44,Bennetts,H,E,null,depot ,Watchman,res,600 ,Hancock,null,null
+45,Benfield,John,null,null,copper washer,null,res,309 ,Franklin,null,null
+46,Bentley,George,null,null,salesman,null,res,419 ,Hancock,null,null
+47,Bentley,O,D,null,foreman ,Sturgeon Eiver saw mill,res,421 ,Hancock,null,null
+48,Berry,Eugene,null,null,sawyer,null,res near,307 ,Hancock,null,null
+49,Berry,Eichard,null,null,woodsman,null,bds,210 ,Eavine,null,null
+50,Berryman,James,null,null,blacksmith,null,res,117 ,Hancock,null,null
+51,Berryman,John,null,null,blacksmith,null,bds,117 ,Hancock,null,null
+52,Berryman,M,null,Mrs,wid,null,res,117 ,Hancock,null,null
+53,Berryman,Thos,null,null,blacksmith helper,null,bds,117 ,Hancock,null,null
+55,BISHOP,J,S,null,null,null,res office ,122,null,null,null
+56,Black,Win,J,null,barber,null,res null,203,null,null,null
+59,Blyth,John,null,null,asst mining capt ,Quincy mine,res,null,null,Atlantic Mine,null
+60,Bogan,John,null,null,furnaceman,null,res,null,null,Smeltingville,null
+61,Bohrer,John,null,null,lab,null,res,708 ,Hancock,null,null
+62,BOLEN,GEOEGE,L,null,editor ,The Copper Herald,res,null,null,Quincy tp,null
+63,null,BoneyN,null,Mrs,wid,null,res,712 ,Hancock,null,null
+64,Bomiin,Wm,null,null,carpenter,null,bds,312 ,Eeservation,null,null
+65,Boudette,Albert,null,null,lab,null,bds,702 ,Hancock,null,null
+67,Boudette,Paul,null,null,lab,null,res,702 ,Hancock,null,null
+68,Bourgai,Chas,null,null,lab,null,bds,307 ,Quincy,null,null
+71,Breier,Anton,null,null,smelter,null,res,108 ,Franklin,null,null
+72, BRELSFOED, E, H, null, null, null, bds,200-204,Tezenco st,null,null
+73,Bristol,Orlando,J,null,sliipping clerk and yard foreman ,D L S Copper Co,res,null,null,Franklin tp,null
+74,Brockmiller,Gottleib,null,null,carpenter,null,res,215 ,Frankliu,null,null
+75,Brown,F,null,null,electrician,null,res,null,null,Smeltingville,null
+76,Brown,Herman,null,null,foundryrnan,null,bds,205 ,Franklin,null,null
+77,Bruder,John,null,null,smelter,null,res,113 ,Water,null,null
+79,Brunette,Albert,null,null,flask mkr,null,res,null,null,Huron town,null
+80,Buchanan,Angus,null,null,null,null,res over,205 ,Quincy,null,null
+81,Buck,Jerry,null,null,lab,null,res near,200 ,Franklin,null,null
+82,Buckley,Cornelius,null,null,teamster,null,res,114 ,Hancock,null,null
+84,Burns,A,wid,Mrs,null,null,res,528 ,Quincy,null,null
+85,Butler,Alfred,null,null,foreman machine shop,null,res,null,null,Franklin,null
+86,Cameron,Roderick,null,null,blacksmith,null,res,406 ,Quincy,null,null
+87,Carah,Win,G,null,clerk,null,res,300 ,Hancock,null,null
+88,Carkeek,S,null,null,of ,S Carkeek Co,res,408 ,Hancock,null,null
+90,CARLINE,WM,null,null,machinist dealer in all kinds of sewing machines and attachments machinery repaired etc,null,res null,236,null,null,null
+91,Carpenter,Henry,T,null,null,null,res,709 ,Hancock,null,null
+92,Carpenter,H,T,null,cigar dlr,null,res,402 ,Hancock,null,null
+93,Carrigan,Saml,null,null,elk ,E Ryan,res,311 ,Hancock,null,null
+95,Carroll,Phillip,null,null,pattern mkr,null,res,102 ,Reservation,null,null
+96,Cashell,Thos,null,null,copper dipper,null,res,308 ,Franklin,null,null
+97,Chainer,Hector,null,null,null,null,bds,307 ,Quincy,null,null
+99,Champion,Henry,null,null,molder,null,res,null,null,Ripley,null
+100,Chandler,J,A,null,engineer ,D L S Copper Co,res,null,null,Smeltingville,null
+102,Chesnay,Israel,null,null,wks saw mill,null,bds,210 ,Ravine,null,null
+103,Chidsey,C,W,null,elk,null,res,null,null,Smeltingville,null
+104, Chidsey, Chas, null, null, elk, null, bds,200-204,Tezenco st,null,null
+105,CHRISTOPHER,A,null,null,dealer in wines liquors and cigars sour mash a specialty,null,res null,310,null,null,null
+107,CLEAVES,WM,null,null,of ,S E Cleaves Son,res,null,null,Ripley,null
+108,CLEAVES,S,E,null,of ,S E Cleaves Son,res,null,null,Ripley,null
+109,CLIFF,JOHN,null,null,mining captain ,Quincy mine of J C Ley Co,res,null,null,Quincy Mine,null
+110,Clifford,Pat,null,null,null,null,res,214 ,Quincy,null,null
+111,CLOSE,JAMES,A,null,null,null,res,103 ,Hancock,null,null
+112,CLOSE,JAMES,A,null,null,null,res,103 ,Hancock,null,null
+114,Condon,Albert,null,null,core mkr,null,res,null,null,Franklin tp,null
+115,Condon,Wrn,null,null,dealer in general merchandise,null,res null,133,null,null,null
+116,Condon,W,D,null,bookkeeper ,Sturgeon River Lumber Co,bds,133 ,Quincy,null,null
+117,Conechoe,Henry,null,null,null,null,bds,307 ,Quincy,null,null
+118,Conway,James,null,null,furnaceman,null,res,null,null,Smeltingville,null
+119,Conway,Thos,null,null,smelter,null,res,329 ,Franklin,null,null
+120,Coon,Chas,M,null,clerk,null,res,304 ,Hancock,null,null
+121,Coon,Frank,null,null,mason,null,res,119 ,Water,null,null
+122,Coonley,Alfred,null,null,traveling agent,null,bds,520 ,Quincy,null,null
+123,C00PER,D,B,null,foreman ,DLS Copper Co,res,null,null,Smeltingville,null
+124,Cooper,J,B,null,foreman ,D L S Copper Co,res,null,null,Smeltingville,null
+125,Cooper,J,R,null,agent ,D L S Copper Co,res,null,null,Smeltingville,null
+126,Copeland,James,null,null,smelter,null,res,115 ,Water,null,null
+128,Cornish,James,null,null,painter,null,res,120 ,Hancock,null,null
+130,COUGHLIN,DENNIS,null,null,of ,D Coughlin Son,res,219 ,Quincy,null,null
+132,Coughlin,John,null,null,explorer,null,res,null,null,Lake W Hancock,null
+133,COUGHLIN,THOS,null,null,of ,D Coughlin Son,res,520 ,Hancock,null,null
+134,Craig,Alexander,null,null,machinist,null,res,null,null,Ripley,null
+135,CRAWFORD,D,null,null,contractor and builder dealer in sash doors and blinds also funeral director telephone connections rear ,400 Hancock,res,301 ,Water,null,null
+136, Crone, C, null, null, photographer, null, bds,217,null,Hancock,null
+137,Cudahy,August,null,null,shoemaker ,229 Quincy,bds,227 ,Quincy,null,null
+138,Cuddihy,John,null,null,cooper,null,res,114 ,Hancock,null,null
+140,Cudihey,Thos,null,null,null,null,bds,221 ,Hancock,null,null
+141,Cunningam,John,null,null,miner,null,res,707 ,Hancock,null,null
+142,Curnow,Joseph,null,null,assayer ,D and L S Copper Co,res,null,null,Smeltingville,null
+143,Dannes,Win,null,null,wks ,Quincy mills,res,201 ,Reservation,null,null
+144,Davey,T,null,null,fruits and confectionery ,207 Quincy,res,null,null,Houghton,null
+145,Davey,T,S,null,salesman ,T Davey,res,null,null,Houghton,null
+146,Davidson,Robert,null,null,clerk,null,res,601 ,Plancock,null,null
+148,Davis,Fred,null,null,refiner,null,res,null,null,Smeltingville,null
+150,Davis,Thos,null,null,teamster,null,res,410,Hancock,null,null
+151,Davis,W,D,null,supt ,Webster mine,res,529 ,Quincy,null,null
+152,Day,John,null,null,barber,null,res,524 ,Quincy,null,null
+153,Decker,John,null,null,foundryman,null,bds,205 ,Franklin,null,null
+154, Dee, R, J, null, train dispatcher , M R R R, bds,217,null,Hancock,null
+155,DeGraff,Wm,null,null,clerk ,Arn Exp Co,res,null,null,Houghton,null
+156,DEIMEL,GUSTAVE,null,null,dealer in diamonds watches jewelry fancy goods etc ,208 Quincy,res,504 ,Hancock,null,null
+157,Delair,Joseph,null,null,carpenter,null,res,null,null,Ripley,null
+158,Delaney,John,null,null,cupola,null,res,null,null,Smeltingville,null
+160,Dennis,James,null,null,grocer,null,res null,205,null,null,null
+161,Dennis,Thomas,null,null,mining captain ,Franklin mine,res,null,null,Franklin mine,null
+162,Desbaies,David,null,null,null,null,res rear,307 ,Hancock,null,null
+164,Dineeu,James,null,null,sawyer,null,bds,301 ,Franklin,null,null
+167,Dowan,John,null,null,carpenter,null,bds,203 ,Tezcuco,null,null
+170,Doyle,Michael,null,null,tailor ,240 Quincy,res,703 ,Hancock,null,null
+171, Doyle, Wm, P, null, molder, null, bds,217,null,Hancock,null
+172,eiss,Nieh,null,Dr,wks ,Quincy mills,res,null,null,Quincy tp,null
+175,DRITTLER,HENRY,null,null,a res since ,1858,res,204 ,Quincy,null,null
+176,DRITTLER,HENRY,null,null,null,null,res,204 ,Quincy,null,null
+177,DRITTLER,Wm,H,null,of ,Drittler Bros,res,204 ,Quincy,null,null
+178,oucbe,John,null,Dr,lab,null,bds,210 ,Ravine,null,null
+179,Dumontier,E,null,null,carpenter,null,bds,210 ,Ravine,null,null
+181,Dunu,Janies,null,null,lab,null,res,null,null,Franklin,null
+182,DUNSTAN,T,B,null,attorney at law over ,212 Quincy,res,305 ,Water,null,null
+183,Dunstone,Thos,null,null,carpenter,null,res,null,null,Franklin tp,null
+185,Dwyer,J,null,Mrs,wid,null,res,238 ,Quincy,null,null
+186,Dwyer,Michael,null,null,lab,null,res,310 ,Ravine,null,null
+187,Dwyer,Richard,null,null,liveryman ,D Coughlin Son,bds,238 ,Quincy,null,null
+188,Dwyer,Timothy,F,null,clerk ,E Ryan,res,238 ,Quincy,null,null
+189,Dwyer,John,null,null,peddler,null,res,325 ,Quincy,null,null
+190,Dwyer,Wm,null,null,furnaceman,null,res,null,null,Smeltingville,null
+192,Ehler,G,null,null,boots and shoes,null,res null,206,null,null,null
+193,EMERY,G,W,null,of ,S Emery Son,res,710 ,Quincy,null,null
+195,Enrietti,Antonio,null,null,shoemaker for ,J R Jacques,bds,301 ,Quincy,null,null
+196,Ettinger,Matt,null,null,lab,null,res,210 ,Franklin,null,null
+198, Fallen, John, null, null, clerk, null, bds,200-204,Tezenco st,null,null
+199,FARLAY,FRANK,null,null,dealer in wines liquors and cigars boarding house,null,res null,210,null,null,null
+200,Fichtel,Charles,L,null,null,null,res over,124 ,Quincy,null,null
+201,FICHTEL,CHAS,L,null,null,null,res,124 ,Quincy,null,null
+204,Finch,Wrn,null,null,ticket agt ,M R R R,bds,403 ,Water,null,null
+205,FINN,MICHAEL,null,null,a resident since ,1861 Justice of the peace,res,125 ,Quincy,null,null
+208,Fischer,Earnest,null,null,null,null,res null,622,null,null,null
+209, Fisette, Louis, null, null, woodsman, null, bds,200,null,Ravine,null
+215,Fitzpatrick,P,null,null,null,null,res,527 ,Hancock,null,null
+216,Flynn,John,null,null,lab,null,res,500 ,Quincy,null,null
+217,Flynn,T,A,null,salesman ,S Emery and son,res,422 ,Quincy,null,null
+218,Flynn,T,A,Mrs,millinery,null,res null,422,null,null,null
+219,Foley,James,null,null,furnaceman,null,res,null,null,Smeltingville,null
+220,Foley,J,C,null,explorer,null,res,null,null,Quincy Mine,null
+222,FORD,Wm,B,null,of ,Ford Rainey,res,400 ,Hancock,null,null
+223, Fost, John, null, null, sawyer, null, bds,200,null,Ravine,null
+225,Fournier,Thos,null,null,teamster,null,bds,210 ,Ravine,null,null
+226,Francis,John,null,null,carpenter for ,N Mitchell,res,700 ,Hancock,null,null
+227,Francis,Fred,null,null,carpenter ,null,res,700 ,Hancock,null,null
+229,Frazier,Tom,null,null,carpenter,null,bds,203 ,Tezcuco,null,null
+230,Fringe,Caspar,null,null,null,null,wks,null,null,Quincy Mills,null
+231,Fuller,John,null,null,null,null,res,523 ,Hancock,null,null
+233,Funk,George,null,null,polisher,null,res,402 ,Hancock,null,null
+234,Funke,John,null,null,supt ,Franklin mill,res,null,Mill st W Hancock,null,null
+235,Funke,Michael,null,null,butcher,null,bds,620 ,Quincy,null,null
+240,Gamie,Moses,null,null,carpenter,null,res,322 ,Quincy,null,null
+242, Gartner, Jacob, null, null, dry goods etc , 122 Hancock, bds,200-204,Tezenco st,null,null
+243, Gartner, Leo, null, null, clerk , J Gartner, bds,200-204,Tezenco st,null,null
+246,Gauthiel,Alec,null,null,cigarmkr,null,bds,402 ,Hancock,null,null
+247,Geauvreau,Charles,null,null,tailor,null,res rear,428 ,Quincy,null,null
+249,Geekee,Robt,null,null,molder,null,res,null,null,Houghton,null
+250,GEMUEND,M,J,null,manufr of wagons sleighs and dealer in buggies cutters etc office ,100 Reservation,res,105 ,Water,null,null
+253,null,Gieseu,null,Mrs,null,null,res,null,N S Quincy W end,null,null
+254,Gillespie,James,H,null,smelter,null,bds,604 ,Hancock,null,null
+255,Gillespie,Samuel,null,null,smelter,null,res,604 ,Hancock,null,null
+256,Given,Wm,null,null,teamster,null,res,700 ,Hancock,null,null
+257,GOLDSWORTHY,M,R,null,agent ,Standard Oil Co office N S Bridge bet Houghton and Hancock,res,209 ,Hancock,null,null
+258,Good,James,null,null,refiner,null,res,null,null,Smeltingvilie,null
+259,Goodale,Wm,null,null,null,null,res near,605 ,Hancock,null,null
+261, GORDON, WM, D, null, with , J R Gordon, bds,211-215,null,Quincy,null
+263,Goulette,Chas,null,null,lab,null,res,null,null,Smeltingville,null
+264,Goulette,Tom,null,null,furnaceman,null,res,null,null,Smeltingville,null
+265,Grekila,Mat,null,null,lab,null,res,314 ,Reservation,null,null
+267,Griggs,Saml,null,null,machinist,null,res,null,null,Ripley,null
+268,null,Gack,null,Mrs,wid,null,res,207 ,Dakota,null,null
+270,Gunneiss,John,null,null,of ,Seager Gunneiss,res,null,null,E Hancock,null
+271,GUNDRY,RICHARD,J,null,of ,Gundry Burnett,res,400 ,Hancock,null,null
+274,Gutsch,A,F,null,with ,A Gutsch,res,101 ,Tezcuco st,null,null
+275,HADDOCK,H,D,null,null,null,res,315 ,Hancock,null,null
+276,HAEFER,F,C,null,photographer artistic work a specialty ,108 Quincy,res,110 ,Quincy,null,null
+277,Haines,Harry,null,null,molder,null,res,null,null,Ripley,null
+279,Halliday,James,D,Rev,pastor ,M E church,res,223 ,Hancock,null,null
+280,HAN,AUER,A,null,of ,Metzler Hanauer,res,218 ,Quiucy,null,null
+281,Hanchette,C,D,null,attorney land and ins agt over ,212 Quincy,res,506 ,Hancock,null,null
+288,Hanley,Cornelius,null,null,lab,null,res,511 ,Hancock,null,null
+289,Hanley,Danl,null,null,smelter,null,res,512 ,Quincy,null,null
+290,Hanley,John,null,null,smelter,null,res,518 ,Hancock,null,null
+291,Hanson,01f,null,null,car repairer,null,res,428 ,Quincy,null,null
+294,Harrington,Jerry,null,null,helper,null,res,null,null,Houghton,null
+295,Harrington,Patk,null,null,helper,null,res,null,null,Franklin,null
+297,Harris,W,H,null,clerk,null,res,null,null,Franklin tp,null
+298,Harry,Win,null,null,hardware ,116 Quincy,res,211 ,Hancock,null,null
+299,Hartman,Aug,null,null,null,null,wks,null,null,Quincy Mills,null
+301,Healey,Andrew,null,null,refiner,null,res,null,null,Smeltingville,null
+306,null,Hendrickson,null,Mrs,wid,null,res,102 ,Reservation,null,null
+309,Higgins,Win,null,null,lab,null,bds,402 ,Hancock,null,null
+310,Hildebrand,M,null,null,physician over ,212 Quincy,res,null,null,Hancock,null
+311,Kingston,Wm,null,null,teamster,null,bds,301 ,Franklin,null,null
+312,HOCKING,E,J,null,of ,Hocking Shields,res rear,111 ,Quincy,null,null
+313,HOCKING,MRS,H,null,wid,null,res rear,111 ,Quincy,null,null
+314,HOCKING,JOHN,E,null,millinery and fancy goods,null,res null,112,null,null,null
+316,HODGE,CHAS,J,null,propr of the ,Lake Superior Iron works,res,null,null,Franklin tp,null
+318,Hodges,Thos,null,null,smelter,null,res,416 ,Hancock,null,null
+319,Hofer,Gregory,null,null,barn boss,null,res,null,null,Smeltingville,null
+320,Hofer,John,null,null,teamster,null,res,null,null,Smeltingville,null
+322,Hoffenbacher,Wm,null,null,null,null,res,227 ,Quincy,null,null
+323,HOLLACE,H,H,null,veterinary surgeon and farrier treats diseases of all domestic animals office ,Caughlins stables,res,219 ,Quincy,null,null
+325,Holman,Peter,null,null,null,null,res,224 ,Quincy,null,null
+326,Horan,Lawrence,null,null,grocer,null,res null,312,null,null,null
+327,Hosking,James,null,null,wks ,Wm Hosking,res,207 ,Tezcuco,null,null
+328,Hosking,Thos,null,null,stone mason,null,bds,207 ,Tezcuco,null,null
+331,Huber,John,null,null,pattern mkr,null,res,null,null,Franklin,null
+332, HUBERTY, JOHN, P, null, head bookkeeper , Jos Wertin Sons, bds,211-215,null,Quincy,null
+333,Huebner,E,null,Rev,pastor ,Lutheran church,res,317 ,Hancock,null,null
+334,Hunnel,Jeremiah,null,null,null,null,res,213 ,Franklin,null,null
+335,Hunter,Andrew,null,null,foremanfoundry,null,res,null,null,Houghton,null
+336,Hunter,Wm,null,null,molder,null,res,null,null,Houghton,null
+337,Hut,Andrew,null,null,lab,null,res,null,null,Franklin tp,null
+338,Ingrain,Thos,null,null,foremau ,Moralees mill,res,403 ,Water,null,null
+339,INGRAM,WM,J,null,head sawyer ,M M Moralee,res,712 ,Quincy,null,null
+340,Jacobson,Simon,null,null,machinist,null,res,309 ,Hancock,null,null
+341,Jacques,E,null,null,null,null,res,null,null,Smeltingville,null
+344,Jacques,Nelson,null,Mrs,wid,null,res,307 ,Quincy,null,null
+345,Jacques,Zachariah,null,null,null,null,res,null,null,Smeltingville,null
+347,James,Sami,null,null,lab,null,res,null,null,Ripley,null
+348,James,Thos,null,null,engineer,null,res,null,null,Ripley,null
+350,Johnson,August,null,null,bartender,null,res,307 ,Tezcuco,null,null
+351,Johnson,Hugh,null,null,woodsman,null,res,304 ,Hancock,null,null
+353,Jones,James,null,null,null,null,res,407 ,Water,null,null
+354,Jones,John,E,null,bookkeeper ,First National Bank,bds,407 ,Water,null,null
+355,Jones,Richard,D,null,null,null,bds,407 ,Water,null,null
+357,Jordan,Wm,null,null,foundry engineer,null,res,null,null,Hurontown,null
+358,Kahkonen,Anton,null,null,lab,null,bds,304 ,Reservation,null,null
+359,Kapp,John,null,null,null,null,works,null,null,Quincy Mills,null
+360,Kaufman,Geo,null,null,contractor,null,res,null,null,E Hancock,null
+362,KAUTH,ANDREW,null,null,liquor merchant and tobacconist,null,res null,300,null,null,null
+363,KAUTH,ANDREW,null,null,null,null,res,300 ,Quincy,null,null
+364,KAUTH,WM,null,null,of ,A Kauth,bds,300 ,Quincy,null,null
+366,Keiler,Joseph,null,null,machinist ,Quincy Mills,res,null,null,E Hancock,null
+367,Kein,August,null,null,butcher,null,bds,205 ,Franklin,null,null
+368,Keisel,John,null,null,null,null,works,null,null,Quincy Mills,null
+370,Kelley,Mike,null,null,lab,null,res,305 ,Franklin,null,null
+372,Kelley,Thos,null,null,assistant captain ,Franklin Mine,res,null,null,Atlantic Mine,null
+373, Kendall, D, S, null, commissioner, null, bds,200-204,Tezenco st,null,null
+374,Kennedy,Lawrence,null,null,lab,null,res,null,null,Smeltingville,null
+375,Kennedy,Matt,null,null,lab,null,res,null,null,Franklin tp,null
+376,Kennedy,Wm,null,null,lab,null,res,null,null,Franklin tp,null
+377,Keogh,C,J,null,copper smelter,null,res,312 ,Ravine,null,null
+380,KEY,HENREY,null,null,contractor and builder liquor merchant,null,res null,210 and 212,and,null,null
+381,Kieserling,Wm,null,null,salesman,null,res,113 ,Water,null,null
+382,Kimpell,Conrad,null,null,null,null,works,null,null,Quincy Mills,null
+383,King,Alec,null,null,lab,null,res,404 ,Hancock,null,null
+385,Kitto,Henry,null,null,smelter,null,res,102 ,Hancock,null,null
+387,KLOECKNER,DANIEL,null,null,clerk ,Quincy Mining Co,res,null,null,Quincy Mine,null
+388,Kobetich,Michael,null,null,null,null,works,null,null,Quincy Mills,null
+389,Koch,Jacob,null,null,miner,null,bds,203 ,Tezcuco,null,null
+390,Koehler,Bernhard,null,null,carpenter,null,res,618 ,Quincy,null,null
+391,Koencher,Herman,null,null,null,null,works,null,null,Quincy Mills,null
+392,Komenski,Herman,null,null,teamster,null,res,null,null,Smeltingville,null
+393,Kreger,Henry,null,null,pattern mkr,null,res,null,null,Houghton,null
+394,Kreuter,John,null,null,lab,null,res,108 ,Franklin,null,null
+395,Kroll,F,W,null,of ,F WT Kroll Co,res,null,null,Houghton,null
+397, Kroll, John, J, null, of , F W Kroll Co, bds,200-204,Tezenco st,null,null
+398, Krueger, Henry, null, null, barber , Chas Leiuder, bds,211-215,null,Quincy,null
+400,Kutcheid,Henry,null,null,cigar maker,null,bds,402 ,Hancock,null,null
+401,Kuruow,Joseph,null,null,assayer ,D L S Copper Co,res,null,null,Smeltingville,null
+404,Lachapelle,Louis,null,null,lab,null,res,434 ,Quincy,null,null
+406,Lahon,John,null,null,tnokler,null,res,null,null,Houghton,null
+411,Lanctot,Adolf,null,null,null,null,bds,520 ,Quincy,null,null
+413,Lanctot,Chas,F,null,null,null,res,524 ,Hancock,null,null
+414,null,Lane,null,Mrs,wid,null,res,416 ,Hancock,null,null
+416, Langdon, Lawrence, null, null, carpenter, null, bds,200,null,Ravine,null
+418,Langner,Chas,null,Rev,pastor ,St Josephs church,res,432 ,Quincy,null,null
+419,Lapp,Henry,null,null,traveler,null,res,null,null,E Hancock,null
+420,Lapp,Julius,null,null,with ,J R Dee and Go,res,null,null,E Hancock,null
+421,Lapp,Wm,null,null,null,null,res,null,null,E Hancock,null
+422,Lapp,Wm,null,Jr,null,null,res,703 ,Hancock,null,null
+424,Lauer,John,null,null,molder,null,res over,316 ,Reservation,null,null
+425,Lavine,Joseph,null,null,lab,null,bds,402 ,Hancock,null,null
+426,Lee,B,null,Mrs,wid,null,res,311 ,Franklin,null,null
+427,Lee,Edwards,null,null,city marshall,null,res,208 ,Franklin,null,null
+428,Lee,Michael,null,null,null,null,res,311 ,Franklin,null,null
+429,Lee,Patrick,null,null,teamster ,E Ryan,res,null,null,Ravine,null
+431,Lefebvre,Fred,null,null,null,null,bds,307 ,Quincy,null,null
+432,Legare,Joseph,null,null,lab,null,bds,307 ,Quincy,null,null
+433,Legault,John,null,null,liveryman ,D Coughlin Son,bds,219 ,Quincy,null,null
+434, Legg, Wm, null, null, painter, null, bds,217,null,Hancock,null
+436,Lemire,Fred,null,null,liveryman ,D Coughlin Son,res over,303 ,Quincy,null,null
+438,Leonard,Edward,null,null,sawyer,null,res,705 ,Hancock,null,null
+439,Leonard,John,null,Mrs,wid,null,res,705 ,Hancock,null,null
+440,Leonard,Win,null,null,smelter,null,res,705 ,Hancock,null,null
+441, Lepere, Joseph, null, null, woodsman, null, bds,200,null,Ravine,null
+442,Lewis,James,null,null,foreman brick yard,null,res,null,null,E Hancock,null
+443,Lewis,John,null,null,null,null,res,null,null,E Hancock,null
+448,Lieblein,Chas,null,null,with ,Sturgeon River Lumber Co,res,504 ,Quincy,null,null
+449,Lieblein,George,null,null,flagman,null,res rear,313 ,Hancock,null,null
+450, Lickley, J, J, null, dentist with , W S Whisler, bds,200-204,Tezenco st,null,null
+451,Light,Richard,null,null,commission agent,null,res,409 ,Hancock,null,null
+452,LINDER,CHARLES,null,null,prop ,Hancock hair cutting and shaving rooms 115 Quincy,res over,312 ,Quincy,null,null
+454,Link,Andrew,null,null,works ,Quincv Stamp Mills,res,108 ,Franklin,null,null
+456,Long,Michael,null,null,null,null,res,507 ,Hancock,null,null
+457,Lont,Fred,null,null,brakeman,null,bds,203 ,Tezcuco,null,null
+458,Looney,James,B,null,postmaster passage and exchange agent,null,res,117 ,Water,null,null
+459,Looney,James,D,null,assistant postmaster,null,bds,117 ,Water,null,null
+460,Looney,Richard,T,null,stenographer,null,bds,117 ,Water,null,null
+461,Lord,Alfred,null,null,null,null,bds,118 ,Hancock,null,null
+462,Lord,Alfred,W,null,machinist,null,res,118 ,Hancock,null,null
+463, Lord, E, K, null, bookkeeper , J C Ley Co, bds,211-215,null,Quincy,null
+464, Loscher, Wm, null, null, of , Henry Key, bds,200-204,Tezenco st,null,null
+467,Luke,Wm,null,null,molder,null,res,null,null,Ripley,null
+468,Mack,E,A,null,boots and shoes ,123 Quincy,res,null,null,Hancock,null
+471,MANLEY,J,null,null,confectioner and grocer,null,res null,131,null,null,null
+472,Mansfield,Patrick,null,null,lab,null,res,null,null,Franklin tp,null
+473, Marks, I, null, null, peddler, null, bds,200-204,Tezenco st,null,null
+474,Martin,Baptiste,null,null,watchman,null,res,null,null,Quincy,null
+475,Martin,Phillip,null,null,null,null,works,null,null,Quincy Mills,null
+476,Martyn,John,null,null,blacksmith,null,res,113 ,Hancock,null,null
+477,Martin,Richard,null,null,blacksmith,null,res,113 ,Hancock,null,null
+478,Martz,Jacob,null,null,sawyer,null,bds,203 ,Tezcuco,null,null
+479,Mason,W,H,null,grocer,null,res null,424,null,null,null
+480,Mason,Henry,null,null,night watchman,null,res rear,530 ,Quincy,null,null
+483,Maury,Wm,null,null,molder,null,res,null,null,Ripley,null
+484,McCall,Con,null,null,molder,null,res,null,null,Franklin tp,null
+485,McCall,Donald,null,null,surface supt ,Quincy Mine,res,null,null,Quincy,null
+486,McCarthy,Dennis,null,null,miner,null,res,318 ,Quincy,null,null
+487,McCarthy,Patrick,lab,null,null,null,res,505 ,Plancock,null,null
+489,McCarthy,Wm,null,null,miner,null,bds,217 ,Franklin,null,null
+490,McClaren,D,null,Mrs,dressmaker,null,res,316 ,Quincy,null,null
+491,McCormick,James,null,null,painter,null,res,313 ,Franklin,null,null
+492,McDonald,A,F,null,asst clk ,Quincy Mine,res,null,null,Quincy Mine,null
+493,McDonald,D,null,null,mason,null,works,null,null,Quincy Mills,null
+494,McDonald,Joseph,null,null,molder,null,res,null,null,Ripley,null
+496,McDonnell,Simon,null,null,insurance agent,null,res,525 ,Hancock,null,null
+497,McGinnis,James,null,null,null,null,res,null,null,Quincy Mine,null
+498,McGinnis,Stephen,null,null,null,null,bds,520 ,Quincy,null,null
+499,McGrath,James,null,null,boiler maker,null,bds,326 ,Quincy,null,null
+500,McGrath,James,null,null,smelter,null,res,713 ,Hancock,null,null
+501,McGrath,James,null,null,null,null,bds,713 ,Hancock,null,null
+502,McGrath,James,P,null,painter,null,bds,212 ,Franklin,null,null
+503,McGrath,Martin,null,null,boiler maker,null,bds,326 ,Quincy,null,null
+504,McGrath,Michael,null,null,carpenter,null,res,326 ,Quincy,null,null
+505,McGrath,Thos,null,null,boiler maker,null,bds,326 ,Quincy,null,null
+506,McGrath,Wm,J,null,clerk ,S Emery Son,bds,326 ,Quincy,null,null
+507,McKendriek,J,null,null,miner,null,res,null,null,E Hancock,null
+508,McKendrick,M,null,null,bartender,null,res,null,null,E Hancock,null
+510, McLaughlin, Owen, null, null, molder, null, bds,217,null,Hancock,null
+511,Meads,Thos,null,null,insurance agent,null,res,206 ,Reservation,null,null
+514, Merritt, S, J, null, asst supt , M R and H C R Rs, bds,217,null,Hancock,null
+515,Merrick,Richard,null,null,with ,S D North Son,res,411 ,Hancock,null,null
+516,Mette,August,null,null,chief bookkpr ,E Ryan,res,null,null,E Haucock,null
+517,METTE,CLEMENS,null,null,manufr of carriages wagons etc blacksmithing repairs and horseshoeing ,119 21 Franklin,res,407 ,Tezcuco,null,null
+519,Meyer,A,null,Capt,null,null,res,null,null,E Hancock,null
+520,Meyer,Chris,null,null,null,null,res,null,null,Smeltingville,null
+521,Meyer,Peter,null,null,wks ,Quincy mills,res,null,null,E Hancock,null
+522,Meyers,Peter,null,null,teamster,null,res over,314 ,Quincy,null,null
+527,Mitchell,Fred,null,null,model mkr,null,res,516 ,Quincy,null,null
+528,Mitchell,J,N,null,furniture dealer contractor etc,null,res null,230,null,null,null
+529,Mondloch,John,null,null,tinsmith,null,res,704 ,Hancock,null,null
+531,Moore,Peter,null,null,tailor,null,res,506 ,Quincy,null,null
+532,MORALEE,M,M,null,mauufr of lumber flooring siding ceiling lath and shingles planing mill foot of ,Mesnard Lake Front,res,418 ,Hancock,null,null
+533,MORALEE,M,M,Jr,null,null,bds,418 ,Hancock,null,null
+534,Moreau,Abram,null,null,lab,null,res,206 ,Ravine,null,null
+535,null,Moriarty,null,Mrs,wid,null,res,207 ,Franklin,null,null
+536,Morrison,R,M,null,master carpenter ,Quincy mine,res,null,null,Atlantic Mine,null
+538,Muller,Leo,null,null,miner,null,bds,214 ,Franklin,null,null
+539,Murphy,E,null,Mrs,wid,null,res,521 ,Hancock,null,null
+540,Murphy,Michael,null,null,lab,null,res,325 ,Franklin,null,null
+541,Murphy,P,C,null,engineer,null,res,412 ,Hancock,null,null
+542,Murphy,Tim,null,null,works ,Quincy mills,bds,521 ,Hancock,null,null
+543,Murray,Chas,null,null,lumberman,null,res,108 ,Ravine,null,null
+544,Nagel,Ed,null,null,carpenter,null,res,null,null,Smeltingville,null
+545,Nagel,Garrett,null,null,furnaceman,null,res,null,null,Smeltingville,null
+546,Nagel,John,null,null,furnaceman,null,res,null,null,Smeltingville,null
+547,Nagel,Richard,null,null,lab,null,res,null,null,Franklin tp,null
+548,Naumark,A,null,null,peddler,null,res,426 ,Quincy,null,null
+549,Nehe,Stephen,null,null,lab,null,res,706 ,Hancock,null,null
+550,Neher,R,B,Mrs,wid,null,res,316 ,Reservation,null,null
+555,NICHOLLS,GEO,H,null,druggist and pharmacist ,123 Quincy,res,430 ,Quincy,null,null
+557,Mikkila,Win,null,null,clerk ,Jos Wertin Sons,res,321 ,Quincy,null,null
+558,Niva,Robert,null,null,lab,null,bds,304 ,Reservation,null,null
+559,Noonan,John,J,null,null,null,works,null,null,Quincy Mills,null
+560,Norris,Ed,null,null,butcher,null,res,109 ,Hancock,null,null
+561,NORTH,GEO,S,null,of ,S D North Son,res,null,null,Quincy Mine,null
+562,NORTH,S,D,null,null,null,res,null,null,Quincy Mine,null
+564,Northrup,Willard,B,null,supply clerk ,Quincy Mine,res,null,null,Quincy Mine,null
+565, Northy, Wm, null, null, log scaler, null, bds,200-204,Tezenco st,null,null
+566,Not,Joseph,null,null,null,null,bds,307 ,Quincy,null,null
+567,OConnor,Wm,null,null,null,null,res,211 ,Franklin,null,null
+569,01iver,C,L,null,clerk ,E Ryan,res,null,null,Ripley,null
+571,01son,John,null,null,clerk ,E Ryan,res,303 ,Franklin,null,null
+575,Ougre,Chas,null,null,null,null,res,null,null,Ripley,null
+577,Osborn,David,null,null,messenger ,1st Natl Bank,res,null,null,Houghton,null
+578,Oshinsky,P,null,null,peddler,null,res,207 ,Ryan st,null,null
+579,Opie,James,null,null,smelter,null,res,416 ,Hancock,null,null
+580,Opitz,John,null,null,wks ,Wm Opitz,bds,211 ,Tezcuco,null,null
+582,Oppenheimer,Wm,null,null,painter,null,bds,205 ,Franklin,null,null
+584,Paddock,H,L,null,null,null,res,516 ,Hancock st,null,null
+585,Paine,Samuel,null,null,butcher,null,res,510 ,Quincy,null,null
+586, Palmer, David, null, null, watchman, null, bds,217,null,Hancock,null
+587,null,Pappe,null,Mrs,wid boarding,null,res,205 ,Franklin,null,null
+588,Pappe,John,null,null,loundryman,null,res,205 ,Franklin,null,null
+589,Pappe,Wm,null,null,lab,null,res,205 ,Franklin,null,null
+590, Partridge, Frank, null, null, log scaler, null, bds,200-204,Tezenco st,null,null
+592,Pearce,Harry,null,null,miner,null,res,701 ,Hancock,null,null
+596,Pellow,Frank,null,null,null,null,bds,526 ,Quincy,null,null
+597,Pellow,Thos,null,null,bakery and confectionery,null,res null,314,null,null,null
+599,PELTO,AUGUST,null,null,of ,Pelto Allen,res,112 ,Hancock st,null,null
+600,Perso,Alfred,null,null,smelter,null,res,710 ,Hancock,null,null
+602,Perso,Ed,null,null,clerk,null,bds,308 ,Reservation,null,null
+603,Perso,John,null,null,smelter,null,res,308 ,Reservation,null,null
+604,Perso,Wm,null,null,null,null,bds,308 ,Reservation,null,null
+605,Peterson,John,null,null,saloon,null,res null,317,null,null,null
+606,Phillipi,Matt,null,null,miner,null,bds,205 ,Franklin,null,null
+607, Picor, Joseph, null, null, woodsman, null, bds,200,null,Ravine,null
+609,PIERCE,BYRON,H,null,of ,B H Pierce Co,res,null,null,E Hancock,null
+610,Pierce,S,S,null,molder,null,res,null,null,Ripley,null
+611,Pierce,Stephen,null,null,molder,null,res,null,null,Ripley,null
+614,Pinten,John,null,null,of ,J Pinten Bro,res,115 ,Texcuco,null,null
+615,Pinten,Joseph,null,null,of ,Pinten Bro,res,115 ,Tezcuco,null,null
+616,Planchette,D,null,null,lab,null,res,404 ,Hancock,null,null
+618,Priest,A,M,null,farmer,null,res,415 ,Hancock,null,null
+620,PRINCE,THOMAS,J,null,publisher and propr the ,Copper Herald book and job printer 300 Reservation,res,null,null,WHancock,null
+621,Provost,Ephriam,null,null,painter,null,res,206 ,Ravine,null,null
+623,Pruner,Nathan,null,null,smelter,null,res,209 ,Mesnard,null,null
+625,Pruner,Walter,null,null,furnaceman,null,res,null,null,Smeltingville,null
+626,Pryor,Edward,null,null,machinist,null,res,null,null,Houghton,null
+627,Pullar,Andrew,null,null,null,null,res,119 ,Water,null,null
+628, Purchase, G, H, null, insurance agt, null, bds,200-204,Tezenco st,null,null
+629,Quayle,M,null,null,wagon maker ,116 Franklin,res,104 ,Reservation,null,null
+631,QUINCY,MILLS,null,null,null,null,res,null,null,E Hancock,null
+633,Racine,01iver,null,null,carpenter,null,res,404 ,Hancock,null,null
+634,RAINEY,S,B,null,of ,Ford Rainey,res,400 ,Hancock,null,null
+635,Raula,Peter,null,null,lab,null,bds,304 ,Reservation,null,null
+636,Raula,F,null,null,lab,null,bds,210 ,Ravine,null,null
+638,Reder,Herman,null,null,lab,null,res,434 ,Quincy,null,null
+639,Redmond,M,R,null,molder,null,res,212 ,Franklin,null,null
+640,Redmund,Alrich,null,null,null,null,wks,null,null,Quincy Mills,null
+641,Regan,Michael,null,null,null,null,wks,null,null,Quincy Mills,null
+643,Reichman,M,null,null,dry goods,null,res null,310,null,null,null
+644,Reichman,Paul,null,null,null,null,res null,310,null,null,null
+645,Rendenbach,Jacob,null,null,night watchman,null,res,408 ,Quincy,null,null
+646,Rendenbach,John,null,null,wks ,M R R R,bds,408 ,Quincy,null,null
+648,Rendenbach,Win,null,null,teamster,null,bds,408 ,Quincy,null,null
+649,Repath,Chas,H,null,draughtsman,null,bds,602 ,Hancock,null,null
+650,Repath,Richard,null,null,cooper,null,res,602 ,Hancock,null,null
+652,Richards,John,null,null,molder,null,res,602 ,Quincy,null,null
+654,Rillston,Edward,null,null,molder,null,res,602 ,Quincy,null,null
+655,Rillston,H,null,Mrs,wid,null,res,620 ,Quincy,null,null
+656,Rilston,Edwin,null,null,helper,null,res,null,null,Houghton,null
+657,ROBERT,J,B,null,null,null,res,600 ,Quincy,null,null
+659,Roberts,Mark,null,null,stone mason,null,bds,207 ,Tezcuco,null,null
+660,Roberts,W,H,null,null,null,res null,400,null,null,null
+661,Roberts,W,H,jr,salesman ,W H Roberts,res,400 ,Quincy,null,null
+662,ROBINSON,O,W,null,of ,Sturgeon River Lumber Co,res,203 ,Water st,null,null
+663, Robinson, C, R, null, auditor and cashier , M R and H C R Rs, res,200-204,Tezenco st,null,null
+664, Robinson, S, null, null, auditor , M R RE, bds,200-204,Tezenco st,null,null
+665,Rodda,Henry,null,null,grocer,null,res null,606,null,null,null
+666,Rogers,Albert,null,null,sawyer,null,bds,111 ,Water,null,null
+667,Rogers,Chas,null,null,printer for the ,Copper Herald,bds,111 ,Water,null,null
+668,Rogers,F,H,null,bookkeeper ,Jos PI Seager,res,null,null,Franklin mine,null
+670,Rogers,Wm,F,null,wks dry house ,Franklin mine,res,111 ,Water,null,null
+671,Rohl,Carl,null,null,tobacconist,null,res null,201,null,null,null
+673,ROHRER,ALBERT,null,null,watchmaker for ,G Rohrer,bds,228 ,Quincy,null,null
+674,ROHER,Of,null,null,null,null,res null,228,null,null,null
+675,ROSS,JAMES,null,null,null,null,res,207 ,Water,null,null
+676,Ross,T,Sherman,null,null,null,bds,207 ,Water,null,null
+677,Rossbach,Michael,null,null,null,null,res null,208,null,null,null
+678,Rourke,Michael,null,null,smelter,null,res,312 ,Reservation,null,null
+679,ROURKE,RICHARD,null,null,liquor dealer,null,res null,120,null,null,null
+680,Roy,Frank,null,null,lab,null,bds,210 ,Ravine,null,null
+681,Rulmnan,Caspar,null,null,cupola,null,res,null,null,Smeltingville,null
+682,Ruedy,Matt,null,null,null,null,wks,null,null,Quincy Mills,null
+683,Ruhl,Adolf,null,null,null,null,res,427 ,Hancock,null,null
+684,Ruhl,Adolph,null,null,null,null,bds,427 ,Hancock,null,null
+685,Ruhlman,Jacob,null,null,sexton,null,res,306 ,Ravine,null,null
+686,Ruhlman,Jacob,null,Jr,clerk,null,bds,306 ,Ravine,null,null
+688,RULISON,GEORGE,null,null,bookkeeper ,M M Moralee,res,605 ,Hancock,null,null
+689,Ruppe,George,null,null,of ,Ruppe Son,res,401 ,Hancock,null,null
+690,Ruppe,P,null,null,of ,Ruppe Son,res,128 ,Quincy,null,null
+693,RYAN,EDWARD,null,null,a res since ,1858 President of the village general merchant 127 129 Quincy,res,221 ,Hancock,null,null
+694,Ryan,James,R,null,contractor,null,res,528 ,Quincy,null,null
+695, RYAN, JOHN, D, null, manager for , E Ryan, bds,211-215,null,Quincy,null
+697,Ryan,Will,K,null,cooper,null,res,null,null,Smeltingville,null
+698,Saam,Chas,null,Mrs,wid,null,res,524 ,Quincy,null,null
+699,Saam,John,null,null,fish peddler,null,res near,111 ,Hancock,null,null
+700,Saan,Louis,null,null,copper washer,null,res,412 ,Quincy,null,null
+702,St,Amour,Thos,null,lab,null,bds,304 ,Ravine,null,null
+703,St,Amour,Win,null,null,null,bds,304,Ravine,null,null
+706,St,Michel,Moses,null,works saw mill,null,bds,210 ,Ravine,null,null
+710,Sanschagrin,Anton,null,null,confectionery,null,res null,416,null,null,null
+711,SCALLON,J,E,null,null,null,res,313 ,Hancock,null,null
+713,Schaeffer,Wm,null,null,null,null,works,null,null,Quincy Mills,null
+714,Schellman,John,null,null,lab,null,res,612 ,Quincy,null,null
+715,Schellman,John,null,null,null,null,res rear,610 ,Quincy,null,null
+716,SCHEUERMAN,FRANK,null,null,null,null,res,null,null,E Hancock,null
+717,SCHEUERMAN,P,null,null,supt ,Quincy Mills and prop Union Brewery office at mills,res,null,null,Quincy tp,null
+718,SCHEUERMAN,PHIL,null,null,null,null,res,null,null,E Hancock,null
+719,Schoepper,Adolf,null,null,null,null,works,null,null,Quincy Mills,null
+720,Schoepert,Fred,null,null,null,null,works,null,null,Quincy Mills,null
+721,Schnider,E,null,null,smelter,null,res,307 ,Hancock,null,null
+722,Schneider,C,E,null,principal ,Lutheran school,res,317 ,Hancock,null,null
+723,Schneider,Joseph,null,null,copper smelter,null,res,317 ,Quincy,null,null
+724,Schnetter,Andrew,null,null,fireman,null,res,null,null,Lake W Hancock,null
+725,Schroeder,Fred,null,null,machinist,null,res,null,null,Ripley,null
+727,Schwartz,Ben,null,null,teamster ,Emory Son,bds,219 ,Franklin,null,null
+728,SCOTT,A,J,null,druggist and stationer,null,res null,210,null,null,null
+729,Seager,James,null,null,genl merchant,null,res,null,null,Franklin Mine,null
+730,Seager,W,P,null,brick manufacturer clerk ,James Seager,res,null,null,Franklin Mine,null
+732,Sheehy,Danl,null,null,furnaceman,null,res,null,null,Smeltingville,null
+733,Sheehey,John,null,null,reliuer,null,res,null,null,Smeltingville,null
+734,Shields,John,null,null,master mechanic ,M R and H C R Rs,res,518 ,Hancock,null,null
+735,Shields,Joseph,null,null,locomotive engineer,null,res,null,null,Ripley,null
+736,SHIELDS,JOSEPH,W,null,of ,Hocking Shields,bds,111 ,Quincy,null,null
+737,Shields,Robert,null,null,passenger conductor ,H C R R,res,null,null,Ripley,null
+739,Singer,Jno,null,null,null,null,works,null,null,Quincy Mills,null
+740,Slattery,Joseph,null,null,cupola,null,res,null,null,Smeltingville,null
+741,Slattery,John,null,null,furnaceman,null,res,null,null,Smeltingville,null
+742,SMART,THOS,null,null,prop ,Lake View House,res,200 ,Tezeueo,null,null
+743,Smith,James,null,null,null,null,bds,520 ,Quincy,null,null
+744,Southworth,H,C,null,assayer,null,works,null,null,Quincy Mills,null
+745,Spring,T,L,null,clerk ,E Ryan,res,null,null,Houghton,null
+746,Stack,Bartholomew,null,null,smelter,null,res,310 ,Reservation,null,null
+748,Stanaway,Win,null,null,lab,null,res,321 ,Franklin,null,null
+751,Stehlin,Jno,null,null,null,null,works,null,null,Quincy Mills,null
+752,Steichen,John,P,null,clerk ,Jos Wertin Sons,res,321 ,Quincy,null,null
+753,Stein,John,null,null,furnaceman,null,res,null,null,Smeltingville,null
+754,Steinback,Alex,null,null,lab,null,bds,304 ,Reservation,null,null
+755,Steinback,John,null,null,lab,null,res,304 ,Reservation,null,null
+757,STEWART,HAMILTON,null,null,upholsterer and mattress mkr,null,res null,306,null,null,null
+758,STEWART,ROBERT,null,null,with ,H Stewart,res,306 ,Hancock,null,null
+762,Stone,John,null,null,clerk ,S Emery Son,res rear,330 ,Quincy,null,null
+764,STRINGER,CHAS,A,null,of ,Wright Stringer,res,110 ,Hancock,null,null
+765,Stringer,J,S,null,lumberman,null,res,425 ,Hancock,null,null
+766,Stringer,Jo,null,null,grocer,null,res null,222,null,null,null
+767,Stumm,Chris,null,null,refiner,null,res,null,null,Smeltingville,null
+771,Sullivan,Catharine,null,Mrs,wid,null,res,307 ,Montezuma,null,null
+772,Sullivan,Cornelius,null,null,liveryman ,D Caughlin Son,res,523 ,Hancock,null,null
+773,Sullivan,Cornelius,null,null,lab,null,res,315 ,Franklin,null,null
+774, Sullivan, Dan, null, null, furnace man, null, bds,200,null,Ravine,null
+776,Sullivan,Jeff,null,null,carpenter,null,bds,312 ,Reservation,null,null
+777,Sullivan,John,null,Mrs,wid,null,res,223 ,Franklin,null,null
+778,Sullivan,John,null,null,miner,null,res near,333 ,Quincy,null,null
+783,Thebo,Chas,null,null,clerk,null,res,null,null,Smeltingville,null
+784,Thebo,Joseph,null,null,master mason,null,res,null,null,Smeltingville,null
+785, Thomas, John, H, null, express messenger, null, bds,200-204,Tezenco st,null,null
+786, Thomas, Wm, P, null, lumber inspector, null, bds,217,null,Hancock,null
+788,Thompson,Robert,null,null,teamster,null,bds,207 ,Tezcuco,null,null
+789,Thompson,James,null,null,teamster,null,bds,207 ,Tezcuco,null,null
+792,TOWAR,E,H,null,cashier ,First National Bank of Hancock,res,409 ,Water,null,null
+793,Tracy,John,null,null,smelter,null,res,null,Lake st W Hancock,null,null
+794,Tracy,Matt,null,null,wks ,Sturgeon River Lumber Co,res,null,Lake st W Hancock,null,null
+795,Tresise,Chas,null,null,carpenter,null,res,325 ,Quincy,null,null
+796,Trevillian,F,J,null,smelter,null,res,100 ,Dakota,null,null
+797,Trevillian,James,null,null,lab,null,res,null,null,Franklin tp,null
+798,Trompeter,John,null,null,engineer ,Quincy Mine,res,319 ,Quincy,null,null
+799,Trompeter,John,null,null,null,null,res rear,317 ,Quincy,null,null
+800,Trowbridge,E,J,null,farm superintendent ,Quincy Mine,res,null,null,Quincy Mine,null
+801,Turcotte,Arthur,null,null,works saw mill,null,res rear,307 ,Hancock,null,null
+802,Turcotte,D,null,null,lab,null,res,307 ,Montezuma,null,null
+803,Turcotte,Frank,null,null,lab,null,res rear,307 ,Montezuma,null,null
+804,Uren,Samuel,null,null,wash boss ,Quincy wash house,res,517 ,Hancock,null,null
+807,VIVIAN,JOHNSON,null,null,superintendent ,Franklin and Huron Mines,res,null,null,Franklin Mine,null
+809,Voegtlin,Adolf,null,null,of ,Jos Wertin Sons,res,214 ,Franklin,null,null
+810,Volmer,Joseph,null,null,null,null,works,null,null,Quincy Mills,null
+811,Voltz,Chas,null,null,butcher,null,res,105 ,Water,null,null
+815,Wagner,Fred,null,null,master carpenter,null,res,null,null,E Hancock,null
+816,Wagner,Fred,null,null,null,null,res,null,null,E Hancock,null
+817,Wagner,Henry,null,null,clerk,null,res,null,null,Smeltingville,null
+819,Wagner,Wm,null,null,cupola,null,res,null,null,Smeltingville,null
+820,Wagner,Wm,null,Jr,electrician ,null,res,null,null,Smeltingville,null
+823,Warner,C,H,null,filer ,Sturgeon River Mill,res,519 ,Hancock,null,null
+824,Warner,Fred,W,null,lather,null,bds,519 ,Hancock,null,null
+826,Washburn,Agues,null,Mrs,groceries etc,null,res null,312,null,null,null
+827,Washburn,Haul,null,null,lather,null,res,312 ,Tezcuco,null,null
+828,WASHBURN,WM,null,null,of ,Webber Washburn,res,312 ,Tezcuco,null,null
+829,WATERS,GEO,F,null,pastor ,1st Congregational church,res,210 ,Hancock,null,null
+830,Waters,Joseph,null,null,miner,null,res,305 ,Franklin,null,null
+832,WEBB,JOHN,J,null,liquor dealer,null,res null,205,null,null,null
+833,WEBBER,FRANK,J,null,of ,Webber Washburn,res,null,null,Houghton,null
+836,Weber,John,B,null,of ,Weber Carpenter,res,709 ,Hancock,null,null
+837,Weissmiller,J,C,null,piano tuner and dealer in pianos and organs,null,res null,208,null,null,null
+839,Wendell,Jno,C,null,null,null,works,null,null,Quincy Mills,null
+841,Wern,Wm,null,null,baker and confectioner,null,res null,308,null,null,null
+842,WERTIN,GEORGE,null,null,of ,Jos Wertin Sons,res,521 ,Quincv,null,null
+843,WERTIN,JOSEPH,null,null,of ,Jos Wertin Sons,res,219 ,Tezcuco,null,null
+845,Wesala,Matt,null,null,lab,null,bds,304 ,Reservation,null,null
+846,Wescott,Robert,null,null,stone mason,null,bds,207 ,Tezcuco,null,null
+849,Westnmn,Mat,null,null,of ,Westman Hakin,res,307 ,Tezcuco,null,null
+850,WETZLER,H,null,null,of ,Wetzler Hanauer,res,107 ,Hancock,null,null
+852,WHEELER,A,M,null,null,null,res office ,203,null,null,null
+853,WHISLER,W,S,null,null,null,res null,106,null,null,null
+854,White,E,Lyman,null,null,null,bds,103 ,Hancock,null,null
+855,White,Henry,null,null,lab,null,res rear,315 ,Quincy,null,null
+856,White,L,W,Miss,milliner,null,res null,208 and 210,and,null,null
+857,Whitmeyer,George,null,null,null,null,res,217 ,Franklin,null,null
+859,Wiedenhoeffer,Herman,null,null,carpenter,null,bds,518 ,Quincy,null,null
+860,Wiedenhoeffer,John,null,null,lab,null,bds,518 ,Quincy,null,null
+861,Wiedenhdefier,M,null,null,carpet weaver,null,res,518 ,Quincy,null,null
+862,WIEDER,BENJAMIN,null,null,manufr of harness and dir in carriages buggies cutters and general furnishings,null,res null,115 to 119,to,null,null
+865,Wilcox,James,null,null,miner,null,res,508 ,Quincy,null,null
+866,Williams,Chas,null,null,helper ,Hodges foundry,bds,526 ,Quincy,null,null
+867,Williams,C,J,null,copper dipper,null,res,610 ,Quincy,null,null
+868,Williams,Ezekiel,null,null,carpenter,null,bds,null,null,Hancock,null
+869,Williams,Grif,null,null,mason,null,res,null,null,Smeltingville,null
+870,Williams,James,null,null,traveler,null,res,null,null,E Hancock,null
+871,Williams,John,null,null,molder,null,res,null,null,Franklin tp,null
+872,Williams,Robert,null,null,molder,null,res,null,null,Franklin tp,null
+873,Williams,Thomas,null,null,confectioner,null,res null,526,null,null,null
+874,Williams,G,J,null,molder,null,res,null,null,Franklin tp,null
+875,Wilson,James,null,null,lab,null,res,null,null,E Hancock,null
+876,Winkelmeyer,Wm,null,null,painter,null,res rear,508 ,Quincy,null,null
+878,Wittig,Joseph,null,null,null,null,res,null,null,Hancock st nr Mill,null
+880,Wivell,John,null,null,lab,null,res,301 ,Franklin,null,null
+881,Wivell,Mark,null,null,teamster,null,bds,301 ,Franklin,null,null
+883,Wivell,Richard,null,null,teamster,null,res,301 ,Franklin,null,null
+884,Wood,Louis,null,null,null,null,res,307 ,Quincy,null,null
+885,Woods,Saml,null,null,lab,null,res,null,Mill st W Hancock,null,null
+886, Worthey, A, L, null, photographer, null, bds,200-204,Tezenco st,null,null
+887,WRIGHT,C,A,null,null,null,res,502 ,Hancock,null,null
+888,WRIGHT,E,L,null,null,null,res,401 ,Water,null,null
+889,Wright,Frank,null,null,clerk,null,res,null,null,Smeltingville,null
+891,Wright,Z,W,null,chief clerk smelting works,null,res,null,null,Smeltingville,null
+893,Yeagle,Killian,null,null,machinist ,Quincy Mills,res,null,null,E Hancock,null
+894,Zeitz,Phillip,null,null,carpenter,null,bds,205 ,Franklin,null,null
+895,Zetche,Herman,null,null,wagon mkr,null,res,107 ,Water,null,null
+896,ZEIGER,CHRISTIAN,null,null,manufr of boots and shoes repairing attended to promptly ,302 Quincy,res,null,null,W Hancock,null
+898,Zimmer,Chas,null,null,null,null,wks,null,null,Quincy Mills,null
+1,Adams,B,null,Mrs,wid,515 Hancock,null,null,null,null,null
+18,Barkell,Chas,null,null,warehouse man,M R Goldsworthy,null,null,null,null,null
+20,Barkell,Sami,null,null,carpenter,for J N Mitchell,null,null,null,null,null
+23,Bastrin,Herman,null,null,carpenter,res Chas Bleise,null,null,null,null,null
+30,Beauchamp,Camil,null,null,lab,res Quincy nr cemetery W Hancock,null,null,null,null,null
+31,Beauchamp,D,null,null,lab,res Quincy nr cemetery W Hancock,null,null,null,null,null
+35,BEDELL,GEORGE,null,null,head machinist,Quincy Mills Quincy township,null,null,null,null,null
+37,Beckley,Alfred,null,null,sawyer,head  and filer,null,null,null,null,null
+39,Beilman,Anton,null,null,lab,res foot of Lake W Hancock,null,null,null,null,null
+41,Belling,Fred,null,null,meat market,314 Quincy res Shantytown,null,null,null,null,null
+54,Bilgen,John,null,null,lab,res Lake cor Hancock W Hancock,null,null,null,null,null
+57,BLEISE,CHAELES,null,null,prop,Milwaukee saloon and boarding house 121 Hancock,null,null,null,null,null
+58,Bloome,D,M,null,pattern mkr,bds Chas Bleise,null,null,null,null,null
+69,Bosche,John,null,null,candle mkr,bds J Hecker,null,null,null,null,null
+70,Braxton,Thos,null,null,barber,for Wm J Black bds same,null,null,null,null,null
+83,BURNETT,A,null,null,of,Gundry Burnett res Ravine st rear 400 Hancock st,null,null,null,null,null
+94,Carrigan,Joseph,null,null,liveryman,D Coughlin Son hds 219 Quincy,null,null,null,null,null
+98,Chambers,John,null,null,lab,bds Tim Holland,null,null,null,null,null
+101,Cheris,Henry,null,null,lab,bds Clias Bleise,null,null,null,null,null
+113,CLOSES,WAREHOUSE,null,null,of,foot  Tezcuco,null,null,null,null,null
+127,Corcoran,Pat,null,null,lab,res Shantytown near 205 Franklin,null,null,null,null,null
+129,Corrigan,Lawrence,null,null,lab,res Soieltingville,null,null,null,null,null
+147,DAVIS,ED,T,null,of,teacher  all kind  round and square dances Private lessons given Will fill engagements as prompter P O box 695 Hancock,null,null,null,null,null
+149,Davis,J,Fred,null,with,printer  the Copper Herald,null,null,null,null,null
+159,Delonge,M,null,null,lab,res Quincy near Cemetery W Hamcock,null,null,null,null,null
+165,Donahoue,D,null,Mrs,wid,res Shantytown rear 209 Franklin,null,null,null,null,null
+168,DOWNER,F,J,null,(MD) physician and surgeon,Quincy mine res Quincy mine,null,null,null,null,null
+169,Doyle,John,null,null,carpenter,res W Quincy,null,null,null,null,null
+173,exler,Stephen,null,Dr,shoemaker,216 Franklin,null,null,null,null,null
+197,Exley,Paul,null,null,blacksmith,bds M J Gemuend,null,null,null,null,null
+202,Fien,Franz,null,null,carpenter for,Henry Key,null,null,null,null,null
+203,Fien,Fritz,null,null,carpenter for,Henry Key,null,null,null,null,null
+206,FINNEGAN,J,T,null,attorney,at law and land agent office Dalmyer bldg Houghton,null,null,null,null,null
+210,Fisher,James,T,null,clerk,collection  First National Bank,null,null,null,null,null
+211,Fisher,Marcus,null,null,of,S Fisher and Bro res 201 Quincy,null,null,null,null,null
+212,Fisher,S,null,null,of,S Fisher and Bro 2Q1 Quincy,null,null,null,null,null
+214,Fitzgerald,J,P,null,agent,bds Mrs D Donahoe,null,null,null,null,null
+221,FORD,RAINEY,null,null,prop,s of the Hancock laundry 400 Hancock,null,null,null,null,null
+232,Fuuckey,John,null,null,supt stamp mill,Franklin mine,null,null,null,null,null
+237,Gagne,Damace,null,null,smelter,res Quincy nr cemetery W Hancock,null,null,null,null,null
+238,Gallagher,P,H,Dr,druggist,105 Quincy,null,null,null,null,null
+241,Gartner,Isidor,null,null,clerk,J Gartner Ms Lake View House,null,null,null,null,null
+244,Gauthier,August,null,null,carpenter,J N Mitchell,null,null,null,null,null
+245,Gauthier,Damien,null,null,carpenter,J N Mitchell,null,null,null,null,null
+248,Geauvreau,N,null,null,lab,res Lake Front W Hancock,null,null,null,null,null
+252,Giesen,George,null,null,clerk,smelting works bds Wm Giesen,null,null,null,null,null
+260,GORDON,JNO,R,null,prop,r New Northwestern Hotel 111 115 Quincy,null,null,null,null,null
+262,Gorman,John,null,null,lab,306 Franklin,null,null,null,null,null
+266,Grif,John,null,null,carpenter,res Quincy near Cemetery W Hancock,null,null,null,null,null
+269,Gucke,Dominick,null,null,carpenter for,Henry Key,null,null,null,null,null
+272,GUNDRY,BURNETT,null,null,prop,s Hancock Laundry strictly first class work 400 Hancock,null,null,null,null,null
+273,Gutsch,A,null,null,prop,r Gutschs Tavern 101 Tezcuco res same,null,null,null,null,null
+278,Hakin,John,null,null,of,Westman Hakin 307 Tezuco,null,null,null,null,null
+292,Hank,Andrew,null,null,lab,res foot of Lake st W Hancock,null,null,null,null,null
+293,Harrington,C,F,null,bookkeeper,asst  E Ryan,null,null,null,null,null
+296,HARRIS,SAMUEL,B,null,agent,Quincy Mining Co Quincy Mine,null,null,null,null,null
+300,Harty,Michael,null,null,molder,Lake Superior Iron wks,null,null,null,null,null
+303,Hecker,John,null,null,saloon,203 Tezcuco st res the same,null,null,null,null,null
+304,Hendricksen,Andrew,null,null,clerk,309 Hancock,null,null,null,null,null
+305,Hendricksen,Thomas,null,null,clerk,Joseph Wertin Sons 505 Hancock,null,null,null,null,null
+308,Hermau,John,null,null,apprentice,G Rolner,null,null,null,null,null
+317,Hodges,John,null,null,butcher,for Fred Belling,null,null,null,null,null
+321,Hoffeubacher,John,null,Mrs,baker,y 227 Quincy res same,null,null,null,null,null
+324,Holland,Timothy,null,null,saloon,218 Franklin,null,null,null,null,null
+329,Hosking,Wm,null,null,saloon,207 Tezcuco res same,null,null,null,null,null
+330,Houlle,Jerry,null,null,blacksmith,for C Mette,null,null,null,null,null
+342,Jacques,Joseph,null,null,with,J R Jacques bds same,null,null,null,null,null
+343,Jacques,Joseph,R,null,boots and shoes,301 Quincy res same,null,null,null,null,null
+346,JAEHNIG,ARNO,null,null,clerk,Franklin Mining Co res Franklin mine,null,null,null,null,null
+349,Johnson,Aug,null,null,lab,bds Chas Bleise,null,null,null,null,null
+352,Johnson,01e,null,null,lab,bds Chas Bleise,null,null,null,null,null
+361,Kaune,August,null,null,butcher,J W Alt,null,null,null,null,null
+365,Keiler,Henry,null,null,clerk,J N Mitchell,null,null,null,null,null
+369,Kelley,John,null,null,lab,308 Quincy,null,null,null,null,null
+371,Kelley,Patrick,null,null,smelter,res rear high school,null,null,null,null,null
+378,Kerredge,Joseph,null,null,salesman,WTin Kerredge res Quincy WT Hancock,null,null,null,null,null
+379,Kerredge,Win,null,null,hardware,212 Quincy,null,null,null,null,null
+384,Kirschman,Jno,null,null,wagon mkr,bds M J Gtemuend,null,null,null,null,null
+386,Klein,Jacob,null,null,cooper,Quincy Mills,null,null,null,null,null
+399,Kruit,Grades,null,null,master carpenter,Franklin Mine,null,null,null,null,null
+402,La,Barre,Napoleon,null,barber,208Ravine res the same,null,null,null,null,null
+403,Labran,Fred,null,null,machinist,Quincy Mine res Quincy mine,null,null,null,null,null
+405,LaCombe,John,A,null,salesman,W H Roberts,null,null,null,null,null
+412,Lanctot,David,null,null,grocer,304 Quincy,null,null,null,null,null
+415,Lang,Thos,null,null,book keeper,M R Goldsworthy,null,null,null,null,null
+423,Latrelle,Louis,null,null,bar tender,210 Ravine,null,null,null,null,null
+430,Lee,Stephen,null,null,teamster,Jas C Ley Co,null,null,null,null,null
+435,Lemeier,Edward,null,null,lab,bds F Turcott,null,null,null,null,null
+437,Lemier,Joseph,null,null,lumberman,bds Quebec Plouse,null,null,null,null,null
+444,Ley,Albert,S,null,of,J C Ley Co,null,null,null,null,null
+445,Ley,James,C,null,of,J C Ley Co,null,null,null,null,null
+453,Lindsey,John,null,null,molder,bds Chas Bleise,null,null,null,null,null
+466,Lubke,Caspar,null,null,lab,res corner Quincy and Lake W Hancock,null,null,null,null,null
+482,Matte,E,A,null,clerk,Wetzler Hanauer res Quincy E of cemetery,null,null,null,null,null
+495,McDonald,T,W,null,assistant surface boss,Qiuncy Mine,null,null,null,null,null
+509,McLaughlin,Jas,null,null,salesman,J C Loy Co,null,null,null,null,null
+512,Meehan,John,null,null,confectionery,316 Tezcuco res same,null,null,null,null,null
+513,Meehan,Patrick,null,null,lab,204 Franklin,null,null,null,null,null
+518,Mettner,Joseph,null,null,smelter,res Hancock near mill W Hancock,null,null,null,null,null
+523,Miller,Chas,H,null,foreman,pattern dept,null,null,null,null,null
+524,Miller,Chas,M,null,agt,insurance,null,null,null,null,null
+525,Miller,David,null,null,blacksmith,for C Mette,null,null,null,null,null
+530,Moore,James,null,null,machinist,master  Franklin mine,null,null,null,null,null
+537,Moyle,S,null,null,smelter,mill at W Hancock,null,null,null,null,null
+551,Nelson,John,null,null,carpenter,bds Chas Bleise,null,null,null,null,null
+552,Nelson,01e,null,null,carpenter,bds Chas Bleise,null,null,null,null,null
+554,NICHOLLS,GRACE,null,Mrs,wid,res 430 Quincy,null,null,null,null,null
+556,Nicholls,Thos,null,null,tailor,206 Franklin,null,null,null,null,null
+568,01an,Frank,null,null,blacksmith,bds M J Gemund,null,null,null,null,null
+570,01son,Isaac,null,null,miner,res alley rear of 207 Franklin,null,null,null,null,null
+573,ONeil,Cornelius,null,null,asst mining capt,ain Quincy mine res Quincy mine,null,null,null,null,null
+574,ONeil,Haul,null,null,clerk,E Ryan,null,null,null,null,null
+581,Opitz,Wm,null,null,saloon,211 Tezcuco res same,null,null,null,null,null
+594,Pearce,James,P,null,prop,Hancock House and livery stable 300 to 308 Tezcuco,null,null,null,null,null
+598,PELTO,ALLEN,null,null,merchant,tailors 231 Quincy,null,null,null,null,null
+601,Perso,Edward,null,null,clerk,Joseph Wertin Sons,null,null,null,null,null
+612,Pierce,Paul,null,null,carpenter,j M Mitchell,null,null,null,null,null
+613,Pinten,J,Bro,null,hardware,113 115 Tezcuco,null,null,null,null,null
+619,Priest,Ira,null,null,teamster,415 Hancock,null,null,null,null,null
+622,Pruner,Gordon,null,null,warehouse man,bds 209 Mesnard,null,null,null,null,null
+632,Quirk,Mike,null,null,clerk,bds Mrs D Donahoe,null,null,null,null,null
+637,RAYMOND,T,H,null,liquor dealer and prop,Quebec House 200 Ravine,null,null,null,null,null
+642,Rehome,Eugene,null,null,salesman,W H Roberts,null,null,null,null,null
+647,Rendenbach,Thos,null,null,teamster,bds408 Quincy,null,null,null,null,null
+651,Rhodes,I,M,null,physician and surgeon,Franklin mine res the same,null,null,null,null,null
+653,Richards,Wm,null,null,teamster,111 Hancock,null,null,null,null,null
+658,Roberts,John,null,null,blacksmith,bds M J Gemuend,null,null,null,null,null
+687,Rule,Thos,null,null,clerk,J Manley,null,null,null,null,null
+692,Russell,Thomas,null,null,clerk,E Ryan,null,null,null,null,null
+696,Ryan,John,L,null,saloon,225 Quincy res same,null,null,null,null,null
+701,St,Amour,A,Mrs,wid,304 Ravine,null,null,null,null,null
+708,Saler,John,null,null,transfer and teaming,219 Franklin,null,null,null,null,null
+709,Sanders,Richard,null,null,boarding house,118 Franklin,null,null,null,null,null
+712,Schaefer,Peter,null,null,lab,bds J Hecker,null,null,null,null,null
+726,Schulte,Anton,null,null,saloon,201 Franklin res same,null,null,null,null,null
+731,Shea,Quinlan,null,null,lab,res SOS Reservation,null,null,null,null,null
+747,Stanaway,J,null,Mrs,wid,res 313 Tes cuco,null,null,null,null,null
+749,Stanaway,Win,H,null,lab,bds 321 Franklin,null,null,null,null,null
+756,Stevens,John,null,null,molder,bds Chas Bleise,null,null,null,null,null
+760,Stohre,Alec,null,null,cooper,res Shantytown rear 207 Franklin,null,null,null,null,null
+763,Strehlein,George,null,null,lab,res foot of Lake W Hancock,null,null,null,null,null
+768,Stumm,George,null,null,pattern mkr,res Franklin township,null,null,null,null,null
+780,Surbeck,John,null,Mrs,wid,res Shantytown,null,null,null,null,null
+781,Swethough,E,O,null,blacksmith,Quincy Mills,null,null,null,null,null
+782,Tamblyn,James,null,null,saloon,309 Tezcuco res same,null,null,null,null,null
+787,THOMPSON,J,C,null,agent,Lake Superior Transit Co affice Ruppes dock Hancock bds Douglas House Houghton,null,null,null,null,null
+790,Tourville,Eugene,null,null,lab,res Quincy nr cemetery W Hancock,null,null,null,null,null
+791,Tourville,Joseph,null,null,lab,res Quincy nr cemetery W Hancock,null,null,null,null,null
+805,Verhoven,Jno,null,null,prop,Pacific House Hancock,null,null,null,null,null
+806,Vivian,John,C,null,clerk,assistant  Franklin Mine,null,null,null,null,null
+808,Vivian,Wm,H,null,surface captain,Franklin Mine,null,null,null,null,null
+812,VOSS,FREDK,null,null,manfr of potash and dealer in all kinds of wood,Mill W Hancock Lake Front,null,null,null,null,null
+813,Voss,Joseph,null,null,teamster,works foot of Lake W Hancock,null,null,null,null,null
+814,Wagner,Frank,W,null,dealer in mineral specimens,206 Tezcuco,null,null,null,null,null
+818,Wagner,Peter,J,null,barber,shop and bath rooms 206 Tezcuco,null,null,null,null,null
+821,Wahlgren,Otto,null,null,coat maker,Hocking Shields,null,null,null,null,null
+822,Warham,Joseph,null,null,barber,Cbas Linder bcls New Northwestern Hotel,null,null,null,null,null
+831,Watson,John,null,null,clerk,Jo Stringer,null,null,null,null,null
+834,WEBBER,WASHBURN,null,null,house sign and ornamental painters decorators and paper hangers,over 200 Reservation,null,null,null,null,null
+835,Weber,Carpenter,null,null,cigar manfrs,Ravine,null,null,null,null,null
+838,Weissmiller,J,Frank,null,music teacher,208 Tezcuco,null,null,null,null,null
+840,Wern,George,null,null,with,Wm Worn bds same,null,null,null,null,null
+848,Westman,Hakin,null,null,saloon,307 Tezcuco,null,null,null,null,null
+851,WETZLER,HAN,AUER,null,general merchants furniture a specialty,220 Quincy,null,null,null,null,null
+863,Wieder,Conrad,null,null,with,Benjamin Wieder,null,null,null,null,null
+864,Wieder,Fredk,null,null,with,harness mkr  Benjamin Wieder,null,null,null,null,null
+877,Wirtaven,John,null,null,tailor,Pelto Allen,null,null,null,null,null
+879,Witting,Albert,null,null,butcher,J W Alt,null,null,null,null,null
+882,Wivell,Thomas,null,null,teamster,221 Franklin,null,null,null,null,null
+892,Yacks,Herman,null,null,miner,bds Chas Bleise,null,null,null,null,null
+897,Zimmer,Christ,null,null,lab,Quincy Mills,null,null,null,null,null

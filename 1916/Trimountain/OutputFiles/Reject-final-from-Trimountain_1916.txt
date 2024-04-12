@@ -1,0 +1,6 @@
+3 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Abramson Jennie, supt Copper Range Hospital, bds same
+245 ADD, JOB NOT FOUND: Jewell Wm, hotel
+462 ADD, JOB LOCATION NOT FOUND: Pasqualli Fenili, livery
+506 ADD, JOB LOCATION NOT FOUND: Radosevich Joseph, confr
+613 NAME: TRIMOUNTAIN MINING CO (Organized February 1889), W A Paine (Boston, Mass) Pres, F W Denton VicePres and Genl Mgr, Frederic Stanwood Sec and Treas, W H Schacht Asst Genl Mgr, R I Reynolds Supt, B D Noetzel Chief Clerk, Copper Miners
+630 NAME: Wells, Fargo Co Express, Harry G Buck agt

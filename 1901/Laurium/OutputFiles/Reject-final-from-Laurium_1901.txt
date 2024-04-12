@@ -1,0 +1,286 @@
+194 NAME: Beesley Bros (Alfred E and Wm G), saloon, 311 Plecla
+198 ADDRESS, JOB NOT FOUND: Belanger Camille, moved to South Lake Linden Mich
+206 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bellows F A, electrician, bds Spaulding Hotel
+210 ADDRESS, JOB NOT FOUND: BENARD JOSEPH, Propr The Miners Livery 401405 Lake Linden av, res same (See adv)
+269 ADDRESS, JOB NOT FOUND: Black Jane (aged 54), died Feb 8, 1901
+270 ADDRESS, JOB NOT FOUND: Blackwell John (aged 38), died Jan 25, 1900
+282 NAME: Board of Trade Saloon, Daniel Sullivan propr, 316 Hecla
+306 NAME: BOSCH BREWING CO (Calumet Branch), Michael Kemp Mngr, Office and Depot cor 1st and Woodland av
+308 ADDRESS, JOB NOT FOUND: BOSTON STORE THE, Isadore Reshofsky Propr Drv Goods, ONeill Blk
+329 ADDRESS, JOB NOT FOUND: BRAY ALBERT W, Manager N S Bray, 400 to 414 Lake Linden av, res Red Jacket rd cor Franklin
+355 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Brunette Frank, bartender G Gauthier, bds same
+365 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Buck George, lab, bds no Hecla
+366 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Buck Peter, driver, bds no Hecla
+368 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Bugni Frank (Frank Bugni Co), bds Vincent Yairo
+369 NAME: Bugni Frank Co (Frank Bugni, Louis Emanuel), meats, s s 1st bet Kearsarge and Tamarack
+376 NAME: Burgan T E Co, Thomas E Burgan mngr, clothing, 321 Hecla
+394 NAME: Calumet Bedding Co (Moses Mezerow), s s Lake Linden av 3 e of Florida
+395 ADDRESS, JOB NOT FOUND: CALUMET BOTTLING WORKS, Richard T Harvey Propr, w s Florida 1 s of Lake Linden av
+396 ADDRESS, JOB NOT FOUND: CALUMET CARRIAGE WORKS, Joseph Hebert Propr, 229231 Osceola (See p 353)
+398 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cameron John, tmstr Pauli Morrison, bds John Murdick
+399 ADDRESS, JOB NOT FOUND: Campbell Alexander, removed to Mass City, Mich
+401 ADDRESS, JOB NOT FOUND: Campbell Dougald, removed to Mass City, Mich
+420 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Carder George A, harnessmkr H J Losselyong, bds same
+423 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Carkeek John, lather, bds Richard Carkeek
+424 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Carkeek Leach, helper, bds Richard Carkeek
+426 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Carlson Albert, mach, bds M W Browm
+452 NAME: Carmichael Co (James and Mrs Louise Carmichael), grocers, s s Lake Linden av 2 w of Iroquois
+458 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Caulkins Ralph, mach, bds Samuel Caulkiris
+460 ADDRESS, JOB NOT FOUND: Central House, Mrs Mary Winkelmeyer propr, 342 Osceola
+467 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chamberlin Wm S, printer Daily Record, bds Perreault Hotel
+469 ADDRESS, JOB LOCATION NOT FOUND: Champion Joseph, lab, res v s Atlantic 4 n of Lake Linden av
+506 ADDRESS, JOB NOT FOUND: Clerc Mary I, died October, 1899
+520 ADDRESS, JOB NOT FOUND: COLUMBIA STEAM LAUNDRY, Angus McLennan Propr, 243 Hecla
+556 NAME, PERSON NOT FOUND: Cudlip Wm Gy student, bds 36 Willow av
+565 ADDRESS, JOB NOT FOUND: Curnow John J, removed to Valparaiso, Ind
+578 ADDRESS, JOB LOCATION NOT FOUND: Dahl Edward, blksmith, res w S Florida 2 n of 7th
+580 ADDRESS, JOB NOT FOUND: Dahl Helga, bis 129 Tamarack
+584 ADDRESS, JOB NOT FOUND: Daily Record, Record Publishing Co Proprs, 336 Osceola
+594 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Daniell Edwin, bds S Daniel
+599 ADDRESS, JOB LOCATION NOT FOUND: Daniell Richard E, elk bds S Daniell
+612 NAME: Daume Emil W T, removed to Trimountain, Mich
+618 NAME: Davis John J C, contractor, res e s Florida 2 n of 5th
+621 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Deegan John, tmstr Manier Hunt, bds J PI Manier
+639 NAME: Des Jardins Arthur E, lab, res 428 Florida
+647 NAME: Dingle Richard G S, engr, res 402 Hecla
+651 ADDRESS, JOB NOT FOUND: DISTEL FRANK, Wines, Liquors and Cigars, 401 Osceola, res no 4th (See p 351)
+653 ADDRESS, JOB NOT FOUND: Doeing Josephine, housekeeper 137 Tamarack
+657 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Donahue Wm, bds Spaulding Hotel
+662 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Donovan Robert, bartndr Vincent Vairo, bds same
+709 NAME: EGGEN BROS CO (John Eggen, Edward Eggen and Sivert Hoyem), Bakery, Confectionery and Groceries, 434 Hecla
+712 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Elder Andrew, bartender Frank Distel, bds 1104th
+715 NAME: ELK SAMPLE ROOM THE, James Archie Propr, Choice Wines, Liquors and Cigars, 11 w cor Hecla and 3d (See p 349 )
+731 ADDRESS, JOB LOCATION NOT FOUND: Erickson Israel, lab res 141 Iroquois
+737 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Erickson Swan, carp N S Bray, bds Spaulding Hotel
+739 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Estlan Frederick, lab, bds no Hecla
+740 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Estlan John, plumber, bds no Hecla
+756 NAME: Faucett Robert C (Wm H Faucett Bro) res w s Woodland av 8 n of 1st
+758 NAME: Faucett Wm H Bro (Wm H and Robert C), insurance, Faucett Blk
+765 ADDRESS, JOB LOCATION NOT FOUND: Ferguson Donald B, lab, ibds 312 Lake Linden av
+782 ADDRESS, JOB NOT FOUND: Fire Dept, 312 Hecla
+791 ADDRESS, JOB NOT FOUND: Flaherty Richard W, removed to Old Coloiiy Mine, Mich
+806 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Foley Mabel, teacher, bds M Folev
+836 NAME, PERSON NOT FOUND: Freeman Algot G elk John Strand, bds Calumet Mich
+867 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Gannon Frank A, bds Spaulding Hotel
+881 ADDRESS, JOB LOCATION NOT FOUND: Gauthier George, saloon, n e cor Calumet and 3d res same
+884 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gea Gio, lab, bds S Lucas
+885 ADDRESS, JOB NOT FOUND: Geautier Victoria, housekeeper Frank Dumas
+887 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gendron Frank, bartender, bds Spaulding Hotel
+888 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gendron Frank jr, bartndr Alexander Dufort, bds Spaulding Hotel
+894 ADDRESS, JOB NOT FOUND: German Lutheran Church, n e cor Tamarack and 2d
+920 NAME: Gingras J A Co (Joseph A Gingras, Archibald Delcourt), bakery, 240 Hecla
+956 ADDRESS, JOB NOT FOUND: Goulette Edna (aged 20), died Dec 23, 1900
+964 NAME: Gourd Bros (Thaddeus and Alcidas), meats, 206 Hecla
+979 NAME: Greenshields C Co (Alexander and Charles Greenshields), sales stable, 308 Calumet
+980 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Greenshields David, driver, bds 420^ Calumet
+988 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grenier Ernest, butcher, bds Spaulding Hotel
+1010 NAME: Hecla, res 414 Pewabic
+1015 ADDRESS, JOB LOCATION NOT FOUND: Gulberg Jacob, res Manilla n of Lake Linden av
+1042 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Halley Philip, lab, bds Edmond Roehm
+1047 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ham Charles, plumber, bds Henry Ham
+1048 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ham Clyde, student, bds Henry Ham
+1049 ADDRESS, JOB NOT FOUND: Ham Henry, confy and cigars, e s Hecla 1 n of Town Hall, res 3d cor Florida
+1051 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ham Norman, tmstr Richard James, bds Edward Woodward
+1061 ADDRESS, JOB NOT FOUND: Hamm Josephine (wid Theodore), housekeeper 430 Osceola
+1077 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hansohn Laura, student, bds Mrs Bertha Plansohn
+1088 NAME: HARGRAVE F J CO, Frederick J Hargrave Pres, Bertha E Hargrave VicePres, Clara H Plargrave Sec and Treas, General Merchandise, 314 Hecla, next to Town Hall
+1096 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Harrington Philip, bartender G Vignetto, bds same
+1115 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Harvey George, tmstr R T Harvey, bds same
+1116 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Harvey Richard H, bds R T Harvey
+1118 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Harvey Wilmer, bottler R T Harvey, bds same
+1129 ADDRESS, JOB LOCATION NOT FOUND: Hebert George, helper, res av s Iroquois 4 s of Lake Linden av
+1135 ADDRESS, JOB LOCATION NOT FOUND: Heikka Isaac, lab, res av s Iroquois 4 s of 4th
+1137 ADDRESS, JOB LOCATION NOT FOUND: Heikkila Wm, lab, res av s PeAvabic 5 n of 1st
+1166 ADDRESS, JOB LOCATION NOT FOUND: Herres Bernhard, lab res n w cor 1st and*Florida
+1169 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Hetteja Maria C (wid Jan), bds Charles Rundqtiist
+1170 ADDRESS, JOB NOT FOUND: Heusa Charles, died April, 1901
+1178 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hill Harry G, elk C P Hill, bds same
+1197 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hoehne Johanna, nurse, rms J A Mackenzie
+1215 ADDRESS, JOB NOT FOUND: Holmes School, Annie Parmenter prin, cor Lake Linden av and Florida
+1219 ADDRESS, JOB LOCATION NOT FOUND: HOLMSTROM BERNHARDT, Contractor and Builder, 423 Pewabic, res same P O Box 483 (See p 345)
+1223 ADDRESS, JOB LOCATION NOT FOUND: Honold George, watchman res 204 Kearsarge
+1225 ADDRESS, JOB NOT FOUND: Honold Mrs Margaret (aged 69), died March 23, 1900
+1227 NAME: HoOnKee Rod and Gun Club, Wm L Hagen sec, Richetta Blk
+1229 ADDRESS, JOB LOCATION NOT FOUND: Hopf Frederick, shoes, 238 Hecla, res 65t Tamarack
+1230 ADDRESS, JOB NOT FOUND: Horace Mann School, Kate McCormick prin, cor 4th and Pewabic
+1232 ADDRESS, JOB LOCATION NOT FOUND: Horwitz Abe, elk I Reshofsky, ibds 224 5th
+1239 ADDRESS, JOB NOT FOUND: HOTEL PERREAULT, Gaspard L Perreault Propr,Hecla cor 4th (See left side lines)
+1266 ADDRESS, JOB NOT FOUND: Imperial The, Peter McGowan propr, n w cor Lake Linden av and Hecla
+1276 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Inman Maria (wid Harvey), bds Henry Ham
+1279 ADDRESS, JOB NOT FOUND: Irving School, Elizabeth Goldsworthy prin, s w cor Iroquois and Fulton
+1282 ADDRESS, JOB NOT FOUND: ITALIAN MINER THE (Italian Semiweekly), A C Marinelli Publr, 116 Osceola (See page 353)
+1291 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Jakie Edward, mail carrier Manier Hunt, bds Lake Linden av and Calumet
+1301 ADDRESS, JOB LOCATION NOT FOUND: James Richard, livery, cor Iroquois and 1st bds Edward Woodward
+1322 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jeffery James, miner, bds Mrs E Jeffciy
+1324 NAME: JEFFERY JOSEPH (Reynolds Jeffery) res Iroquois n w cor 3d
+1363 ADDRESS, JOB LOCATION NOT FOUND: Johnson Frederick, lab, res c s Florida 1 n of 2d
+1382 ADDRESS, JOB NOT FOUND: Johnson John P, baths, res no Osceola
+1391 ADDRESS, JOB NOT FOUND: Johnson Peter (aged 56), died May 3, 1900
+1421 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kalisz Michael, miner, bds Wm Kalisz
+1432 ADDRESS, JOB LOCATION NOT FOUND: Karinen Marie K, music tchr, e s Amygdaloid 7 n of 1st bds same
+1444 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kaupinen Gustav, carp August Koskela, bds same
+1445 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kaupinen Herman, carp August Koskela, bds same
+1448 ADDRESS, JOB LOCATION NOT FOUND: Kazmierczak Martin, timberman res 622 Tamarack
+1458 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: KEMP MICHAEL, Mngr Calumet Branch Bosch Brewing Co, cor 1st and Woodland av, bds The Arlington Hotel
+1459 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kemp Nicholas, bartndr Z Ethier, bds same
+1484 ADDRESS, JOB LOCATION NOT FOUND: Kilpe John, lab bds 506 Tamarack
+1488 ADDRESS, JOB NOT FOUND: Kingston Charles (aged 48), died March 3, 1901
+1498 ADDRESS, JOB NOT FOUND: Klein Charles (aged 49), died Feb 10, 1900
+1526 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Koplovitz Julius, lab Laurium Bedding Co, bds Jacob Washawsky
+1534 ADDRESS, JOB LOCATION NOT FOUND: Korvanan Adolph, lab res e s Allouez 3 n of H T L RR
+1545 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kowalski Joseph, miner, bds Win Kalisz
+1549 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kratt Charles, saloon, bds J H LeClair
+1576 ADDRESS, JOB LOCATION NOT FOUND: Kumpula Victor, lab, res c s Ahmeek 8 n of 1st
+1578 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kurtz Albert, driver E H Wollstein, bds J G Stockley
+1579 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kurtz George, blksmith, bds J G Stockley
+1580 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Kurtz Louise, bds J G Stockley
+1593 ADDRESS, JOB NOT FOUND: LABBY DAUME (Louis Labby Jr, George Daume), Meat Market, 304 Osceola (See left side lines)
+1614 NAME: La Forest John H, miner, res 207 Hecla
+1627 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lamorande Louis, bartndr Frank Lamorande, bds same
+1646 ADDRESS, JOB NOT FOUND: Lanctots Hall, 301 Osceola
+1688 ADDRESS, JOB LOCATION NOT FOUND: Latowsky Stephen, miner C tl M Co res 315 Osceola
+1694 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Laung John, foreman Manier Hunt, bds J H Maurier
+1700 ADDRESS, JOB NOT FOUND: Laurium Band, 307 Osceola
+1701 NAME: Laurium Bedding Co, J Warshawsky propr, 305 Kearsarge
+1702 ADDRESS, JOB NOT FOUND: Laurium Bicycle Works, Wm H Harris propr, 317 Hecla
+1703 ADDRESS, JOB NOT FOUND: Laurium Carriage Works, Wm Scheunert propr, w s Hecla 2 n of Lake Linden av
+1704 ADDRESS, JOB NOT FOUND: LAURIUM COMMERCIAL SCHOOL, Reinier Parker Props, Faucett Blk, Hecla (See front cover and page 345)
+1705 NAME: LAURIUM COOPERATIVE CO, Joseph Salmu Pres, Antti Luttinen Treas, Daniel Hirvela Sec, Wm A Gronfors Mngr, General Merchandise, 409 Hecla
+1706 ADDRESS, JOB NOT FOUND: Laurium Hall, 332 Hecla
+1707 NAME: LAURIUM HARDWARE CO, A F Wixson Propr, Hardware, Plumbing and Heating, 317319 Hecla (See left bottom lines)
+1708 ADDRESS, JOB NOT FOUND: Laurium Jail, 312 Hecla
+1709 ADDRESS, JOB NOT FOUND: LAURIUM MEAT MARKET, Reynolds Jeffery Proprs, 343 Hecla (See right side lines)
+1710 NAME: Laurium Methodist Episcopal Church, Town Hall
+1711 ADDRESS, JOB NOT FOUND: LAURIUM PHARMACY, John C Vivian Propr, 336 Hecla (See right and left bottom lines)
+1712 NAME: LAURIUM PRINTING CO, A C Marinelli Mngr, Publrs The Patriot, 116 Osceola (See page 353)
+1722 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Lawrence Blanche, bds n Amygdaloid
+1724 ADDRESS, JOB LOCATION NOT FOUND: Lawrence Leonard, agt, res n Amygdaloid
+1725 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lawrence Minnie, bkkpr, bds n Amygdaloid
+1743 NAME: Le Clair Joseph H, plumber, res w s Atlantic 1 s of Houghton
+1795 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Luusi Henry, carp, bds John Sals
+1822 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McCormick John N, bartndr J Sustarsich, bds same
+1866 ADDRESS, JOB LOCATION NOT FOUND: McKenzie James, mngr Superior Pharmacy, res ONeils Block
+1871 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McKenzie Reginald, electrician, bds Spaulding Hotel
+1908 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McNulty Annie, nurse, rms J A Mackenzie
+1933 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Macqueen George B, elk Superior Pharmacy, bds D K Macqueen
+1949 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Malcom Frederick A, barber, Spaulding Hotel, bds same
+1955 ADDRESS, JOB NOT FOUND: MANIER HUNT (John H Manier, John H Hunt), Livery and Sale Stables, Moving and Hauling Contractors, 107 Lake Linden av (See page 349)
+1972 ADDRESS, JOB NOT FOUND: Marta Block, 326 Hecla
+1978 ADDRESS, JOB NOT FOUND: Martin Mrs Catharine (aged 78), died July 14, 1900
+1980 ADDRESS, JOB NOT FOUND: Martin James E, removed to Ontonogan County
+1984 ADDRESS, JOB NOT FOUND: Martin Oscar (aged 37), died Feb 20, 1900
+2026 NAME: MAURIN, PETLEWSKY RICHETTA (John Maurin, Stephen Petlewsky, Michael and Angelo Richetta), Undertakers and Funeral Directors, 339 Hecla Tel 185 (See page 349)
+2038 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Meehan John jr, cigarmkr J Meehan, bds same
+2050 ADDRESS, JOB NOT FOUND: Methodist Protestant Church, s w cor Iroquois and 5th
+2052 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Mey Henry, rms r 434 Hecla
+2062 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Meyers John, carp F E Meyers, bds Winkelmeyer Hotel
+2077 ADDRESS, JOB NOT FOUND: MINERS LIVERY THE, Joseph Benard Propr, 401405 Lake Linden av (See page 353)
+2092 NAME: Molitor Minnie (aged 26) died Nov 27, 1900
+2097 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mongeau Delma, tmstr, bds Donald Hogaboam
+2098 ADDRESS, JOB NOT FOUND: Monroe Hall, 316 Hecla
+2111 ADDRESS, JOB NOT FOUND: Morrison John S (Pauli Morrison), res no Hecla
+2120 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Moyles Emma A, dressmkr, bds D A Moyles
+2121 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Moyles Jessie B, student, bds D A Moyles
+2146 ADDRESS, JOB NOT FOUND: Murphy Julia (aged 26), died Jan 13, 1900
+2164 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Neault Zellia, elk I Reshofsky, bds same
+2173 ADDRESS, JOB NOT FOUND: Nelson Charles S (aged 67), died Dec 29, 1900
+2205 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nisumaa Anton, painter, bds August Ruuttila
+2228 ADDRESS, JOB NOT FOUND: O K Laundry (Chinese), 304 Lake Linden av
+2234 ADDRESS, JOB NOT FOUND: OBrien Daniel (aged 73), died Jan 20, 1901
+2262 ADDRESS, JOB LOCATION NOT FOUND: Olson Ole, lab, res res Allouez 3 n of H T L R R
+2270 ADDRESS, JOB NOT FOUND: ONeill Block, Osceola cor 3d
+2274 ADDRESS, JOB NOT FOUND: Opera House, 312 Hecla
+2276 ADDRESS, JOB LOCATION NOT FOUND: Opland Iver, miner, res av s Florida 3 n of Fulton
+2315 ADDRESS, JOB LOCATION NOT FOUND: Pasner Victor, lab, res Walter Pasner
+2345 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pearl John W, barber P Vande Moter, bds same
+2347 ADDRESS, JOB NOT FOUND: Pearson Rebecca (aged 62), died May 4, 1901
+2372 ADDRESS, JOB NOT FOUND: PERREAULT GASPARD L, Propr Hotel Perreault, Hecla cor 4th (See left side lines)
+2391 ADDRESS, JOB LOCATION NOT FOUND: Peterson Charles, lab res r 535 Kearsarge
+2409 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Petrovcic John, barber, bds 4^3 Kearsarge
+2414 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Picchiottino Angelo, lab, bds S Lucas
+2422 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Piquette Emile, painter, 428 Hecla, bds Perrault Hotel
+2439 ADDRESS, JOB NOT FOUND: Post Office, Matthew Sailer postmaster, 332 Hecla
+2452 NAME: PRISK M JR CO (Martin Prisk jr), Groceries, Confectionery, Cigars and Tobacco, 501 Lake Linden av Mich Tel 296
+2455 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Prittinen John jr, painter, bds August Ruuttila
+2472 ADDRESS, JOB NOT FOUND: Raiche Denis M, removed to Menominee, Mich
+2491 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Raudio Peter, lab, bds John Tervo
+2496 NAME: Record Publishing Co, Brush Benesh proprs, publrs Daily Record, 336 Osceola
+2510 ADDRESS, JOB NOT FOUND: REINIER PARKER (James F Reinier, John C Parker), Proprs Laurium Commercial School, Faucett Blk (See front cover and page 345 )
+2512 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Remfry Alfred S, barber, bds Elizabeth Ludlow
+2513 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Remfry Caroline (wid John), bds Elizabeth Ludlow
+2514 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Remfry E Pearl, elk Mrs T J Remfry, bds same
+2516 ADDRESS, JOB NOT FOUND: Remfry T John, died December, 1899
+2533 ADDRESS, JOB NOT FOUND: REYNOLDS JEFFERY (Wm J Reynolds, Joseph Jeffery), Proprs Laurium Meat Market, 343 Hecla Tel 102 (See right side lines)
+2536 NAME, PERSON NOT FOUND: Richards Archie C painter Calumet Carriage Works, bds 124 Osceola
+2550 ADDRESS, JOB LOCATION NOT FOUND: Richards Wm, miner, res no Kearsarge
+2554 ADDRESS, JOB NOT FOUND: Richetta Block, 331333 Hecla
+2555 NAME: Richetta Bros (Michael and Angelo), livery, 339 Hecla
+2567 ADDRESS, JOB LOCATION NOT FOUND: Riley Wm H, agt, res no Tamarack
+2568 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Riley Wm H jr, driver Charles Mugford, bds no Tamarack
+2577 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Roberts John, lab G E Hamilton, bds same
+2587 NAME: Robinson F Co, removed to Menominee, Mich
+2592 NAME: RODOLJUB (The Patriot), V A Marcelja Editor, 116 Osceola (See page 353)
+2597 NAME: Rohrer G Co (Gottfried Rohrer), jewelers, 331 Hecla
+2615 ADDRESS, JOB LOCATION NOT FOUND: Roux Rudolph, painter^ res 320 Lake Linden av
+2640 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Rumphry Albert C, bds Spaulding Hotel
+2648 ADDRESS, JOB LOCATION NOT FOUND: Ruuttila August, painter s w cor Houghton and Wolverine, res same
+2650 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ruuttila Matthew, painter, bds August Ruuttila
+2651 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ruuttila Wm, carp, bds August Ruuttila
+2655 NAME: RYCKMAN C W CO (Charles W and Albert H Ryckman), General Store, 510 Lake Linden av Tel 305
+2664 ADDRESS, JOB NOT FOUND: Sacred Heart School, Sister Eustachia superioress, 108 Lake Linden av
+2675 NAME: St Germain Archibald J, painter, res w s Alnneek 5 n of 1st
+2716 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sautter Emil, butcher E H Wollstein, bds Morris Willstein
+2745 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schwartz Frank, wheelwright Calumet Carriage Wks, bds Hotel Perrault
+2755 ADDRESS, JOB NOT FOUND: Seen Oscar (aged 23), died Aug 14, 1900
+2760 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Selstrom Eric, bartndr M Hansan, bds same
+2781 ADDRESS, JOB NOT FOUND: Shea Mrs Mary (aged 95), died Sept 13, 1900
+2815 NAME: Sisters of Notre Dame, Sister Eustachia mother superioress, 108 Lake Linden av
+2816 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Skelly Adelaide, music tchr Mrs Charlotte Skelly, bds same
+2820 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Skelly Thomas, cigars, bds Mrs^harlotte Skelly
+2832 NAME: Smedberg Peter A carp C A Anderson, res Calumet
+2833 NAME: Smeed Wm S undertaker and picture frames, 221 Hecla, res same
+2838 NAME: Smith Albert C bartndr, res w s Quincy 4 n of Lake Linden av
+2876 ADDRESS, JOB NOT FOUND: State Savings Bank, Ernst Bolltnan pres, Jacob Baer (Hancock, Mich) vicepres, James T Fisher cashier, 405 Hecla
+2893 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stirling Rev J E, pastor First Baptist Church of Calumet, rms G E Hamilton
+2894 NAME: Stockley John G res s e cor Calumet and 1st
+2904 NAME: Strandine John O S, carp C A Anderson, res w s Amygdaloid 7 n of 1 st
+2943 ADDRESS, JOB NOT FOUND: SUPERIOR PHARMACY, Dr D K Macqueen Propr, 333 Hecla (See page 347)
+2951 ADDRESS, JOB NOT FOUND: Svetish John, died Nov 22, 1899
+2959 ADDRESS, JOB NOT FOUND: Swedish Methodist Church, n e cor 3d and Tamarack
+2966 ADDRESS, JOB NOT FOUND: Symons Wm (aged 37), died Aug 18, 1899
+2970 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Takalo Henry, carp August Koskela, bds Mrs Nisila, Iroquois
+2971 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Takalo Henry S, carp August Koskela, bds same
+2973 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Talis Michael, miner, bds John Hyrv
+2994 ADDRESS, JOB NOT FOUND: Terrill Wm (aged 56), died Jan 24, 1901
+3026 NAME: Tobin Stephen A D, macli, res 639 Tamarack
+3049 ADDRESS, JOB LOCATION NOT FOUND: Toupin Henry, bartndr J Toupin bds same
+3051 ADDRESS, JOB NOT FOUND: Toupin Louis, removed to South Lake Linden
+3052 ADDRESS, JOB LOCATION NOT FOUND: Toupin Romuald, lab res e s Calumet 2 n of 3d
+3055 NAME: Tourangeau Annie bds O J Tourangeau
+3059 ADDRESS, JOB NOT FOUND: Town Hall, Opera and Engine House, 312 Hecla
+3060 ADDRESS, JOB NOT FOUND: Trafelet Emanuel (aged 41), died December, 1900
+3062 ADDRESS, JOB LOCATION NOT FOUND: Train Mark D, mngr J Vivian Jr Co res 412 Kearsarge
+3079 ADDRESS, JOB NOT FOUND: Trevillian Oscar J, removed to Ontonagon, Mich
+3096 ADDRESS, JOB LOCATION NOT FOUND: Tuomala Michael, lab res w s Wolverine 3 11 of H T L R R
+3103 NAME: Turner Narcise (aged 70) died May 30, 1900
+3104 NAME: TWIN CITY CARRIAGE WORKS, Oscar F Mey Propr, 430 Hecla (See page 351)
+3107 ADDRESS, JOB LOCATION NOT FOUND: Uren Win, lab res e s Pewabic 2 n of 2d
+3117 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Vallence Peter, lab, bds Spaulding Hotel
+3122 NAME: Van de Moter Philamont, barber, n s 3d 1 e of Osceola, res s e cor 1 st and Osceola
+3123 ADDRESS, JOB NOT FOUND: Van Schwartz Jacob (aged 74), died April 12, 1901
+3131 ADDRESS, JOB NOT FOUND: Verda Peter (aged 31), died Feb 13, 1901
+3133 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Verrier Rose, bds 4^0 Hecla
+3138 NAME: Village Clerks Office Peter Charrier clerk, Town Hall, Hecla
+3139 NAME: Village Treasurers Office John A McLellan treas Town Hall, Hecla
+3141 ADDRESS, JOB LOCATION NOT FOUND: Vivian David L, mach bds N J Vivian
+3146 NAME: VIVIAN J JR CO (Johnson and Johnson Vivian jr), General Department Store and Columbia and Crescent Bicycles, Hecla cor 4th (See right top lines)
+3187 ADDRESS, JOB NOT FOUND: WEBB OBRIEN (Wm J Webb, Michael E OBrien), Insurance Agents, 336 Hecla (See page 323)
+3189 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Weber Herman H, printer Dailv Record, bds Perreault Hotel
+3204 ADDRESS, JOB LOCATION NOT FOUND: Wesala John, lab bds 101 Wolverine
+3208 NAME, PERSON NOT FOUND: Westberg Charles J F, lab, bds 421 Florida
+3209 NAME, PERSON NOT FOUND: Westberg Josephine C E, dressmkr, bds 421 Florida
+3228 NAME: Wiggen Bros Co (Olaf and Conrad Wiggen and Ole Homan), grocers, n w cor 4th and Iroquois
+3232 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wiitamaki Hirman, carp August Koskela, bds same
+3252 ADDRESS, JOB LOCATION NOT FOUND: Williams Thomas B, miner res 540 Lake Linden av
+3282 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wirkala John, carp August Koskela, bds Leander Suonala
+3288 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Wollmer Kate, bds Christian Wollmer

@@ -1,0 +1,367 @@
+1 NAME: A & P Food Stores Ralph R Heideman mgr gros and meats 130 Shelden
+16 NAME: ALDRICH ADDISON B (Ann) Physician and Surgeon Young Bldg 87 Shelden Tel 389J h98 Agate Tel 477
+17 NAME: ALDRICH ADDISON D (Annie B) Physician and Surgeon Young Bldg 87 Shelden Tel 389J h214 Vivian Tel 389R
+28 ADD: Alvinas Beauty Shop (Alvina Schilke) 155 Montezuma
+30 ADD: Ambassador Club (Eldred J and Bernard F Vondette) tavern 150 Shelden
+31 ADD: American Legion Club Howard Voetsch custodian 64 Portage
+34 ADD: Amphidrome Co oprs The New Amphidrome Jas R Dee pres 74 12 Shelden apt 8
+35 ADD: Amphidrome The New (Amphidrome Co) 27 Portage
+37 ADD: Anderson Elmer (Angeline) blksmith h No 2 loc (Hurontown)
+77 ADD: Atlas Powder Co Arth P Klenner dist mgr 56 Shelden
+80 ADD: Audreys Beauty Salon (Melvin E Jose) 109 Shelden
+101 NAME: BARAGA COUNTY LIGHT & POWER CO John Ralph Manager 56 Shelden Tel 1012
+117 NAME: BAUDIN ALBERT N (Ida L) Pres Houghton National Bank h182 College av Tel 1314
+121 NAME: BAUDIN R G Asst Cashier Houghton National Bank h102 Portage Tel 1793M
+127 NAME: BAY J HARTLEY H (Cath) Pres Hillside Mortuary Inc h167 Albion Tel 320R
+134 NAME: BEAUDRY ELEANOR E SecTreas Houghton Association of Commerce r87 Isle Royale
+154 NAME: Bely an Michl J (Pauline) supt Copper Range Motor Bus Co h331 Edwards
+188 NAME: BEYER REINHOLD E (Florence) Embalmer and Funeral Director Krellwitz Funeral Home h114 4th Tel 1862
+194 NAME: BISHOP ALBERT L (Bertha A) (Bishops Taxi) h82 Franklin Apt 5 Tel 700
+199 NAME: BISHOPS TAXI (Albert L Bishop) 119 Shelden Tel 700 220 Quincy Hancock Tel 70 (For further information see Houghton cover and page 9 Buyers Guide)
+217 ADD: Blom Walter E brewer Bosch Brewing Co
+218 NAME: Board of Trade Tavern (Roger Sodini) 42 Isle Royale
+231 NAME: BOSCH BREWING COMPANY Antoinette B Ruppe Pres Katherine M Bosch VPres P E Ruppe SecTreas W Memorial Rd Tel 407 (For further information see backbone and page 3 Buyers Guide)
+232 NAME: BOSCH KATHERINE M VPres Bosch Brewing Company r New York City
+246 ADD: Boy Scouts of America Copper County Council No 260 Jos E Prairie scout exec Houghton Natl Bank bldg
+260 NAME: BRITZ ALOYSIUS (Ailiin) (Britz Electric Service) h62 Albion Tel 932M
+261 NAME: BRITZ ELECTRIC SERVICE (Aloysius Britz) Electrical Contractor 62 Albion Tel 932M (For further information see page 4 Buyers Guide)
+267 NAME: BROOKS PERCY C (Mary K) (West Side Pharmacy) h107 College av Tel 1149
+306 NAME: BRYUS MARTIN (Mary) (Cloverland Cleaners & Dyers) h177 E 5th
+340 ADD: Carling Oscar (Ina) miner h No 2 loc (Hurontown)
+341 ADD: Carlson Anselm (Hilda) timbermn h No 2 loc (Hurontown)
+343 ADD: Carlson Elsie r No 2 loc (Hurontown)
+346 ADD: Carlson Nilo (Tyne) miner h No 2 loc (Hurontown)
+389 ADD: Central Elementary School 137 Albion
+390 ADD: Central Food Market (Mrs Marie Kemppainen) 88 Shelden
+418 NAME: CLOVERLAND CLEANERS & DYERS (Martin Bryus) Houghtons Leading Cleaners and Dyers Douglass House Block 75 Shelden Tel 138 (For further information see right top lines and page 4 Buyers Guide)
+419 ADD: Cloverland Hotel (Wm S Johnson) 97 Shelden
+420 ADD: Cloverland Hotel Annex (Cloverland Hotel) tavern 99 Shelden
+421 NAME: COCHRAN JOHN A (Carrie) Distributor in Upper Peninsula For White Motor Trucks Dealer for General Motors Trucks 101 Shelden Tel 328J h129 Garnet Tel 328R (For further information see page 9 Buyers Guide)
+429 NAME: COLLEGE NEWS STAND (Edward T Colombe) Newsdealers Magazines Novelties Photo Finishing Souvenirs Typewriters and Repairs 83 Shelden Tel 48
+442 NAME: COLOMBE EDWARD T (Phyllis) (College News Stand) h938 4th (Hancock)
+450 ADD: Columbia Hat Cleaning Shop (Gustav Belanderis) 144 Shelden
+464 ADD: Copper Motor Co (Emile O Sanregret Francis E Kennedy) autos and trucks 44 Shelden
+465 NAME: COPPER RANGE COMPANY Wm H Schacht PresGenl Mgr John M Wagner Asst Treas B I Manderfield Supt Benj D Noetzel Purch Agt Copper Mining and Smelting Masonic Bldg Shelden nw cor Portage Tel 1040
+466 NAME: COPPER RANGE LAUNDRY Joseph J Gendzwill Mgr Zoric Dry Cleaning and Laundering 135139 Shelden Tel 400 (For further information see left top lines and page 6 Buyers Guide)
+467 ADD: Copper Range Motor Bus Co Geo H Wescott genl mgr 284 Memorial rd
+471 NAME: CORBETT WM F (Mildred) Dentist Office Hours 912 M 130500 P M R12 Hall Bldg 110 Shelden Tel 542 h118 Hubbell av Tel 1218
+480 NAME: COUNTY OF HOUGHTON (See HoughtonCounty of)
+481 NAME: COURT HOUSE Albion se cor Dodge
+486 ADD: Crooker D Edwin (Crooker & Johns) r Ontonagon
+487 NAME: Crooker & Johns (D Edwin Crooker Raymond Johns) tires 123 Shelden
+512 ADD: Czarnecki John A bartndr Venice Cafe (Hancock)
+514 ADD: Daavettila Adolph (Aini) h No 2 loc (Hurontown)
+515 ADD: Daavettila Rudolph (Gertrude) elk h No 2 loc (Hurontown)
+516 NAME: DAILY MINING GAZETTE THE The Mining Gazette Co Publishers 39 Isle Royale Tels 198 and 199 (For further information see left top lines and page 8 Buyers Guide)
+517 NAME: DALE JAMES H Florist Flowers for Every Occasion Home Grown 85 Shelden Tel 1095 h Ripley Tel 252 (For further information see page 6 Hancock Buyers Guide)
+534 ADD: Decker Elsie M Register of Deeds Court House
+535 ADD: Dee Apartments 70y2 and 74 y2 Shelden
+536 ADD: Dee Building 7076 Shelden
+537 ADD: Dee Flats 38 Isle Royale
+538 ADD: Dee Hotel Apartments 80 Shelden
+539 NAME: DEE J R REAL ESTATE CO THE James R Dee Pres Thomas S Dee VPres Dorothy E Neugebauer SecTreas Dee Bldg 7076 Shelden Tel 93 (For further information see page 8 Buyers Guide)
+540 NAME: DEE JAS R Pres The J R Dee Real Estate Co h7412 Shelden Tel 93
+543 NAME: DEE THOMAS S VPres The J R Dee Real Estate Co h80 Shelden Tel 1584
+566 NAME: DILLMAN GROVER C DR (Anna) Pres Michigan College of Mining and Technology h350 Florence Tel 410
+582 NAME: DONNELLY JOSEPH M (Virginia) AttorneyatLaw Hall Building 110 Shelden Tel 145 h81 Shelden Tel 1565 (See page 6 Buyers Guide)
+584 NAME: DOUGLASS FRANK A AGENCY W Corbin Douglass Mgr General Insurance 110 Shelden Tel 54 (For further information see Houghton cover and page 5 Buyers Guide)
+585 NAME: DOUGLASSHOUGHTON HOTEL CO M Levine PresTreas Herman Gundlach VPres Nicholas J Kaiser Sec Isle Royale at Shelden Tel 840
+586 ADD: Douglass Houghton School ss Douglass nr limits
+587 ADD: Douglass House Buffet (Douglass House) 71 Shelden
+588 NAME: DOUGLASS HOUSE THE Emery Tourville Mgr Isle Royale at Shelden Tel 840 (For further information see right top lines and page 5 Buyers Guide)
+589 NAME: DOUGLASS W CORBIN (Eliz) Mgr Frank A Douglass Agency h168 College av Tel 376
+609 ADD: Duby Clarence (Eleanor P) br mgr Bosch Brewing Co r Menominee
+612 NAME: DUGGAN LEO F (Vange) Registrar Michigan College of Mining and Technology h38 College av Tel 1428
+613 ADD: Duluth South Shore & Atlantic Ry Co Louis A Dravel ticket agt pass sta 29 Huron
+614 ADD: Duluth South Shore & Atlantic Ry Co Freight Depot Don C Mohr agt Lake Shore 1 e HamarQuandt loc
+626 ADD: Dwyers Shoe Store (Thos J Dwyer) 96 Shelden
+630 NAME: E F & Co (Mrs Alice D Slattery) dry gds 14 Shelden
+633 ADD: East Houghton Texaco (Range Oil & Gas Co) filling sta 32 Shelden
+638 NAME: EDWARDS GEO C (Margt) VPres Houghton National Bank h313 South Tel 1354
+646 NAME: EGGLESTON RAY L & CO (Ray L Eggleston John Mehrman Jr) Plumbing Heating Contractors and Sheet Metal Works 124 Shelden Tel 302
+658 ADD: Erickson Cath elk r No 2 loc (Hurontown)
+661 ADD: Erickson John (Anna) miner h No 2 loc (Hurontown)
+664 ADD: Ericksons Barber Shop (Edw Erickson) 97 Shelden
+668 ADD: Evans Electric Shop (Silas G Evans) 74 y2 Shelden apt 14
+675 ADD: Family Produce Market (L Andrew Wolcott) 12 Shelden
+688 NAME: FIRE DEPARTMENT (See HoughtonVillage of)
+689 ADD: First Church of Christ Scientist Montezuma se cor 2d
+690 ADD: First Presbyterian Church Rev Wm D Rule pastor ss College av 2 e Franklin
+700 ADD: Foley Block 98100 Shelden
+707 NAME: FOOTE J ALBERT (Lesley C) Mgr Paine Webber & Co h134 Agate Tel 1436
+710 ADD: Forest Hill Cemetery es Fairview
+723 ADD: Franklin Square Motor Service (J Hartley H Bay) autos 60 Franklin sq
+751 ADD: Gamble Stores Harold B Headley mgr hdw 100 Shelden
+753 ADD: Gambles Market (Wm J Gamble) 136 Shelden
+769 ADD: Gazette Building 39 Isle Royale
+770 ADD: Gekas Building 12628 Shelden
+776 NAME: GENDZWILL JOSEPH J (Stella C) Mgr Copper Range Laundry h45 Jasper Tel 1509
+780 ADD: Giachino Anna E mach opr Copper Range Lndry
+799 ADD: Girl Scouts of America 110 Shelden R17
+801 ADD: Gitzen Co The (Albert G Gitzen) genl mdse 44 Dodge
+813 ADD: Good Will Farm Eliz MacDougall supt ss Cemetery rd (Park Addn)
+816 ADD: Goodman News (Frank B Goodman) 73 Shelden
+839 ADD: Great Lakes Transit Corp N E Blanchard genl agt frt office ns Memorial rd 5 w Dakota
+849 ADD: Greyhound Lines Mrs Sally P Goodman agt 73 Shelden
+869 ADD: Haas Ed & Co (Edw Isaac N Martin J and Herman H Haas) mens clothing 84 Shelden
+877 ADD: Hakala Elmer farm hd r No 2 loc (Hurontown)
+878 ADD: Hakala Nels (Milia) trammer h No 2 loc (Hurontown)
+879 ADD: Hakala Reino farm hd r No 2 loc (Hurontown)
+883 ADD: Hall Building 11012 Shelden
+894 NAME: HAMAR EDW A (Jessie I) Pres HamarQuandt Co r Chassell Mich Tel 63R
+895 NAME: HAMAR JOHN N Sec HamarQuandt Co r Laurium Mich
+896 NAME: HAMARQUANDT CO E A Hamar Pres A W Quandt VPresTreasGenl Mgr John N Hamar Sec Building Materials for Every Need HamarQuandt Location and 52 Shelden Tels 61 and 1040 (For further information see Houghton cover and page 7 Buyers Guide)
+911 ADD: Hansen Motor Sales (Ernest C Hansen) autos 263 Memorial rd
+922 ADD: Harrys Service Garage (Harry C Carlson) 64 Franklin sq
+928 ADD: Harveys Filling Station (Walter L Harvey) Main ne cor James (Hurontown)
+945 ADD: Healy Jas T Agency (Jas T Healy) real est and ins 157 Shelden
+966 ADD: Hellner A Herman (Helen) rec sec K of C Club (Hancock) hl31 Ruby
+981 ADD: Hiawatha Lunch (Martin L Britz) 115 Shelden
+995 ADD: Hillside Candy Shop & Restaurant (Nicholas J and Jas Gekas) 126 Shelden
+996 NAME: HILLSIDE MORTUARY INC J Hartley H Bay Pres Willard G Nancarrow SecTreas Funeral Directors 90 Pewabic Tel 320J (For further information see left top lines and page 4 Buyers Guide)
+997 ADD: Hiltunen Ina (wid Henry) h No 2 loc (Hurontown)
+998 ADD: Hiltunen John r No 2 loc (Hurontown)
+1044 NAME: HOTEL DOUGLASS Isle Royale at Shelden (See Douglass House)
+1045 NAME: HOUGHTON ASSOCIATION OF COMMERCE Edw A Hamar Pres G H Wescott 1st VPres F D Seeber 2d VPres Eleanor E Beaudry SecTreas 44 Isle Royale Tel 662
+1048 ADD: Houghton Candy Shop (Peter Alex) 164 Shelden
+1049 ADD: Houghton Chapter No 304 OES Mrs Ethel Hamilton sec meets 4th Thursday of each month 52 Shelden
+1050 ADD: Houghton Civic Club Mrs Cath Sullivan sec meets 2d Friday of each month 64 Portage
+1051 ADD: Houghton Community Building 64 Portage
+1052 NAME: HOUGHTON COUNTY ELECTRIC LIGHT CO John Ralph Mgr Dependable Electric Service 56 Shelden Tel 1012 (For further information see Houghton cover and page 7 Buyers Guide)
+1053 ADD: Houghton County Electric Light Co (power house) ns Memorial rd 3 w Dakota
+1054 NAME: HOUGHTONCOUNTY OFCOURT HOUSE Albion se cor Dodge Agricultural Agent Earl Roberts 64 Portage Circuit Court Hon Leslie C McClelland judge Court House
+1055 NAME: HOUGHTONCOUNTY OFContd Clerk Roger M Sullivan Court House Coroners John J McCarthy and Emil J Schumacher Infirmary Leonard Christoferson supt Jail Albion se cor Dodge Juvenile Court Hon Herman A Wieder judge Court House Juvenile Home Mrs Rose Williams matron 89 Albion Physician Addison B Aldrich 87 Shelden Probate Court Hon Herman A Wieder judge Court House Prosecuting Attorney Frank C Condon 100 Quincy (Hancock) Public Relief Commission Warren M Bell director 64 Portage Register of Deeds Elsie M Decker Court House Road Commission Robt Reynolds formn Court House School Commissioner John Wargelin 64 Portage Sheriff John G Salmi Court House Treasurer F W Vigelius Court House Water Department Howard Voetsch comnr 64 Portage Welfare Relief Commission Herman W Rahn admn 64 Portage
+1056 ADD: Houghton Flour Mill (Milo J Slagg) 28 Franklin
+1057 ADD: Houghton High School Bernard F Gaffney prin 137 Albion
+1058 NAME: HOUGHTONKEWEENAW DISTRICT HEALTH DEPT Dr Russell E Pleune Director Rice Bldg 79 Shelden Tel 1262 Houghton Lodge No 218 (F&AM) Jas Fisher jr sec meets 2d Monday each month 52 Shelden
+1059 NAME: HOUGHTON NATIONAL BANK Albert N Baudin Pres Paul D Swift and Geo C Edwards VPrests Fred C Stoyle Cash Edw Rompf and R G Baudin Asst Cashiers Shelden ne cor Isle Royale Tel 540 (For further information see Houghton cover and page 2 Buyers Guide)
+1060 NAME: HOUGHTON NATIONAL BANK BUILDING Shelden ne cor Isle Royale
+1061 NAME: HOUGHTON PUBLIC LIBRARY Marie A Manderfield Librarian Huron ne cor Montezuma Tel 838
+1062 ADD: Houghton Pure Food (Hubert G Washburn Edw J Gilles) 83 Shelden
+1063 ADD: Houghton Shell Service (Arne E Leinonen Melville Merrifield John Waarala) filling sta ns Memorial rd 4 w Dakota
+1064 NAME: Houghton & Upper Peninsula Building & Loan Assn Edw A
+1065 NAME: Hamar receiver 86 Shelden
+1066 NAME: HOUGHTONVILLAGE OFVILLAGE OFFICES 64 Portage Assessor Wm Brimacombe 64 Portage CLERK Harry R Major 64 Portage Council Chambers 64 Portage Engineer Chester A Gibbs 90 Montezuma FIRE DEPARTMENT Raymond L Eggleston Chief 90 Montezuma Tel 600 HEALTH OFFICER Addison D Aldrich 87 Shelden POLICE DEPARTMENT John Collins Chief 90 Montezuma PRESIDENT Emil M Czernkovich 64 Portage Public Works Chester A Gibbs supt 64 Portage Treasurer Mrs Jennie E Hobba 64 Portage Water Works ws Park av 1 s Calverley (DH)
+1072 RESIDING WITH PERSON NOT FOUND: Hugo John barber Trevethans Barber Shop r Copper City
+1079 ADD: Hurontown Bar (John Fausoni) 2 Main (Hurontown)
+1080 ADD: Hurontown Fire Department John Wagner chief Main se cor
+1081 NAME: Horatio (Hurontown)
+1082 ADD: Hurontown Methodist Church Main nw cor James (Hurontown)
+1083 ADD: Huss Beauty Shop (Mrs Daisy M Huss) 58 Shelden
+1087 ADD: Huss Geo P (Georgianna) electn hlOO1^ Memorial rd
+1089 NAME: IDEAL CAFE (Percy R Mills) Regular Dinners Lunches Sandwiches and Pasties 20 Shelden Tel 214J
+1092 ADD: Isle Royale School Irene Prisk prin Dodgeville
+1128 ADD: Johnson Jennie (wid John) h No 2 loc (Hurontown)
+1152 ADD: Jose Melvin E (Audrey Audreys Beauty Salon) h70yz Shelden apt 15
+1154 ADD: Judson Ingram Post No 80 American Legion Franklin Wright adjutant meets 1st and 3d Tuesdays each month 64 Portage
+1157 NAME: KAISER NICHOLAS F (Florrie M) Treas and Business Mgr Michigan College of Mining and Technology h139 Ruby Tel 424J
+1163 ADD: Kangas Emil (Anna) miner h No 2 loc (Hurontown)
+1164 ADD: Kangas Sol (Mary) timbermn h No 2 loc (Hurontown)
+1166 ADD: Kappa Delta Fraternity 128 Blanche
+1214 ADD: King Wm T vpres Copper Country Vacationist League r Ahmeek
+1220 ADD: Kirkish Bros (Azar S and Geo S) genl mdse 277 Memorial rd and furn 161 Shelden
+1247 ADD: Koiteila Andrew lab r No 2 loc (Hurontown)
+1248 ADD: Koiteila Arnold r No 2 loc (Hurontown)
+1249 ADD: Koiteila John (Ina) miner h No 2 loc (Hurontown)
+1250 ADD: Koiteila Otto r No 2 loc (Hurontown)
+1251 ADD: Koiteila Rachel r No 2 loc (Hurontown)
+1262 ADD: Korvisto Chas (Sylvia) miner h No 2 loc (Hurontown)
+1271 ADD: Koykka Ruth student r No 2 loc (Hurontown)
+1272 ADD: Koykka Toivo (Tillie) pumpmn h No 2 loc (Hurontown)
+1275 NAME: KRELLWITZ AUG L (Emma A) (Krellwitz Funeral Home) h40 Huron Tel 134
+1278 NAME: KRELLWITZ FUNERAL HOME (Aug L Krellwitz) Reinhold E Beyer Embalmer and Funeral Director 40 Huron Tel 134 (For further information see page 4 Buyers Guide)
+1286 ADD: Kremen B & Co Maurice Bond mgr mens clo 129 Shelden
+1288 ADD: Kroll Drug Store (Walter L Kroll) 64 Shelden
+1295 ADD: Kuopus Sarah J mach opr Copper Range Lndry
+1302 ADD: Labeski John (Margt) miner h No 2 loc (Hurontown)
+1303 ADD: Labeski John jr r No 2 loc (Hurontown)
+1304 ADD: Labeski Kathryn H dishwasher Nelsons Chocolate Shop r No 2 loc (Hurontown)
+1333 ADD: Laminga Helmi r No 2 loc (Hurontown)
+1334 ADD: Laminga Hugo miner r No 2 loc (Hurontown)
+1335 ADD: Laminga Isaac (Fanny) miner h No 2 loc (Hurontown)
+1359 RESIDING WITH PERSON NOT FOUND: Larsen Roland P dep collr US Internal Revenue r Scott Hotel (Hancock)
+1375 ADD: Lyon Donald L compositor Mining Gazette Co
+1415 ADD: Malfroid Trading Co (Nester E Malfroid) flour feed and filling sta 300 Memorial rd
+1418 ADD: Malsins Smartwear (Milton Malsin) womens clo 74 Shelden
+1423 NAME: MANDERFIELD MARIE A Librarian Houghton Public Library r127 E 7th Tel 1467
+1429 ADD: Manninen Arne lab r No 2 loc (Hurontown)
+1430 ADD: Manninen Ernest miner r No 2 loc (Hurontown)
+1431 ADD: Manninen Henrietta r No 2 loc (Hurontown)
+1432 ADD: Manninen Peter (Alina) miner h No 2 loc (Hurontown)
+1433 ADD: Manninen Tenho r No 2 loc (Hurontown)
+1434 ADD: Manninen Walter r No 2 loc (Hurontown)
+1436 ADD: Manzetti Lawrence auto mech Superior Chevrolet Sales
+1438 ADD: Marcotte Raymond instr Mich Coll of Mining & Tech
+1439 ADD: Maries Beauty Shop (Agnes E Brown) 128 Shelden R3
+1440 ADD: Markham Flats 82 Franklin
+1452 ADD: Masonic Apartments 52 Shelden
+1454 ADD: Masonic Building 5056 Shelden
+1455 NAME: MASSACHUSETTS MUTUAL LIFE INSURANCE CO Frank A Douglass Agency District Agents 110 Shelden (For further information see Houghton cover and page 5 Buyers Guide)
+1465 ADD: Matson Wm asst Mich Coll of Mining & Tech
+1469 ADD: Mattson Henry (Ida) miner h No 2 loc (Hurontown)
+1470 ADD: Mattson Laime lndry mgr Douglass House
+1483 NAME: Mich
+1529 ADD: Medlyn Arth r No 2 loc (Hurontown)
+1530 ADD: Medlyn Edw (Edna) elk h No 2 loc (Hurontown)
+1531 ADD: Medlyn Emory sharpener r No 2 loc (Hurontown)
+1532 ADD: Medlyn Jean student r No 2 loc (Hurontown)
+1537 ADD: Memorial Park ws Dakota bet Memorial rd and Montezuma
+1545 ADD: Merr111 Perl E with Mich Dept of Health rill Shelden
+1549 ADD: Messner Coal Co (Michael Messner) Lake nw cor Carroll
+1573 NAME: MICHIGAN COLLEGE OF MINING AND TECHNOLOGY Dr Grover C Dillman Pres Nicholas F Kaiser Treas and Business Mgr Leo F Duggan Registrar ns College av bet Hubbell av and Cemetery rd Tel 544M (For further information see page A)
+1574 NAME: MICHIGANState of Automobile License Division Fred J Yeip mgr 100 Memorial rd Bureau of Social Security Mrs Marion Medlyn supvr 64 Portage Department of Health Ora M Mills dir 2d fl Koenig Hall
+1575 ADD: Mich College of M & T
+1591 ADD: Miller Jas (Josephine) miner h No 2 loc (Hurontown)
+1598 NAME: Millers (Isaac Miller) womens clo 152 Shelden
+1604 ADD: Mineral Range Railroad Louis A Dravel tkt agt pass sta 29 Huron
+1605 NAME: MINING GAZETTE CO THE John W Rice Pres Belle P Rice Sec Martin J Tretheway Treas and Business Mgr Wm G Rice Publisher Publishers Daily Mining Gazette and Portage Lake Mining Gazette (Weekly) 39 Isle Royale Tels 198199 (For further information see left top lines and page 8 Buyers Guide)
+1610 ADD: Mitchell Verne hsekpr 332 Florence
+1612 ADD: Mitzi Shop (E A Mackevich Harry Joffee) mlnry and shoes 98 Shelden
+1620 NAME: MOFFAT BAKERY (Wm R Moffat) 76 Shelden Tel 236J (For further information see page 2 Buyers Guide)
+1621 NAME: MOFFAT WM R (Anna) (Moffat Bakery) 82 Prospect Tel 236R
+1624 ADD: Moilanen Arne r No 2 loc (Hurontown)
+1626 ADD: Moilanen John trammer h No 2 loc (Hurontown)
+1627 ADD: Moilanen John jr r No 2 loc (Hurontown)
+1645 ADD: Montgomery Ward & Co Benton N Bowlby mgr dept store 90 Shelden
+1650 ADD: Moons Transfer (Jos H Moon) 155 Shelden
+1652 ADD: Moorelawn Apartments 221 College av
+1658 ADD: Moyle Clarence L (Mildred) dredge hd 1x239 Calverley
+1663 ADD: Murphy Block 9496 Shelden
+1686 NAME: NANCARROW WILLARD G (Dorothy G) SecTreas Hillside Mortuary Inc h90 Pewabic Tel 320J
+1689 ADD: Nantell Beauty Parlor (Margt Nantell) 75 Shelden
+1703 NAME: NELSON EDWARD & CO (Edward Hannah A Alexander E and Nels A Nelson) Restaurant 77 Shelden Tel 1195 (For further information see page 9 Buyers Guide)
+1705 NAME: NELSON NELS A (Mattie H) (Nelsons Chocolate Shop) h7012 Shelden Tel 340
+1706 NAME: NELSONS CHOCOLATE SHOP (Edw Nelson & Co) Restaurant and Confectionery 77 Shelden Tel 1195 (For further information see page 9 Buyers Guide)
+1716 NAME: NEUGEBAUER DOROTHY E SecTreas The J R Dee Real Estate Co r200 Jacker Tel 1518
+1718 ADD: New York Life Ins Co Wm T Pelmear spl agt 205 Edwards
+1719 ADD: Newberry J J Co Wilbur E Raypholtz mgr dept store 12022 Shelden
+1722 ADD: Newmueller Hattie hsekpr 107 Portage
+1728 ADD: Niemi Hjalmer trimmer h No 2 loc (Hurontown)
+1746 NAME: NORTHERN WHITE CO (John A Cochran) Motor Trucks 101 Shelden Tel 328J (For further information see page 9 Buyers Guide)
+1747 NAME: NORTHWESTERN MUTUAL LIFE INSURANCE CO OF MILWAUKEE WIS Leslie E Coffin Jr Special Agent Masonic Bldg 5056 Shelden Tel 1473 Noye Emily maid r160 Shelden
+1749 RESIDING WITH PERSON NOT FOUND: Nye Edw J (Mary) emp Atlas Powder Co r Dollar Day
+1759 NAME: ODonnellSeamens Co (Jos C Seamens) womens clo 156 Shelden
+1777 ADD: Onkalo John (Fanny) trammer h No 2 loc (Hurontown)
+1796 NAME: PAINE WEBBER & CO Established 1880 J Albert Foote Mgr Brokers Members New York Stock Exchange 69 Shelden Tel 1240 (For further information see right top lines and page 5 Buyers Guide)
+1799 ADD: Palestine Commandery (KT) John J West recorder 52 Shelden
+1800 ADD: Palmero Derlendi r No 2 loc (Hurontown)
+1801 ADD: Palmero Domonie r No 2 loc (Hurontown)
+1802 ADD: Palmero Frank (Eliza) miner h No 2 loc (Hurontown)
+1819 NAME: PAULSRUD BERNHARD N (Anna) Chiropractor Office Hours 10 to 12 m 2 to 5 p m 7 to 8 p m R910 Hall Bldg 110 Shelden Tel 656J h209 Center Hancock Mich Tel 656R
+1844 NAME: PELMEAR WILLIAM T Special Agent New York Life Insurance Co 205 Edwards Tel 260 h do
+1849 ADD: Penney J C Co Inc Henry V Kivela mgr dept store 132 Shelden
+1862 NAME: PETERMANN ALBERT E (Ann G) (Rees Robinson & Petermann) Lawyer r Calumet av Calumet Tel 259
+1863 NAME: PETERMANN ALBERT E JR (Dorothy) (Rees Robinson & Petermann) Lawyer r Mine st Calumet Location Tel 745
+1873 ADD: Peterson Mary (wid Louis) hsekpr 245 South
+1876 ADD: Petit Jos N (Sarah) tinsmith Ray L Eggleston & Co
+1892 ADD: Pilgrim Terrace Apartments ws Cemetery rd 1 s College av
+1904 NAME: PLEUNE RUSSELL E MD (Noreen) Director Houghton Keweenaw District Health Dept h131 Blanche Tel 1032M
+1905 NAME: PLOURD ELMER J (Anna) (Plourds Standard Service) h277 Douglass Tel 1869
+1906 NAME: PLOURDS STANDARD SERVICE (Elmer J Plourd) Gasoline and Oil Service Station Atlas Tires and Batteries Greasing and Washing Franklin Square Tel 9028
+1918 NAME: POLICE DEPARTMENT(See HoughtonVillage of)
+1921 NAME: PORTAGE LAKE MINING GAZETTE (Weekly) The Mining Gazette Co Publishers 39 Isle Royale Tels 198 and 199 (For further information see left top lines and page 8 Buyers Guide)
+1922 ADD: Portage Park ns Park dr at W Memorial rd (DH)
+1923 NAME: PORTAGETOWNSHIP OF Attorney Harold C Schulte 36 Isle Royale Clerk Robt J Hill 36 Isle Royale Justices of the Peace John McCarthy Jas R Carroll Roy H Toivoinen Robt J Hill 36 Isle Royale Superintendent of Schools Irving S Edwards 137 Albion Supervisor Fred J Yeip 36 Isle Royale Treasurer Mrs Etta Schutz 36 Isle Royale
+1924 NAME: POST OFFICE(See United States Government)
+1925 ADD: Povo John (Mary) mach h No 2 loc (Hurontown)
+1950 NAME: QUANDT ALBERT W (Alice R) VPresTreasGenl Mgr HamarQuandt Co h205 Montezuma (Hancock) Tel 270
+1956 ADD: Railway Express Agency Inc Clyde E Williams agt 30 Isle Royale
+1959 NAME: RALPH JOHN (Frances B) Mgr Houghton County Electric Light Co h113 College av Tel 936
+1963 ADD: Range Candy Co (Michl R Bogosoff) 141 Shelden
+1973 RESIDING WITH PERSON NOT FOUND: Reagan Annie student r Mrs Laveme Reagan
+1975 RESIDING WITH PERSON NOT FOUND: Reagan John atndt Copper Motor Co r Mrs Laveme Reagan
+1985 NAME: REES ALLEN F (Rees Robinson & Petermann) Lawyer h48 College av Tel 295
+1986 NAME: REES ROBINSON & PETERMANN (Allen F Rees Deen L Robinson Albert E Petermann Albert E Petermann Jr) AttorneysatLaw Houghton National Bank Bldg Shelden ne cor Isle Royale Tel 34 (See page 6 Buyers Guide)
+1989 ADD: Reliance Pharmacy (Geo P Vigo) 70 Shelden
+1991 ADD: Rex Bar (John M Allen) 134 Shelden
+2002 NAME: RICE BELLE P MRS Sec The Mining Gazette Co h265 College av Tel 368 Rice Building 7781 Shelden
+2003 NAME: RICE JOHN W (Mildred) Pres The Mining Gazette Co r Sheridan rd Chassel Tel 1697M
+2004 NAME: RICE WM G (Belle P) Publisher Daily Mining Gazette h265 College av Tel 368
+2007 ADD: Richard Jas (Lumina) electn h No 2 loc (Hurontown)
+2018 ADD: Richards Harry (Laura) mine capth94 Horatio (Hurontown)
+2019 ADD: Richards Jas F (Ida) mstr mech h No 2 loc (Hurontown)
+2045 ADD: Ristell Thos & Co (Thos Ristell) whol fish 46 Dodge
+2050 NAME: Roach & Seeber Co Jas T Roach secmgr Geo K Seeber treas whol gros 25 Huron
+2065 NAME: ROBINSON DEEN L (Marion C) (Rees Robinson & Petermann) Lawyer h355 College av Tel 883
+2082 NAME: ROMPF EDW (Annie E) Asst Cashier Houghton National Bank h122 Garnet Tel 452
+2104 ADD: Rotary Club Mervin W Youngs sec meets every Thursday 1215 p m Douglass House
+2109 NAME: ROWE SISTERS SHOP (Mary J Rowe) Womens Misses Childrens and Infants Wearing Apparel 110 Shelden Tel 924
+2130 ADD: Ruhls Warney Orchestra (Warner H Ruhl) 41 Quincy
+2133 NAME: RUNGE FREDERICK C (Harriet) Dentist Office Hours 8 to 12 m 1 to 5 p m Room 14 Hall Bldg 110 Shelden Tel 611 h94 Prospect Tel 759
+2142 NAME: RUPPE ANTOINETTE B MRS Pres Bosch Brewing Co r Lake Linden Tel 104
+2143 NAME: RUPPE PETER E (Antoinette B) SecTreas Bosch Brewing Co r Lake Linden Tel 104
+2151 ADD: Safety Zone Service Station (Rupert W 0Brien)69 Isle Royale
+2154 ADD: Stlgnatius School Sisters of StAgnes in charge Albion nw cor Ripley
+2168 RESIDING WITH PERSON NOT FOUND: Savoy Oliver (Veronica S) brewer Bosch Brewing Co r Oskar Route
+2203 NAME: SCHULTE HAROLD C (Doris C) AttorneyatLaw Masonic Bldg Shelden nw cor Portage Tel 2 h106 Blanche Tel 239 (See page 6 Buyers Guide)
+2233 ADD: Seamens Jos C (ODonnellSeamens Co) r Iron wood
+2250 NAME: SHELDEN ESTATE CO W R Thompson Pres 35 Isle Royale Tel 92
+2251 NAME: SHERIFF (See HoughtonCounty of)
+2257 ADD: Shiroda L B (Elsie) meatctr Slatterys Model Market
+2271 ADD: Sigma Rho Fraternity 389 Florence
+2287 NAME: Sisters of StAgnes Convent 40 Albion
+2288 ADD: Skewes Alberta (wid Wm) h No 2 loc (Hurontown)
+2289 ADD: Skewes Jas lab r No 2 loc (Hurontown)
+2296 ADD: Slatterys Model Market Wm J Slattery mgr gros 16 Shelden
+2310 ADD: Snell Lloyd (Steffania) timbermn h No 2 loc (Hurontown)
+2321 ADD: Specialty Sales Co (Frank B Goodman) whol confr 111 Shelden
+2324 NAME: Spencer & McCormack (Newton C Spencer Edw McCormack) lawyers 110 Shelden R6
+2328 ADD: Stacks Super Service (Jos J Stack) filling sta 107 Shelden
+2331 ADD: Standard Accident Insurance Co Edw B Dunn adjuster 110 Shelden R4
+2335 NAME: STATE OF MICHIGAN (See MichiganState of)
+2339 ADD: Stefaniak Steve trammer r No 2 loc (Hurontown)
+2340 ADD: Stefaniak Wm trammer r No 2 loc (Hurontown)
+2373 NAME: STOYLE FRED C (Charlotte M) Cashier Houghton National Bank h149 Diamond Tel 965
+2377 ADD: Street Car Lunch (Ray G Steck) 62 Shelden
+2388 ADD: Style Shop The (Mrs Betty Glass) womens clo 94 Shelden
+2393 NAME: Succa & Feira Texaco Service Station (Jos Succa Dominic J Feira) 269 Memorial rd
+2418 ADD: Superior Chevrolet Sales (Harry E Varney Nicholas J Kaiser) autos 63 Shelden
+2431 NAME: SWIFT H LEIGH (Irma) (I E Swift Co) h297 College av Tel 1235
+2432 NAME: SWIFT I E COMPANY (H Leigh and Paul D Swift) Hardware Established 1880 116 Shelden Tels 580 and 581 (For further information see left side lines and page 5 Buyers Guide)
+2433 NAME: SWIFT PAUL D (I E Swift Co) and VPres Houghton National Bank r297 College av Tel 1235
+2439 ADD: Taavekkila Arnold miner r No 2 loc (Hurontown)
+2440 ADD: Taavekkila John B (Hannah) miner h No 2 loc (Hurontown)
+2441 ADD: Tales Bertha r No 2 loc (Hurontown)
+2442 ADD: Tales Michl (Helia) miner h No 2 loc (Hurontown)
+2443 ADD: Tales Wayne miner r No 2 loc (Hurontown)
+2465 ADD: Tervonen Frank (Hilja) miner h No 2 loc (Hurontown)
+2468 ADD: Theriault Nora Mrs hsekpr 150 Dodge
+2469 ADD: Theta Tau Fraternity Mrs Gertrude Harrington hse mother 241 College av
+2493 NAME: TOURVILLE EMERY (Florence H) Mgr The Douglass House h123 Huron
+2495 RESIDING WITH PERSON NOT FOUND: Tourville Henry J (Bertha K) formn Bosch Brewing Co r Oskar Route
+2501 NAME: TOWNSHIP OF PORTAGE (See PortageTownship of)
+2530 NAME: TRETHEWAY MARTIN J (Maurie) Treas and Business Mgr The Mining Gazette Co h203 Douglass Tel 645
+2537 ADD: Trevethans Barber Shop (Chas Trevethan) 81 Shelden
+2543 ADD: Trinity Episcopal Church 74 Pewabic
+2546 ADD: Tuomisto Wallace r No 2 loc (Hurontown)
+2552 ADD: Twin City Supply Co (Fred W Burritt) ice 276 Memorial rd
+2553 NAME: UNITED STATES GOVERNMENT Civilian Conservation Corps Sub District Headquarters Capt Harry E Cooper in charge 37 Isle Royale Department of Agriculture Geo A Sarazin county supvr 66 Shelden Engineer Office Geo H Banks eng 43 Shelden Farm Security Administration Geo A Sarazin supvr in charge Houghton Natl Bank bldg Internal Revenue Office Roland P Larsen dep collr 64 Portage National Farm Loan Association Albert Kinnon sectreas 77 Shelden National Park Service Geo F Baggley rep in charge 58 Shelden National Youth Administration Robt Gaffney director 197 College av National Youth Administration Jos L Brand supvr 64 Portage Post Office Jas C Healy postmstr 43 Shelden Radio Station WUEA 163 Shelden Soil Conservation Association Fred Leppanen sec 64 Portage Weather Bureau H Wm Weber airway observer 52 Shelden Works Progress Administration Francis C Armstrong supvr 36 Isle Royale
+2554 NAME: U S GYPSUM CO PRODUCTS HamarQuandt Co Dealers Hamar Quandt Location and 52 Shelden Tels 61 and 1040 (For further information see Houghton cover and page 7 Buyers Guide)
+2555 ADD: Uremus Kath A mach opr Copper Range Lndry
+2556 ADD: Uremus Mary K mach opr Copper Range Lndry
+2567 ADD: Valentin Lunch (Mrs Emma Valentin) 167 Shelden
+2570 NAME: VAN ORDEN FRANK L (Lou J) Pres The M VanOrden Co h334 Florence Tel 855
+2571 NAME: VAN ORDEN M CO THE Frank L VanOrden Pres Cy Wedge Sec Treas Coal Fuel Franchise Distributors for the Iron Fireman Automatic Coal Burners Office 60 Shelden Tels 810 and 811 Bulk Station and Yards W Houghton Tel 208 Service Stations Shelden and Quincy Tel 487 and Osceola at 3d Laurium (For further information see Houghton cover and page 3 Buyers Guide)
+2572 ADD: VanOrden M Co G Lawrence Corbeil office mgr in charge coal dock and whse ns Memorial rd at limits
+2595 NAME: VIENNA BAKERY George A Arola Manager Bakers of High Quality Products Calumet Mich Tel 511 (For further information see front cover and page 2 Hancock Buyers Guide)
+2599 NAME: VILLAGE OF HOUGHTON (See HoughtonVillage of)
+2655 NAME: WATCHORN GERTRUDE B MRS Mgr Gift Dept Watchorn Print and Gift Shop r83 Isle Royale Tel 1058R
+2656 NAME: WATCHORN PRINT AND GIFT SHOP (Wm E Watchorn) Printing Art and Gift Shon Stationery Greeting Cards 142 Shelden Tel 1058J (For further information see right top lines and page 8 Buyers Guide)
+2657 NAME: WATCHORN WM E (Gertrude B) (Watchorn Print and Gift Shop) h83 Isle Royale Tel 1058R
+2658 RESIDING WITH PERSON NOT FOUND: Watters Betty B Mrs waiter Douglass House r Sigma Rho Fraternity
+2667 ADD: Weber Plumbing Co (Henry W Weber) 40 Isle Royale
+2670 NAME: WEDGE CY (Laura) SecTreas The M VanOrden Co h128 East Tel 1135
+2682 ADD: West Side Electric Co (Alf J Kolemainen) 160 Shelden
+2683 NAME: WEST SIDE PHARMACY (Percy C Brooks) Prescriptions Drug Sundries Toilet Articles and Magazines 154 Shelden Tel 776
+2699 ADD: Wiggins Virginia S tel opr r70Vz Shelden apt 21
+2713 ADD: Willmes LaVerne dishwasher Nelsons Chocolate Shop r Wm
+2714 NAME: Willmes (Hurontown)
+2725 ADD: Wirtanen Casper (Anna) timbermn h No 2 loc (Hurontown)
+2727 ADD: Wirtanen John r No 2 loc (Hurontown)
+2728 ADD: Wirtanen Melvin r No 2 loc (Hurontown)
+2754 ADD: Wright Lucy M hsekpr 255 Florence
+2761 ADD: Wyckoff Apartments 124 Hubbell av
+2764 RESIDING WITH PERSON NOT FOUND: Yauck Martin (Edna) lab Atlas Powder Co r Point Mills
+2773 ADD: Young Building 8587 Shelden
+2775 NAME: YOUNGS MERWIN W (Grace) Editor Daily Mining Gazette h315 College av Tel 1263
+2795 RESIDING WITH PERSON NOT FOUND: Zieker Karl W brewer Bosch Brewing Co r Oskar Route

@@ -1,0 +1,192 @@
+14 ADD: Anttila Tobius (Wilhelmina)
+16 RESIDING WITH PERSON NOT FOUND: Arvo Lambert chemist Tam Reclamation Co r Mrs Sena Lambert
+20 RESIDING WITH PERSON NOT FOUND: Audett Raymond bkpr Lake Linden Bank r Eustace Audett
+24 ADD: Bach Amelia (wid Nicholas)
+25 RESIDING WITH PERSON NOT FOUND: Bach Anthony student r John Bach
+27 RESIDING WITH PERSON NOT FOUND: Bach John driver Frenette Bros r John Bach
+29 RESIDING WITH PERSON NOT FOUND: Bach Peter lab Tam Reclamation Co r John Bach
+32 RESIDING WITH PERSON NOT FOUND: Baiocchi Dorothy student r Camillo Baiocchi
+36 NAME: Baril Elaine
+40 NAME: Baurle Jacob
+44 ADD: Beaudoin Medora (Esther)
+53 ADD: Benson Wise Mrs
+62 ADD: Bisson Elzeard (Sophie)
+63 RESIDING WITH PERSON NOT FOUND: Blondo Eunice r Mrs Albert W Mellon
+64 RESIDING WITH PERSON NOT FOUND: Blondo Francis student r Mrs Marie Blondo
+65 RESIDING WITH PERSON NOT FOUND: Blondo Geo lab Tam Reclamation Co r Mrs Marie Blondo
+66 RESIDING WITH PERSON NOT FOUND: Blondo Glenn r Mrs Marie Blondo
+67 RESIDING WITH PERSON NOT FOUND: Blondo Lester lab Tam Reclamation Co r Mrs Albert W Mellon
+68 ADD: Blondo Marie Mrs
+69 RESIDING WITH PERSON NOT FOUND: Blondo Myrtle student r Mrs Marie Blondo
+92 RESIDING WITH PERSON NOT FOUND: Burbank Harry F lab Tam Reclamation Co r Herbert L Burbank
+93 ADD: Burbank Herbert L (Bell) draymn
+95 RESIDING WITH PERSON NOT FOUND: Burgan John (Margt) r Miss Jessie Harry
+101 RESIDING WITH PERSON NOT FOUND: Cantin Clarence lab Tam Reclamation Co r Nap Cantin
+102 RESIDING WITH PERSON NOT FOUND: Cantin Louise r Nap Cantin
+104 RESIDING WITH PERSON NOT FOUND: Cantin Raymond lab Tam Reclamation Co r Nap Cantin
+105 RESIDING WITH PERSON NOT FOUND: Cashell Anna r Thos Cashell
+106 RESIDING WITH PERSON NOT FOUND: Cashell Bridget tchr r Thos Cashell
+108 RESIDING WITH PERSON NOT FOUND: Cashell Julia r Simon LeSage
+109 NAME: Cashell Thos
+112 ADD: Chandonais Louise (wid Geo)
+113 RESIDING WITH PERSON NOT FOUND: Chandonais Marie r Archie Chandonais
+118 RESIDING WITH PERSON NOT FOUND: Chapman Lena (wid Jos) r Wesley Sundberg
+122 ADD: Chaput Edw (Josephine)
+123 RESIDING WITH PERSON NOT FOUND: Chaput Philip r Ed Chaput
+126 RESIDING WITH PERSON NOT FOUND: Christan Gertrude cook r Lowell Endicott
+131 ADD: Conant Henry D (Gertrude) supt smelts
+137 ADD: Connors Johanna (wid John)
+139 RESIDING WITH PERSON NOT FOUND: Consani Arth (Lucy) purch Grocery Store r Wm Gertz
+144 NAME: Cundy John
+147 ADD: Curnow Eliz (wid Affie)
+148 RESIDING WITH PERSON NOT FOUND: Curnow Wm surface formn r Eliz Curnow
+154 ADD: Davey Mary J (wid Edw)
+161 ADD: Dee Nellie r Duncan av 1 n Ry Tracks
+163 ADD: DeLangis Arth J (Alphonsine) gen mdse
+174 RESIDING WITH PERSON NOT FOUND: Dohlstrom Albert (Marie) lab r Fred Monville
+177 ADD: Domonthier Felix (Agnes) hdw
+178 ADD: Donovan Cath (wid Phillip 1
+179 RESIDING WITH PERSON NOT FOUND: Donovan May r Mrs Eliz Donovan
+224 NAME: Ethier Clara
+225 ADD: Ethier Jos (Anna)
+226 ADD: Ethier Jos jr
+227 RESIDING WITH PERSON NOT FOUND: Ewen Doris elk Nich Ewen r Nich Ewen
+228 RESIDING WITH PERSON NOT FOUND: Ewen Florence r Nich Ewen
+236 RESIDING WITH PERSON NOT FOUND: Fillion Cecelia B mgr Riteway Stores Inc r Isaac Fillion
+237 RESIDING WITH PERSON NOT FOUND: Fillion Helen T bkpr Slatterys Livery r Isaac Fillion
+239 NAME: FIRST NATIONAL BANK OF HUBBELL A L Burger Pres R E Odgers V Pres Cashier G J StGermaine Asst Cashier Harvey Waters Asst Cashier Tel 245 W
+243 ADD: Fontaine Julia Mrs
+252 ADD: Frenette Danl (Eliz Frenette Bros) r Duncan av 4 n of Ry Tracks
+253 ADD: Frenette Helen prin Lincoln School r Guck
+254 ADD: Frenette Leo (Nan Frenette Bros)
+255 RESIDING WITH PERSON NOT FOUND: Frenette Lynus student r Leo Frenette
+256 RESIDING WITH PERSON NOT FOUND: Frenette Marcel student r Leo Frenette
+257 RESIDING WITH PERSON NOT FOUND: Frenette Mary tchr r Leo Frenette
+268 RESIDING WITH PERSON NOT FOUND: Fretter Louise elk r Mrs Louise Fretter
+269 ADD: Fretter Louise (wid John)
+272 ADD: Gadboury Odine r DuTemple
+279 ADD: Gagnon Elmira beauty shop
+286 RESIDING WITH PERSON NOT FOUND: Gareau Earl lab Tam Reclamation Co r Henry Gareau
+287 RESIDING WITH PERSON NOT FOUND: Gareau Emily tchr Iron Mt School r Henry Gareau
+288 ADD: Gareau Henry O (Phoebe)
+289 RESIDING WITH PERSON NOT FOUND: Gareau Russell lab Tam Reclamation Co r Henry Gareau
+294 ADD: German Lutheran Church
+295 RESIDING WITH PERSON NOT FOUND: Gertz Maxwell lab wkr Tam Reclamation Co r Wm Gertz
+296 RESIDING WITH PERSON NOT FOUND: Gertz Raymond lab Tam Reclamation Co r Wm Gertz
+300 ADD: Gillette Henry M (Eva M) supvr
+316 ADD: Hainault Albert J (Delia) barber shop
+321 ADD: Haller Jacob (Minnie)
+325 RESIDING WITH PERSON NOT FOUND: Hanner Henrietta student r Wm Hanner
+326 RESIDING WITH PERSON NOT FOUND: Hanner Henrietta (wid Frank) r Frank Hanner jr
+330 ADD: Harrington Danl E (Miary A)
+334 ADD: Hart Eliz (wid Jos W)
+340 ADD: Heineult Geo (Martina)
+361 RESIDING WITH PERSON NOT FOUND: Hillenbrand Helen r Wm Hillenbrand
+362 RESIDING WITH PERSON NOT FOUND: Hillenbrand Jordan lab Tam Reclamation Co r Wm Hillenbrand
+369 RESIDING WITH PERSON NOT FOUND: Hodges Adele r John Hodges
+377 RESIDING WITH PERSON NOT FOUND: Holley Margt student r Carlos Holley
+385 ADD: Hubbell Pharmacy (Geo F Hebert)
+386 ADD: Hubbell Public School
+405 RESIDING WITH PERSON NOT FOUND: Johnson Edw C lab Tam Reclamation Co r Geo Johnson
+408 RESIDING WITH PERSON NOT FOUND: Johnson Lawrence lab r Geo Johnson
+418 ADD: Kahler Herman (Anna)
+424 ADD: Kaufman G Mrs
+430 RESIDING WITH PERSON NOT FOUND: Kessler Jos lab Tam Reclamation Co r Mary Kessler
+431 NAME: Kessler Mary
+432 RESIDING WITH PERSON NOT FOUND: Kessler Rose r Mary Kessler
+442 RESIDING WITH PERSON NOT FOUND: Kissul Paul (Mary) emp CH r Peter Tarombley
+463 RESIDING WITH PERSON NOT FOUND: LaChance Dorothy student r Geo LaChance
+467 RESIDING WITH PERSON NOT FOUND: LaFleche Jennie Mrs elk r Medora Beaudoin
+468 RESIDING WITH PERSON NOT FOUND: LaFlesh Wm Mrs lab h Medora Beaudoin
+482 NAME: LaMothe Richd
+491 RESIDING WITH PERSON NOT FOUND: Laroux Irving driver r Alex Laroux
+492 RESIDING WITH PERSON NOT FOUND: Laroux Lucille r Alex Laroux
+493 RESIDING WITH PERSON NOT FOUND: Laroux Norbert lab r Alex Laroux
+494 RESIDING WITH PERSON NOT FOUND: Laroux Raymond J barber r Alex Laroux
+499 RESIDING WITH PERSON NOT FOUND: LaTour Agnes student r Elgar LaTour
+506 ADD: LeBlanc David E (Helen LeBlanc Bros)
+507 RESIDING WITH PERSON NOT FOUND: LeBlanc Dorothy E student r Jos LeBlanc
+508 RESIDING WITH PERSON NOT FOUND: LeBlanc Jos C slsmn Nash Garage r Jos LeBlanc
+509 ADD: LeBlanc Jos P (Eliz LeBlanc Bros)
+510 RESIDING WITH PERSON NOT FOUND: LeBlanc Mary Ann student r Jos LeBlanc
+511 RESIDING WITH PERSON NOT FOUND: LeCompte Geo r Bernard Lewis
+512 RESIDING WITH PERSON NOT FOUND: LeCompte Wm brkmn Tam Reclamation Co r Bernard Lewis
+515 RESIDING WITH PERSON NOT FOUND: LeFevre Delima (wid Moisi) r Elzeard Bisson
+521 RESIDING WITH PERSON NOT FOUND: Lenz Delores student r John Lenz
+524 ADD: Lenz Jos (Cath)
+525 RESIDING WITH PERSON NOT FOUND: Lenz Lena smstrs r Jos Lenz
+526 ADD: Lenz Martin (Mary)
+528 RESIDING WITH PERSON NOT FOUND: LePage Albert r Harvey Learmont
+532 RESIDING WITH PERSON NOT FOUND: LaSage Edna tchr r Simon LeSage
+533 ADD: LeSage Simon (Albina)
+544 ADD: Lincoln School es Duncan
+559 RESIDING WITH PERSON NOT FOUND: Mailhot Albert r Jas A Mailhot
+561 ADD: Mailhot Jas A (Marie R) carp r Duncan av 3 n ry tracks
+562 RESIDING WITH PERSON NOT FOUND: Mailhot Lawrence r Jas A Mailhot
+563 RESIDING WITH PERSON NOT FOUND: Mailhot Lucille maid r Jas A Mailhot
+564 RESIDING WITH PERSON NOT FOUND: Mailhot Wilfred lab Tam Reclamation Co r Jas A Mailhot
+565 NAME: Majestic Theatre
+571 RESIDING WITH PERSON NOT FOUND: Marcotte Huberta r Sam Marcotte
+573 RESIDING WITH PERSON NOT FOUND: Marcotte Margt bkpr LeBlanc Bros r Sam Marcotte
+574 RESIDING WITH PERSON NOT FOUND: Marcotte Raymond crane opr Tam Reclamation Co r Sam Marcotte
+583 RESIDING WITH PERSON NOT FOUND: Mavell Dorothy student r Frank Mavell
+584 ADD: Mavell Frank (Annie)
+591 ADD: McDonald Bros (Angus McDonald) hdw
+595 NAME: McNickle Chas
+603 RESIDING WITH PERSON NOT FOUND: Messner Floyd lab Tam Reclamation Co r Casper Messner
+621 RESIDING WITH PERSON NOT FOUND: Monette Rose r Modeste Monnette
+643 ADD: Noeseou Rosanna (wid Jos)
+651 NAME: Odgers Gordon
+652 NAME: Odgers Myron
+653 NAME: ODGERS R E (Eleanor) V Pres Cash First Natl Bank of Hubbell Tel 245 J
+654 NAME: Odgers Roland
+658 ADD: Opal Eliz (wid Henry)
+659 RESIDING WITH PERSON NOT FOUND: Opal Henry jr lab Tam Reclamation Co r Eliz Opal
+669 ADD: Parent Mary (wid Dolphis)
+670 RESIDING WITH PERSON NOT FOUND: Parent Napoleon lab r Mary Parent
+682 ADD: Perreault Camela (wid Onezimi)
+684 RESIDING WITH PERSON NOT FOUND: Perreault Geo classifier Tam Reclamation Co r Camela Perreault
+687 RESIDING WITH PERSON NOT FOUND: Perreault Louis lab Tam Reclamation Co r Camela Perreault
+688 RESIDING WITH PERSON NOT FOUND: Perreault Marcella bkpr r Henry Perreault
+710 RESIDING WITH PERSON NOT FOUND: Poisson Dona (wid Clara) lab r Geo Poisson
+711 RESIDING WITH PERSON NOT FOUND: Poisson Emma (wid Jos) r Geo Poisson
+714 RESIDING WITH PERSON NOT FOUND: Poisson Noel r Geo Poisson
+738 ADD: Reding Adelaide (wid Nicholas) genl mdse
+740 RESIDING WITH PERSON NOT FOUND: Reding Bernadette student r Chas Reding
+741 ADD: Reding Chas (Clara)
+743 ADD: Regan Patk (Flora)
+750 ADD: Rheaume Eug (Alma)
+752 ADD: Rheaume Eug W
+753 NAME: Rheaume Jos
+756 RESIDING WITH PERSON NOT FOUND: Richer Jos lab Tam Reclamation Co r Isaac Fillion
+757 RESIDING WITH PERSON NOT FOUND: Rillston Ford lab Tam Reclamation Co r Jos Rillston
+785 NAME: StCecilias School
+790 ADD: StGermaine Damas Mrs
+792 NAME: Mrs Damas StGermaine
+793 ADD: StJohns Lutheran Church Rev E W Feldscher and Rev A S Lucas pastor Sunday services 3pm Sunday school 145 p m
+800 ADD: Satterley Richd sampler Tam Reclamation Co
+801 ADD: Scanlan P J genl ins
+807 NAME: Schnotala Helen
+809 NAME: Schnotala Jos
+811 ADD: Schon Leona asst PO and slswn Mrs Adelaide Reding
+827 RESIDING WITH PERSON NOT FOUND: Smith Harry B student r Martin Smith
+831 RESIDING WITH PERSON NOT FOUND: Smith Margt student r Henry Smith
+833 NAME: Smith Sami
+835 RESIDING WITH PERSON NOT FOUND: Smith Thos lab Tam Reclamation Co r Sami Smith
+838 RESIDING WITH PERSON NOT FOUND: Smith Warren runner Tam Reclamation Co r Henry Smith
+840 ADD: Spahn Chas B tires
+848 ADD: Stern Field Geo H Goudge mgr dry gds
+853 RESIDING WITH PERSON NOT FOUND: Sullivan Geo emp Tam Reclamation Co r Patk Sullivan
+855 RESIDING WITH PERSON NOT FOUND: Sullivan John (Cath) lab Tam Reclamation Co r Patk Sullivan
+861 ADD: Tarombley Peter (Ernestine)
+862 RESIDING WITH PERSON NOT FOUND: Thurmes Barbara r Louis Thurmes
+863 ADD: Thurmes Danl (Anna)
+864 NAME: Thurmes John
+865 RESIDING WITH PERSON NOT FOUND: Thurmes Jos asst cash r Louis Thurmes
+866 ADD: Thurmes Louis (Magdaline)
+867 ADD: Thurmes Margt (wid Nicholas)
+875 RESIDING WITH PERSON NOT FOUND: Trevillian Herbert lab Tam Reclamation Co r Lillian Trevillian
+876 ADD: Trevillian Lillian (wid Francis)
+907 ADD: Williams Eliz Jane (wid Christopher)
+908 ADD: Williams Sami J (Caroline)
+914 ADD: Wise Jos (Eliz) hdw

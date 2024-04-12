@@ -1,0 +1,1032 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+1,Gardony,Michael,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+2,Garibaldi,Joseph,null,null,Rose,lab  ,Wolverine loc,res,null,null,43,No 4 Wolverine loc,null,null,null,null,null,null
+3,Garland,John,null,null,null,miner ,Wolv Copper M Co,bds,null,null,8,1st,null,null,null,null,null,null
+4,Gasporac,Nicholas,C,null,Elizabeth,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+5,Gate,Henry,null,null,Martha,miner,null,res,null,null,126,N Kearsarge loc,null,null,null,null,null,null
+7,Gea,Michael,null,null,Regina,lab ,O C M Co  Wolverine loc,res,null,null,51,No 4 Wolverine loc,null,null,null,null,null,null
+8,Gergar,Alexander,null,null,null,lab  ,Kearsarge loc,bds,null,null,48,Church Kearsarge loc,null,null,null,null,null,null
+9,Giachino,Anton,null,null,null,lab ,Wolv Copper M Co,bds,null,null,53,2d,null,null,null,null,null,null
+10,Giacoletto,Anton,null,null,Louisa,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,58,2d Wolverine loc,null,null,null,null,null,null
+12,Giacoletto,John,null,null,null,lab ,Wolverine Copper M Co  Wolverine loc,bds,null,null,59,2d Wolverine loc,null,null,null,null,null,null
+13,Giacoletto,Joseph,null,null,null,lab ,Wolv Copper M Co  Wolverine loc,bds,null,null,58,2d Wolverine loc,null,null,null,null,null,null
+14,Giacoletto,Peter,null,null,null,checker  ,Wolverine loc,bds,null,null,58,2d Wolverine loc,null,null,null,null,null,null
+16,Gidley,Charles,null,null,Elizabeth,foreman ,Wolv Copper M Co  Wolverine loc,res,null,null,29,Smith av Wolverine loc,null,null,null,null,null,null
+17,Gidley,Irene,null,null,null,student  ,Wolverine loc,bds,null,null,29,Smith av Wolverine loc,null,null,null,null,null,null
+19,Gidley,Thomas,E,null,null,blksmith,null,bds,null,null,29,Smith av,null,null,null,null,null,null
+20,Gigg,Clara,null,null,null,null,null,bds,null,null,90,Church Kearsarge loc,null,null,null,null,null,null
+21,Gigg,Joseph,H,null,Caroline,miner ,O C M Co  Kearsarge loc,res,null,null,90,Church Kearsarge loc,null,null,null,null,null,null
+22,Gigg,Mabel,E,null,null,student  ,Kearsarge loc,bds,null,null,90,Church Kearsarge loc,null,null,null,null,null,null
+23,Giliga,Joseph,null,null,null,lab  ,Wolverine loc,bds,null,null,135,4th Wolverine loc,null,null,null,null,null,null
+24,Giliotti,Valentine,null,null,Mary,surfaceman  ,Wolverine loc,res,null,null,51,No 4 Wolverine loc,null,null,null,null,null,null
+25,Gillis,Christian,null,null,Emily,eng ,Wolv Copper M Co,res,null,null,207,Wolverine,null,null,null,null,null,null
+26,Gimmotti,Michael,null,null,Rose,null,null,res,null,null,199,Railroad Wolverine location,null,null,null,null,null,null
+27,Giustata,Dominica,null,null,null,null,null,bds,null,null,50,No 4 Wolverine loc,null,null,null,null,null,null
+28,Giustata,Eugenio,null,null,Genevieve,rockhouseman ,O C M Co  Wolverine loc,res,null,null,50,No 4 Wolverine loc,null,null,null,null,null,null
+29,Gobbor,John,null,null,null,lab  ,Kearsarge loc,bds,null,null,48,Church Kearsarge loc,null,null,null,null,null,null
+30,Gobbor,Joseph,null,null,Elizabth,lab  ,Kearsarge loc,res,null,null,17,3d Kearsarge loc,null,null,null,null,null,null
+31,Gobbor,Michael,null,null,null,lab  ,Kearsarge loc,bds,null,null,48,Church Kearsarge loc,null,null,null,null,null,null
+32,Goodreau,Adelore,null,null,Elizabeth,null,null,res,null,null,163- 1/2,Railroad Wolverine loc,null,null,null,null,null,null
+33,Goodreau,Hilda,null,null,null,null,null,bds,null,null,163- 1/2,Railroad Wolverine loc,null,null,null,null,null,null
+34,Gotta,Peter,null,null,null,miner ,C H M Co,bds,null,null,59,2d,null,null,null,null,null,null
+35,Grabich,Louis,null,null,null,trammer ,O C M Co,bds,null,null,25,3d,null,null,null,null,null,null
+36,Granlund,Isaac,null,null,Elsa,null,null,res,null,null,203,Wolverine,null,null,null,null,null,null
+37,Granville,Richard,null,null,Kate,miner ,Wolv Copper M Co,res,null,null,216,Wolverine,null,null,null,null,null,null
+39,Gribardo,Giuseppe,null,null,null,dryman ,OCM Co,bds,null,null,43,Wolverine,null,null,null,null,null,null
+40,Gribben,Arthur,null,null,Elizabeth,miner ,OCM Co,res,null,null,28,S Kearsarge loc,null,null,null,null,null,null
+42,Guri,Stephen,null,null,null,miner  ,Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+44,Gyarmati,Joseph,null,null,Susanna,trammer ,OCM Co  Kearsarge loc,res,null,null,12,3d Kearsarge loc,null,null,null,null,null,null
+45,Gyles,Charles,J,null,Jane S,miner ,OCM Co  Kearsarge loc,res,null,null,28,3d Kearsarge loc,null,null,null,null,null,null
+47,Haapala,Charles,null,null,null,trammer ,Wolv Wolv Copper M Co,res,null,null,226,Wolverine,null,null,null,null,null,null
+48,Haddy,Thomas,W,null,Jane,null,null,res,null,null,42,Smith av Wolverine loc,null,null,null,null,null,null
+50,Haka,Erick,null,null,null,trammer ,Wolv Copper M Co  Wolverine loc,bds,null,null,45,No 4 Wolverine loc,null,null,null,null,null,null
+52,Hall,Anna,null,null,wid Howard,null,null,bds,null,null,37,S Kearsarge loc,null,null,null,null,null,null
+53,Ham,Frank,null,null,null,miner ,OCM Co,bds,null,null,135,County rd,null,null,null,null,null,null
+54,Ham,James,G,null,Edith,miner ,OCM Co  N Kearsarge loc,res,null,null,125,County rd N Kearsarge loc,null,null,null,null,null,null
+55,Ham,Stephen,F,null,Jessie,miner  ,N Kearsarge loc,res,null,null,135,County rd N Kearsarge loc,null,null,null,null,null,null
+56,Hamina,Gustav,null,null,null,miner ,OCM Co  N Kearsarge loc,res,null,null,130,County rd N Kearsarge loc,null,null,null,null,null,null
+57,Hanesav,Julius,null,null,null,trammer ,OCM Co  Kearsarge loc,bds,null,null,50,2d Kearsarge loc,null,null,null,null,null,null
+58,Hanley,Eugene,null,null,null,eng ,OCM Co,bds,null,null,22,1st,null,null,null,null,null,null
+59,Harjala,Elizabeth,null,null,wid Louis,null,null,res,null,null,255,County rd Wolverine loc,null,null,null,null,null,null
+60,Harjala,Sadie,M,null,null,student  ,Wolverine location,bds,null,null,255,County rd Wolverine location,null,null,null,null,null,null
+61,Harju,Antti,null,null,Mary,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,60,2d Wolverine loc,null,null,null,null,null,null
+62,Harju,Cecilia,null,null,null,null,null,bds,null,null,10,No 4 Wolverine loc,null,null,null,null,null,null
+63,Harju,Frederick,null,null,null,lab ,Wolv Copper M Co  Wolverine loc,bds,null,null,60,2d Wolverine loc,null,null,null,null,null,null
+64,Harju,Hattie,null,null,null,student,null,bds,null,null,60,2d,null,null,null,null,null,null
+65,Harju,Isaac,null,null,Mary,trammer ,OCM Co  Wolverine loc,res,null,null,24,No 4 Wolverine loc,null,null,null,null,null,null
+66,Harju,Jacob,null,null,Annie,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,10,No 4 Wolverine loc,null,null,null,null,null,null
+67,Harju,Swandi,null,null,null,fireman ,Wolv Copper M Co,bds,null,null,60,2d,null,null,null,null,null,null
+68,Harri,Isaac,null,null,Anna,livery ,282 County rd N Kearsarge loc,res,null,null,284,same,null,null,null,null,null,null
+70,Harrington,James,null,null,null,hlpr ,Mineral Range R R,res,null,null,null,null,null,null,null,null,Copper City,null
+71,Harrington,Joseph,null,null,Catherine,foreman ,O C M Co  N Kearsarge loc,res,null,null,130,County rd N Kearsarge loc,null,null,null,null,null,null
+72,Harrington,Katherine,null,null,null,tchr ,Kearsarge Public School  N Kearsarge loc,bds,null,null,130,County rd N Kearsarge loc,null,null,null,null,null,null
+73,Harrington,Margaret,null,null,null,tchr  ,N Kearsarge loc,bds,null,null,130,County rd N Kearsarge loc,null,null,null,null,null,null
+74,Harrington,Mary,null,null,null,null,null,bds,null,null,130,County rd N Kearsarge loc,null,null,null,null,null,null
+75,Harrington,Nellie,null,null,null,dressmkr  ,N Kearsarge loc,bds,null,null,130,County rd N Kearsarge loc,null,null,null,null,null,null
+76,Harris,Eliza,null,null,null,elk ,null,bds,null,null,102,County rd N Kearsarge loc,null,null,null,null,null,null
+77,Harris,Henrietta,null,null,wid Richard,null,null,bds,null,null,102,County rd N Kearsarge loc,null,null,null,null,null,null
+80,Harris,Thomas,R,null,null,runner ,Wolv Copper M Co  Wolverine loc,res,null,null,244,County rd Wolverine loc,null,null,null,null,null,null
+81,Harry,Wm,H,null,Jennie,miner ,O C M Co,res,null,null,13,S Kearsarge loc,null,null,null,null,null,null
+82,Hart,Joseph,null,null,null,miner ,O C M Co  Wolverine loc,bds,null,null,26,Smith av Wolverine loc,null,null,null,null,null,null
+83,Harvey,Wm,null,null,Elizabeth,shift boss ,O C M Co  Kearsarge loc,res,null,null,38,3d Kearsarge loc,null,null,null,null,null,null
+84,Hatch,George,B,null,Pearl,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,243,County rd Wolverine loc,null,null,null,null,null,null
+85,Haynes,Millicent,I,null,null,elk  ,Kearsarge location,bds,null,null,271,County rd Kearsarge location,null,null,null,null,null,null
+86,Haynes,Myrtle,I,null,null,student  ,Kearsarge location,bds,null,null,271,County rd Kearsarge location,null,null,null,null,null,null
+87,Haynes,Robert,null,null,Emily,miner ,Wolv Copper M Co  Kearsarge loc,res,null,null,271,County rd Kearsarge loc,null,null,null,null,null,null
+88,Heard,Richard,null,null,null,driller  ,Wolverine loc,bds,null,null,33,Smith av Wolverine loc,null,null,null,null,null,null
+89,Heard,Wm,null,null,Selina,farmer  ,Wolverine location,res,null,null,33,Smith av Wolverine location,null,null,null,null,null,null
+90,Hedman,Arvid,J,null,Annie,lander ,O C M Co,res,null,null,80,Railroad,null,null,null,null,null,null
+91,Hegedus,Stephen,null,null,null,trammer ,O C M Co  Kearsarge loc,bds,null,null,27,3d Kearsarge loc,null,null,null,null,null,null
+92,Heikkinen,Plendrick,null,null,null,lab  ,Wolverine loc,bds,null,null,119,4th Wolverine loc,null,null,null,null,null,null
+93,Heikkinen,Isaac,null,null,Anna,null,null,res,null,null,119,4th Wolverine loc,null,null,null,null,null,null
+94,Heikkinen,I,Arthur,null,null,hlpr ,Wolv Copper M Co  Wolverine loc,bds,null,null,119,4th Wolverine loc,null,null,null,null,null,null
+95,Heikkinen,John,null,null,Gusdavaa,lab ,O C M Co  Wolverine loc,res,null,null,159,Water Wolverine loc,null,null,null,null,null,null
+96,Heiko,Michael,null,null,null,lab  ,Kearsarge loc,bds,null,null,15,3d Kearsarge loc,null,null,null,null,null,null
+97,Heinanen,Sander,null,null,null,lab ,O C M Co  Wolverine loc,bds,null,null,123,4th Wolverine loc,null,null,null,null,null,null
+99,Hendrickson,Fred,null,null,null,rockhouse man ,O C M Co,bds,null,null,143,Water,null,null,null,null,null,null
+100,Hendrickson,John,A,null,Ida,lab  ,Wolverine loc,res,null,null,143,Water Wolverine loc,null,null,null,null,null,null
+101,Henwood,James,null,null,Sarah,miner ,O C M Co,res,null,null,39,S Kearsarge loc,null,null,null,null,null,null
+104,Hietala,John,null,null,null,miner  ,Wolverine loc,bds,null,null,78,2d Wolverine loc,null,null,null,null,null,null
+105,Hill,Ethel,G,null,null,smstrs,null,bds,null,null,205,Wolverine,null,null,null,null,null,null
+106,Hill,John,null,null,Martha,miner ,Wolv Copper M Co,res,null,null,205,Wolverine,null,null,null,null,null,null
+107,Hill,Stephen,J,null,null,elk,null,bds,null,null,205,Wolverine,null,null,null,null,null,null
+108,Hiltonen,Amo,null,null,Annie,miner  ,Wolverine loc,res,null,null,169,Railroad Wolverine loc,null,null,null,null,null,null
+109,Hiltunen,Andrew,null,null,null,null,null,bds,null,null,153,Water Wolverine loc,null,null,null,null,null,null
+111,Hiltunen,Erick,null,null,Matilda,miner ,O C M Co,res,null,null,159- 1/2,Water,null,null,null,null,null,null
+112,Hiltunen,John,null,null,Mae,miner  ,Wolverine loc,res,null,null,145,Water Wolverine loc,null,null,null,null,null,null
+113,Hiltunen,Matti,null,null,Lottie,miner ,O C M Co  Wolverine loc,res,null,null,155- 1/2,Water Wolverine loc,null,null,null,null,null,null
+114,Hiltunen,Oscar,null,null,Anna,trammer ,C H M Co  Wolverine loc,res,null,null,153,Water Wolverine loc,null,null,null,null,null,null
+115,Hoiloisz,Benjamin,null,null,null,lab  ,Wolverine loc,bds,null,null,94,3d Wolverine loc,null,null,null,null,null,null
+116,Holappa,August,null,null,Sarah,miner  ,Wolverine loc,res,null,null,179,Railroad Wolverine loc,null,null,null,null,null,null
+117,Holappa,John,null,null,Kate,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,120,4th Wolverine loc,null,null,null,null,null,null
+118,Holappa,J,Emil,null,null,lab  ,Wolverine loc,bds,null,null,120,4th Wolverine loc,null,null,null,null,null,null
+119,Holappa,Miriam,null,null,null,null,null,bds,null,null,120,4th Wolverine loc,null,null,null,null,null,null
+120,Holas,Benjamin,null,null,null,lab  ,Wolverine loc,bds,null,null,84- 1/2,3d Wolverine loc,null,null,null,null,null,null
+121,Hollow,Russell,T,null,null,wiper ,O C M Co  S Kearsarge loc,bds,null,null,40,2d S Kearsarge loc,null,null,null,null,null,null
+122,Hollow,Thomas,G,null,Anna,blksmith ,O C M Co,res,null,null,40,2d S Kearsarge loc,null,null,null,null,null,null
+123,Hollow,Wm,null,null,Elizabeth,lab,null,bds,null,null,221,Wolverine,null,null,null,null,null,null
+127,Holtenhoff,Albert,B,null,Elizabeth,master mech ,Wolv Copper M Co,res,null,null,2,1st,null,null,null,null,null,null
+128,Holtenhoff,Marguerite,E,null,null,student,null,bds,null,null,2,1st,null,null,null,null,null,null
+129,gola,Tiva,null,Hon,null,tmstr ,Finnish Workmens Cooperative Co,res,null,null,null,null,null,null,null,null,Allouez,null
+131,Hooper,Fred,null,null,null,miner ,O C M Co,bds,null,null,105,County rd,null,null,null,null,null,null
+132,Horko,Louis,null,null,Elizabeth,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,7,No 4 Wolverine loc,null,null,null,null,null,null
+133,Huhta,Matthew,null,null,Hannah,miner ,O C M Co  Wolverine loc,res,null,null,5,No 4 Wolverine loc,null,null,null,null,null,null
+135,Husband,George,R,null,null,student  ,N Kearsarge loc,bds,null,null,130,County rd N Kearsarge loc,null,null,null,null,null,null
+136,Husband,John,null,null,Elizabeth H,miner ,O C M Co  N Kearsarge loc,res,null,null,130,County rd N Kearsarge loc,null,null,null,null,null,null
+137,Husband,Wm,H,null,null,student  ,N Kearsarge loc,bds,null,null,130,County rd N Kearsarge loc,null,null,null,null,null,null
+138,Huszti,Stephen,null,null,null,trammer ,O C M Co,bds,null,null,25,3d,null,null,null,null,null,null
+139,Hyort,Isaac,null,null,Ida,null,null,res,null,null,null,null,null,null,null,null,No 4 Wolverine loc,null
+140,Imponen,Hilda,K,null,null,null,null,bds,null,null,247,County rd Wolverine loc,null,null,null,null,null,null
+141,Imponen,J,Erick,null,Kate,lab  ,Wolverine loc,res,null,null,247,County rd Wolverine loc,null,null,null,null,null,null
+142,Ivan,John,null,null,null,trammer ,O C M Co,bds,null,null,45,2d,null,null,null,null,null,null
+143,Ivey,John,null,null,null,blksmith  ,Kearsarge loc,bds,null,null,70,Church Kearsarge loc,null,null,null,null,null,null
+146,Jacobson,Emil,null,null,Hilda,lab  ,Wolverine loc,res,null,null,5,No 4 Wolverine loc,null,null,null,null,null,null
+147,Jacques,Leon,H,null,Emma,shoreman ,Wolv Copper M Co  Wolverine loc,res,null,null,242,County rd Wolverine loc,null,null,null,null,null,null
+148,Jakala,Herman,null,null,01ga,miner  ,Wolverine loc,res,null,null,103,3d Wolverine loc,null,null,null,null,null,null
+149,Jakala,Oscar,null,null,null,null,null,bds,null,null,103,3d Wolverine loc,null,null,null,null,null,null
+150,Jakala,Sali,null,null,null,miner  ,Wolverine loc,bds,null,null,103,3d Wolverine loc,null,null,null,null,null,null
+151,James,Leonard,null,null,Marion,miner ,Wolv Copper M Co,res,null,null,210,Wolverine,null,null,null,null,null,null
+152,Jarga,George,null,null,null,lab  ,Wolverine loc,bds,null,null,84- 1/2,3d Wolverine loc,null,null,null,null,null,null
+153,Jarvey,Hendrika,null,null,wid Charles,null,null,res,null,null,37,No 4 Wolverine loc,null,null,null,null,null,null
+154,Jarvey,Wm,null,null,null,lander  ,Wolverine loc,bds,null,null,37,No 4 Wolverine loc,null,null,null,null,null,null
+155,Jarvi,Eric,null,null,null,lab  ,Wolverine loc,res,null,null,89,3d Wolverine loc,null,null,null,null,null,null
+156,Jarvi,Flora,null,null,null,null,null,bds,null,null,89,3d Wolverine loc,null,null,null,null,null,null
+157,Jarvi,John,null,null,Katherine,miner,null,res,null,null,null,null,null,null,null,null,Phillipsville,null
+159,Jeffery,Tracy,null,null,null,student,null,bds,null,null,211,Wolverine,null,null,null,null,null,null
+160,Jenkins,Edward,null,null,Elizabeth,shift boss ,O C M Co  N Kearsarge loc,res,null,null,133,County rd N Kearsarge loc,null,null,null,null,null,null
+161,Johnson,Charles,A,null,null,miner ,Wolv Copper M Co  Wolverine loc,bds,null,null,78,2d Wolverine loc,null,null,null,null,null,null
+162,Johnson,Einar,null,null,null,null,null,bds,null,null,284,County rd N Kearsarge loc,null,null,null,null,null,null
+163,Johnson,Elizabeth,null,null,wid Andrew,null,null,bds,null,null,234,Wolverine Wolverine loc,null,null,null,null,null,null
+164,Johnson,Mary,null,Mrs,null,null,null,res,null,null,113,County rd N Kearsarge loc,null,null,null,null,null,null
+166,Johnson,Paul,null,null,Margaret,miner  ,Wolverine loc,res,null,null,null,null,null,null,null,null,No 4 Wolverine loc,null
+168,Johnson,Wm,A,null,Elizabeth,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,234,Wolverine Wolverine loc,null,null,null,null,null,null
+169,Johti,Charles,null,null,null,treas ,Finnish Workmens Cooperative Co,res,null,null,null,null,null,null,null,null,Allouez,null
+170,Jokkela,Herman,null,null,null,miner ,O C M Co,bds,null,null,103,3d,null,null,null,null,null,null
+171,Jolly,Della,M,null,null,null,null,bds,null,null,8,1st,null,null,null,null,null,null
+172,Jolly,Wm,H,null,Kate,shift boss ,Wolv Copper Mining Co,res,null,null,8,1st,null,null,null,null,null,null
+174,Joseph,Frank,null,null,null,lab  ,Kearsarge,bds,null,null,25,3d Kearsarge,null,null,null,null,null,null
+175,Juhasz,John,null,null,null,miner  ,Wolverine loc,bds,null,null,163,Water Wolverine loc,null,null,null,null,null,null
+176,Juhaus,Louis,null,null,Julia,lab  ,Kearsarge loc,res,null,null,29,3d Kearsarge loc,null,null,null,null,null,null
+177,Juhaus,Stephen,null,null,null,lab  ,Wolverine loc,bds,null,null,7,No 4 Wolverine loc,null,null,null,null,null,null
+178,Juholma,Arvid,null,null,Eureka,miner  ,Wolverine loc,res,null,null,185,Railroad Wolverine loc,null,null,null,null,null,null
+181,Juri,Joseph,null,null,null,lab  ,Wolverine loc,bds,null,null,91,3d Wolverine loc,null,null,null,null,null,null
+182,Jusko,Alexander,null,null,null,lab  ,N Kearsarge loc,bds,null,null,49,2d N Kearsarge loc,null,null,null,null,null,null
+183,Kajnak,Barney,null,null,null,miner  ,Wolverine loc,bds,null,null,184,Railroad Wolverine loc,null,null,null,null,null,null
+184,Kalmon,Lasslo,null,null,null,trammer ,Wolverine Copper M Co  Wolverine loc,bds,null,null,184,Railroad Wolverine loc,null,null,null,null,null,null
+186,Kankkari,August,null,null,Mary,miner  ,No 4 Wolverine location,res,null,null,22,No 4 Wolverine location,null,null,null,null,null,null
+189,Karpinen,John,null,null,Annie,lander  ,Wolverine loc,res,null,null,151,Water Wolverine loc,null,null,null,null,null,null
+191,Kassay,Michael,null,null,null,trammer ,Wolv Copper M Co  Wolverine loc,bds,null,null,163,Water Wolverine loc,null,null,null,null,null,null
+192,Katko,Stephen,null,null,Mary,trammer ,O C M Co,res,null,null,84- 1/2,3d,null,null,null,null,null,null
+193,Kazma,George,null,null,null,trammer ,O C M Co,bds,null,null,47,Wolverine boundary,null,null,null,null,null,null
+194,Kazmer,Michael,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,91,3d Wolverine loc,null,null,null,null,null,null
+199,Kecskemeti,Joseph,null,null,null,trammer ,O C M Co,bds,null,null,89,3d,null,null,null,null,null,null
+201,Kemp,Grace,S,null,null,null,null,bds,null,null,33,S Kearsarge loc,null,null,null,null,null,null
+202,Kemp,Myrtle,null,null,null,null,null,bds,null,null,33,S Kearsarge loc,null,null,null,null,null,null
+203,Kemp,Samuel,null,null,Honor B,miner,null,res,null,null,33,S Kearsarge loc,null,null,null,null,null,null
+204,Kemp,Samuel,J,null,Marie,miner  ,Wolverine loc,res,null,null,27,Smith av Wolverine loc,null,null,null,null,null,null
+205,Kemp,Samuel,J,null,null,miner,null,bds,null,null,33,S Kearsarge loc,null,null,null,null,null,null
+207,Kendall,Norman,null,null,null,surfaceman ,O C M Co,bds,null,null,221,Wolverine,null,null,null,null,null,null
+208,Kendall,Russell,null,null,null,lab,null,bds,null,null,221,Wolverine,null,null,null,null,null,null
+209,Kendall,Thomas,null,null,Elizabeth,tmstr ,J P Petermann,res,null,null,221,Wolverine,null,null,null,null,null,null
+210,Kepskie,Aneel,null,null,Hilda,miner  ,Wolverine loc,res,null,null,null,null,null,null,null,null,No 4 Wolverine loc,null
+214,King,Wm,null,null,Beatrice,miner ,O C M Co  Kearsarge loc,res,null,null,24,2d Kearsarge loc,null,null,null,null,null,null
+216,Kippo,Amelia,null,null,null,null,null,bds,null,null,214,Wolverine,null,null,null,null,null,null
+217,Kippo,James,null,null,Elizabeth,lab,null,res,null,null,214,Wolverine,null,null,null,null,null,null
+218,Kiraly,Thomas,null,null,Elizabeth,lab ,O C M Co  Wolverine loc,res,null,null,46,Smith av Wolverine loc,null,null,null,null,null,null
+222,Kissi,Michael,null,null,null,trammer ,O C M Co  Kearsarge loc,bds,null,null,25,3d Kearsarge loc,null,null,null,null,null,null
+224,Kivela,John,null,null,null,elk ,Finnish Workmens CoOperative Co,res,null,null,null,null,null,null,null,null,Allouez,null
+225,Klein,Wm,null,null,null,tmstr ,O C M Co  Wolverine loc,bds,null,null,196,Railroad Wolverine loc,null,null,null,null,null,null
+226,Kleven,Julius,null,null,Mary,timekpr ,Wolv Copper M Co  Wolverine loc,res,null,null,276,County rd Wolverine loc,null,null,null,null,null,null
+227,Koblos,Julia,null,null,wid Joseph,null,null,res,null,null,112,County rd Kearsarge loc,null,null,null,null,null,null
+228,Koblos,Stephen,null,null,null,surfaceman ,OCM Co,bds,null,null,25,County road,null,null,null,null,null,null
+229,Kocsis,John,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,78,Branch Wolverine loc,null,null,null,null,null,null
+230,Kocsos,Paul,null,null,null,lab  ,Kearsarge loc,bds,null,null,6,3d Kearsarge loc,null,null,null,null,null,null
+231,Kokkila,Emil,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,45,No 4 Wolverine loc,null,null,null,null,null,null
+232,Kolobos,Stephen,null,null,null,lab  ,Kearsarge loc,bds,null,null,25,3d Kearsarge loc,null,null,null,null,null,null
+233,Komar,Louis,null,null,null,trammer ,OCM Co  Kearsarge loc,bds,null,null,29,3d Kearsarge loc,null,null,null,null,null,null
+234,Koncz,Joseph,null,null,Annie,lab ,OCM Co  Wolverine loc,res,null,null,114,4th Wolverine loc,null,null,null,null,null,null
+236,Koopikka,Michael,null,null,Annie,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,177,Railroad Wolverine loc,null,null,null,null,null,null
+237,Koopikka,01ive,null,null,null,null,null,bds,null,null,177,Railroad Wolverine loc,null,null,null,null,null,null
+238,Koopikka,Waino,null,null,null,student  ,Wolverine location,bds,null,null,177,Railroad Wolverine location,null,null,null,null,null,null
+239,Kopsi,Samuel,null,null,null,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,157,Water Wolverine loc,null,null,null,null,null,null
+240,Korhanen,Herman,null,null,Maria,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,185- 1/2,Railroad Wolverine loc,null,null,null,null,null,null
+243,Koskela,Jacob,null,null,Helma,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,183,Railroad Wolverine loc,null,null,null,null,null,null
+244,Koskela,John,H,null,Mary,miner ,Wolv Copper M Co,res,null,null,null,null,null,null,null,null,No 4 Wolverine loc,null
+245,Koskela,Mary,F,null,wid Matthew,null,null,res,null,null,110,County rd Kearsarge loc,null,null,null,null,null,null
+246,Koskela,Raino,E,null,null,lab  ,Kearsarge loc,bds,null,null,110,County rd Kearsarge loc,null,null,null,null,null,null
+247,Koski,Frank,null,null,null,lab  ,Wolverine loc,bds,null,null,78,2d Wolverine loc,null,null,null,null,null,null
+248,Koski,Frank,null,null,null,miner  ,Wolverine loc,bds,null,null,51,2d Wolverine loc,null,null,null,null,null,null
+249,Koski,Waino,null,null,null,miner  ,Wolverine loc,bds,null,null,78,2d Wolverine loc,null,null,null,null,null,null
+250,Kosma,Anna,null,Mrs,null,null,null,res,null,null,78,2d Wolverine loc,null,null,null,null,null,null
+252,Kostamo,Erick,null,null,null,miner ,OCM Co,bds,null,null,106,County rd,null,null,null,null,null,null
+256,Kovacs,Andrew,null,null,null,trammer ,O C M Co,bds,null,null,25,3d,null,null,null,null,null,null
+257,Kovacs,James,null,null,null,lab  ,Wolverine loc,bds,null,null,84- 1/2,3d Wolverine loc,null,null,null,null,null,null
+258,Kovacs,John,null,null,null,trammer ,O C M Co  N Kearsarge loc,bds,null,null,49,2d N Kearsarge loc,null,null,null,null,null,null
+259,Kovacs,John,null,null,null,trammer ,O C M Co  Wolverine location,bds,null,null,114,4th Wolverine location,null,null,null,null,null,null
+260,Kovacs,Michael,null,null,null,trammer ,Wolv Copper M Co  Wolverine loc,bds,null,null,163,Water Wolverine loc,null,null,null,null,null,null
+261,Kovacs,Paul,null,null,null,lab  ,Wolverine loc,bds,null,null,84- 1/2,3d Wolverine loc,null,null,null,null,null,null
+262,Kovacs,Paul,null,null,null,trammer ,O C M Co  Wolverine location,bds,null,null,94,3d Wolverine location,null,null,null,null,null,null
+263,Kovacs,Stephen,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+264,Kozari,Joseph,null,null,null,trammer ,O C M Co,bds,null,null,191,Railroad,null,null,null,null,null,null
+265,Kramer,Adolph,null,null,Barbara,lab,null,res,null,null,11,S Kearsarge loc,null,null,null,null,null,null
+266,Kreibi,Emil,null,null,Selma,miner  ,Wolverine location,res,null,null,181,Railroad Wolverine location,null,null,null,null,null,null
+267,Kroeger,Ernest,R,null,null,supply elk ,O C M Co,res,null,null,A,County road,null,null,null,null,null,null
+268,Kruka,Benjamin,null,null,null,null,null,bds,null,null,66,2d Wolverine loc,null,null,null,null,null,null
+269,Kruka,Gustava,null,null,wid John P,null,null,res,null,null,66,2d Wolverine loc,null,null,null,null,null,null
+270,Kruka,Hilda,null,null,null,tchr  ,Wolverine loc,bds,null,null,66,2d Wolverine loc,null,null,null,null,null,null
+271,Kruka,Isaac,null,null,null,student  ,Wolverine loc,bds,null,null,66,2d Wolverine loc,null,null,null,null,null,null
+272,Kruka,John,null,null,null,hlpr  ,Wolverine loc,bds,null,null,66,2d Wolverine loc,null,null,null,null,null,null
+273,Kruka,Josephine,null,null,null,nurse  ,Wolverine loc,bds,null,null,66,2d Wolverine loc,null,null,null,null,null,null
+274,Kruka,Lempi,null,null,null,student  ,Wolverine loc,bds,null,null,66,2d Wolverine loc,null,null,null,null,null,null
+275,Krulitz,Anton,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,47,No 4 Wolverine loc,null,null,null,null,null,null
+276,Kujala,Erland,null,null,Sophia,lab ,O C M Co  Wolverine loc,res,null,null,147,Water Wolverine loc,null,null,null,null,null,null
+279,Kuppola,Hjalmer,null,null,Emma,trammer ,O C M Co,res,null,null,165,Water,null,null,null,null,null,null
+281,Kuulla,Mattalena,null,null,wid Peter,null,null,res,null,null,115,4th Wolverine location,null,null,null,null,null,null
+282,Kyro,Eino,null,null,null,lab,null,bds,null,null,149,Water,null,null,null,null,null,null
+283,Kyro,Oscar,null,null,Amanda,foreman ,O C M Co  Wolverine loc,res,null,null,149,Water Wolverine loc,null,null,null,null,null,null
+284,Kyrtti,August,null,null,null,lab  ,Wolverine loc,bds,null,null,120,4th Wolverine loc,null,null,null,null,null,null
+285,Laaninen,Isaac,null,null,null,dryman ,O C M Co,bds,null,null,19,3d,null,null,null,null,null,null
+286,Laduc,Peter,null,null,Mary,fireman,null,res,null,null,null,null,null,null,null,null,No 4 Wolverine loc,null
+289,Lahti,Herman,null,null,Anna K,null,null,res,null,null,46,No 4 Wolverine loc,null,null,null,null,null,null
+290,Laiti,Otto,null,null,Minnie,trammer ,O C M Co,res,null,null,152- 1/2,Water,null,null,null,null,null,null
+291,Laity,Agnes,E,null,null,null,null,bds,null,null,19,No 4 loc Wolverine loc,null,null,null,null,null,null
+293,Laity,Edwin,J,null,Barbara H,elk ,null,res,null,null,265- 1/2,County rd Kearsarge loc,null,null,null,null,null,null
+294,Laity,Frederick,null,null,Evelina,watchman  ,Wolverine loc,res,null,null,19,No 4 Wolverine loc,null,null,null,null,null,null
+295,Laity,Frederick,E,null,null,lab  ,Wolverine loc,bds,null,null,19,No 4 Wolverine loc,null,null,null,null,null,null
+298,Laity,Matthew,null,null,Mary,saloon ns,null,res,null,null,null,County rd,null,null,null,null,null,null
+299,Laity,Waino,R,null,null,blksmith  ,Wolverine loc,bds,null,null,19,No 4 Wolverine loc,null,null,null,null,null,null
+300,Lamirande,David,null,null,null,null,null,bds,null,null,11,1st,null,null,null,null,null,null
+301,Lampia,Aino,null,null,null,null,null,bds,null,null,232,Wolverine Wolverine loc,null,null,null,null,null,null
+302,Lampia,Amanda,null,null,wid Charles,null,null,res,null,null,232,Wolverine Wolverine loc,null,null,null,null,null,null
+303,Lander,Wm,P,null,null,lab ,O C M Co,bds,null,null,33,S Kearsarge loc,null,null,null,null,null,null
+304,Langdon,George,null,null,Annie B,miner ,O C M Co,res,null,null,17,S Kearsarge loc,null,null,null,null,null,null
+305,Langdon,John,null,null,Edith,miner ,O C M Co  S Kearsarge loc,res,null,null,9,1st S Kearsarge loc,null,null,null,null,null,null
+306,Laninen,Isaac,null,null,Ida,dry man  ,Kearsarge Joe,res,null,null,19,3d Kearsarge Joe,null,null,null,null,null,null
+307,Laninen,Saima,M,null,null,student  ,Kearsarge loc,bds,null,null,19,3d Kearsarge loc,null,null,null,null,null,null
+308,Lanyon,John,null,null,Nancy,engr ,O C M Co  S Kearsarge loc,res,null,null,26,2d S Kearsarge loc,null,null,null,null,null,null
+309,LaPlant,Arthur,null,null,null,null,null,bds,null,null,204,Wolverine,null,null,null,null,null,null
+310,LaPlant,Emil,J,null,Alberta,fireman ,Wolv Copper M Co,res,null,null,204,Wolverine,null,null,null,null,null,null
+311,LaPlant,John,null,null,Lillian,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,175,Railroad Wolverine loc,null,null,null,null,null,null
+312,LaPlant,Wm,null,null,null,oiler ,Wolv Copper M Co,bds,null,null,204,Wolverine,null,null,null,null,null,null
+313,Larik,John,null,null,null,trammer ,O C M Co,bds,null,null,50,2d,null,null,null,null,null,null
+314,Lark,Charles,null,null,Julia,carp ,O C M Co  Wolverine loc,res,null,null,169,Railroad Wolverine loc,null,null,null,null,null,null
+315,Lark,Charles,H,null,null,lab ,O C M Co,bds,null,null,7,3d,null,null,null,null,null,null
+316,Lark,Noah,null,null,Elizabeth N,pipeman ,O C M Co  Kearsarge loc,res,null,null,7,3d Kearsarge loc,null,null,null,null,null,null
+317,Lark,Samuel,null,null,Mary,miner ,O C M Co  Kearsarge loc,res,null,null,295,County rd Kearsarge loc,null,null,null,null,null,null
+320,Laulaja,Samuel,null,null,null,trammer ,O C M Co,bds,null,null,223,Wolverine,null,null,null,null,null,null
+321,Lavers,James,null,null,null,hlpr  ,N Kearsarge loc,bds,null,null,87,2d N Kearsarge loc,null,null,null,null,null,null
+322,Lavers,John,null,null,null,master mech ,O C M Co,res,null,null,99,County rd,null,null,null,null,null,null
+323,Lavers,Joshua,null,null,Ruth,mach ,O C M Co  N Kearsarge loc,res,null,null,87,2d N Kearsarge loc,null,null,null,null,null,null
+324,Lavers,Lloyd,null,null,null,appr ,O C M Co  N Kearsarge loc,bds,null,null,87,2d N Kearsarge loc,null,null,null,null,null,null
+325,Lazar,Frank,null,null,null,trammer ,OCM Co  Kearsarge loc,bds,null,null,27,3d Kearsarge loc,null,null,null,null,null,null
+327,Lee,Ernest,D,null,null,lab ,C H M Co  Kearsarge loc,bds,null,null,4,Mine Kearsarge loc,null,null,null,null,null,null
+329,Lehto,Arthur,W,null,null,lab ,Wolv Copper M Co  Wolverine loc,bds,null,null,123,4th Wolverine loc,null,null,null,null,null,null
+330,Lehto,Herman,null,null,null,trammer ,OCM Co,bds,null,null,232,Wolverine,null,null,null,null,null,null
+331,Lehto,Ida,null,null,null,null,null,bds,null,null,19- 1/2,3 Kearsarge loc,null,null,null,null,null,null
+332,Lehto,Rose,M,null,null,null,null,bds,null,null,123,4th Wolverine loc,null,null,null,null,null,null
+333,Lehto,Sulo,J,null,null,lab ,Wolv Copper M Co  Wolverine loc,bds,null,null,123,4th Wolverine loc,null,null,null,null,null,null
+334,Lehto,Uno,A,null,null,lab  ,Wolverine loc,bds,null,null,123,4th Wolverine loc,null,null,null,null,null,null
+335,Lehto,Urho,W,null,null,null,null,bds,null,null,123,4th Wolverine loc,null,null,null,null,null,null
+336,Lehto,Waino,J,null,null,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,123,4th Wolverine loc,null,null,null,null,null,null
+337,Lehto,Wappu,null,Mrs,null,null,null,res,null,null,19- 1/2,3d Kearsarge loc,null,null,null,null,null,null
+340,Lejkev,Joseph,null,null,null,lab  ,Wolverine loc,bds,null,null,94,3d Wolverine loc,null,null,null,null,null,null
+342,Lengyel,George,null,null,null,trammer ,OCM Co  Wolverine loc,bds,null,null,84- 1/2,2d Wolverine loc,null,null,null,null,null,null
+343,Lepine,Felix,null,null,Lena,fireman  ,Wolverine loc,res,null,null,42,Smith av Wolverine loc,null,null,null,null,null,null
+344,Leppakoski,Frank,null,null,null,trammer ,OCM Co,bds,null,null,77,Grant,null,null,null,null,null,null
+345,Leskela,Daniel,H,null,Jennie K,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,257,County rd Wolverine loc,null,null,null,null,null,null
+346,Leskela,Sackris,null,null,Josephine,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,161,Water Wolverine loc,null,null,null,null,null,null
+348,Lidgey,Emily,null,null,null,student  ,S Kearsarge loc,bds,null,null,36,2d S Kearsarge loc,null,null,null,null,null,null
+349,Lidgey,Henry,null,null,Caroline,shift boss ,OCM Co  S Kearsarge loc,res,null,null,36,2d S Kearsarge loc,null,null,null,null,null,null
+350,Lidgey,Sidney,null,null,Ida,miner ,OCM Co  S Kearsarge loc,res,null,null,30,2d S Kearsarge loc,null,null,null,null,null,null
+351,Linstran,Arvid,null,null,null,timberman ,C H M Co,bds,null,null,89,3d,null,null,null,null,null,null
+356,Littlejohns,Thomas,H,null,Elizabeth A,null,null,res,null,null,292,County rd Wolverine loc,null,null,null,null,null,null
+358,Littlejohns,Wm,J,null,null,lab ,Wolv Copper M Co  Wolverine loc,bds,null,null,292,County rd Wolverine loc,null,null,null,null,null,null
+359,Loivik,John,null,null,null,lab  ,Wolverine loc,bds,null,null,94,3d Wolverine loc,null,null,null,null,null,null
+360,Lokojarvi,Arvo,E,null,null,student  ,Wolverine loc,bds,null,null,26,No 4 Wolverine loc,null,null,null,null,null,null
+361,Lokojarvi,Henry,null,null,Katie,lab  ,Wolverine loc,res,null,null,26,No 4 Wolverine loc,null,null,null,null,null,null
+362,Lokojarvi,Hilda,A,null,null,student  ,Kearsarge loc,bds,null,null,11,3d Kearsarge loc,null,null,null,null,null,null
+363,Lokojarvi,John,H,null,null,oiler ,OCM Co  Kearsarge location,bds,null,null,11,3d Kearsarge location,null,null,null,null,null,null
+364,Lokojarvi,Mary,N,null,null,null,null,bds,null,null,11,3d Kearsarge loc,null,null,null,null,null,null
+365,Lokojarvi,Peter,null,null,Anna M,fireman  ,Kearsarge location,res,null,null,11,3d Kearsarge location,null,null,null,null,null,null
+366,Lucas,George,null,null,Elizabeth,lab  ,Kearsarge loc,res,null,null,285,County rd Kearsarge loc,null,null,null,null,null,null
+367,Ludkey,Wm,J,null,null,blksmith,null,bds,null,null,127,N Kearsarge loc,null,null,null,null,null,null
+368,Lumko,Peter,null,null,null,fireman ,OCM Co,bds,null,null,11,3d,null,null,null,null,null,null
+369,Lundberg,Norman,null,null,null,lab ,Wolv Copper M Co  Wolverine loc,bds,null,null,105,3d Wolverine loc,null,null,null,null,null,null
+370,Lundberg,01ga,null,Mrs,null,null,null,res,null,null,105,3d Wolverine loc,null,null,null,null,null,null
+371,Luoma,Edward,C,null,Susan,miner ,OCM Co  Wolverine loc,res,null,null,263,County rd Wolverine loc,null,null,null,null,null,null
+372,Luoma,John,null,null,Nannie,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,259,County rd Wolverine loc,null,null,null,null,null,null
+373,Luoma,Wm,W,null,null,student  ,Wolverine location,bds,null,null,263,County rd Wolverine location,null,null,null,null,null,null
+375,McRandle,Thomas,null,null,null,tmstr ,Wolv Copper M Co  Wolverine loc,bds,null,null,65,2d Wolverine loc,null,null,null,null,null,null
+377,Maatta,Esther,L,null,null,waitress  ,Wolverine location,bds,null,null,265,County rd Wolverine location,null,null,null,null,null,null
+378,Maatta,Helmi,H,null,null,student  ,Wolverine location,bds,null,null,265,County rd Wolverine location,null,null,null,null,null,null
+379,Maatta,Hilma,K,null,wid Jacob,null,null,res,null,null,265,County rd Wolverine loc,null,null,null,null,null,null
+380,Maatta,Sulo,H,null,null,null,null,bds,null,null,265,County rd Wolverine loc,null,null,null,null,null,null
+381,Maatta,Wm,J,null,null,lab  ,Wolverine loc,bds,null,null,265,County rd Wolverine loc,null,null,null,null,null,null
+387,Maki,Henry,null,null,null,lab  ,Wolverine loc,bds,null,null,89,3d Wolverine loc,null,null,null,null,null,null
+388,Maki,Matt,null,null,null,miner  ,Wolverine loc,bds,null,null,70,2d Wolverine loc,null,null,null,null,null,null
+389,Malinro,Louis,null,null,null,miner  ,Wolverine loc,bds,null,null,163,Water Wolverine loc,null,null,null,null,null,null
+392,Marsan,Nuto,null,null,null,trammer ,O C M Co,bds,null,null,199,Church,null,null,null,null,null,null
+393,Marta,Battista,null,null,null,miner  ,Wolverine loc,res,null,null,94,3d Wolverine loc,null,null,null,null,null,null
+394,Martin,John,J,null,null,lab  ,N Kearsarge loc,bds,null,null,136,County rd N Kearsarge loc,null,null,null,null,null,null
+397,Martinovich,Michael,null,null,null,lab ,O C M Co  Kearsarge loc,bds,null,null,50,Church Kearsarge loc,null,null,null,null,null,null
+398,Martti,August,null,null,null,null,null,res,null,null,52,2d Wolverine loc,null,null,null,null,null,null
+399,Martti,Katherine,null,null,wid Emil,null,null,res,null,null,114,County rd Kearsarge loc,null,null,null,null,null,null
+400,Marttila,John,null,null,Hilma,lab  ,Wolverine location,res,null,null,173,Railroad Wolverine location,null,null,null,null,null,null
+402,Massa,Joseph,null,null,Margaret,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,64,2d Wolverine loc,null,null,null,null,null,null
+403,Massa,Stephen,null,null,Jennie,fireman ,Wolv Copper M Co  Wolverine loc,res,null,null,28,Smith av Wolverine loc,null,null,null,null,null,null
+404,Masters,James,null,null,Annie,engr ,O C M Co  S Kearsarge loc,res,null,null,25,2d S Kearsarge loc,null,null,null,null,null,null
+405,Masters,Sophie,E,null,null,student  ,S Kearsarge loc,bds,null,null,25,2d S Kearsarge loc,null,null,null,null,null,null
+406,Matson,Matti,null,null,Hilda,miner  ,Wolverine loc,res,null,null,169,Railroad Wolverine loc,null,null,null,null,null,null
+407,Matson,Nannie,null,null,null,elk  ,Wolverine loc,bds,null,null,195,Railroad Wolverine loc,null,null,null,null,null,null
+408,Matson,Sarah,null,null,wid Herman,null,null,res,null,null,195,Railroad Wolverine loc,null,null,null,null,null,null
+410,Matthews,Edward,J,null,Hannah,lab ,O C M Co,res,null,null,236,Wolverine,null,null,null,null,null,null
+411,Matthews,John,null,null,null,carp,null,bds,null,null,236,Wolverine,null,null,null,null,null,null
+412,Matthews,Joseph,null,null,null,timberman ,O C M Co  Kearsarge loc,bds,null,null,118,County rd Kearsarge loc,null,null,null,null,null,null
+413,Matthews,Mae,null,null,null,null,null,bds,null,null,236,Wolverine,null,null,null,null,null,null
+414,Mattson,Arthur,null,null,null,lab ,Wolv Copper M Co  Wolverine loc,bds,null,null,47,Smith av Wolverine loc,null,null,null,null,null,null
+415,Mattson,J,Elmer,null,Jennie E,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,null,null,null,null,null,null,No 4 Wolverine loc,null
+418,Merifield,Wm,C,null,Lillian,trammer ,O C M Co  Kearsarge loc,res,null,null,54,Church Kearsarge loc,null,null,null,null,null,null
+420,Merrinka,Phillip,null,null,null,miner  ,Wolverine loc,bds,null,null,199,Railroad Wolverine loc,null,null,null,null,null,null
+421,Messner,John,M,null,Clara,foreman ,Wolv Copper M Co  Wolverine loc,res,null,null,30,Smith av Wolverine loc,null,null,null,null,null,null
+423,Meszaros,Alexander,null,null,Julia,miner  ,Wolverine loc,res,null,null,51,2d Wolverine loc,null,null,null,null,null,null
+424,Meszaros,George,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+425,Meszaros,John,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+426,Meszaros,Michael,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+427,Meszaros,Stephen,null,null,Mary,trammer boss ,O C M Co  Wolverine loc,res,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+430,Michaelson,Lillian,null,null,null,null,null,bds,null,null,225,Wolverine,null,null,null,null,null,null
+431,Michela,Joseph,null,null,null,trammer ,O C M Co,bds,null,null,154,Water,null,null,null,null,null,null
+434,Mijo,Frank,null,null,null,trammer ,O C M Co,bds,null,null,191,Railroad,null,null,null,null,null,null
+435,Milford,Sampson,null,null,null,lab ,Wolverine Copper M Co,bds,null,null,222,Wolverine,null,null,null,null,null,null
+440,Mitchell,Wm,J,null,Myrtle,miner ,O C M Co  S Kearsarge loc,res,null,null,12,1st S Kearsarge loc,null,null,null,null,null,null
+445,Molnar,Joseph,null,null,null,trammer ,O C M Co,bds,null,null,47,Wolverine,null,null,null,null,null,null
+446,Monk,Edward,B,null,null,null,null,bds,null,null,281,County rd Kearsarge loc,null,null,null,null,null,null
+447,Monta,Stephen,null,null,Susannah,trammer  ,Wolverine loc,res,null,null,37,Smith av Wolverine loc,null,null,null,null,null,null
+451,Mundy,James,null,null,null,engr ,O C M Co  S Kearsarge location,bds,null,null,4,1st S Kearsarge location,null,null,null,null,null,null
+452,Mundy,Susan,null,null,wid John,null,null,res,null,null,4,S Kearsarge loc,null,null,null,null,null,null
+454,Murphy,John,P,null,null,miner  ,Kearsarge loc,bds,null,null,42,3d Kearsarge loc,null,null,null,null,null,null
+455,Murphy,Joseph,null,null,null,elk ,null,bds,null,null,42,3d Kearsarge loc,null,null,null,null,null,null
+456,Murphy,Patrick,D,null,Ellen,miner ,OCM Co  Kearsarge loc,res,null,null,42,3d Kearsarge loc,null,null,null,null,null,null
+457,Murphy,Thomas,null,null,Lillian,engr ,OCM Co  Kearsarge loc,res,null,null,86,Church Kearsarge loc,null,null,null,null,null,null
+458,Murphy,Wm,null,null,null,pipeman ,OCM Co  Kearsarge location,bds,null,null,42,3d Kearsarge location,null,null,null,null,null,null
+460,Musso,Mary,null,null,null,null,null,bds,null,null,108,Center Wolverine loc,null,null,null,null,null,null
+461,Musso,Paul,null,null,Marianna,lab  ,Wolverine location,res,null,null,108,Center Wolverine location,null,null,null,null,null,null
+462,Nagy,James,null,null,null,trammer ,OCM Co,bds,null,null,45,2d,null,null,null,null,null,null
+464,Nagy,Stephen,null,null,null,trammer ,OCM Co,bds,null,null,45,2d,null,null,null,null,null,null
+465,Nankervis,Wm,R,null,null,miner  ,N Kearsarge loc,bds,null,null,79,2d N Kearsarge loc,null,null,null,null,null,null
+466,Needs,Harry,null,null,May,miner ,OCM Co  Kearsarge loc,res,null,null,56,Church Kearsarge loc,null,null,null,null,null,null
+467,Needs,John,null,null,null,miner ,OCM Co  Kearsarge loc,bds,null,null,93,County rd Kearsarge loc,null,null,null,null,null,null
+469,Nemes,George,null,null,null,trammer ,OCM Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+470,Nemes,Joseph,null,null,null,trammer ,OCM Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+471,Nemes,Stephen,null,null,null,trammer ,OCM Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+472,Nicholas,Alfred,G,null,Bertha L,mach ,Wolv Copper M Co  Kearsarge loc,res,null,null,269,County rd Kearsarge loc,null,null,null,null,null,null
+473,Nichols,Thomas,H,null,Emily,miner ,Wolv Copper M Co,res,null,null,9,1st,null,null,null,null,null,null
+474,Nissila,Peter,null,null,Annie,blksmith ,Wolv Copper M Co,res,null,null,223,Wolverine,null,null,null,null,null,null
+475,Noetzel,Charles,L,null,Pauline,chief elk and purch agt ,Wolv Copper M Co  Wolverine loc,res,null,null,32,Smith av Wolverine loc,null,null,null,null,null,null
+476,Nordstrom,Clara,null,null,null,null,null,bds,null,null,141,Water Wolverine loc,null,null,null,null,null,null
+477,Nordstrom,Edna,null,null,null,null,null,bds,null,null,117,4th Wolverine loc,null,null,null,null,null,null
+478,Nordstrom,Ferdinand,null,null,null,student  ,Wolverine loc,bds,null,null,141,Water Wolverine loc,null,null,null,null,null,null
+479,Nordstrom,Frank,null,null,null,lab  ,Wolverine loc,bds,null,null,68,2d Wolverine loc,null,null,null,null,null,null
+480,Nordstrom,Gerhardt,null,null,Mary,foreman ,Wolv Copper M Co  Wolverine loc,res,null,null,117,4th Wolverine loc,null,null,null,null,null,null
+481,Nordstrom,John,P,null,Minnie,lab  ,Wolverine location,res,null,null,68,2d Wolverine location,null,null,null,null,null,null
+482,Nordstrom,Milda,null,null,null,student  ,Wolverine loc,bds,null,null,117,4th Wolverine loc,null,null,null,null,null,null
+483,Nordstrom,Nels,null,null,Selma,storekpr  ,Wolverine loc,res,null,null,141,Water Wolverine loc,null,null,null,null,null,null
+484,Nordstrom,Oscar,null,null,null,elk  ,Wolverine loc,bds,null,null,141,Water Wolverine loc,null,null,null,null,null,null
+488,Nudge,James,null,null,null,lab  ,N Kearsarge loc,bds,null,null,49,2d N Kearsarge loc,null,null,null,null,null,null
+489,Nudge,Stephen,null,null,null,lab  ,N Kearsarge loc,bds,null,null,49,2d N Kearsarge loc,null,null,null,null,null,null
+490,ODening,Tony,null,null,Adelle,lab ,O C M Co  Wolverine loc,res,null,null,45,No 4 Wolverine loc,null,null,null,null,null,null
+491,Odos,John,null,null,null,lab  ,Kearsarge loc,bds,null,null,23,3d Kearsarge loc,null,null,null,null,null,null
+493,01ah,Joseph,null,null,null,trammer ,O C M Co,bds,null,null,47,Wolverine,null,null,null,null,null,null
+494,01ah,Louis,null,null,null,miner ,Wolv Copper M Co  Wolverine loc,bds,null,null,163,Water Wolverine loc,null,null,null,null,null,null
+495,01ah,Michael,null,null,Susan,miner ,Wolv Copper M Co  N Kearsarge loc,res,null,null,51,2d N Kearsarge loc,null,null,null,null,null,null
+497,01iver,Edward,C,null,Jane E,miner ,Wolv Copper M Co  Kearsarge loc,res,null,null,291,County rd Kearsarge loc,null,null,null,null,null,null
+498,01iver,Herbert,B,null,Rebecca,miner ,Wolv Copper M Co  Kearsarge loc,res,null,null,291,County rd Kearsarge loc,null,null,null,null,null,null
+499,01iver,Sarah,A,null,wid George,null,null,bds,null,null,291,County rd Kearsarge loc,null,null,null,null,null,null
+500,01iver,Wm,G,null,null,null,null,bds,null,null,266,County rd Wolverine loc,null,null,null,null,null,null
+501,01iver,Wm,W,null,Elizabeth,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,266,County rd Wolverine loc,null,null,null,null,null,null
+502,011ila,Matthew,null,null,Hilda,lab ,O C M Co  Wolverine loc,res,null,null,255- 1/2,County rd Wolverine loc,null,null,null,null,null,null
+503,01sen,Harold,N,null,null,tel opr ,Mineral Range R R,res,null,null,null,null,null,null,null,null,Calumet,null
+504,Onias,Arthur,null,null,null,miner ,Wolv Copper M Co  N Kearsarge loc,bds,null,null,111,County rd N Kearsarge loc,null,null,null,null,null,null
+505,Onias,Charles,null,null,null,miner  ,N Kearsarge location,bds,null,null,111,County rd N Kearsarge location,null,null,null,null,null,null
+506,Onias,Mamie,null,null,null,tchr  ,N Kearsarge loc,bds,null,null,111,County rd N Kearsarge loc,null,null,null,null,null,null
+507,Orchard,Benjamin,null,null,null,foreman ,OCM Co,res,null,null,97,County rd,null,null,null,null,null,null
+508,Orchard,Francis,H,null,null,hlpr ,OCM Co,bds,null,null,97,County rd,null,null,null,null,null,null
+509,Osborne,Albert,null,null,Martha,elk,null,res,null,null,null,null,null,null,null,null,Phillipsville,null
+510,Osema,August,null,null,null,lab  ,Wolverine loc,bds,null,null,null,null,null,null,null,null,No 4 Wolverine loc,null
+512,Oswald,C,Frederick,null,Katherine,engr ,Wolv Copper M Co,res,null,null,5,1st,null,null,null,null,null,null
+515,Pallay,Stephen,null,null,null,surfaceman ,OCM Co,bds,null,null,8,3d,null,null,null,null,null,null
+516,Paloggi,Frank,null,null,Mary,trammer ,OCM Co  Kearsarge loc,res,null,null,48,Church Kearsarge loc,null,null,null,null,null,null
+520,Parske,Anart,null,null,Helga,miner  ,Wolverine loc,res,null,null,80,3d Wolverine loc,null,null,null,null,null,null
+522,Parske,John,null,null,null,section hd  ,Wolverine loc,bds,null,null,82,3d Wolverine loc,null,null,null,null,null,null
+523,Parske,Libbie,null,null,null,null,null,bds,null,null,82,3d Wolverine loc,null,null,null,null,null,null
+524,Parske,Solomon,null,null,Lettie,farmer  ,Wolverine location,res,null,null,82,3d Wolverine location,null,null,null,null,null,null
+525,Parski,August,D,null,Marie S,lab ,O C M Co  Wolverine loc,res,null,null,44,No 4 Wolverine loc,null,null,null,null,null,null
+526,Partti,Wm,null,null,Sophia,miner  ,Wolverine loc,res,null,null,132,4th Wolverine loc,null,null,null,null,null,null
+527,Pascoe,Richard,T,null,Fern T,elk ,null,res,null,null,265,County rd Kearsarge loc,null,null,null,null,null,null
+528,Patai,Stephen,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+530,Patrock,John,null,null,Mary,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+532,Pauli,Frank,null,null,Rose,miner  ,Wolverine loc,res,null,null,96,Center Wolverine loc,null,null,null,null,null,null
+533,Pauli,Sidney,null,null,Kate,miner ,Wolv Copper M Co,res,null,null,218,Wolverine,null,null,null,null,null,null
+534,Pauli,Stephen,null,null,null,student  ,Wolverine loc,bds,null,null,96,Center Wolverine loc,null,null,null,null,null,null
+536,Paynter,Geraldine,G,null,null,student  ,N Kearsarge loc,bds,null,null,85,2d N Kearsarge loc,null,null,null,null,null,null
+537,Paynter,Wm,null,null,Pauline,blksmith ,O C M Co  N Kearsarge loc,res,null,null,85,2d N Kearsarge loc,null,null,null,null,null,null
+538,Paynter,Wm,null,jr,null,student  ,N Kearsarge loc,bds,null,null,85,2d N Kearsarge loc,null,null,null,null,null,null
+540,Pedlar,Edward,null,null,null,miner ,O C M Co  S Kearsarge location,res,null,null,15,1st S Kearsarge location,null,null,null,null,null,null
+541,Pellow,Alexander,null,null,null,lab ,Wolv Copper M Co  Wolverine loc,bds,null,null,null,null,null,null,null,null,No 4 Wolverine loc,null
+542,Penprazi,John,null,null,Elizabeth,miner ,O C M Co  Kearsarge loc,res,null,null,78,Church Kearsarge loc,null,null,null,null,null,null
+543,Perkins,James,J,null,Ethel,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,33,Smith av Wolverine loc,null,null,null,null,null,null
+544,Perko,Michael,null,null,null,trammer ,O C M Co,bds,null,null,25- 1/2,3d,null,null,null,null,null,null
+547,Perreault,Anna,null,null,null,null,null,bds,null,null,39,Center Wolverine loc,null,null,null,null,null,null
+548,Perreault,Henry,null,null,null,hlpr ,O C M Co  N Kearsarge location,bds,null,null,63,2d N Kearsarge location,null,null,null,null,null,null
+549,Perreault,Mary,null,null,wid Delor,null,null,res,null,null,63,2d N Kearsarge loc,null,null,null,null,null,null
+550,Perreault,Mary,null,null,null,null,null,bds,null,null,63,2d N Kearsarge loc,null,null,null,null,null,null
+551,Perry,Bert,null,null,null,miner ,O C M Co,bds,null,null,31,2d,null,null,null,null,null,null
+554,Pesonen,Edward,L,null,Hilda M,lab  ,Wolverine loc,res,null,null,23,No 4 Wolverine loc,null,null,null,null,null,null
+557,Peter,Joseph,null,null,null,lab  ,Wolverine loc,bds,null,null,94,3d Wolverine loc,null,null,null,null,null,null
+558,Peter,Joseph,null,null,null,miner  ,Wolverine loc,bds,null,null,84- 1/2,3d Wolverine loc,null,null,null,null,null,null
+559,Petermann,Caroline,null,null,wid Ferdinand D,null,null,res,null,null,250,County rd Wolverine loc,null,null,null,null,null,null
+560,Petermann,Emma,null,null,null,null,null,bds,null,null,250,County rd Wolverine loc,null,null,null,null,null,null
+561,Petermann,Fernando,D,null,Anna,sec and genl mgr ,null,res,null,null,248,County rd Wolverine loc,null,null,null,null,null,null
+562,Petermann,Fernando,D,jr,null,student  ,Wolverine loc,bds,null,null,248,County rd Wolverine loc,null,null,null,null,null,null
+563,Petermann,Fred,null,null,null,elk ,null,res,null,null,null,null,null,null,null,null,Allouez,null
+564,Petermann,John,P,null,null,pres ,null,res,null,null,null,null,null,null,null,null,Laurium,null
+565,Petermann,Philip,E,null,null,elk ,null,res,null,null,null,null,null,null,null,null,Calumet,null
+567,Peterson,Christ,null,null,Mary,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,41,No 4 Wolverine loc,null,null,null,null,null,null
+568,Peterson,Linda,null,null,null,null,null,bds,null,null,41,No 4 Wolverine loc,null,null,null,null,null,null
+569,Peterson,Robert,null,null,null,null,null,bds,null,null,190,Church Wolverine loc,null,null,null,null,null,null
+570,Peto,Paul,null,null,Josephine,trammer ,O C M Co  Wolverine loc,res,null,null,47,No 4 Wolverine loc,null,null,null,null,null,null
+571,Petyi,Alex,null,null,Victoria,trammer ,O C M Co  Wolverine loc,res,null,null,184,Railroad Wolverine loc,null,null,null,null,null,null
+572,Phill,Cyril,B,null,null,student,null,bds,null,null,23,S Kearsarge loc,null,null,null,null,null,null
+573,Phill,Fenwick,null,null,Adelaide,miner ,O C M Co,res,null,null,23,S Kearsarge loc,null,null,null,null,null,null
+574,Phillippi,Charles,null,null,Johanna,miner  ,Wolverine loc,res,null,null,96,Center Wolverine loc,null,null,null,null,null,null
+575,Phillippi,Gustanso,null,null,null,miner  ,Wolverine loc,bds,null,null,96,Center Wolverine loc,null,null,null,null,null,null
+583,Phillips,Wm,null,null,Jane Q,miner  ,Phillipsville,res,ss,null,null,null,1,s,null,t Phillipville,null,null
+586,Picchiottino,John,D,null,null,lab ,Wolv Copper M Co,bds,null,null,14,1st,null,null,null,null,null,null
+587,Picchiottino,Katherine,null,null,null,null,null,bds,null,null,14,1st,null,null,null,null,null,null
+588,Picchiottino,Peter,null,null,Caroline,timber boss ,Wolv Copper M Co,res,null,null,14,1st,null,null,null,null,null,null
+589,Pierso,Hjalnar,null,null,null,null,null,bds,null,null,44,Smith av Wolverine loc,null,null,null,null,null,null
+590,Pieti,Axel,null,null,null,miner  ,Wolverine loc,bds,null,null,104,Center Wolverine loc,null,null,null,null,null,null
+591,Pieti,Edith,null,null,null,null,null,bds,null,null,104,Center Wolverine loc,null,null,null,null,null,null
+592,Pieti,Elma,null,null,null,null,null,bds,null,null,104,Center Wolverine loc,null,null,null,null,null,null
+593,Pieti,Ethel,null,null,null,null,null,bds,null,null,104,Center Wolverine loc,null,null,null,null,null,null
+594,Pieti,Isaac,null,null,Augusta,null,null,res,null,null,104,Center Wolverine loc,null,null,null,null,null,null
+595,Pieti,Isaac,null,jr,null,elk  ,Wolverine loc,bds,null,null,104,Center Wolverine loc,null,null,null,null,null,null
+596,Pieti,Oscar,null,null,null,null,null,bds,null,null,104,Center Wolverine loc,null,null,null,null,null,null
+597,Pietila,Peter,null,null,Kate,sec ,Finnish Workmens CoOperative Co  N Kearsarge loc,res,null,null,117,County rd N Kearsarge loc,null,null,null,null,null,null
+598,Pietila,Saima,null,null,null,null,null,bds,null,null,117,County rd N Kearsarge loc,null,null,null,null,null,null
+599,Pietila,Selma,null,null,null,null,null,bds,null,null,117,County rd N Kearsarge loc,null,null,null,null,null,null
+600,Pietila,Severi,null,null,null,lab  ,N Kearsarge loc,bds,null,null,117,County rd N Kearsarge loc,null,null,null,null,null,null
+601,Pietila,Sulo,null,null,null,steelwkr  ,N Kearsarge location,bds,null,null,117,County rd N Kearsarge location,null,null,null,null,null,null
+602,Pintanio,John,null,null,Hilda,miner ,O C M Co  Wolverine loc,res,null,null,44,Smith av Wolverine loc,null,null,null,null,null,null
+603,Pinter,Frederick,null,null,Catherine,miner ,O C M Co  S Kearsarge loc,res,null,null,6,1st S Kearsarge loc,null,null,null,null,null,null
+604,Pinter,John,null,null,null,trammer ,O C M Co,bds,null,null,188,Railroad,null,null,null,null,null,null
+606,Pitotino,Batistta,null,null,null,miner  ,Wolverine loc,bds,null,null,94,4th Wolverine loc,null,null,null,null,null,null
+607,Pladji,Isaac,null,null,01ga,miner  ,Wolverine loc,res,null,null,43,No 4 Wolverine loc,null,null,null,null,null,null
+608,Plek,John,null,null,null,lab ,O C M Co  Kearsarge loc,bds,null,null,6,3d Kearsarge loc,null,null,null,null,null,null
+609,Pojo,John,null,null,null,trammer ,O C M Co,bds,null,null,50,2d,null,null,null,null,null,null
+611,Pollard,James,H,null,null,blksmith,null,bds,null,null,301,Church,null,null,null,null,null,null
+612,Pollard,John,null,null,null,lab,null,bds,null,null,301,Church,null,null,null,null,null,null
+613,Pollard,Joseph,PI,null,Sarah A,miner ,O C M Co  S Kearsarge loc,res,null,null,38,2d S Kearsarge loc,null,null,null,null,null,null
+614,Pollard,Susan,J,null,wid Wm,null,null,res,null,null,301,Church,null,null,null,null,null,null
+615,Pollard,Wm,null,null,Irene,mach ,Wolv Copper M Co  Wolverine loc,res,null,null,38,Smith av Wolverine loc,null,null,null,null,null,null
+616,Pollitt,Arthur,null,null,null,lab ,O C M Co  N Kearsarge loc,bds,null,null,132,County rd N Kearsarge loc,null,null,null,null,null,null
+617,Pollitt,Edward,null,null,null,lab ,O C M Co  N Kearsarge loc,bds,null,null,132,County rd N Kearsarge loc,null,null,null,null,null,null
+618,Pollitt,Gladys,null,null,null,null,null,bds,null,null,132,County rd N Kearsarge loc,null,null,null,null,null,null
+620,Pollitt,Stella,null,null,null,null,null,bds,null,null,132,County rd N Kearsarge loc,null,null,null,null,null,null
+621,Pollitt,Wm,null,null,Eveline,trammer ,OCM Co  N Kearsarge loc,res,null,null,132,County rd N Kearsarge loc,null,null,null,null,null,null
+622,Polocoff,Haik,null,null,null,trammer ,O C M Co,bds,null,null,111,River,null,null,null,null,null,null
+623,Pope,Frederick,null,null,null,timberman ,O C M Co  Kearsarge loc,bds,null,null,118,County rd Kearsarge loc,null,null,null,null,null,null
+624,Pope,Harriet,J,null,null,prin ,Kearsarge School,res,null,null,null,null,null,null,null,null,Laurium,null
+625,Popowicz,John,null,null,null,lab  ,N Kearsarge loc,bds,null,null,49,2d N Kearsarge loc,null,null,null,null,null,null
+627,Popp,Michael,null,null,null,trammer ,OCM Co,bds,null,null,8,3d,null,null,null,null,null,null
+628,Posey,Carl,null,null,Rose,driver  ,Wolverine location,res,null,null,196,R Road Wolverine location,null,null,null,null,null,null
+629,Posey,David,null,null,null,lab ,OCM Co,bds,null,null,63,2d,null,null,null,null,null,null
+630,Posey,Elmire,null,null,wid Fabian,null,null,res,null,null,196,Railroad Wolverine location,null,null,null,null,null,null
+631,Posey,George,null,null,null,lab ,OCM Co  Wolverine loc,bds,null,null,196,Railroad Wolverine loc,null,null,null,null,null,null
+632,Posey,Matilda,null,null,null,null,null,bds,null,null,196,Railroad Wolverine loc,null,null,null,null,null,null
+635,Priessol,Joseph,null,null,null,trammer ,Wolv Copper M Co  Wolverine loc,bds,null,null,91,3d Wolverine loc,null,null,null,null,null,null
+636,Prisk,Wm,J,null,Edith,miner ,OCM Co  Kearsarge loc,res,null,null,82,Church Kearsarge loc,null,null,null,null,null,null
+637,Prophet,Thomas,null,null,Nance,miner ,OCM Co  Wolverine loc,res,null,null,299,Church Wolverine loc,null,null,null,null,null,null
+638,Prowse,Percy,null,null,null,miner,null,bds,null,null,33,S Kearsarge loc,null,null,null,null,null,null
+640,Pup,Michael,null,null,null,lab  ,Kearsarge loc,bds,null,null,17,3d Kearsarge loc,null,null,null,null,null,null
+641,Quick,Elizabeth,G,null,null,tchr  ,Kearsarge location,bds,null,null,101,County rd Kearsarge location,null,null,null,null,null,null
+642,Quick,James,B,null,null,phys ,108 Mine Kearsarge loc,res,null,null,101,County rd,null,null,null,null,null,null
+643,Quick,Minnie,C,null,null,tchr  ,Kearsarge loc,bds,null,null,101,County rd Kearsarge loc,null,null,null,null,null,null
+644,Quick,Richard,null,null,null,carp,null,bds,null,null,126,N Kearsarge loc,null,null,null,null,null,null
+645,Quick,Robert,null,null,null,mach ,C H M Co  Kearsarge loc,bds,null,null,101,County rd Kearsarge loc,null,null,null,null,null,null
+646,Quick,Wm,null,null,Pearn,null,null,bds,null,null,101,County rd Kearsarge loc,null,null,null,null,null,null
+647,Raade,Wm,null,null,null,miner ,OCM Co,bds,null,null,132,4th,null,null,null,null,null,null
+648,Rachashi,Stive,null,null,Mary,fireman  ,Kearsarge loc,res,null,null,15,3d Kearsarge loc,null,null,null,null,null,null
+649,Rader,Henry,C,null,Sophie,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,122,4th Wolverine loc,null,null,null,null,null,null
+650,Radoshevich,Charles,null,null,Marie,blksmith ,Wolv Copper M Co  Wolverine loc,res,null,null,116,4th Wolverine loc,null,null,null,null,null,null
+652,Raihu,John,null,null,Rose,miner  ,Wolverine loc,res,null,null,226,Wolverine Wolverine loc,null,null,null,null,null,null
+653,Raisanen,Mary,null,null,wid Carl,null,null,res,null,null,268,County rd Wolverine location,null,null,null,null,null,null
+655,Ralph,Frederick,null,null,null,miner  ,Kearsarge loc,bds,null,null,58,Church Kearsarge loc,null,null,null,null,null,null
+656,Ralph,Samuel,E,null,null,trammer ,O C M Co  Kearsarge loc,bds,null,null,58,2d Kearsarge loc,null,null,null,null,null,null
+657,Randa,Sacris,null,null,null,lab  ,Wolverine loc,res,null,null,186,Railroad Wolverine loc,null,null,null,null,null,null
+660,Rantala,Jacob,V,null,Hilda M,farmer  ,Wolverine loc,res,es,null,null,null,1 ,s,null,J Elmer Matton Wolverine loc,null,null
+662,Rastello,John,null,null,Lucille,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,69,Center Wolverine loc,null,null,null,null,null,null
+664,Ratz,Joseph,null,null,null,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,54,2d Wolverine loc,null,null,null,null,null,null
+665,Rautikaa,01af,null,null,Hilma,miner  ,Wolverine location,res,null,null,44,No 4 Wolverine location,null,null,null,null,null,null
+666,Rautikaa,01ga,null,null,null,null,null,bds,null,null,44,No 4 Wolverine loc,null,null,null,null,null,null
+667,Reason,Margaret,null,null,wid Peter,null,null,bds,null,null,261,County rd Wolverine loc,null,null,null,null,null,null
+668,Reason,Matthew,null,null,Mary,blksmith  ,Wolverine loc,res,null,null,261,County rd Wolverine loc,null,null,null,null,null,null
+669,Reho,Vincent,null,null,null,trammer ,O C M Co,bds,null,null,45,2d,null,null,null,null,null,null
+672,Ricard,Adelore,null,null,null,student  ,Wolverine loc,bds,null,null,27,Smith av Wolverine loc,null,null,null,null,null,null
+673,Ricard,Arthur,J,null,null,mach ,Wolv Copper M Co  Wolverine loc,bds,null,null,27,Smith av Wolverine loc,null,null,null,null,null,null
+674,Ricard,August,null,null,Celina,lander ,Wolv Copper M Co  Wolverine loc,res,null,null,27,Smith av Wolverine loc,null,null,null,null,null,null
+675,Richards,James,null,null,Fanny,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,44,Smith av Wolverine loc,null,null,null,null,null,null
+677,Richards,Robert,E,null,Wilmot,shift boss ,O C M Co  Kearsarge loc,res,null,null,13,3d Kearsarge loc,null,null,null,null,null,null
+679,Ritz,Andrew,null,null,null,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,83,3d Wolverine loc,null,null,null,null,null,null
+680,Ritz,John,null,null,Anna,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,296,County rd Wolverine loc,null,null,null,null,null,null
+681,Rlusitala,Isaac,null,null,Annie,miner  ,Wolverine loc,res,null,null,52,2d Wolverine loc,null,null,null,null,null,null
+682,Roach,Wm,T,null,Mary,miner ,O C M Co  N Kearsarge loc,res,null,null,57,2d N Kearsarge loc,null,null,null,null,null,null
+683,Roberts,Mollie,null,null,null,bkpr ,null,res,null,null,null,null,null,null,null,null,Laurium,null
+685,Robinson,Minnie,null,null,null,prin ,Wolverine School,res,null,null,null,null,null,null,null,null,Calumet,null
+687,Rogers,Samuel,W,null,Laura,asst mining engr ,Wolv Copper M Co  Wolverine loc,res,null,null,21,Smith av Wolverine loc,null,null,null,null,null,null
+689,Roncoglio,Dominic,null,null,null,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,62,2d Wolverine loc,null,null,null,null,null,null
+690,Roncoglio,Martin,null,null,Mary,trammer ,Wolv Copper M Co  Wolverine loc,res,null,null,93,3d Wolverine loc,null,null,null,null,null,null
+691,Roose,Wm,J,null,null,miner ,Wolv C M Co,bds,null,null,21,S Kearsarge location,null,null,null,null,null,null
+692,Rosenberg,Lottie,null,null,null,elk ,P O  Kearsarge location,bds,null,null,280,County rd Kearsarge location,null,null,null,null,null,null
+693,Rosenberg,John,W,null,null,null,null,bds,null,null,280,County rd Kearsarge loc,null,null,null,null,null,null
+694,Rosenberg,Samuel,null,null,Mary A,lab ,Wolv C M Co  Kearsarge loc,res,null,null,280,County rd Kearsarge loc,null,null,null,null,null,null
+695,Rosevear,Frederick,C,null,Edith,miner ,Wolv C M Co  Wolverine loc,res,null,null,260,County rd Wolverine loc,null,null,null,null,null,null
+697,Roskilly,Joseph,null,null,Ethel,miner ,O C M Co  Wolverine loc,res,null,null,189- 1/2,Railroad Wolverine loc,null,null,null,null,null,null
+698,Roskilly,Kate,null,null,null,null,null,res,null,null,189,Railroad Wolverine loc,null,null,null,null,null,null
+699,Rossio,Angelo,null,null,Truome,trammer ,Wolv C M Co  Wolverine loc,res,null,null,67,Center Wolverine loc,null,null,null,null,null,null
+700,Rossio,James,null,null,Catherine,carp ,Wolv C M Co  Wolverine loc,res,null,null,59,2d Wolverine loc,null,null,null,null,null,null
+701,Rossio,Sebastian,null,null,null,miner  ,Wolverine loc,bds,null,null,67,Center Wolverine loc,null,null,null,null,null,null
+702,Rost,Anton,null,null,Edith,miner ,Wolv C M Co  Wolverine loc,res,null,null,25,Smith av Wolverine loc,null,null,null,null,null,null
+703,Rotzie,Frank,null,null,Sophie,null,null,res,null,null,197,Railroad Wolverine loc,null,null,null,null,null,null
+704,Rowe,George,D,null,null,bridgewkr  ,N Kearsarge loc,bds,null,null,140,County rd N Kearsarge loc,null,null,null,null,null,null
+705,Rowe,John,null,null,Mary E,miner ,O C M Co  Wolverine loc,res,null,null,140,County rd Wolverine loc,null,null,null,null,null,null
+706,Rowe,Wm,null,null,Jennie,timekpr ,OCM Co  Kearsarge loc,res,null,null,72,Church Kearsarge loc,null,null,null,null,null,null
+708,Rowland,Samuel,null,null,Isabella,engr ,OCM Co  N Kearsarge loc,res,null,null,138,County rd N Kearsarge loc,null,null,null,null,null,null
+710,Rule,Thomas,null,null,Mary A,miner ,OCM Co  S Kearsarge loc,res,null,null,32,2d S Kearsarge loc,null,null,null,null,null,null
+712,Saam,Joseph,H,null,Mary U,mach ,Wolv C M Co,res,null,null,4,1st,null,null,null,null,null,null
+714,Saatio,Norman,null,null,Manda,lab ,OCM Co  Wolverine loc,res,null,null,155,Water Wolverine loc,null,null,null,null,null,null
+715,Sabo,Alexander,null,null,null,trammer ,O C M Co,bds,null,null,7,1st,null,null,null,null,null,null
+718,Sakkinen,John,null,null,Hilda,mucker ,OCM Co  Wolverine loc,res,null,null,232,Wolverine Wolverine loc,null,null,null,null,null,null
+719,Sakkinen,John,null,null,Preta,null,null,res,null,null,26,County rd Wolverine location,null,null,null,null,null,null
+721,Salas,Joseph,null,null,null,lab  ,Wolverine loc,res,es,null,null,null,2 ,n,null,null,null,null
+722,Salmi,Wm,null,null,Selma,miner  ,Wolverine loc,bds,null,null,117,4th Wolverine loc,null,null,null,null,null,null
+723,Sanders,Arthur,null,null,Sarah,engr ,OCM Co  N Kearsarge loc,res,null,null,75,2d N Kearsarge loc,null,null,null,null,null,null
+724,Sanders,Wm,null,null,Jane,mach ,OCM Co  N Kearsarge loc,res,null,null,100,County rd N Kearsarge loc,null,null,null,null,null,null
+725,Sandretto,Antonio,null,null,null,lab ,OCM Co  Wolverine loc,bds,null,null,43,No 4 Wolverine loc,null,null,null,null,null,null
+726,Sanderetto,Antonio,null,null,null,trammer ,Wolv C M Co,bds,null,null,14,1st,null,null,null,null,null,null
+727,Sandretto,Carlo,null,null,null,trammer ,OCM Co  Wolverine loc,bds,null,null,43,No 4 Wolverine loc,null,null,null,null,null,null
+728,Sandretto,Constance,null,null,Otalvia,trammer ,Wolv C M Co  Wolverine loc,res,null,null,38,No 4 Wolverine loc,null,null,null,null,null,null
+729,Sandretto,Dominick,null,null,null,trammer ,OCM Co  Wolverine loc,bds,null,null,97,3d Wolverine loc,null,null,null,null,null,null
+730,Sandretto,John,B,null,Angela,lab  ,Wolverine location,res,null,null,113,4th Wolverine location,null,null,null,null,null,null
+732,Sandretto,Thomas,null,null,null,trammer ,Wolv C M Co,bds,null,null,14,1st,null,null,null,null,null,null
+733,Sarja,Hjalmer,null,null,null,tmstr ,Finnish Workmens CoOperative Co,res,null,null,null,null,null,null,null,null,Allouez,null
+734,Satterly,Carlos,null,null,null,lab ,OCM Co  N Kearsarge loc,bds,null,null,94,County rd N Kearsarge loc,null,null,null,null,null,null
+735,Satterly,Myrtle,null,null,null,tchr  ,N Kearsarge loc,bds,null,null,94,County rd N Kearsarge loc,null,null,null,null,null,null
+736,Satterly,Thomas,null,null,null,null,null,bds,null,null,94,County rd N Kearsage loc,null,null,null,null,null,null
+737,Satterly,Wm,G,null,Gertrude,engr ,OCM Co  N Kearsarge loc,res,null,null,94,County rd N Kearsarge loc,null,null,null,null,null,null
+738,Scavardo,Joseph,null,null,null,timberman ,OCM Co,bds,null,null,146,Water,null,null,null,null,null,null
+739,Schinisho,Andrew,null,null,Rosie,lab  ,Kearsarge loc,res,null,null,10,3d Kearsarge loc,null,null,null,null,null,null
+741,Schutte,George,M,null,null,fireman ,Wolverine C M Co,bds,null,null,238,Wolverine,null,null,null,null,null,null
+742,Schutte,Ida,null,null,wid Mikko,null,null,res,null,null,238,Wolverine,null,null,null,null,null,null
+743,Schutte,Marie,null,null,null,null,null,bds,null,null,238,Wolverine,null,null,null,null,null,null
+744,Schutte,Michael,null,jr,null,student,null,bds,null,null,238,Wolverine,null,null,null,null,null,null
+745,Searle,John,null,null,Susan J,dryman ,OCM Co  N Kearsarge loc,res,null,null,53,2d N Kearsarge loc,null,null,null,null,null,null
+747,Seira,John,null,null,null,miner ,O C M Co,bds,null,null,106,County rd,null,null,null,null,null,null
+748,Semiczek,Stanley,null,null,null,lab  ,Wolverine loc,bds,null,null,47,No 4 Wolverine loc,null,null,null,null,null,null
+750,Seppamaki,Peter,null,null,Katie,meats  ,Wolverine loc,res,es,null,null,null,1 ,n,null,null,null,null
+752,Servio,August,null,null,null,lab ,O C M Co,bds,null,null,226,Wolverine,null,null,null,null,null,null
+753,Shangary,Julius,null,null,null,trammer ,O C M Co,res,null,null,null,Bush House,null,null,null,null,null,null
+754,Sheehan,John,null,null,Margaret,miner ,O C M Co,res,null,null,37,S Kearsarge loc,null,null,null,null,null,null
+755,Sheehan,Marjorie,null,null,null,student,null,bds,null,null,37,S Kearsarge loc,null,null,null,null,null,null
+756,Sheer,Wm,A,null,null,miner  ,Kearsarge loc,bds,null,null,90,Church Kearsarge loc,null,null,null,null,null,null
+757,Sihtala,Arthur,null,null,null,hlpr ,Wolv C M Co  Wolverine loc,bds,null,null,115,4th Wolverine loc,null,null,null,null,null,null
+758,Sihtala,Emil,F,null,null,miner  ,Wolverine loc,bds,null,null,115,4th Wolverine loc,null,null,null,null,null,null
+759,Sihtala,Hilma,null,null,null,elk  ,Wolverine loc,bds,null,null,115,4th Wolverine loc,null,null,null,null,null,null
+760,Sihtala,Joshua,null,null,Lizzie,lab ,Wolv C M Co  Wolverine loc,res,null,null,115,4th Wolverine loc,null,null,null,null,null,null
+761,Sihtala,Lempi,null,null,null,dressmkr  ,Wolverine loc,bds,null,null,115,4th Wolverine loc,null,null,null,null,null,null
+762,Sihtala,Saima,null,null,null,null,null,bds,null,null,115,4th Wolverine loc,null,null,null,null,null,null
+763,Siirola,Amelia,null,null,null,null,null,bds,null,null,134,4th Wolverine loc,null,null,null,null,null,null
+764,Siirola,Andrew,null,null,Caroline,trammer ,O C M Co  Wolverine loc,res,null,null,134,4th Wolverine loc,null,null,null,null,null,null
+765,Siirola,Charles,null,null,null,lab  ,Wolverine loc,bds,null,null,134,4th Wolverine loc,null,null,null,null,null,null
+766,Siirola,Herman,null,null,null,lab  ,Wolverine loc,bds,null,null,134,4th Wolverine loc,null,null,null,null,null,null
+767,Siirola,Wm,null,null,null,lab  ,Wolverine loc,bds,null,null,134,4th Wolverine loc,null,null,null,null,null,null
+768,Silva,John,R,null,null,timberman ,Wolv C M Co,bds,null,null,14,1st,null,null,null,null,null,null
+772,Simko,John,null,null,null,trammer ,O C M Co,bds,null,null,17,3d,null,null,null,null,null,null
+773,Simon,George,null,null,Julia,trammer ,Wolv C M Co  Wolverine loc,res,null,null,84- 1/2,3d Wolverine loc,null,null,null,null,null,null
+774,Simula,Charles,null,null,null,trammer ,O C M Co,bds,null,null,223,Wolverine,null,null,null,null,null,null
+775,Sipos,Joseph,null,null,null,trammer ,Wolv C M Co  Wolverine loc,res,null,null,78,Branch Wolverine loc,null,null,null,null,null,null
+776,Sipos,Julius,null,null,null,lab  ,Wolverine loc,bds,null,null,78,Branch Wolverine loc,null,null,null,null,null,null
+777,Sipos,Lizzie,null,null,null,null,null,bds,null,null,78,Branch Wolverine loc,null,null,null,null,null,null
+778,Sipos,Michael,null,null,null,trammer ,Wolv C M Co  Wolverine loc,bds,null,null,78,Branch Wolverine loc,null,null,null,null,null,null
+779,Sleeman,Frederick,null,null,Florence,miner ,Wolv C M Co  Wolverine loc,res,null,null,251,County rd Wolverine loc,null,null,null,null,null,null
+780,Sleep,John,F,null,Mary,lab ,Wolv C M Co  Wolverine loc,res,null,null,190,Church Wolverine loc,null,null,null,null,null,null
+781,Sleep,Simon,null,null,Lillie,trammer boss ,Wolv C M Co  Wolverine loc,res,null,null,36,Smith av Wolverine loc,null,null,null,null,null,null
+783,SMITH,ROBERT,M,null,Sealmi,null,null,res,null,null,241,County rd Wolverine loc,null,null,null,null,null,null
+785,Snyitar,George,null,null,null,lab  ,Kearsarge loc,bds,null,null,285,County rd Kearsarge loc,null,null,null,null,null,null
+787,Sojko,Stephen,null,null,null,trammer ,O C M Co,bds,null,null,37,Wolverine Boundary,null,null,null,null,null,null
+789,Somero,Leo,null,null,null,trammer ,Wolv Copper M Co  Wolverine loc,bds,null,null,17,No 4 Wolverine loc,null,null,null,null,null,null
+790,Somero,Michael,null,null,Annie,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,17,No 4 Wolverine loc,null,null,null,null,null,null
+791,Soronen,Jacob,null,null,Margaret,null,null,res,null,null,119,County rd N Kearsarge loc,null,null,null,null,null,null
+793,Spoik,George,null,jr,null,trammer ,Wolv Copper M Co  N Kearsarge loc,bds,null,null,49,2d N Kearsarge loc,null,null,null,null,null,null
+794,Stanton,Frank,McM,null,null,treas ,Wolverine Copper Mining Co,res,null,null,null,null,null,null,null,null,New York,null
+795,Stanton,John,R,null,null,pres ,Wolverine Copper Mining Co,res,null,null,null,null,null,null,null,null,New York,null
+796,Stefan,John,null,null,null,trammer ,O C M Co,bds,null,null,25,3d,null,null,null,null,null,null
+797,Stefaniak,John,null,null,null,trammer ,O C M Co,bds,null,null,25,3d,null,null,null,null,null,null
+798,Stefaniak,Stanley,null,null,null,lab  ,Wolverine loc,bds,null,null,192,Railroad Wolverine loc,null,null,null,null,null,null
+799,Stevens,Thomas,null,null,Ann R,lab ,Wolv Copper M Co  Wolverine loc,res,null,null,26,Smith av Wolverine loc,null,null,null,null,null,null
+800,Stevens,Wm,null,null,null,miner ,Wolv Copper M Co  Wolverine loc,bds,null,null,26,Smith av Wolverine loc,null,null,null,null,null,null
+801,Stolorik,Stanley,null,null,null,lab  ,Wolverine loc,bds,null,null,192,R Road Wolverine loc,null,null,null,null,null,null
+802,Stromback,Charles,null,null,null,student  ,Kearsarge loc,bds,null,null,40,3d Kearsarge loc,null,null,null,null,null,null
+804,Stromback,Lillian,null,null,null,null,null,bds,null,null,40,3d Kearsarge loc,null,null,null,null,null,null
+805,Stromback,Oscar,null,null,Fiina,miner ,O C M Co  Kearsarge loc,res,null,null,40,3d Kearsarge loc,null,null,null,null,null,null
+806,Sullivan,John,J,null,null,miner,null,bds,null,null,37,S Kearsarge loc,null,null,null,null,null,null
+807,Summu,Noag,null,null,null,lab  ,Kearsarge loc,bds,null,null,23,2d Kearsarge loc,null,null,null,null,null,null
+809,Suri,Stephen,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,94,3d Wolverine loc,null,null,null,null,null,null
+810,Swandi,Fanny,null,null,null,null,null,bds,null,null,41,No 4 Wolverine loc,null,null,null,null,null,null
+811,Swandi,Rajaniemi,null,null,null,null,null,bds,null,null,45,No 4 Wolverine loc,null,null,null,null,null,null
+812,Swando,Pauli,null,null,Hannah,surfaceman  ,Wolverine loc,res,null,null,42,No 4 Wolverine loc,null,null,null,null,null,null
+813,Swinton,Bruce,W,null,Lillian,watchman ,O C M Co  N Kearsarge loc,res,null,null,123,County rd N Kearsarge loc,null,null,null,null,null,null
+816,Symons,John,null,null,Sadie,miner ,Wolv Copper M Co  Wolverine loc,res,null,null,249,County rd Wolverine loc,null,null,null,null,null,null
+817,Szabo,Alexander,null,null,null,lab  ,Wolverine loc,bds,null,null,114,4th Wolverine loc,null,null,null,null,null,null
+818,Szabo,Andrew,null,null,null,trammer ,Wolv Copper M Co  Wolverine loc,bds,null,null,135,4th Wolverine loc,null,null,null,null,null,null
+819,Szabo,Joseph,null,null,null,trammer ,O C M Co,bds,null,null,191,Railroad,null,null,null,null,null,null
+820,Szabo,Louis,null,null,null,lab  ,Kearsarge loc,bds,null,null,6,3d Kearsarge loc,null,null,null,null,null,null
+822,Szabo,Peter,null,null,Mary,trammer ,Wolv Copper M Co  Kearsarge loc,res,null,null,125,3d Kearsarge loc,null,null,null,null,null,null
+823,Szabo,Stephen,null,null,null,trammer ,O C M Co  Wolverine loc,res,null,null,133,4th Wolverine loc,null,null,null,null,null,null
+824,Szafoniar,Joseph,null,null,null,trammer ,O C M Co,bds,null,null,191,Railroad,null,null,null,null,null,null
+825,Szajko,Steven,null,null,null,miner  ,Wolverine loc,bds,null,null,164,Railroad Wolverine loc,null,null,null,null,null,null
+826,Szanyi,Alexander,null,null,null,lab ,O C M Co  Kearsarge loc,bds,null,null,25,3d Kearsarge loc,null,null,null,null,null,null
+827,Szanyi,John,null,null,Elizabeth,lab ,O C M Co  Kearsarge loc,res,null,null,25,3d Kearsarge loc,null,null,null,null,null,null
+828,Szanyi,Michael,null,null,null,trammer ,O C M Co  Kearsarge loc,bds,null,null,25,3d Kearsarge loc,null,null,null,null,null,null
+829,Szarta,Michael,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,91,3d Wolverine loc,null,null,null,null,null,null
+832,Szidney,John,null,null,null,trammer ,Wolv C M Co  Wolverine loc,bds,null,null,163,Water Wolverine loc,null,null,null,null,null,null
+833,Sziniczko,John,null,null,Mary,trammer ,Wolv C M Co  Wolverine loc,res,null,null,91,3d Wolverine loc,null,null,null,null,null,null
+835,Szoldus,James,null,null,null,lab,null,bds,null,null,84- 1/2,3d Wolverine loc,null,null,null,null,null,null
+837,Szucs,Manuel,null,null,May,trammer ,OCM Co  Wolverine loc,res,null,null,46,Smith av Wolverine loc,null,null,null,null,null,null
+838,Szucs,Martin,null,null,null,trammer ,OCM Co,bds,null,null,188,Railroad,null,null,null,null,null,null
+839,Szucs,Stephen,null,null,Lydia,trammer ,Wolv C M Co  Wolverine loc,res,null,null,94,3d Wolverine loc,null,null,null,null,null,null
+840,Szucs,Stephen,null,jr,null,lab  ,Wolverine loc,bds,null,null,94,3d Wolverine loc,null,null,null,null,null,null
+841,Szugar,Michael,null,null,null,lab  ,Wolverine loc,bds,null,null,114,4th Wolverine loc,null,null,null,null,null,null
+842,Szymaczyk,Anton,null,null,null,trammer ,OCM Co,bds,null,null,234,4th,null,null,null,null,null,null
+845,Takacs,Andrew,null,null,null,trammer ,OCM Co,bds,null,null,114,4th,null,null,null,null,null,null
+847,Takacs,John,null,null,Mary,lab  ,Kearsarge loc,res,null,null,9,3d Kearsarge loc,null,null,null,null,null,null
+848,Talvensaari,Sarah,null,null,null,tchr ,Wolverine School,res,null,null,null,null,null,null,null,null,Centennial Hgts,null
+849,Tami,Najk,null,null,null,miner  ,Wolverine loc,bds,null,null,184,Railroad Wolverine loc,null,null,null,null,null,null
+851,Taube,Casper,null,null,null,lab  ,Wolverine loc,res,null,null,89,3d Wolverine loc,null,null,null,null,null,null
+853,Teper,John,null,null,null,trammer ,O C M Co,bds,null,null,199,Railroad,null,null,null,null,null,null
+855,Terrill,Wm,J,null,Susan,miner ,O C M Co  Kearsarge loc,res,null,null,4,Mine rd Kearsarge loc,null,null,null,null,null,null
+856,Thomas,Charles,null,null,Jane,miner ,O C M Co  Kearsarge loc,res,null,null,105,County rd Kearsarge loc,null,null,null,null,null,null
+857,Thomas,Edgar,null,null,null,blksmith ,O C M Co  Kearsarge loc,bds,null,null,10,1st Kearsarge loc,null,null,null,null,null,null
+859,Thomas,John,M,null,Hannah,miner  ,N Kearsarge loc,res,null,null,288,County rd N Kearsarge loc,null,null,null,null,null,null
+861,Thomas,Richard,J,null,Elizabeth,blksmith foreman ,OCM Co,res,null,null,2,1st Kearsarge loc,null,null,null,null,null,null
+862,Thompson,Thomas,null,null,Marie,tmstr  ,Wolverine loc,res,null,null,65,2d Wolverine loc,null,null,null,null,null,null
+865,Tippett,Gladys,null,null,null,null,null,bds,null,null,75,2d N Kearsarge loc,null,null,null,null,null,null
+867,Tobias,Frank,null,null,null,trammer ,OCM Co  Wolverine loc loc,bds,null,null,84- 1/2,3d Wolverine loc loc,null,null,null,null,null,null
+868,Tobias,John,null,null,null,trammer ,OCM Co,bds,null,null,25,3d,null,null,null,null,null,null
+869,Tobort,Casper,null,null,null,trammer ,OCM Co,bds,null,null,188,Railroad,null,null,null,null,null,null
+870,Tomasi,Dominic,null,null,Josephine,trammer ,OCM Co,res,es,null,null,null,1 ,n,null,J Elmer Mattso Wolverie loc,null,null
+874,Torak,Louis,null,null,Mary,trammer ,OCM Co  Wolverine loc,res,null,null,18,No 4 Wolverine loc,null,null,null,null,null,null
+875,Tortenovich,Gustin,null,null,null,trammer  ,No 4 Wolverine loc,bds,null,null,47,No 4 Wolverine loc,null,null,null,null,null,null
+877,Tossava,Edla,A,null,null,bkpr ,Finnish Workmens CoOperative Co  Wolverine loc,bds,null,null,47,Smith av Wolverine loc,null,null,null,null,null,null
+878,Tossava,Matthew,null,null,Amanda,pres ,Finnish Workmens CoOperative Co  Wolverine loc,res,null,null,47,Smith av Wolverine loc,null,null,null,null,null,null
+879,Toth,Albert,null,null,null,trammer ,OCM Co,bds,null,null,188,Railroad,null,null,null,null,null,null
+880,Toth,John,null,null,Mary,trammer ,Wolv C M Co  N Kearsarge loc,res,null,null,49,2d N Kearsarge loc,null,null,null,null,null,null
+882,Toth,Louis,null,null,null,lab ,O CM Co  Wolverine loc,bds,null,null,114,4th Wolverine loc,null,null,null,null,null,null
+883,Toth,Stephen,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,184,Railroad Wolverine loc,null,null,null,null,null,null
+884,Toth,Stephen,null,null,null,trammer ,Wolv C M Co  Kearsarge loc,bds,null,null,17,3d Kearsarge loc,null,null,null,null,null,null
+885,Toth,Stephen,M,null,null,trammer ,O C M Co  Kearsarge loc,bds,null,null,50,Church Kearsarge loc,null,null,null,null,null,null
+886,Toy,Richard,null,null,null,miner ,O C M Co,bds,null,null,105,County rd,null,null,null,null,null,null
+887,Tregear,George,null,null,Annie R,miner,null,res,null,null,14,S Kearsarge loc,null,null,null,null,null,null
+888,Tremberth,David,I,null,null,oiler ,OCM Co  N Kearsarge loc,bds,null,null,136,County rd N Kearsarge loc,null,null,null,null,null,null
+889,Tremberth,Edward,R,null,null,student  ,N Kearsarge loc,bds,null,null,136,County rd N Kearsarge loc,null,null,null,null,null,null
+890,Tremberth,E,Jennie,null,wid W Thomas,null,null,res,null,null,136,County rd N Kearsarge loc,null,null,null,null,null,null
+891,Tremberth,Frank,null,null,Florence,miner ,OCM Co  N Kearsarge loc,res,null,null,89,2d N Kearsarge loc,null,null,null,null,null,null
+892,Tremberth,Wm,C,null,null,timekpr  ,N Kearsarge loc,bds,null,null,136,County rd N Kearsarge loc,null,null,null,null,null,null
+893,Tresidder,Wm,A,null,null,pumpman ,OCM Co,bds,null,null,107,Mine,null,null,null,null,null,null
+894,Trethewey,Richard,null,null,Minnie,miner ,OCM Co  S Kearsarge loc,res,null,null,19,1st S Kearsarge loc,null,null,null,null,null,null
+895,Trezise,John,null,null,Salome,trammer boss ,Wolv C M Co  Wolverine loc,res,null,null,24,Smith av Wolverine loc,null,null,null,null,null,null
+896,Trezise,Thomas,null,null,null,miner ,OCM Co,bds,null,null,59,2d,null,null,null,null,null,null
+897,Trezise,Wm,null,null,Margaret A,shift boss ,OCM Co  Kearsarge loc,res,null,null,95,County rd Kearsarge loc,null,null,null,null,null,null
+898,Trounce,Joseph,null,null,null,null,null,bds,null,null,94,County rd N Kearsarge loc,null,null,null,null,null,null
+899,Trudell,Bertha,null,null,null,elk,null,bds,null,null,208,Wolverine,null,null,null,null,null,null
+900,Trudell,Clara,null,null,null,null,null,bds,null,null,208,Wolverine,null,null,null,null,null,null
+901,Trudell,Dora,null,null,null,null,null,bds,null,null,208,Wolverine,null,null,null,null,null,null
+902,Trudell,Thomas,null,null,Angeldia,fireman ,Wolv C M Co,res,null,null,208,Wolverine,null,null,null,null,null,null
+903,Trudell,Wm,null,null,null,oiler ,Wolv C M Co,bds,null,null,208,Wolverine,null,null,null,null,null,null
+904,Trudgeon,Robert,null,null,Caroline,miner ,OCM Co,res,null,null,20,S Kearsarge loc,null,null,null,null,null,null
+905,Trufa,John,null,null,null,timberman ,OCM Co  Wolverine loc,bds,null,null,53,3d Wolverine loc,null,null,null,null,null,null
+907,Tulppo,Herman,null,null,Ida,lab ,Wolv C M Co  Wolverine loc,res,null,null,139,Water Wolverine loc,null,null,null,null,null,null
+908,Tulppo,John,null,null,Lizzie,lab ,Wolv C M Co  Wolverine loc,res,null,null,154,Water Wolverine loc,null,null,null,null,null,null
+910,Tulppo,Michael,null,null,Elizabeth,miner ,Wolv C M Co  Wolverine loc,res,null,null,102,3d Wolverine loc,null,null,null,null,null,null
+911,Tuomaala,Ina,null,null,wid Matt,null,null,res,null,null,113,County rd N Kearsarge loc,null,null,null,null,null,null
+913,Tussala,Charles,null,null,Annie,elk  ,Wolverine loc,res,null,null,60,2d Wolverine loc,null,null,null,null,null,null
+915,Ukos,John,null,null,null,trammer ,O C M Co  Wolverine loc,bds,null,null,191,Railroad Wolverine loc,null,null,null,null,null,null
+917,Unguran,John,null,null,null,trammer ,O C M Co,bds,null,null,188,Railroad,null,null,null,null,null,null
+918,Urban,Andrew,null,Rev,null,pastor ,Hungarian Reformed Church  Wolverine loc,res,null,null,302,Church Wolverine loc,null,null,null,null,null,null
+919,Uren,Albert,H,null,Marion,mine capt ,O C M Co,res,null,null,1,S Kearsarge loc,null,null,null,null,null,null
+920,Uren,Herbert,H,null,null,asst mine capt ,O C M Co,bds,null,null,1,1st,null,null,null,null,null,null
+921,Uren,Samuel,null,null,null,miner ,O C M Co,bds,null,null,105,County rd,null,null,null,null,null,null
+922,Ustti,Stephen,null,null,null,lab  ,Kearsarge loc,bds,null,null,48,Church Kearsarge loc,null,null,null,null,null,null
+923,Uveges,Alexander,null,null,null,trammer ,OCM Co,bds,null,null,25,3d,null,null,null,null,null,null
+924,Uveges,John,null,null,null,trammer ,OCM Co,bds,null,null,25,3d,null,null,null,null,null,null
+925,Uusitala,Hjalmar,null,null,Nimei,null,null,res,null,null,74,Mine Wolverine loc,null,null,null,null,null,null
+927,Uutti,Isaac,null,null,Eliza E,farmer  ,Wolverine location,res,null,null,35,Smith av Wolverine location,null,null,null,null,null,null
+928,Uutti,John,null,null,null,null,null,bds,null,null,35,Smith av Wolverine loc,null,null,null,null,null,null
+929,Vaini,Stephen,null,null,null,trammer ,OCM Co,bds,null,null,188,Railroad,null,null,null,null,null,null
+931,VanOrchard,Benjamin,F,null,Caroline,blksmith foreman  ,Kearsarge loc,res,null,null,97,County rd Kearsarge loc,null,null,null,null,null,null
+932,VanOrchard,Francis,H,null,null,blksmith  ,Kearsarge loc,bds,null,null,97,County rd Kearsarge loc,null,null,null,null,null,null
+934,Vargo,Alex,null,null,Julia,trammer ,Wolv C M Co  Wolverine loc,res,null,null,163,Water Wolverine loc,null,null,null,null,null,null
+936,Vargo,George,A,null,null,trammer ,OCM Co,bds,null,null,188,Railroad,null,null,null,null,null,null
+937,Vargo,John,null,null,null,trammer ,OCM Co,bds,null,null,1,Bush House,null,null,null,null,null,null
+938,Vargo,Joseph,null,null,null,trammer ,OCM Co,bds,null,null,25,3d,null,null,null,null,null,null
+940,Vass,John,null,null,null,trammer ,OCM Co,bds,null,null,94,3d,null,null,null,null,null,null
+942,Veale,Christopher,null,null,null,miner ,OCM Co  Kearsarge loc,bds,null,null,26,3d Kearsarge loc,null,null,null,null,null,null
+943,Veale,Edward,null,null,Jennie H,miner ,OCM Co  Kearsarge loc,res,null,null,103,County rd Kearsarge loc,null,null,null,null,null,null
+944,Veale,John,null,null,Florence N,miner ,OCM Co  Kearsarge loc,res,null,null,26,3d Kearsarge loc,null,null,null,null,null,null
+945,Veale,Joshua,D,null,Caroline,supply elk ,O C M Co  Kearsarge loc,res,null,null,124,County rd Kearsarge loc,null,null,null,null,null,null
+948,Veale,Wm,S,null,Bessie,miner ,O CM Co  Kearsarge loc,res,null,null,70,Church Kearsarge loc,null,null,null,null,null,null
+949,Veek,Louis,null,null,null,lab  ,Kearsarge loc,bds,null,null,48,Church Kearsarge loc,null,null,null,null,null,null
+951,Vendlik,Joseph,null,null,null,miner  ,Wolverine loc,bds,null,null,184,Railroad Wolverine loc,null,null,null,null,null,null
+952,Venning,Grace,null,null,null,null,null,bds,null,null,10,1st,null,null,null,null,null,null
+953,Venning,James,null,null,Grace,miner ,Wolv C M Co,res,null,null,10,1st,null,null,null,null,null,null
+954,Venning,James,H,null,null,elk ,null,bds,null,null,10,1st,null,null,null,null,null,null
+955,Verderbev,Martin,null,null,null,shift boss ,O C M Co,res,null,null,8,S Kearsarge loc,null,null,null,null,null,null
+956,Veres,Andrew,null,null,Esther,surfaceman ,O C M Co,res,null,null,27,3d,null,null,null,null,null,null
+957,Veres,George,null,null,Barbara,miner  ,Wolverine loc,res,null,null,63,2d Wolverine loc,null,null,null,null,null,null
+959,Verrish,Alex,null,null,null,null,null,bds,null,null,57,2d Wolverine loc,null,null,null,null,null,null
+960,Verrish,Julius,null,null,null,lab  ,Wolverine loc,bds,null,null,57,2d Wolverine loc,null,null,null,null,null,null
+961,Verrish,Mike,null,null,Maggie,miner  ,Wolverine loc,res,null,null,57,2d Wolverine loc,null,null,null,null,null,null
+963,Viljanen,Isaac,null,null,null,lab  ,Wolverine loc,bds,null,null,56,2d Wolverine loc,null,null,null,null,null,null
+964,Viljanen,Samuel,null,null,Mary,null,null,res,null,null,56,2d Wolverine loc,null,null,null,null,null,null
+965,Vincent,James,H,null,Mary E,miner  ,Kearsarge loc,res,null,null,283,County rd Kearsarge loc,null,null,null,null,null,null
+966,Vincent,J,Percy,null,null,tmstr ,J P Petermann  Kearsarge loc,bds,null,null,283,County rd Kearsarge loc,null,null,null,null,null,null
+967,Vincent,Reho,null,null,null,lab  ,Wolverine loc,bds,null,null,91,3d Wolverine loc,null,null,null,null,null,null
+968,Vincze,Mayer,null,null,Esther,lab  ,Kearsarge location,res,null,null,50,Church Kearsarge location,null,null,null,null,null,null
+970,Vivian,Sarah,null,Mrs,null,null,null,bds,null,null,3,S Kearsarge loc,null,null,null,null,null,null
+972,Vorgar,George,null,null,null,lab  ,Kearsarge loc,bds,null,null,50,Church Kearsarge loc,null,null,null,null,null,null
+974,Wahtola,Hilma,null,null,null,null,null,bds,null,null,121,4th Wolverine loc,null,null,null,null,null,null
+975,Wahtola,Jonas,null,null,Mary,lab ,Wolv C M Co  Wolverine loc,res,null,null,121,4th Wolverine loc,null,null,null,null,null,null
+976,Wahtala,Jonas,null,jr,null,tmstr ,Finnish Workmens CoOperative Co  Wolverine loc,bds,null,null,121,4th Wolverine loc,null,null,null,null,null,null
+977,Wahtola,Win,null,null,null,null,null,bds,null,null,121,4th Wolverine loc,null,null,null,null,null,null
+978,Waimamen,Arthur,null,null,01ga,miner  ,Wolverine loc,res,null,null,45,No 4 Wolverine loc,null,null,null,null,null,null
+979,Wanha,Matti,null,null,Erika,lab,null,res,null,null,201,Wolverine,null,null,null,null,null,null
+980,Wanhapiha,Selma,null,null,null,tchr ,Wolverine School,res,null,null,null,null,null,null,null,null,Centennial Hgts,null
+981,Wank,John,null,null,null,lab  ,Kearsarge loc,bds,null,null,6,3d Kearsarge loc,null,null,null,null,null,null
+982,Wanttaja,Gustaf,null,null,Maude,watchman ,Wolv C M Co  Wolverine loc,res,null,null,106,Branch Wolverine loc,null,null,null,null,null,null
+983,Wanttya,Hulda,null,null,null,null,null,bds,null,null,106,Branch Wolverine loc,null,null,null,null,null,null
+985,Wargo,Jerg,null,null,Elizabeth,lab  ,Kearsarge loc,res,null,null,23,3d Kearsarge loc,null,null,null,null,null,null
+987,Wargo,Joseph,null,null,null,lab  ,Kearsarge loc,bds,null,null,48,Church Kearsarge loc,null,null,null,null,null,null
+988,Warne,Ernest,J,null,Annie,miner ,O C M Co  N Kearsarge loc,res,null,null,83,2d N Kearsarge loc,null,null,null,null,null,null
+989,Warne,Ernest,V,null,null,bkpr ,Wolverine M Market  Laurium,res,null,null,231,Kearsarge Laurium,null,null,null,null,null,null
+990,Was,John,null,null,Susanna,lab  ,Kearsarge,res,null,null,6,3d Kearsarge,null,null,null,null,null,null
+991,Wasscal,Joseph,null,null,null,lab  ,Kearsarge loc,bds,null,null,23,3d Kearsarge loc,null,null,null,null,null,null
+992,Wawrazyniak,Anton,null,null,Helen,lander ,Wolv C M Co  Wolverine loc,res,null,null,192,R Road Wolverine loc,null,null,null,null,null,null
+993,Wawrazyniak,Frank,null,null,null,student  ,Wolverine location,bds,null,null,192,R Road Wolverine location,null,null,null,null,null,null
+994,Wearne,Richard,J,null,null,timberman ,OCM Co,bds,null,null,118,County rd,null,null,null,null,null,null
+995,Wedlock,Thomas,H,null,Mary,lab ,Wolv C M Co  Wolverine loc,res,null,null,93,3d Wolverine loc,null,null,null,null,null,null
+996,Wedlock,Thomas,J,null,null,lab  ,Wolverine loc,bds,null,null,93,3d Wolverine loc,null,null,null,null,null,null
+998,Weir,Richard,J,null,null,miner  ,Kearsarge loc,bds,null,null,54,Church Kearsarge loc,null,null,null,null,null,null
+999,Whear,Florence,null,null,null,student,null,bds,null,null,217,Wolverine,null,null,null,null,null,null
+1000,Whear,Wm,PI,null,Eliza,miner ,Wolv C M Co,res,null,null,217,Wolverine,null,null,null,null,null,null
+1001,Whetter,George,H,null,Martha,miner ,OCM Co,res,null,null,34,S Kearsarge loc,null,null,null,null,null,null
+1002,Whetter,Mary,null,null,null,null,null,bds,null,null,34,S Kearsarge loc,null,null,null,null,null,null
+1003,Whetter,Wm,null,null,null,student,null,bds,null,null,34,S Kearsarge loc,null,null,null,null,null,null
+1004,White,Bernice,null,null,null,student  ,Wolverine location,bds,null,null,246,County rd Wolverine location,null,null,null,null,null,null
+1005,White,Cyril,J,null,null,student  ,Kearsarge loc,bds,null,null,122,County rd Kearsarge loc,null,null,null,null,null,null
+1006,White,Fannie,null,null,null,tchr ,Wolverine School,res,null,null,null,null,null,null,null,null,Calumet,null
+1007,White,James,null,null,Jane,compressor runner ,Wolv C M Co  Wolverine loc,res,null,null,278,County rd Wolverine loc,null,null,null,null,null,null
+1008,White,James,H,null,Flora,trammer boss ,Wolv C M Co  Wolverine loc,res,null,null,274,County rd Wolverine loc,null,null,null,null,null,null
+1009,White,Joshua,null,null,Mary G,miner ,OCM Co  Kearsarge loc,res,null,null,122,County rd Kearsarge loc,null,null,null,null,null,null
+1010,White,Joshua,D,null,null,miner  ,Kearsarge location,bds,null,null,122,County rd Kearsarge location,null,null,null,null,null,null
+1011,White,Julius,P,null,Annie,elk ,J P Petermann  Wolverine loc,res,null,null,246,County rd Wolverine loc,null,null,null,null,null,null
+1012,White,Peter,C,null,null,boiler washer ,O C M Co  Kearsarge loc,bds,null,null,122,County rd Kearsarge loc,null,null,null,null,null,null
+1013,White,Thomas,null,null,null,janitor ,Wolverine School  Wolverine loc,bds,null,null,278,County rd Wolverine loc,null,null,null,null,null,null
+1014,Whitegreaves,John,null,null,Alfreda,miner ,Wolv C M Co  Wolverine loc,res,null,null,31,Smith av Wolverine loc,null,null,null,null,null,null
+1015,Whitegreaves,Pearl,null,null,null,student  ,Wolverine location,bds,null,null,31,Smith av Wolverine location,null,null,null,null,null,null
+1016,Whitford,John,E,null,Julia,engr ,O C M Co  Kearsarge loc,res,null,null,127,Spruce Kearsarge loc,null,null,null,null,null,null
+1017,Whitford,Mary,null,null,wid Stephen,null,null,res,null,null,119,County rd N Kearsarge loc,null,null,null,null,null,null
+1021,Williams,Alfred,null,null,null,trammer ,Wolv C M Co  Kearsarge loc,bds,null,null,4,Mine Kearsarge loc,null,null,null,null,null,null
+1022,Williams,Aloise,null,null,null,tchr,null,bds,null,null,3,1st,null,null,null,null,null,null
+1023,Williams,Arthur,B,null,Sarah,mining capt ,Wolv C M Co,res,null,null,3,1st,null,null,null,null,null,null
+1024,Williams,Carmen,B,null,null,elk  ,N Kearsarge loc,bds,null,null,111,County rd N Kearsarge loc,null,null,null,null,null,null
+1025,Williams,Cecil,C,null,null,miner,null,bds,null,null,215,Wolverine,null,null,null,null,null,null
+1026,Williams,Clyde,J,null,null,miner ,Wolv C M Co,bds,null,null,215,Wolverine,null,null,null,null,null,null
+1027,Williams,George,H,null,null,miner ,Wolv C M Co  N Kearsarge loc,bds,null,null,111,County rd N Kearsarge loc,null,null,null,null,null,null
+1028,Williams,James,null,null,Minnie,miner ,Wolv C M Co,res,null,null,215,Wolverine,null,null,null,null,null,null
+1029,Williams,John,null,null,null,surfaceman  ,Wolverine location,bds,null,null,177,Railroad Wolverine location,null,null,null,null,null,null
+1030,Williams,John,W,null,null,office boy ,O C M Co,bds,null,null,3,1st,null,null,null,null,null,null
+1031,Williams,Louise,null,Mrs,null,null,null,bds,null,null,81,2d N Kearsarge loc,null,null,null,null,null,null
+1032,Williams,Lucy,M,null,null,elk  ,N Kearsarge location,bds,null,null,111,County rd N Kearsarge location,null,null,null,null,null,null
+1033,Williams,Raymond,J,null,Elizabeth,engr,null,res,null,null,29,S Kearsarge loc,null,null,null,null,null,null
+1034,Williams,Richard,null,null,null,miner,null,bds,null,null,215,Wolverine,null,null,null,null,null,null
+1035,Williams,Richard,W,null,Mary,surfaceman  ,N Kearsarge loc,res,null,null,111,County rd N Kearsarge loc,null,null,null,null,null,null
+1036,Williams,Roy,null,null,null,engr ,O C M Co,bds,null,null,29,2d,null,null,null,null,null,null
+1037,Williams,Wm,R,null,null,foreman ,O C M Co,bds,null,null,111,County rd,null,null,null,null,null,null
+1038,Willoughby,John,null,null,Annie,janitor ,O C M Co,bds,null,null,21,S Kearsarge loc,null,null,null,null,null,null
+1039,Willoughby,Sampson,null,null,null,miner ,O C M Co,bds,null,null,21,S Kearsarge loc,null,null,null,null,null,null
+1042,Wilson,James,null,null,Lydia,sausagemkr ,Wolverine M Market  Kearsarge loc,res,null,null,265,County rd Kearsarge loc,null,null,null,null,null,null
+1043,Wilson,Wm,null,null,Annie,butcher ,Wolverine M Market  Kearsarge loc,res,null,null,225,Wolverine Kearsarge loc,null,null,null,null,null,null
+1044,Winquist,Frederick,null,null,Mary,miner  ,Wolverine loc,res,null,null,151,Water Wolverine loc,null,null,null,null,null,null
+1045,Wirtz,Adolph,null,null,Fredericka,foreman ,Wolv C M Co  Wolverine loc,res,null,null,23,Smith av Wolverine loc,null,null,null,null,null,null
+1050,Wuorri,Hilma,null,null,null,smstrs  ,Wolverine loc,bds,null,null,143,Water Wolverine loc,null,null,null,null,null,null
+1051,Wuorri,Mamie,null,null,null,null,null,bds,null,null,143,Water Wolverine loc,null,null,null,null,null,null
+1052,Wuorri,Matti,null,Mrs,wid Matti,null,null,res,null,null,143,Water Wolverine loc,null,null,null,null,null,null
+1053,Wuorri,Siikrie,null,null,null,null,null,bds,null,null,143,Water Wolverine loc,null,null,null,null,null,null
+1054,Wyatt,Charles,null,null,Ethel,miner ,Wolv C M Co,res,null,null,212,Wolverine,null,null,null,null,null,null
+1058,Ylinen,Valentine,null,null,null,timberman ,O C M Co,bds,null,null,223,Wolverine,null,null,null,null,null,null
+1059,Ylisto,Onni,null,null,null,miner  ,Wolverine loc,res,null,null,118,4th Wolverine loc,null,null,null,null,null,null
+1060,Yoo,Louis,null,null,null,saloon ns ,County rd,res,null,null,2,e Charles Brown,null,null,null,null,null,null
+1063,Yuhasz,John,null,null,null,trammer ,O C M Co,bds,null,null,188,Railroad,null,null,null,null,null,null
+1068,Zega,Alex,null,null,null,miner  ,Wolverine loc,bds,null,null,63,2d Wolverine loc,null,null,null,null,null,null
+1072,Zoldos,James,null,null,null,trammer ,O C M Co,bds,null,null,188,Railroad,null,null,null,null,null,null
+1073,Zsiga,Sandor,null,null,null,trammer ,O C M Co,bds,null,null,191,Railroad,null,null,null,null,null,null
+1074,Zsoldos,James,null,null,null,lab  ,Wolverine loc,bds,null,null,94,3d Wolverine loc,null,null,null,null,null,null
+6,Gazy,Surface,null,null,null,elk,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+11,Giacoletto,Charles,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+15,Gibson,Henry,null,null,null,miner,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+18,Gidley,James,null,null,null,hlpr,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+38,Gregory,Joseph,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+43,Gustafson,Samuel,null,null,null,miner,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+46,Gyori,Louis,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+49,Hajko,Michael,null,null,null,surfaceman,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+51,Halasz,Benjamin,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+69,Harrington,Bridget,null,null,null,tchr,Kearsarge Public School,null,null,null,null,null,null,null,null,null,null,null
+78,Harris,John,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+79,Harris,Samuel,J,null,null,miner,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+98,Heitala,John,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+102,Hercsinger,Joseph,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+110,Hiltunen,Emil,null,null,null,miner,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+124,Holm,John,null,null,null,pumpman,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+125,Holman,Richard,H,null,null,miner,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+126,Holman,Walter,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+130,kanen,John,null,Hon,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+144,Jaakkola,Charles,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+145,Jackson,Charles,null,null,null,elk,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+158,Jarvi,John,K,null,null,vicepres,Finnish Workmens Cooperative Co,null,null,null,null,null,null,null,null,null,null,null
+165,Johnson,Paul,null,null,null,lab,Wolverine Copper Mining Co,null,null,null,null,null,null,null,null,null,null,null
+167,Johnson,Raymond,null,null,null,rollerman,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+173,Jones,Arthur,C,null,null,agt,Mineral Range R R,null,null,null,null,null,null,null,null,null,null,null
+179,Juntunen,August,null,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+180,Juopperi,Elena,null,null,null,housekpr,130 County rd N Kearsarge loc,null,null,null,null,null,null,null,null,null,null,null
+187,Kapanen,John,null,null,null,trammer,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+188,Karapettoff,Meno,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+190,Kaspear,Joseph,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+198,Keast,Loveday,E,null,null,dom,239 County rd Wolverine loc,null,null,null,null,null,null,null,null,null,null,null
+206,Kendall,Harry,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+211,Kerek,Stephen,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+212,Ketsic,Anselm,null,null,null,miner,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+213,Killacky,Lem,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+215,Kingstrom,Victor,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+219,Kis,Joseph,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+220,Kis,Louis,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+223,Kitto,James,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+235,Koopikka,John,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+241,Korkko,Esther,E,null,null,dom,J Elmer Mattson Wolverine loc,null,null,null,null,null,null,null,null,null,null,null
+242,Korpela,Nils,J,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+251,Kosstyo,Ferenes,null,null,null,trammer,O C M Co 3d Kearsarge loc,null,null,null,null,null,null,null,null,null,null,null
+253,Kostuk,Wasilow,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+255,Koukkari,August,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+277,Kulich,Stephen,null,null,null,shoemkr,Wolverine loc,null,null,null,null,null,null,null,null,null,null,null
+278,Kulicoff,Stephen,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+288,Lahti,Emil,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+319,Lasanen,Simon,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+326,Lazonoff,Fred,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+328,Legeny,Andrew,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+339,Leikep,Joseph,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+347,Lewsku,John,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+352,Lipcherski,Andro,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+354,Little,Alma,null,null,null,elk,Victor Little,null,null,null,null,null,null,null,null,null,null,null
+355,Little,Victor,null,null,null,confr,288 County rd Wolverine loc,null,null,null,null,null,null,null,null,null,null,null
+357,Littlejohns,Thomas,J,jr,null,miner,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+374,McNabb,Isabelle,null,null,null,tchr,Kearsarge Public School,null,null,null,null,null,null,null,null,null,null,null
+376,Maatta,Charles,null,null,null,miner,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+382,MacRae,John,null,null,null,phys,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+385,Magahay,Hamilton,null,Rev,Mary,pastor,Methodist Episcopal Church ss County rd 1 e 295 Kearsarge loc,null,null,null,null,null,null,null,null,null,null,null
+386,Magahay,Harry,H,null,null,student,bjis Rev Hamilton Magahay,null,null,null,null,null,null,null,null,null,null,null
+390,Marinca,Filip,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+391,Markosoff,Michael,null,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+395,Martino,Battiste,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+396,Martino,Joseph,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+401,Massa,Dominick,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+409,Matta,Wm,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+416,Matyas,John,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+417,Melkanoff,Aram,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+419,Merlo,Sabino,null,null,null,trammer,Wofv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+429,Mette,Joseph,C,null,null,electn,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+432,Michela,Josephine,null,null,null,dom,Bartholomew Cresto,null,null,null,null,null,null,null,null,null,null,null
+433,Mihelich,Joseph,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+436,Minasahonoff,Anton,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+439,Miszaros,Alexander,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+441,Moilanen,Henry,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+442,Molinko,Louis,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+448,Movah,Michael,null,null,null,lab,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+449,Moyer,Vincent,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+450,Mulin,Peter,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+453,Muntek,Stephen,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+459,Mussatto,Oresti,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+463,Nagy,Samuel,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+468,Nelkisetoff,Ananias,null,null,null,trammer,OCM Co,null,null,null,null,null,null,null,null,null,null,null
+485,Nowak,Frank,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+486,Nowak,John,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+487,Nowak,Joseph,null,null,null,trammer,OCMCo,null,null,null,null,null,null,null,null,null,null,null
+492,01ah,Frank,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+511,Ostrom,Oscar,null,null,null,painter,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+513,Pall,Frank,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+517,Paloggi,John,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+518,Paloggi,Menghert,null,null,null,timberman,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+519,Papovics,John,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+521,Parske,Einard,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+529,Patcoghagi,John,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+539,Pearce,James,null,null,null,miner,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+545,Perono,Charles,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+546,Perono,Lodovico,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+552,Perry,Wm,H,null,null,miner,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+553,Persely,John,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+555,Pesonen,Eli,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+556,Petaja,Isaac,null,null,null,trammer,OCMCo,null,null,null,null,null,null,null,null,null,null,null
+576,Phillips,Arthur,null,null,null,dr,bartn John Phillips,null,null,null,null,null,null,null,null,null,null,null
+578,Phillips,Frank,null,null,null,foreman,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+585,Picchiottino,Batiste,null,null,null,timberman,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+605,Pinter,Joseph,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+610,Polglase,Edward,H,null,null,engr,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+626,Popp,Frank,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+633,Posh,John,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+634,Priamo,Pilloni,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+639,Pullet,Stella,null,null,null,dom,3 1st,null,null,null,null,null,null,null,null,null,null,null
+651,Raiha,Ronald,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+654,Rakaczky,Stephen,null,null,null,fireman,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+658,Ranta,Arthur,null,null,null,lab,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+659,Ranta,Saima,null,null,null,elk,Finnish Workmens CoOperative Co Wolverine loc,null,null,null,null,null,null,null,null,null,null,null
+663,Ratushnek,Platon,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+670,Relicki,George,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+678,Rigo,James,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+684,Roberts,Stanley,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+686,Roczi,Andrew,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+688,Rompanen,Jacob,null,null,null,lab,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+707,Rowe,Wm,J,null,null,dryman,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+709,Rule,Arthur,null,null,null,miner,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+711,Rusko,Nora,null,null,null,tchr,Kearsarge School,null,null,null,null,null,null,null,null,null,null,null
+716,Sakinen,Matt,null,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+717,Sakkinen,Ida,null,null,null,dom,248 County rd Wolverine loc,null,null,null,null,null,null,null,null,null,null,null
+731,Sandretto,Peter,null,null,null,lab,OCM Co 113 4th Wolverine loc,null,null,null,null,null,null,null,null,null,null,null
+740,Schtala,Hilma,null,null,null,elk,Finnish Workmens CoOperative Co Wolverine loc,null,null,null,null,null,null,null,null,null,null,null
+746,Sebok,Andrew,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+751,Serra,Umberto,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+769,Simanoff,Sumbat,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+770,Simk,Stephen,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+771,Simko,Alexander,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+784,Smoke,Mathew,null,null,null,engr,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+786,Soivio,John,null,null,null,miner,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+788,Soloz,Josef,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+792,Sovola,Peter,null,null,null,timberman,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+803,Stromback,John,null,null,null,lab,O C M Co 40 3d Kearsarge loc,null,null,null,null,null,null,null,null,null,null,null
+808,Surface,Joseph,null,null,null,oiler,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+814,Symons,Arthur,null,null,null,miner,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+815,Symons,James,null,null,null,miner,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+821,Szabo,Nicholas,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+831,Szeles,Steve,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+834,Szirtlik,Demiter,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+843,Szynicsyk,Stanistow,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+844,Szyszkin,John,null,null,null,trammer,Wolv Copper M Co,null,null,null,null,null,null,null,null,null,null,null
+846,Takacs,Freng,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+850,Tatosoff,Hamo,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+852,Teddy,Harry,H,null,null,oiler,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+854,Terencz,Matani,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+858,Thomas,Edwin,null,null,null,supply elk,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+860,Thomas,Peter,S,null,null,lab,O C M Co 10 1st Kearsarge loc,null,null,null,null,null,null,null,null,null,null,null
+863,Thorpe,Thomas,null,null,null,oiler,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+866,Tobias,Charles,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+871,Tomok,John,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+872,Tonking,Alfred,null,null,null,lab,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+873,Tonoioff,Unam,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+881,Toth,Joseph,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+906,Truzer,Joseph,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+909,Tulppo,Lillian,null,null,null,dom,259 County rd Wolverine loc,null,null,null,null,null,null,null,null,null,null,null
+912,Turkenewich,Constantino,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+914,Ujj,Thomas,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+916,Under,John,null,null,null,rockman,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+926,Uusitala,Isaac,null,null,Eliza E,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+930,Valentino,Crosa,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+935,Vargo,George,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+939,Vasilie,Lucin,null,null,null,trammer,O CM Co,null,null,null,null,null,null,null,null,null,null,null
+941,Vaszil,Joseph,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+946,Veale,Vivian,D,null,null,lander,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+958,Veres,Michael,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+962,Vigh,Louis,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+969,Vindlek,Joseph,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+971,Vonk,John,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+997,Weidenhofer,Martha,null,null,null,tchr,Kearsarge Public School,null,null,null,null,null,null,null,null,null,null,null
+1018,Whitford,Wm,null,null,null,blksmith,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+1019,Wiedenhoefer,Martha,null,null,null,tchr,Kearsarge school,null,null,null,null,null,null,null,null,null,null,null
+1020,Wiesen,Matt,null,null,null,blksmith,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+1040,Wills,Charles,null,null,null,miner,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+1041,Wills,Thomas,G,null,null,lab,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+1056,Wyatt,Richard,null,null,null,lab,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+1057,Yager,George,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+1062,Yuhas,Stephen,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+1064,Yusko,Alexander,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+1065,Yuskoviak,Stephen,null,null,null,lander,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+1066,Zakoroc,Hamo,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+1067,Zaremba,Pit,null,null,null,lab,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+1069,Zhestakai,Alex,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+1070,Zhestakai,Wasilii,null,null,null,trammer,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+1071,Zirotti,Fred,null,null,null,lab,Wolv C M Co,null,null,null,null,null,null,null,null,null,null,null
+41,Gullie,Stephen,null,null,null,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+103,Hermon,Stephen,null,null,null,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+200,Kemley,Alexander,null,null,null,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+292,Laity,Edla,null,null,null,student,null,res,null,null,null,County rd,null,null,null,null,null,null
+296,Laity,Hilda,null,null,null,null,null,res,null,null,null,County rd,null,null,null,null,null,null
+297,Laity,Mary,null,null,null,null,null,res,null,null,null,County rd,null,null,null,null,null,null
+341,Lemaza,John,null,null,null,trammer,Wolverine C M Co,res,es,null,null,null,2 ,n,null,null,null,null
+353,Lisha,George,null,null,null,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+383,Magahay,Bessie,C,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+384,Magahay,Charles,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+438,Misiak,John,null,null,null,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+514,Pall,Marko,null,null,null,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+531,Patrock,Stephen,null,null,null,null,null,res,ns,null,null,County rd,null,null,null,null,null,null
+535,Pavakowski,Alexander,null,null,null,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+580,Phillips,Joseph,Q,null,null,miner,null,res,ss,null,null,null,1,s,null,t Phillipville,null,null
+581,Phillips,Raymond,null,null,null,lab,null,res,ss,null,null,null,1,s,null,t Phillipville,null,null
+584,Phillips,Wm,null,jr,null,null,null,res,ss,null,null,null,1,s,null,t Phillipville,null,null
+696,Rosie,Antony,null,null,null,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+782,Smismellick,Michael,null,null,null,lab,null,res,ns,null,null,County rd,null,null,null,null,null,null
+836,Szucs,Balas,null,null,null,trammer,O CM Co,res,null,null,125,3d Kearsarge loc,null,null,null,null,null,null

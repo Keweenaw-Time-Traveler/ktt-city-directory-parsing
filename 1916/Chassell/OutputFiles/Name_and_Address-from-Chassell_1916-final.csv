@@ -1,0 +1,52 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+265,Ruelle,Bessie,null,null,null,null,null,bds,null,null,A,W York,null,null,null,null,null,null
+266,Ruelle,Edna,null,null,null,null,null,bds,null,null,A,W York,null,null,null,null,null,null
+310,Vanhofif,Florence,null,null,wid Louis,null,null,bds,null,null,A,J Plante,null,null,null,null,null,null
+4,Aho,Mattilda,null,null,null,dom,Wm Holappa,null,null,null,null,null,null,null,null,null,null,null
+68,Chassell,Public,School,null,null,supt,V E Goddard,null,null,null,null,null,null,null,null,null,null,null
+72,Coffey,Patrick,W,null,Charlotte,foreman,Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+81,Danielson,Charles,W,null,Edna,agt,DSSA Ry Western Union Telegraph Cable Co and Western Express Co,null,null,null,null,null,null,null,null,null,null,null
+84,Despins,Wm,null,null,Nellie,lumber inspr,Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+99,Fesing,George,F,null,Mary,cashr,Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+111,Fountain,Archibald,null,jr,Hattie,lab,Vv,null,null,null,null,null,null,null,null,null,null,null
+121,Gerard,George,null,null,null,scaler,Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+132,Goddard,V,E,null,Bessie,supt,Chassell Public School,null,null,null,null,null,null,null,null,null,null,null
+140,Gray,Frederick,null,null,Emma,foreman,Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+147,Hamar,Edward,A,null,Jessie I,vicepres,The Chassell State Bank sec and mgr Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+166,Hutchings,Willis,H,null,Minnie,filer,chief  Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+179,Lapierre,Arthur,null,null,null,mgr,Napoleon Lapierre,null,null,null,null,null,null,null,null,null,null,null
+181,Larson,Peter,null,null,Estella,eng,civil,null,null,null,null,null,null,null,null,null,null,null
+193,Madden,Edward,F,null,Sarah J,sawyer,Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+197,Madden,Wm,H,null,Ada,time kpr,Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+199,Manson,Henry,null,null,null,elk,Chassell Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+200,Markinen,Hilma,null,null,null,elk,P R Eber,null,null,null,null,null,null,null,null,null,null,null
+203,Mathy,Charles,J,null,Louise M,sawyer,Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+205,Mattson,Albert,null,null,Kreta,elk,Chassell Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+212,Miron,Eugene,null,null,null,elk,J A Gagnon,null,null,null,null,null,null,null,null,null,null,null
+214,MISSLITZ,HENRY,H,null,Emma,opr,Pr Chassell House,null,null,null,null,null,null,null,null,null,null,null
+221,Nadeau,Marcell,A,null,Louise,cashr,The Chassell State bank,null,null,null,null,null,null,null,null,null,null,null
+223,Niemi,Elizabeth,null,null,null,dom,Mrs M A Ward,null,null,null,null,null,null,null,null,null,null,null
+226,Ohman,Jennie,null,null,null,elk,Chassell Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+245,POST,OFFICE,null,null,null,Postmaster,Patrick H Schannenk,null,null,null,null,null,null,null,null,null,null,null
+250,Prudhom,Marie,E,Mrs,null,elk,Chassell Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+274,St,Annes,Church,null,null,pastor,Rev Antoine Vermare,null,null,null,null,null,null,null,null,null,null,null
+287,Showers,Ernest,S,null,null,opr,D S S A Ry,null,null,null,null,null,null,null,null,null,null,null
+289,Simpson,Bert,E,null,null,mgr,sis  Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+308,Tubbs,N,Valda,null,Ida M,meatctr,W O Misslitz,null,null,null,null,null,null,null,null,null,null,null
+309,VanEss,Jess,null,null,Celia,eng,Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+311,Vermare,Antoine,null,null,null,pastor,St Annes Church,null,null,null,null,null,null,null,null,null,null,null
+315,Ward,Teffell,R,null,Beatrice,foreman,yard,null,null,null,null,null,null,null,null,null,null,null
+316,Ward,Thomas,R,null,null,supt,yard  Worcester Lumber Co Ltd,null,null,null,null,null,null,null,null,null,null,null
+318,WARNER,EDWIN,E,null,Amelia C,opr,Pr Warners Garage,null,null,null,null,null,null,null,null,null,null,null
+26,Aul,Dorothy,H,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+27,Aul,Rose,null,null,wid Edward,null,null,null,null,null,null,null,null,null,null,null,null,null
+70,Coffey,Alice,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+71,Coffey,Myrtle,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+73,Coffey,Ralph,W,null,null,elk,Chassell Drug Store,null,null,null,null,null,null,null,null,null,null,null
+74,Coffey,Ruth,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+83,Despins,Margaret,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+109,Fountain,Albert,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null
+139,Gray,Ella,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null,null
+141,Gray,Willard,E,null,null,elk,Albert Bishop,null,null,null,null,null,null,null,null,null,null,null
+157,Hodgins,Mary,null,null,wid Wm,null,null,null,null,null,null,null,null,null,null,null,null,null
+165,Hutchings,Mabel,I,null,null,student,null,null,null,null,null,null,null,null,null,null,null,null

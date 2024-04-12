@@ -1,0 +1,43 @@
+134 ADD, JOB NOT FOUND: Hungarian Reformed Church, Rev Andrew Urban pastor, N Kearsarge loc
+185 ADD, JOB LOCATION NOT FOUND: Kamiechek John, trammer, bds 47, No 4, Wolverine loc
+195 NAME: Kearsarge Mining Co (branch), Osceola Consolidated Mining Co of Opechee
+196 ADD, JOB NOT FOUND: Kearsarge Post Office, Robert M Smith postmaster County rd, Wolverine loc
+197 ADD, JOB NOT FOUND: Kearsarge Public School, Hattie Pope prin, County rd, N Kearsarge loc
+221 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kiss Armi, lab O C M Co, bds Peter Szaabo
+254 ADD, JOB LOCATION NOT FOUND: Koszyto Stephen (Esther), rollerman O C M Co, res 14
+280 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kuszarri Joseph, lab, bds Peter Szaabo
+287 ADD, JOB LOCATION NOT FOUND: Lahti Andrew, laborer
+318 ADD, JOB LOCATION NOT FOUND: Larkinen Emil (Ida), lab, res 179Railroad, Wolverine loc
+338 ADD, JOB LOCATION NOT FOUND: Leidski John, lab, bds Joseph Salas, Wolverine loc
+422 ADD, JOB LOCATION NOT FOUND: Messner Louise, bkpr Petermann Stores Co
+428 ADD, JOB NOT FOUND: Methodist Episcopal Church, Rev Hamilton Magahay pastor, ss County rd, Kearsarge loc
+437 NAME: Mineral Range R R, Arthur C Jones agt, depot Smith av nr County rd, Wolverine loc
+443 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Molnar Andrew, trammer O C M Co, bds Peter Szaabo
+444 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Molnar Charles, lab, bds Peter Szaabo
+496 NAME: 01d Finnish Apostolical Lutheran Church, Wolverine loc
+566 NAME: PETERMANN STORES CO, John P Petermann Pres, Fernando D Petermann Sec and Genl Mgr, Thomas Berryman Treas, General Store County rd, Wolverine loc, Tels 17F1 and 77
+577 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Phillips Edna, music tchr Phillipsville, bds John Phillips
+579 ADD, JOB NOT FOUND: PHILLIPS JOHN (Gertrude), Saloon County rd, Phillipsville, Allouez P O, res same, Tel 160
+582 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Phillips Wm, bartndr John Phillips, bds John Phillips
+619 ADD, JOB LOCATION NOT FOUND: Pollitt Raymond (Mabel), lab OCM Co, res 117y Railroad, Wolverine loc
+661 ADD, JOB LOCATION NOT FOUND: Rantenan Ronald, elk
+671 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Reynolds James, miner O C M Co, bds l05 County rd
+676 ADD, JOB LOCATION NOT FOUND: Richards 01iver (Ann), truant officer, res County rd, N Kearsarge loc
+713 NAME: Saaren Hukka Temperance Hall, County rd, N Kearsarge loc
+720 ADD, JOB LOCATION NOT FOUND: Sakkinen Win A, lab, bds 263County rd, Wolverine location
+749 NAME: Semmens W John P (Annie M), miner O C M Co, res 5 3d, Kearsarge loc
+830 ADD, JOB NOT FOUND: Szeles Frank, bds 199Railroad, Wolverine loc
+864 ADD, JOB LOCATION NOT FOUND: Timonen Hilda, elk Petermann Stores Co
+876 ADD, JOB LOCATION NOT FOUND: Tossava Charles, elk Petermann Stores Co
+933 NAME: Vargo, see also Wargo
+947 ADD, JOB NOT FOUND: Veale Wm (aged 32), died Dec 3, 1915
+950 ADD, JOB LOCATION NOT FOUND: Velichka Charles, trammer O C M Co, bds County rd, Kearsarge loc
+973 ADD, JOB LOCATION NOT FOUND: Waatti Emanuel (Helen), farmer, res No 4, Wolverine location
+984 NAME: Wargo, see also Vargo
+986 ADD, JOB LOCATION NOT FOUND: Wargo John, lab bds 27 3d, Kearsarge loc
+1046 NAME: WOLVERINE COPPER MINING CO, John R Stanton (New York) Pres, George W Drucker (New York) Sec, Frank McM Stanton (New York) Treas, Theodore Dengler Genl Mgr, Charles L Noetzel Chief Clk, 20 Smith av Wolverine Location, Tel 156
+1047 ADD, JOB NOT FOUND: Wolverine Meat Market, Robert M Smith mgr, ss County rd 1 e J P Petermann Store
+1048 ADD, JOB NOT FOUND: Wolverine School, Minnie Robinson prin, Smith av,
+1049 ADD, JOB NOT FOUND: Wolverine loc
+1055 ADD, JOB LOCATION NOT FOUND: Wyatt Ethel, tchr Wolverine School, res Centennial Hts
+1061 ADD, JOB LOCATION NOT FOUND: Yoo Steve (Susan), elk, res 199Railroad Wolverine location

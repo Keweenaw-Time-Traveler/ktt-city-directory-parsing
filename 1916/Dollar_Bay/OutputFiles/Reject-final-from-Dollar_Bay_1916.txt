@@ -1,0 +1,243 @@
+1 ADD, JOB LOCATION NOT FOUND: Abrams Edward T (Ida), physician
+6 ADD, JOB NOT FOUND: Alain Eliza (wid Samuel)
+9 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Allen Jeremiah, student, bds Janies Allen
+10 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Allen Robert, student, bds James Allen
+15 ADD, JOB LOCATION NOT FOUND: Anderson Angel (Alien), laborer
+21 ADD, JOB LOCATION NOT FOUND: Appenheimer Wm, bookkeeper
+29 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Backman Arvid jr, hlpr L S Smltg Co, bds Mrs Mary Backman
+31 ADD, JOB LOCATION NOT FOUND: Backman Edward (Amanda), smelter
+33 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Backman Esther, elk A M Schulte Co, bds Mrs Mary Backman
+34 ADD, JOB NOT FOUND, PERSON NOT FOUND: Backman Frederick, wire drawer F W Foley, bds Mrs Mary Backman
+35 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Backman Harvey, lab, bds Mrs Mary Backman
+36 ADD, JOB NOT FOUND, PERSON NOT FOUND: Backman Hulda, pianist Cosy Theatre, bds Mrs Mary Backman
+38 ADD, JOB NOT FOUND: Backman Mary (wid Herman)
+39 ADD, JOB NOT FOUND: Backman Mary (wid Reinhart)
+40 ADD, JOB NOT FOUND, PERSON NOT FOUND: Backman Oscar, bds Mrs Mary Backman
+42 NAME: Baer Bros (branch), Clarence Walter mgr, wholesale meats
+44 ADD, JOB LOCATION NOT FOUND: Balsari Eric (Annie), smelter
+46 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bates Ida, tchr, bds Kenneth Cameron
+51 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beaudoin Arrietta, bds Mrs Pomela Beaudoin
+52 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beaudoin Florence, bds Mrs Pomela Beaudoin
+53 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beaudoin Lorietta, bds Mrs Pomela Beaudoin
+54 ADD, JOB NOT FOUND: Beaudoin Pomela (wid Clemence)
+57 ADD, JOB NOT FOUND: Bell Eugenia, teacher
+68 ADD, JOB NOT FOUND: Bilgen John (Bertha)
+70 ADD, JOB NOT FOUND: Blanchett Emaline (wid Demoise)
+78 ADD, JOB LOCATION NOT FOUND: Bodelle Bert, laborer
+88 ADD, JOB LOCATION NOT FOUND: Brozavich John (Mary), laborer
+91 ADD, JOB NOT FOUND, PERSON NOT FOUND: Burear Antone, wire mill, bds Jasper Burear
+92 ADD, JOB NOT FOUND, PERSON NOT FOUND: Burear Bertha, bds Jasper Burear
+93 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burear Herbert, student, bds Jasper Burear
+94 ADD, JOB NOT FOUND: Burear Jasper (Bertha)
+95 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burear John, smelter, bds Jasper Burear
+96 ADD, JOB NOT FOUND, PERSON NOT FOUND: Burns Hortense R, bds James Burns
+98 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burns Mildred, student, bds James Burns
+99 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burns Roy, hlpr L S Smltg Co, bds James Burns
+100 ADD, JOB LOCATION NOT FOUND: Bykkonen Charles (Johanna), carpenter
+101 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cadeau Lawrence, millwkr, bds Wm Cadeau
+102 ADD, JOB NOT FOUND: Cadeau Wm (Matilda), mill worker
+105 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Carlson Alfred, lab, bds Mrs Freredicka Hoppa
+109 ADD, JOB NOT FOUND: Catineau John (Celanire), mill hand
+111 ADD, JOB NOT FOUND, PERSON NOT FOUND: Champion James, bds Nelson Des Roches
+113 ADD, JOB NOT FOUND: Chaput Michael
+122 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Connell Amos C, tchr, bds Donlan House
+125 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Crotty Della, tchr, bds Mrs Nellie Crotty
+126 ADD, JOB NOT FOUND: Crotty Nellie (wid James)
+129 ADD, JOB LOCATION NOT FOUND: Cullman Charles W, saloon
+130 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cullman Leo, bartndr Charles Cullman, bds Charles Cullman
+131 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cullman Margaret, tchr, bds Charles Cullman
+134 ADD, JOB LOCATION NOT FOUND: Dalmon Edward (Mary), laborer
+136 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: DesRoches Bernard, student, bds Nelon DesRoches
+141 NAME: DOLLAR BAY LUMBER CO, Lucius G Hyllier Pres, Addie M LaBreque VicePres, Silas W Clements Sec and Treas, Manufacturers of and Dealers in Lumber, Lath and Cedar Products, Tel 695J
+142 ADD, JOB NOT FOUND: DONLAN HOUSE, Thomas J Donlan Propr, Tel 321M
+143 ADD, JOB NOT FOUND, PERSON NOT FOUND: Donlan Josephine, bds Donlan House
+145 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Doscoski Anna, tchr, bds Ronald MacDonald
+147 ADD, JOB NOT FOUND: Dunstan James C (Elizabeth)
+151 ADD, JOB NOT FOUND, PERSON NOT FOUND: Dunstone Jane, bds Jane Dunstone
+152 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Eichen Violet E, bkpr Dollar Bay Lumber Co, bds Ronald MacDonald
+154 ADD, JOB LOCATION NOT FOUND: Engman Charles (Hilda), farmer
+155 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Engman John, carp, bds Donlan House
+164 ADD, JOB NOT FOUND: Fitzgerald Margaret, housekeeper Rev J A Miller
+165 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Foley Agnes, student, bds F W Foley
+166 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Foley Daniel, student, bds J H Foley
+167 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Foley Francis, appr, bds F W Foley
+168 ADD, JOB NOT FOUND: Foley Frank W (Mary), wire mfr
+169 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Foley John, student, bds F W Foley
+170 ADD, JOB NOT FOUND: Foley John H (Margaret), diemkr F W Foley
+171 ADD, JOB NOT FOUND, PERSON NOT FOUND: Foley Mae, bds F W Foley
+172 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Foley Robert, student, bds J H Foley
+173 ADD, JOB NOT FOUND, PERSON NOT FOUND: Foley Wm R, shipping clerk, bds J H Foley
+174 ADD, JOB LOCATION NOT FOUND: Fountaine Emery (Leonie), blksmith
+175 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fountaine Wilfred, student, bds Emery Fountaine
+176 ADD, JOB NOT FOUND, PERSON NOT FOUND: Franz Ida, bds Israel Franz
+178 ADD, JOB LOCATION NOT FOUND: Franz Israel (Sophia), laborer
+179 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Franz Edward, lab F W Foley, bds Israel Franz
+185 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gauthier Gertrude, elk A M Schulte Co, bds Mrs Margaret Cauthier
+186 ADD, JOB NOT FOUND: Gauthier Margaret (wid Joseph)
+187 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gauthier Margaret, student, bds Mrs Margaret Gauthier
+189 ADD, JOB NOT FOUND, PERSON NOT FOUND: Gauthier Rose, bds Mrs Margaret Gauthier
+193 ADD, JOB LOCATION NOT FOUND: Gilson Vivian (Mary), smelter
+198 ADD, JOB LOCATION NOT FOUND: Grahel Wm, hlpr L S Mltg Co bds Michael Grahel
+200 ADD, JOB LOCATION NOT FOUND: Granz Peter (Catherine), fireman
+201 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Granz Peter jr, student, bds Peter Granz
+202 ADD, JOB NOT FOUND, PERSON NOT FOUND: Granz Rudolph, bds Peter Granz
+204 ADD, JOB NOT FOUND, PERSON NOT FOUND: Greene John, wire drawer F W Foley, bds Joseph Greene
+205 ADD, JOB NOT FOUND: Greene Joseph (Julia)
+207 ADD, JOB NOT FOUND, PERSON NOT FOUND: Greene Philip, wire wkr, bds Joseph Greene
+208 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Greenslade Margaret, tchr, bds Ronald MacDonald
+213 ADD, JOB LOCATION NOT FOUND: Gronlund Eric (Christina), farmer
+214 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gronlund Hannah, student, bds Eric Gronlund
+215 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gronlund Wm, lab Union Coal Dock, bds Mrs Fredericka Hoppa
+217 ADD, JOB NOT FOUND: Halkala John (Elizabeth)
+224 ADD, JOB NOT FOUND, PERSON NOT FOUND: Haun Edward, bds Ronald MacDonald
+225 ADD, JOB NOT FOUND, PERSON NOT FOUND: Haun Frank, bds Ronald MacDonald
+226 ADD, JOB LOCATION NOT FOUND: Hebbard Bert (Estelle), laborer
+227 ADD, JOB NOT FOUND: Heikkonen Mary (wid Oscar)
+232 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Henault George, barber, bds Donlan House
+233 ADD, JOB NOT FOUND: Herbert Bert, craneman Union Coal Dock
+234 ADD, JOB NOT FOUND, PERSON NOT FOUND: Hill Alpha, bds Ronald MacDonald
+235 ADD, JOB NOT FOUND, PERSON NOT FOUND: Hill Mary, bds Ronald MacDonald
+237 ADD, JOB NOT FOUND, PERSON NOT FOUND: Hiltunen Elma, bds Zacharias Hiltunen
+238 ADD, JOB LOCATION NOT FOUND: Hiltunen Zacharias (Annie), laborer
+241 ADD, JOB NOT FOUND, PERSON NOT FOUND: Holland Kathryn, bds Mrs Nora Holland
+242 ADD, JOB NOT FOUND, PERSON NOT FOUND: Holland Mary, bds Mrs Nora Holland
+243 ADD, JOB NOT FOUND: Holland Nora (wid Timothy)
+245 ADD, JOB LOCATION NOT FOUND: Holm John (Mary), laborer
+248 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hoppa Edward, student, bds Mrs Frederick Hoppa
+249 ADD, JOB NOT FOUND: Hoppa Fredericka (wid August)
+250 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hoppa Selma, housekpr, bds Mrs Fredericka Hoppa
+251 ADD, JOB LOCATION NOT FOUND: Hyllier Lucius G, pres Dollar Bay Lumber Co, res Baraga
+253 ADD, JOB NOT FOUND, PERSON NOT FOUND: Isaacson Ethel, bds Robert Isaacson
+254 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Isaacson John, elk Matt Turmu, bds Robert Isaacson
+256 ADD, JOB LOCATION NOT FOUND: Isaacson Robert (Margaret), smelter
+258 ADD, JOB NOT FOUND, PERSON NOT FOUND: Jacekulka Jacob (Alice), oreman, bds Matt Mattson
+259 ADD, JOB NOT FOUND, PERSON NOT FOUND: Jacekulka John, bds Matt Mattson
+266 ADD, JOB NOT FOUND: Johnson Eric (Annie)
+268 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Johnson Frank (Sophia), bartndr Joseph Laverine, bds Mrs Fredericka Hoppa
+275 ADD, JOB NOT FOUND: JURMU MATT (Kate), General Store, Dry Goods, Boots, Shoes, Groceries, etc, Tel 417R
+280 ADD, JOB NOT FOUND, PERSON NOT FOUND: Kelly Michael A, bricklyr L S Smltg Co, bds Donlan House
+281 ADD, JOB NOT FOUND, PERSON NOT FOUND: Kelly Michael A, bricklyr, bds Donlan House
+282 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kindelan Anna, student, bds Patrick Kindelan
+283 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kindelan Catherine, dressmkr, bds Patrick Kindelan
+284 ADD, JOB NOT FOUND, PERSON NOT FOUND: Kindelan Gerald, powder works, bds Patrick Kindelan
+285 ADD, JOB NOT FOUND, PERSON NOT FOUND: Kindelan John, powder works, bds Patrick Kindelan
+286 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kindelan Mary, smstrs, bds Patrick Kindelan
+288 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: King Arthur, hlpr L S Smltg Co, bds Donlan House
+289 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: King Wm C, foreman Lake Superior Smelting Co, bds Donlan House
+300 ADD, JOB LOCATION NOT FOUND: Kitto Thomas (Monica), grocer
+302 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Koebbe Edward E, physician, bds E T Abrams
+304 ADD, JOB NOT FOUND: Koski Aino (Jennie), powder worker
+305 ADD, JOB NOT FOUND: Kulka Louie, powder worker
+308 ADD, JOB LOCATION NOT FOUND: LaBreque Addie M, vicepres Dollar Bay Lumber Co, res Baraga
+312 NAME: Lake Superior Smelting Co, R L Agassiz (Boston, Mass) pres, G L Flagg (Boston, Mass) sec and treas, James MacNaughton (Calumet, Mich) genl mgr, H D Conant supt, L E Williams elk
+313 ADD, JOB LOCATION NOT FOUND: Laplander Emil (Mary), laborer
+314 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Larche Edgar, laborer, bds Prime Larche
+315 ADD, JOB LOCATION NOT FOUND: Larche Prime (Minnie), teamster
+316 ADD, JOB LOCATION NOT FOUND: LaSalle Peter (01ive), farmer
+319 ADD, JOB LOCATION NOT FOUND: Laverine Joseph, saloon
+322 ADD, JOB NOT FOUND: Leplante Julia (wid Louis)
+331 ADD, JOB NOT FOUND: Lukanitz Kate (wid Matt),
+332 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lundman Hugo, laborer, bds Isaac Lundman
+333 ADD, JOB LOCATION NOT FOUND: Lundman Isaac (Amanda), surfaceman
+334 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lundman Leonard, shellmkr, bds Isaac Lundman
+335 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lundman Theodore, acidmkr, bds Isaac Lundman
+337 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: MacDonald Elaine, student, bds Ronald MacDonald
+338 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: MacDonald Frances, student, bds Ronald MacDonald
+339 ADD, JOB NOT FOUND, PERSON NOT FOUND: MacDonald Lorna M, teacher, bds Ronald MacDonald
+340 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: MacDonald Roderick, student, bds Ronald MacDonald
+341 ADD, JOB LOCATION NOT FOUND: MacDonald Ronald H (Louise), mining engr
+342 ADD, JOB LOCATION NOT FOUND: Madond Pannult (Philomina), laborer
+345 ADD, JOB LOCATION NOT FOUND: Manner Emil (Margaret), blacksmith
+346 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Manner John, bkpr, bds Emil Manner
+347 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Manner Norman, elk, bds Emil Manner
+348 ADD, JOB NOT FOUND: Manseau Louis (Laurie), powdermkr
+389 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Murphy Francis T, lab L S Smltg Co, bds Donlan House
+393 ADD, JOB NOT FOUND: Nivola John (Ellen), pipe fitter
+394 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nordbeck John, bartndr, bds Mrs Fredericka Hoppa
+401 ADD, JOB LOCATION NOT FOUND: Norlin August (Christina), laborer
+407 ADD, JOB LOCATION NOT FOUND: Nye John (Tillie), lab
+408 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: 01son Annie, elk Matt Jurmu, bds Mrs Malena 01son
+409 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: 01son Edna, waitress Donlan House, bds Mrs Malena 01son
+410 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: 01son Julia, dressmkr, bds Mrs Malena 01son
+411 ADD, JOB NOT FOUND: 01son Malena (wid Samuel)
+415 ADD, JOB LOCATION NOT FOUND: Ostrand Matthew (Ella), laborer
+420 NAME: Pearce Hardware Co, Joseph Pearce propr
+429 ADD, JOB NOT FOUND, PERSON NOT FOUND: Plugge Bernadine, bds John Plugge
+430 ADD, JOB LOCATION NOT FOUND: Plugge John (Mary), janitor
+431 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Plugge Louise, student, bds John Plugge
+432 ADD, JOB NOT FOUND, PERSON NOT FOUND: Plugge Mary, bds John Plugge
+433 ADD, JOB NOT FOUND, PERSON NOT FOUND: Plugge Tracy, bds John Plugge
+435 ADD, JOB NOT FOUND: Post Office, John C Schulte postmaster
+438 ADD, JOB NOT FOUND: Racine Ralph T (Mabel), wirewkr F W Foley
+442 ADD, JOB NOT FOUND, PERSON NOT FOUND: Rheaume Agnes, bds Luke Rheaume
+443 ADD, JOB NOT FOUND, PERSON NOT FOUND: Rheaume Clemence, bds Luke Rheaume
+444 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Rheaume Ernest, lab L S Smltg Co, bds Luke Rheaume
+445 ADD, JOB LOCATION NOT FOUND: Rheaume Luke (Erestine), saloon
+446 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Rheaume Samuel, lab L S Smltg Co, bds Luke Rheaume
+447 ADD, JOB LOCATION NOT FOUND: Richards Alfred (Felamand), dipper
+448 ADD, JOB NOT FOUND: Richards Arthur (Arthmetic), powder worker
+450 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Richards Dune, lab, bds Alfred Richards
+451 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Richards Henry, lab L S Smltg Co, bds Alfred Richards
+452 ADD, JOB NOT FOUND, PERSON NOT FOUND: Richards John, bds Alfred Richards
+456 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Roberts Charles, lab, bds Donlan House
+463 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ruhl Wm J, elk Lake Superior Smelting Co, bds J H Foley
+469 NAME: St Francis (R C) Church, Rev James A Miller pastor
+471 NAME, PERSON NOT FOUND: St John Frederick G, elk A M Schulte Co, bds Edward St John
+472 ADD, JOB NOT FOUND, PERSON NOT FOUND: St John Georgiana, bds Edward St John
+473 ADD, JOB NOT FOUND, PERSON NOT FOUND: St John Minnie, bds Edward St John
+475 ADD, JOB NOT FOUND, PERSON NOT FOUND: St Pierre Egan, weigher Lake Superior Smelting Co, bds Charles St Pierre
+476 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Pierre Philip, laborer, bds Charles St Pierre
+477 ADD, JOB NOT FOUND, PERSON NOT FOUND: St Pierre Lada, bds Charles St Pierre
+478 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Pierre Zelma, student, bds Charles St Pierre
+482 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sandelin Victor, lab Union Coal Dock, bds Mrs Fredericka Hoppa
+491 ADD, JOB NOT FOUND: Sargent Samuel, acid line
+492 ADD, JOB LOCATION NOT FOUND: Satushek John (Mary), smelter
+494 ADD, JOB NOT FOUND, PERSON NOT FOUND: Schieve Eledore, bds George Schieve
+495 ADD, JOB NOT FOUND, PERSON NOT FOUND: Schieve Ferdinand, ammonia mkr, bds George Schieve
+496 ADD, JOB NOT FOUND: Schieve George (Minnie)
+498 ADD, JOB NOT FOUND: Schulte Antoine M (Mellisa M A M Schulte Co)
+499 NAME: SCHULTE A M CO (Antoine M and John C Schulte), General Merchandise, Tel 5
+500 ADD, JOB NOT FOUND: Schulte Jennie (wid Fred)
+501 ADD, JOB NOT FOUND, PERSON NOT FOUND: Schulte Jennie, bds Mrs Jennie Schulte
+502 ADD, JOB NOT FOUND: Schulte John C (Josephine A M Schulte Co), postmaster
+503 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schulte Joseph H, engr L S Smltg Co, bds Mrs Josephine Schulte
+504 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Seppala Lucille, student, bds John Seppala
+505 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schulte Raymond, student, bds Antoine Schulte
+508 ADD, JOB LOCATION NOT FOUND: Sebbas John (Amanda), saloon
+509 ADD, JOB LOCATION NOT FOUND: Seifert John (Mary R), carpenter
+510 ADD, JOB NOT FOUND, PERSON NOT FOUND: Seme Frederick, yard elk M R R R, bds Prince Larche
+511 ADD, JOB NOT FOUND: Seppala John (Edna), wire wkr
+512 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Seppala Lucille, student, bds John Seppala
+513 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Siederman Tohn, lab, bds Mrs Fredericka Hoppa
+515 ADD, JOB NOT FOUND, PERSON NOT FOUND: Sleeman Elizabeth (wid Wm), bds Frank Taylor
+535 ADD, JOB NOT FOUND, PERSON NOT FOUND: Stevens John, acid mixer, bds Wm Stevens
+536 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stevens Kenneth, hlpr L S Smltg Co, bds Wm Stevens
+537 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stevens Richard, hlpr L S Smltg Co, bds Wm Stevens
+538 ADD, JOB NOT FOUND: Stevens Wm (Edith), acid mixer
+540 ADD, JOB NOT FOUND, PERSON NOT FOUND: Stolberg Herman, bricklyr L S Smltg Co, bds Mrs Fredericka Hoppa
+541 ADD, JOB NOT FOUND, PERSON NOT FOUND: Stone Ellie, bds John Stone
+546 ADD, JOB LOCATION NOT FOUND: Storves Emil (Mary), fireman
+549 ADD, JOB LOCATION NOT FOUND: Suominen Arthur (Mary), shoemaker
+551 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sved Carl, student, bds Matt Sved
+557 ADD, JOB LOCATION NOT FOUND: Sved Matt (Ida), carpenter
+559 ADD, JOB LOCATION NOT FOUND: Swede Otto (Anna), laborer
+569 ADD, JOB NOT FOUND, PERSON NOT FOUND: Temo Bessie, bds Wm Temo
+570 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Temo Charles, student, bds Wm Temo
+571 ADD, JOB NOT FOUND, PERSON NOT FOUND: Temo Jennie, bds Wm Temo
+572 ADD, JOB NOT FOUND: Temo Wm (Annie)
+578 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Thomas Wm P, mach hlpr L S Smelting Co, bds Donlan House
+588 ADD, JOB LOCATION NOT FOUND: Tisette Joseph (Roseana), smelter
+591 ADD, JOB NOT FOUND, PERSON NOT FOUND: Tourcotte Delphuis jr, bds Delphuis Turcotte
+592 ADD, JOB LOCATION NOT FOUND: Tourville Frank (Marion), livery
+602 ADD, JOB NOT FOUND: Trevarrow Anna (wid Wm)
+603 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Trevarrow Rachael, student, bds Mrs Anna Trevarrow
+608 ADD, JOB LOCATION NOT FOUND: Utila August (Catherine), smelter
+612 ADD, JOB LOCATION NOT FOUND: Visine Frank (Annie), carpenter
+618 ADD, JOB NOT FOUND: Washburn Agnes (wid Wm)
+619 ADD, JOB NOT FOUND, PERSON NOT FOUND: Washburn Daniel, bds Mrs Agnes Washburn
+621 ADD, JOB NOT FOUND: Wegner Emma (wid Charles)
+622 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wegner Otto, smelter, bds Mrs Emma Wegner
+624 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: White Irene, tchr, bds J W White
+625 ADD, JOB LOCATION NOT FOUND: White John W (Latitia), blacksmith
+627 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: White Winfield, student, bds J W White
+630 ADD, JOB NOT FOUND, PERSON NOT FOUND: Wuebbena Frederick, telegraph opr M R R R, bds Prime Larche

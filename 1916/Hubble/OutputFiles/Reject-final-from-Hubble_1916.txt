@@ -1,0 +1,223 @@
+1 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Brunet Sanai, lab, bds Precule Brunet
+4 ADD, JOB LOCATION NOT FOUND: Brunette Clara, student ,bds Hector Brunette
+14 NAME: Burbank Leland W ((Marie), copper weigher, res Linwood
+16 ADD, JOB LOCATION NOT FOUND: Burgan Abraham L (Anna L), supt Tamarack and Osceola Stamp mills, vicepres First Natl Bank of Hubbell, res County rd nr Osceola Mills
+19 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cadeau Reuben, lab C H M Co, bds Mrs Mary King
+23 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Campbell Wm A, ironwkr, bds Frank Beilman
+33 ADD, JOB NOT FOUND, PERSON NOT FOUND: Cashell Anna, bds Thomas Cashell
+34 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cashell Bridget, tchr, bds Thomas Cashell
+39 ADD, JOB LOCATION NOT FOUND: Chandonais Archie J (Henretta), lab
+51 ADD, JOB LOCATION NOT FOUND: Chapman George, lab
+79 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Clark Albert, carp, bds Frank Beilman
+80 ADD, JOB LOCATION NOT FOUND: Clarmont Alex (Mary), smelter
+81 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Clarmont Bernice, student, bds Alex Clarmont
+82 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Clarmont Elmer, student, bds Alex Clarmont
+83 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Clarmont Florence, student, bds Alex Clarmont
+84 ADD, JOB NOT FOUND, PERSON NOT FOUND: Clarmont George, bds Alex Clarmont
+85 ADD, JOB NOT FOUND, PERSON NOT FOUND: Clarmont Harvey, bds Alex Clarmont
+86 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Clarmont 01iver, student, bds Alex Clarmont
+87 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Clarmont Philip, lab, bds Alex Clarmont
+88 ADD, JOB NOT FOUND: Cleveland School, Anna Pope prin, w end of Gregory
+97 ADD, JOB NOT FOUND: Congregational Church, Grand av
+105 ADD, JOB NOT FOUND: Connors John, weighman C H M Co
+117 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cooper Tames B, furnaceman, bds Frank Beilman
+118 NAME: Copper Range R R, County rd
+119 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cost Anton, lab, bds Louis Cost
+120 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cost Augustine, student, bds Louis Cost
+121 ADD, JOB LOCATION NOT FOUND: Cost Louis (Louise), lab
+124 ADD, JOB NOT FOUND, PERSON NOT FOUND: Couture Matilda, bds Mrs Josephine Daniels
+125 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Crittenden Robert, lab C H M Co, bds Wm Tourville
+138 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dalcourt Martina, elk Nicholas Reding, bds Norbert Dalcourt
+139 ADD, JOB LOCATION NOT FOUND: Daniels Josephine (wid Wm F), tailoress es Main, res same
+147 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Davey Clarence, pumpman, bds Edward Davey
+149 ADD, JOB NOT FOUND, PERSON NOT FOUND: Davey Ethel M, bds Edward Davey
+150 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Davey Gladys, tchr, bds Edward Davey
+151 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Davey Schuyler, elk Macdonald Bros, bds Edward Davey
+153 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Davidson Fred, lab C H M Co, bds Martin Hess
+158 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Davis Cora, tchr, bds Frederick Davis
+159 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Davis Florence, tchr, bds Frederick Davis
+178 NAME: Duncan av 8 w of Daisy
+182 ADD, JOB NOT FOUND, PERSON NOT FOUND: Donovan Mae, bds Philip Donoavn
+186 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Doucette Claude, elk, bds Joseph Doucette
+187 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Doucette Edward, hlpr C H M Co, bds Joseph Doucette
+188 ADD, JOB NOT FOUND, PERSON NOT FOUND: Doucette Jarvis, bds Joseph Doucette
+189 NAME: Doucette (Mary), overseer of highways, res es Main
+190 ADD, JOB NOT FOUND, PERSON NOT FOUND: Doucette Mae, bds Joseph Doucette
+192 ADD, JOB NOT FOUND, PERSON NOT FOUND: Downey Mary, bds Margaret Dourney
+194 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Driscoll Edward, student, bds James Driscoll
+195 ADD, JOB LOCATION NOT FOUND: Driscoll James (Mary), lab
+196 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Driscoll Joseph, lab, bds James Driscoll
+197 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Driscoll Roy, student, bds James Driscoll
+209 ADD, JOB NOT FOUND: Dunlop Herbison, hd feeder C H M Co
+240 ADD, JOB NOT FOUND, PERSON NOT FOUND: Ethier Clara M, bds Joseph Ethier
+242 ADD, JOB LOCATION NOT FOUND: Ethier Joseph, coal and wood es Grant, res Roseland opp Mildred
+244 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ethier Wm, lab, bds Joseph Ethier
+250 NAME: FIRST NATIONAL BANK OF HUBBELL, Henry Opal Pres, Daniel K MacDonald VicePres, A L Burgan VicePres, Richard E Odgers Cashier, ss Duncan av, Tel 245W
+251 NAME: First National Bank Bldg, ss Duncan av
+276 ADD, JOB LOCATION NOT FOUND: Fournier Edmond (Louise), lab
+277 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fournier Lamina, student, bds Edmond Fournier
+346 ADD, JOB NOT FOUND: German Lutheran Church, ss Gregory, Rev John T Miller pastor
+350 ADD, JOB LOCATION NOT FOUND: Gillet Benjamin E, jeweler es Duncan av, res same
+355 ADD, JOB NOT FOUND, PERSON NOT FOUND: Goodman John, bds Levi Barbeau
+357 ADD, JOB LOCATION NOT FOUND: Grammas Louis, mgr George Grammas, res same
+363 ADD, JOB NOT FOUND, PERSON NOT FOUND: Greif Anna, bds Frank Greif
+364 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Greif Arthur, student, bds Frank Greif
+365 ADD, JOB NOT FOUND, PERSON NOT FOUND: Greif Carl, car weigher, bds Frank Greif
+366 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Greif Edward, lab C H M Co, bds Frank Greif
+368 ADD, JOB NOT FOUND, PERSON NOT FOUND: Greif Martha, bds Frank Greif
+371 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gross Maybelle, mlnr Christine Krug, bds Peter Gross
+398 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Harmara John, lab, bds Kimbal Thompson
+403 ADD, JOB NOT FOUND, PERSON NOT FOUND: Harris Mary (wid Anthony), bds W F Kaufman
+406 ADD, JOB LOCATION NOT FOUND: HARRY MARGARET C, Postmaster and Confectioner, bds Wm Harry, Tel 38R
+409 NAME: Hart, see also Jolicouer
+431 ADD, JOB LOCATION NOT FOUND: Heft John, refiner, res L,inwood
+444 NAME: Hill, see also Maki
+473 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Howard Wm R, elk, bds James Howard
+474 ADD, JOB NOT FOUND: Hruska Joseph, steam ftr Macdonald Bros
+476 ADD, JOB NOT FOUND: Hubbell Hardware Store, Joseph Wise propr, ss Duncan avenue
+477 ADD, JOB NOT FOUND: Hubbell Pharmacy, Dr Arthur F Fischer propr, es Duncan av
+504 NAME: Jolicouer, see also Hart
+510 NAME: Jones Albert T (Lodema, weighmaster C H M Co, res Linwood
+511 ADD, JOB NOT FOUND, PERSON NOT FOUND: Jones Margaret, bds Albert T Jones
+518 NAME: Jutila Michael (Lydia) furnace hiper, res Linwood
+521 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kahler Benjamin, ironwkr, bds Eldred Opal
+533 ADD, JOB LOCATION NOT FOUND: Kaspar Joseph, carp, res Vetter ne cor Hecla
+535 ADD, JOB NOT FOUND, PERSON NOT FOUND: Keast Carrie Mrs, bds Edward Warne
+537 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Keast Doris, student, bds George Keast
+539 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Keast James, head feeder C H M Co, bds George Keast
+540 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Keast John, student, bds George Keast
+542 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Keast Linn, student, bds George Keast
+544 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kelly Clark, ironwkr, bds John Vine
+548 ADD, JOB LOCATION NOT FOUND: Kettenbeil Charles (Agnes), livery ws Calumet bet 2d and 3d, res same
+549 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kettenbeil Edna, student, bds Charles Kettenbeil
+550 ADD, JOB LOCATION NOT FOUND: Kettenbeil Henry, saloon ws Calumet bet 2d and 3d, res same
+553 ADD, JOB NOT FOUND: Kiefer Charles P (Louise Kiefer Beauchamp), res Lake
+557 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Killmar Caleb A, elk C H M Co, bds g5633 Pine
+577 ADD, JOB NOT FOUND: Koepel Amelia (wid Frank), res Calumet av sw cor Maple
+578 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Koepel Ida A, tchr High School, bds Mrs Amelia Koepel
+579 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Koerdt Angeline, student, bds Frank Otto
+583 ADD, JOB NOT FOUND: Koster Joseph, res Vetter ne cor Hecla
+584 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kraemer Raymond J, lab C H M Co, bds W G Pearce
+599 ADD, JOB LOCATION NOT FOUND: Lachance George (Eva), lab
+646 NAME: LeBLANC BROS (Joseph P, David E), Wholesale and Retail Dealers in Flour, Feed, Hay and Grain es Grant av nr Lake, Phone 75
+649 NAME: LeBLANC JOSEPH H SONS, Successors to Joseph Ethier Co (Joseph H, Joseph P, David E), Dealers in Lumber, Lath, Shingles, Flooring, Siding, Etc, Building Material of all Kinds es Grant av near Lake, Tel 75
+664 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lenz Henrietta, tchr Cleveland School, bds Joseph Lentz
+680 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lewis Allen, student, bds James Lewis jr
+687 ADD, JOB NOT FOUND, PERSON NOT FOUND: Liebertrau Henry, tester, bds Frank Beilman
+688 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Liimatta Edward, lab, bds Frank Beilman
+689 ADD, JOB NOT FOUND: Lincoln School, Josie McLaughlin prin, es Duncan av
+698 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Long A Matilda, bkpr, bds Henry Long
+699 ADD, JOB NOT FOUND, PERSON NOT FOUND: Long Clara, bds Henry Long
+701 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Long John, lab, bds Henry Long
+733 NAME: Macdonald Bros (Angus F and Donald K), hardware ws Duncan av
+746 ADD, JOB NOT FOUND: Majestic Theatre, Henry Opal propr, ws Duncan av
+747 NAME: Maki, see also Hill
+754 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Manthei Wm A, phys Duncan av, bds August Mayworm
+764 ADD, JOB LOCATION NOT FOUND: Marcotte Arthur J (Alvina), drayage ss Guck, res same
+765 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Marcotte Clarinda, student, bds Samuel Marcotte
+766 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Marcotte Hermine, student, bds Samuel Marcotte
+767 ADD, JOB LOCATION NOT FOUND: Marcotte Samuel (Avilode), fireman
+768 ADD, JOB NOT FOUND: Mason School, es Duncan av
+769 ADD, JOB LOCATION NOT FOUND: Matisello Louis (Carrie), dipper
+770 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Matson Albert, lab, bds Konstantin Matson
+771 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Matson Emil, student, bds Konstantin Matson
+773 ADD, JOB LOCATION NOT FOUND: Matson Konstantin (Sandra), lab, res w Spruce, Tamarack City
+776 ADD, JOB NOT FOUND, PERSON NOT FOUND: Mayworm Elizabeth, bds August Mayworm
+777 ADD, JOB NOT FOUND, PERSON NOT FOUND: Mayworm Gustav, bds August Mayworm
+779 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mayworm Wm, lab C H M Co, bds August Mayworm
+792 ADD, JOB LOCATION NOT FOUND: Messner Russell, lab bds J A Messner
+793 ADD, JOB NOT FOUND, PERSON NOT FOUND: Messner Sarah (wid Christ), bds Wm Bickle
+795 ADD, JOB LOCATION NOT FOUND: Michel Arsene (Josephine), saloon es Main, res same
+805 ADD, JOB NOT FOUND: Mineral Range Railroad, Edward Moyle agt, Hubbell Station ws Duncan av, C W Young agt Mills Station, 1 mi s of Hubbell P O
+807 ADD, JOB NOT FOUND, PERSON NOT FOUND: Mitchell Mary J (wid John), bds R B Cameron
+810 ADD, JOB LOCATION NOT FOUND: Mog Mayme, tchr
+825 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Monville David, lab, bds Louis Monville
+829 ADD, JOB LOCATION NOT FOUND: Monville Louis (Mary), lab, res r se cor Duncan and Daisy
+839 ADD, JOB NOT FOUND, PERSON NOT FOUND: Mullin Anna, bds John Mullin
+840 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mullin Tames, elk Macdonald Bros, bds John Mullin
+841 ADD, JOB LOCATION NOT FOUND: Mullin John (Marv), blksmith res ws Main, Tamarack City
+842 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mullin John jr, lab, bds John Mullin
+843 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mullin 01iver, student, bds John Mullin
+844 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mullin Theodore, student, bds John Mullin
+845 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mullin Walter, student, bds John Mullin
+846 ADD, JOB NOT FOUND, PERSON NOT FOUND: Munch Florence, bds W A Braun
+863 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nisula John jr, student, bds John Nisula
+864 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nisula Lempi, student, bds John Nisula
+865 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nisula Wm, student, bds John Nisula
+880 ADD, JOB LOCATION NOT FOUND: ONeil Patrick (Mary), lab
+881 ADD, JOB LOCATION NOT FOUND: Opal Henry, pres First National Bank of Hubbell and grocer ss Duncan av, res Daisy
+883 ADD, JOB LOCATION NOT FOUND: ORourke Thomas (Mary), saloon Duncan av, res same
+886 ADD, JOB NOT FOUND, PERSON NOT FOUND: Osiewacz Anna, bds John Osiewacz
+887 ADD, JOB LOCATION NOT FOUND: Osiewacz John (Frances), lab C H M Co, res 11s Daisy 1 w of Ontonagon
+888 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Osiewacz Joseph, lab, bds John Osiewacz
+889 ADD, JOB NOT FOUND, PERSON NOT FOUND: Osiewacz Leonora, bds John Osiewacz
+896 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Parr Charles, mach C H M Co, bds James LaMora
+914 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pelrault Henry, shift boss, bds Frank Beilman
+925 ADD, JOB LOCATION NOT FOUND: Perrault Onezime (Cormelite), carp
+942 ADD, JOB LOCATION NOT FOUND: Perso Leon, tchr bds Alfred Perso
+945 ADD, JOB NOT FOUND: Person Carl, slagbreaker C H M Co
+967 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pope Lloyd, student, bds Thomas Pope
+970 ADD, JOB LOCATION NOT FOUND: Pope Thomas (Anna), lab
+971 ADD, JOB NOT FOUND: Post Office, Margaret C Harry postmaster, ws Duncan av
+1011 ADD, JOB NOT FOUND, PERSON NOT FOUND: Reding Adelaide, bds Nicholas Reding
+1013 ADD, JOB NOT FOUND, PERSON NOT FOUND: Reding John N, bds Nicholas Reding
+1037 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Riopelle Alexander, lab, bds John Tourville
+1038 ADD, JOB NOT FOUND, PERSON NOT FOUND: Riopelle John, bds John Tourville
+1039 NAME: Riopelle Louis P A, lab C H M Co
+1041 NAME: Robert Edmund lab bds Henry Robert
+1051 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Rodgers Donald, lab C H M Co, bds Frank Beilman
+1059 ADD, JOB LOCATION NOT FOUND: ORourke Thomas J (Mary), saloon se cor Duncan av and Daisy, res same
+1063 ADD, JOB LOCATION NOT FOUND: Rowe Charles E (Gertrude), phys 1st Natl Bank bldg, res same
+1076 ADD, JOB LOCATION NOT FOUND: Saccsi Mauro, lab bds Martin Hesse
+1079 NAME: St Cecilias Parochial School, conducted by Sisters of St Francis, ws Euclid av
+1080 NAME: St Cecilias R C Church, Rev Hubert Zimmerman pastor, ns Gregory nr Duncan av
+1081 ADD, JOB NOT FOUND, PERSON NOT FOUND: St Germain Antoinette, bds Didas St Germain
+1082 ADD, JOB NOT FOUND, PERSON NOT FOUND: St Germain Antonia, bds Didas St Germain
+1087 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Germain Fabina, dressmkr es Grant av, bds Thomas St Germain
+1088 ADD, JOB NOT FOUND, PERSON NOT FOUND: St Germain Georgianna, bds Thomas St Germain
+1090 ADD, JOB NOT FOUND, PERSON NOT FOUND: St Germain Rose, bds Didas St Germain
+1092 ADD, JOB NOT FOUND, PERSON NOT FOUND: St Germain Wilfred, bds Thomas St Germain
+1093 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Peter Arthur, lab, bds Jeffery St Peter
+1094 ADD, JOB NOT FOUND, PERSON NOT FOUND: St Peter Gertrude, bds Jeffery St Peter
+1096 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Peter Louis, student, bds Jeffery St Peter
+1097 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Peter Ralph, hlpr C H M Co, bds Jeffery St Peter
+1099 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Peter Urban, student, bds Jeffery St Peter
+1100 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: St Peter Walter, lab C H M Co, bds Jeffery St Peter
+1102 ADD, JOB NOT FOUND: Sampson Chester, billiards es Duncan av
+1131 ADD, JOB LOCATION NOT FOUND: Singer Henry (Aurelia), lab, res Main, Tamarack City
+1149 ADD, JOB NOT FOUND: Smith Charles (aged 76), died Oct 24, 1915
+1166 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stillmeyer Christ, lab, bds Herman Brinkman
+1167 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stillmeyer Henry, washer, bds Herman Brinkman
+1168 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stillmeyer Herman, head feeder, bds Herman Brinkman
+1169 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stillmeyer John, head runner, bds Herman Brinkman
+1183 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sullivan Anna, tchr, bds David Sullivan
+1189 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sullivan James, lab, bds David Sullivan
+1204 NAME: Tamarack and Osceola Mills School
+1205 NAME: Tamarack and Osceola Stamp Mills, A L Burgan supt, 1 mile south of Hubbell P O
+1208 ADD, JOB NOT FOUND, PERSON NOT FOUND: Tennant Angus, weigher C H M Co, bds D R Tennant
+1209 ADD, JOB NOT FOUND: TENNANT DAVID R (Margaret M), Confectionery, Notions, Cigars, Etc, Agent For The Germania Fire Ins Co of New York, ss Duncan av, res same, Tel 20SM
+1210 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tennant Dorothy, tchr, bds D R Tennant
+1211 ADD, JOB NOT FOUND, PERSON NOT FOUND: Tennant Douglas, bds D R Tennant
+1213 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Thausenfranz Leo, smelter C H M Co, bds Gaudias Michel
+1215 ADD, JOB NOT FOUND, PERSON NOT FOUND: Thomas Ray, mill hd, bds Emil Kalstrom
+1226 ADD, JOB LOCATION NOT FOUND: Tofte Paul M, dentist First Natl Bank bldg, res same
+1237 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tourville Gregory, bottler, bds John Tourville
+1238 ADD, JOB LOCATION NOT FOUND: Tourville Henry (Nellie), carp
+1239 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tourville Henry J, student, bds Henry Tourville
+1240 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tourville John, lab C H M Co, bds Henry Tourville
+1241 ADD, JOB LOCATION NOT FOUND: Tourville John (Aldena), smelter
+1242 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tourville Russell H, lab C H M Co, bds Henry Tourville
+1243 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tourville Veronica, elk Meyer Toplon, bds Henry Tourville
+1253 ADD, JOB NOT FOUND: Trevillian Francis J (aged 70), died Nov 24, 1915
+1262 ADD, JOB LOCATION NOT FOUND: Trudell Philiaus (Elizabeth), tmstr
+1271 ADD, JOB LOCATION NOT FOUND: Vincent Charles, foreman,bds John Vincent
+1283 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Volpiana Leo, lab, bds Frank Beilman
+1288 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Voyer Irving, sten, bds Philiaus Trudell
+1291 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wallein John, ironwkr, bds Frank Beilman
+1292 ADD, JOB LOCATION NOT FOUND: Walley John, mill runner, res Osceola, Mills Hill
+1298 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Weber Abraham, lab, bds Alexander LaRoux
+1299 NAME: Western Express Co, Edward Moyle agt Hubbell Station, C W Young agt Mills Station, Mineral Range R R
+1325 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Winn Herbert, blksmith, bds F E Opie
+1326 ADD, JOB LOCATION NOT FOUND: Wise Joseph (Elizabeth), propr Hubbell Hardware Store, res Gregory 2 n of Euclid av
+1327 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wolvert Alice Mrs, nurse ns Euclid, bds same
+1335 ADD, JOB NOT FOUND: Yet Loy, laundry ws Duncan av, res same

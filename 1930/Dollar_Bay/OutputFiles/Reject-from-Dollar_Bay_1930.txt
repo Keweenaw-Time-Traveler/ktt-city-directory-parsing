@@ -1,0 +1,103 @@
+10 RESIDING WITH PERSON NOT FOUND: Backman Arvid r Mary Backman
+12 RESIDING WITH PERSON NOT FOUND: Backman Ellen slswn A M Schulte Co r Andrew Backman
+15 RESIDING WITH PERSON NOT FOUND: Backman Rudolph lab Dollar Bay Lbr Co r Andrew Backman
+17 RESIDING WITH PERSON NOT FOUND: Backman Selma maid r Andrew Backman
+19 RESIDING WITH PERSON NOT FOUND: Backman Wilfred r Andrew Backman
+26 ADD: Bengs Werner (Ida) barber h e Main
+27 ADD: Berg Christina housekpr r s Church
+28 RESIDING WITH PERSON NOT FOUND: Binonumni Lewis tie peeler Dollar Bay Lbr Co r Point Mills
+38 RESIDING WITH PERSON NOT FOUND: Brocih John lab r Mary Brocih
+39 ADD: Brocih Mary h Church
+43 RESIDING WITH PERSON NOT FOUND: Cadeau Raymond r Wm Cadeau
+44 ADD: Cadeau Wm (Exida) formn h Church
+50 RESIDING WITH PERSON NOT FOUND: Chapman Evertt (Esther) lab r Matt Tapanila
+55 RESIDING WITH PERSON NOT FOUND: Cohen Benj mgr Dollar Bay Steel Co r Sault Ste Marie
+56 ADD: Copper Range R R L J Turnquist agt Dollar Bay
+57 NAME: DAHL HERMAN A (Esther) Groceries and Meats Dollar Bay Tel 226 W
+63 ADD: Dollar Bay Lumber Co inc 1913 cap 50000 L G Hillyer pres W E Brownlee v pres H P Mills treas Fred Urquhart sec
+66 ADD: Dunstan Eliz (wid Jas C) h e Main
+67 ADD: Dunstone Jas h Church
+68 ADD: Dunstone Jane h s Church
+69 ADD: Dunstone Silas mill hd r Church
+77 ADD: Evangelical Lutheran Church s Church
+78 ADD: Finnish Hall Dallar Bay
+81 ADD: Foley F W Son (Frank W and Frank J jr) wire mfrs Dollar Bay
+100 RESIDING WITH PERSON NOT FOUND: Gronlund Hilda r Abram Gronlund
+113 ADD: Hiltunen Martha r e Main
+114 ADD: Hiltunen Sakari Mrs lab h e Main
+123 RESIDING WITH PERSON NOT FOUND: Isaacson John r Minnie Isaacson
+125 ADD: Isaacson Minnie (wid Wm) h s Church
+126 ADD: Janusuu Matt (Marie) farmer h s Fifth
+130 ADD: Johnson Eric (Anna) lab h n Church
+138 RESIDING WITH PERSON NOT FOUND: Joyal John carriage rider Dollar Bay Lbr Co r Point Mills
+141 ADD: Juntunen Ivar (Betty) shoemkr h e Main
+143 ADD: Juntunen Urho farmer r e Main
+146 ADD: Jurmu Matt genl mdse gro and meats h n Church
+147 ADD: Jurmu Waino buyer Matt Jurmu r n Church
+148 ADD: Jurmu Wanda asst bkpr r n Church
+153 ADD: Kuoppala Henry (Lydia) lab h n Church
+154 ADD: Kuusisto Lillion (wid Arvid) h e Main
+155 ADD: Lahikainen Eino lab r s Fifth
+156 ADD: Lahikainen Otto (Rose) lab h s Fifth
+157 ADD: Lahikainen Wm lab r s Fifth
+159 RESIDING WITH PERSON NOT FOUND: Lancour Clara (wid Willard) elk r Alex Toutant
+167 ADD: Lokatelli Sami (Rose) janitor h s Fifth
+168 ADD: Lundman Alvin student r n Church av
+169 RESIDING WITH PERSON NOT FOUND: Lundman Elma slswn Matt Jurmu r Isaac Lundman
+170 RESIDING WITH PERSON NOT FOUND: Lundman Hugo lab DuPont r Isaac Lundman
+171 ADD: Lundman Isaac (Amanda) h n Church
+172 ADD: Lundman John (Hulda) lab h n Church
+173 RESIDING WITH PERSON NOT FOUND: Lundman Leonard lab DuPont r Isaac Lundman
+183 RESIDING WITH PERSON NOT FOUND: Marpusic Matt lab r Arth Gendron
+198 ADD: Mineral Range R R Elmer E Gibson agt Dollar Bay
+202 ADD: Neault Leo (Aurora) firemn h s Church
+203 RESIDING WITH PERSON NOT FOUND: Neault Mecdora r Leo Neault
+204 RESIDING WITH PERSON NOT FOUND: Neault Wm student r Leo Neault
+211 RESIDING WITH PERSON NOT FOUND: Nordbeck Adolph r John Nordbeck
+214 ADD: Nordbeck Matt (Louise) lab h n Church
+215 ADD: Norgard Emil (Anna) lab h e Main
+221 RESIDING WITH PERSON NOT FOUND: Nye Arvid lab r Mathilda Nye
+222 RESIDING WITH PERSON NOT FOUND: Nye Edith r Mathilda Nye
+224 RESIDING WITH PERSON NOT FOUND: Nye Hilma r Mathilda Nye
+225 ADD: Nye Mathilda (wid Chas) h s Church
+226 RESIDING WITH PERSON NOT FOUND: Nye Oscar lab r Mathilda Nye
+229 RESIDING WITH PERSON NOT FOUND: Ostrand Hj aimer trimmermn Dollar Bay Lbr Co r Point Mills
+243 ADD: Post Office Ronald H MacDonald postmstr Dollar Bay
+253 ADD: Rose Henry (Clara) lab h s Church
+255 RESIDING WITH PERSON NOT FOUND: Rose Josephine r Henry Rose
+256 ADD: Ryan Lawrence (Celina) lab h e Main
+264 ADD: Sandell Wm (Mary E) h n Church
+274 ADD: Schulte A M Co (Anthony M and John C) gen mdse gro and meats Dollar Bay
+278 RESIDING WITH PERSON NOT FOUND: Sebbas Arnold elk John Sebbas jr r John Sebbas
+280 RESIDING WITH PERSON NOT FOUND: Sebbas John jr poolroom r John Sebbas
+282 RESIDING WITH PERSON NOT FOUND: Seppala Edw r John Seppala
+283 ADD: Seppala John (Ada) lab h Church
+284 ADD: Setter Nonce (Mary) master mech h Church
+286 RESIDING WITH PERSON NOT FOUND: Swed Nester (Florence) lab r Victor Swed
+288 ADD: Spellich John (Bernardine) mech h s Church
+297 RESIDING WITH PERSON NOT FOUND: Steve Edwin student r John Steve
+298 RESIDING WITH PERSON NOT FOUND: Steve Elmer bkpr r John Steve
+300 RESIDING WITH PERSON NOT FOUND: Steve John jr proof rdr r John Steve
+301 RESIDING WITH PERSON NOT FOUND: Steve Viola r John Steve
+305 ADD: Stoor Carl (Adeline) flremn h s Fifth
+306 RESIDING WITH PERSON NOT FOUND: Stoor Elaine student r Carl Stoor
+308 ADD: Storves Emil (Amanda) surface formn h s Fifth
+309 ADD: Storves Jacob carp r s Fifth
+315 RESIDING WITH PERSON NOT FOUND: Sved Arth lab Dollar Bay Lbr Co r Point Mills
+316 RESIDING WITH PERSON NOT FOUND: Sved Bertha student r Emil Sved
+317 ADD: Sved Carl lab r s Fifth
+318 ADD: Sved Edwin auto mech r s Church
+319 RESIDING WITH PERSON NOT FOUND: Sved Einar lab Dollar Bay Lbr Co r Point Mills
+321 ADD: Sved Esther r s Fifth
+322 RESIDING WITH PERSON NOT FOUND: Sved Gertrude student r Emil Sved
+325 ADD: Sved Teo carp h s Fifth
+326 ADD: Sved Walter tchr r s Fifth
+327 ADD: Sved Werner (Sophie) garage h s Church
+331 ADD: Tapanila Matt (Mary) lab h s Church
+333 ADD: Toutant Alex (Lumina) lab s Church
+334 ADD: Trevarrow Hannah (wid Wm) r s Church
+335 RESIDING WITH PERSON NOT FOUND: Trombly Frank r Sami Lokatelli
+351 RESIDING WITH PERSON NOT FOUND: Westerholm Edw r Edw Westerholm
+352 NAME: Wester holm Edw J (Bessie) lab Dollar Bay Lbr Co r Edw Westerholm
+353 RESIDING WITH PERSON NOT FOUND: Westerholm Eloise student r Edw Westerholm
+355 RESIDING WITH PERSON NOT FOUND: Wiley Grace prin Public School r Antoine Schulte

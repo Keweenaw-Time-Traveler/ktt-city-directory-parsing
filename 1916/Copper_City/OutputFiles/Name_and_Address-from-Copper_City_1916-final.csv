@@ -1,0 +1,159 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+5,Allen,F,Foster,null,Amilda M,engr  ,Kearsarge loc,res,null,null,287,County rd Kearsarge loc,null,null,null,null,null,null
+7,Anderson,Stephen,null,null,null,lab,null,res,es,null,null,Crawford ,1 ,s,of,Keararge,null,null
+8,Angove,Richard,C,null,Susie J,lab,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+31,Borowski,Barni,null,null,Anna,lab,null,res,es,null,null,Ahmeek,null,null,null,null,null,null
+36,Brisky,John,null,null,Veronica,miner,null,res,ws,null,null,Gratiot ,1 ,n,of,Kearsarge,null,null
+40,Buzzo,Richard,null,null,Magna,blksmith  ,Kearsarge loc,res,null,null,52,Church Kearsarge loc,null,null,null,null,null,null
+41,Camp,Ida,E,null,null,tchr  ,Wolverine loc,bds,null,null,13,1st Wolverine loc,null,null,null,null,null,null
+42,Camp,Joseph,C,null,Elizabeth,carp  ,Wolverine loc,res,null,null,13,1st Wolverine loc,null,null,null,null,null,null
+45,Carlson,August,W,null,Ida,miner,null,res,ws,null,null,Crawford ,1 ,n,of,Kearsarge,null,null
+46,Carlson,Bernhard,null,null,Ida M,bartndr ,Wm Mattson,res,ws,null,null,Gratiot,null,null,null,null,null,null
+52,Chopp,Anton,null,null,Margaret,miner,null,res,es,null,null,Ahmeek,null,null,null,null,null,null
+56,Chopp,Joseph,null,null,Margaret,miner,null,res,es,null,null,Ahmeek,null,null,null,null,null,null
+59,Chynoweth,Lily,B,null,null,tchr ,Copper City School,res,null,null,null,null,null,null,null,null,Allouez,null
+70,Erickson,Sakris,null,null,Mary,miner,null,res,ws,null,null,Crawford ,1 ,n,of,Kearsarge,null,null
+74,Etalamaki,Wm,null,null,Helmi,miner,null,res,ws,null,null,Gratiot ,3 ,n,of,Kearsarge,null,null
+75,Everetts,Albert,E,null,J R Bennetts Co,null,null,res,null,null,null,null,null,null,null,null,Kearsarge,null
+77,Evon,George,null,null,Veronica,lab,null,res,es,null,null,Crawford ,8 ,s,of,Keararge,null,null
+79,Evon,George,null,null,Veronica,lab,null,res,es,null,null,Crawford ,8 ,s,of,Keararge,null,null
+83,Feller,Joseph,null,null,Susie,trammer ,O C M Co,res,es,null,null,Crawford ,3 ,s,of,Keararge,null,null
+93,Gerhardt,Anton,null,null,Theresa,lab,null,res,es,null,null,Crawford ,5 ,s,of,Keararge,null,null
+97,Glad,Philip,null,null,Marie,lab,null,res,es,null,null,Seneca,null,null,null,null,null,null
+101,Gustbecker,Gust,null,null,Christina,lab,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+106,Halkola,Thomas,null,null,Lydia M,miner,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+113,Harrington,Michael,null,null,Hannah,null,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+126,Isaacsen,Carl,L,null,Eleanor,blksmith,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+127,Isaacson,Isaac,null,null,Etta U,miner ,O C M Co,res,es,null,null,Seneca,null,null,null,null,null,null
+128,Janes,Frank,null,null,Frances,lab,null,res,es,null,null,Mohawk ,2 ,s,of,School,null,null
+129,Javor,Nicholas,null,null,Helen,null,null,res,ws,null,null,Gratiot ,2 ,n,of,Kearsarge,null,null
+131,Johnson,Harvey,null,null,null,mgr ,Copper City Lumber Fuel Co,res,null,null,null,null,null,null,null,null,Hancock,null
+146,Kivela,Wm,T,null,Lillian E,lab,null,res,es,null,null,Seneca,null,null,null,null,null,null
+155,Koratich,Nicholas,null,null,Marie,dryman,null,res,ws,null,null,Ahmeek,null,null,null,null,null,null
+156,Korby,John,null,null,E Sophie,laborer,null,res,es,null,null,Mohawk ,4 ,s,of,School,null,null
+182,Lampinen,Walter,null,null,Amanda,miner,null,res,es,null,null,Mohawk ,4 ,s,of,School,null,null
+183,Lampsa,Alina,M,null,null,tchr ,Copper City School,bds,null,null,4014,Portland,null,null,null,null,null,null
+184,Lang,F,Florence,null,null,tchr ,Copper City School,res,null,null,null,null,null,null,null,null,Laurium,null
+189,Lavers,John,H,null,Katherine,mach  ,Kearsarge loc,res,null,null,99,County rd Kearsarge loc,null,null,null,null,null,null
+193,Little,Dolphus,null,null,Libbie M,miner,null,res,ws,null,null,Ahmeek,null,null,null,null,null,null
+194,Maatella,August,N,null,Helga,miner,null,res,es,null,null,Crawford ,4 ,s,of,Keararge,null,null
+195,MacNab,Jessie,C,null,null,prin ,Copper City School,res,null,null,null,null,null,null,null,null,Calumet,null
+202,Maynard,Garfield,null,null,Jane,miner,null,res,ws,null,null,Ahmeek ,2 ,s,of,J R Bennett,null,null
+205,Mayott,James,null,null,Marie R,lab,null,res,ws,null,null,Ahmeek,null,null,null,null,null,null
+206,Medland,Blanche,null,null,null,tchr ,Copper City School,res,null,null,null,null,null,null,null,null,Calumet,null
+207,Medve,George,null,null,Julia,lab ,OCM Co,res,es,null,null,Mohawk,null,null,null,null,null,null
+211,Monninen,Thomas,null,null,Katie,carp,null,res,es,null,null,Crawford ,2 ,n,of,Kearsarge,null,null
+214,Nelson,Frederick,null,null,Rose,lab,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+220,Nordstrom,George,null,null,Emma,elk ,Copper City Lumber Fuel Co,res,es,null,null,Crawford ,1 ,n,of,Kearsarge,null,null
+223,Oinas,Mamie,M,null,null,tchr ,Copper City School,res,null,null,null,null,null,null,null,null,Kearsarge,null
+225,01kkonen,John,null,null,Minnie,miner,null,res,es,null,null,Seneca,null,null,null,null,null,null
+227,01son,Walter,null,null,Hilma,blksmith,null,res,es,null,null,Seneca,null,null,null,null,null,null
+230,Paana,Abraham,null,null,Hilda,miner,null,res,es,null,null,Mohawk ,3 ,s,of,School,null,null
+231,Pajnic,Joseph,null,null,Mary,lab,null,res,ws,null,null,Allouez,null,null,null,null,null,null
+236,Passi,Matthew,null,null,Alina,miner ,O C M Co,res,ws,null,null,Seneca,null,null,null,null,null,null
+238,Paull,James,H,null,May K,miner,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+242,Paulson,Arthur,W,null,Aurora,miner,null,res,es,null,null,Mohawk ,1 ,n,of,School,null,null
+243,Paulson,Charles,O,null,Katherine,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+248,Penberthy,James,H,null,May,miner,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+254,Pintar,James,null,null,null,lab,null,res,es,null,null,Crawford ,7 ,s,of,Keararge,null,null
+255,Pojnich,George,null,null,Gustina,miner,null,res,es,null,null,Ahmeek,null,null,null,null,null,null
+256,Pojnich,John,null,null,Vieko,miner,null,res,es,null,null,Ahmeek,null,null,null,null,null,null
+259,Porkalainen,Charles,null,null,Annie,lab,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+261,Posztor,Louis,null,null,Elizabeth,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+268,Radoshevich,Philip,null,null,Anna,blksmith,null,res,ws,null,null,Allouez,null,null,null,null,null,null
+270,Radoshevich,Samuel,null,null,Helen,lab,null,res,ws,null,null,Allouez,null,null,null,null,null,null
+276,Rego,Stephen,null,null,Esther,lab,null,res,ws,null,null,Ahmeek,null,null,null,null,null,null
+279,Richards,Herbert,null,null,Laura,miner,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+280,Rickard,Charles,E,null,Jane,miner,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+289,Rynanen,Yalmer,null,null,Elizabeth,miner ,O C M Co,res,es,null,null,Seneca,null,null,null,null,null,null
+293,Sampson,Joseph,O,null,Annie,driver,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+294,Sastamoina,Nester,J,null,Ida,lab,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+296,Schlidin,Albert,null,null,Jennie E,foreman,null,res,ws,null,null,Allouez ,1 ,n,of,Car Statio,null,null
+304,Snell,Edward,null,null,Elizabeth,miner,null,res,es,null,null,Seneca,null,null,null,null,null,null
+305,Soronen,Jacob,null,null,Elizabeth,meatetr,null,res,es,null,null,Crawford ,2 ,n,of,Kearsarge,null,null
+306,Spehar,Michael,null,null,Josephine,miner,null,res,es,null,null,Ahmeek,null,null,null,null,null,null
+313,Stimach,John,null,null,null,barn boss ,Wm Stimac,res,ws,null,null,Allouez,null,null,null,null,null,null
+321,Talpakka,Jacob,null,null,Sarah F,lab,null,res,es,null,null,Seneca,null,null,null,null,null,null
+335,Ulseth,Edward,null,null,null,lumber coal and wood,null,res,null,null,null,null,null,null,null,null,Calumet,null
+342,Wirtz,Ruth,null,null,null,tchr ,Copper City School,res,null,null,null,null,null,null,null,null,Kearsarge,null
+344,Wood,Leon,null,null,Dora,miner ,O C M Co,res,es,null,null,Mohawk ,1 ,s,of,School,null,null
+345,Yanosi,Alexander,null,null,Tessie,null,null,res,ws,null,null,Ahmeek,null,null,null,null,null,null
+352,Yuskovick,Stephen,null,null,null,lab  ,Wolverine loc,res,null,null,16,1st Wolverine loc,null,null,null,null,null,null
+353,Yuskovick,Stephen,null,jr,null,lab  ,Wolverine lpc,bds,null,null,16,1st Wolverine lpc,null,null,null,null,null,null
+18,Belian,Joseph,null,null,Mary,tmstr,Wm Stimac,null,null,null,null,null,null,null,null,null,null,null
+28,Bickle,Carl,A,null,Emma B,propr,Copper City Hotel,null,null,null,null,null,null,null,null,null,null,null
+51,Chaput,Edward,null,null,Adeline,tmstr,J R Bennetts Co,null,null,null,null,null,null,null,null,null,null,null
+53,Chopp,Anton,F,null,Natalie,sausagemkr,Wm Stimac,null,null,null,null,null,null,null,null,null,null,null
+57,Chopp,Stanislaus,null,null,Antonia,tmstr,Wm Stimac,null,null,null,null,null,null,null,null,null,null,null
+61,Copper,City,Hotel,null,null,propr,Carl A Bickle,null,null,null,null,null,null,null,null,null,null,null
+65,Dodge,John,null,null,null,janitor,Copper City School,null,null,null,null,null,null,null,null,null,null,null
+95,Giroux,Frederick,null,null,null,driver,Copper City Lumber Fuel Co,null,null,null,null,null,null,null,null,null,null,null
+108,Hall,John,T,null,Mabel,miner,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+152,Kopanosky,Frank,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+157,Korby,Lempa,null,null,null,elk,J R Bennetts,null,null,null,null,null,null,null,null,null,null,null
+161,Koroboraka,Fred,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+164,Kotryuk,Andrew,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+173,Kuretiech,Nicholas,null,null,null,dryman,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+177,Lahti,Albert,null,null,Anna,miner,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+186,Larson,Henry,null,null,Kate,miner,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+229,Oznich,Rose,null,null,null,elk,J R Bennetts Co,null,null,null,null,null,null,null,null,null,null,null
+246,Pauna,Abram,null,null,null,miner,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+249,Pesonen,Antti,null,null,null,lab,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+260,POST,OFFICE,null,null,null,Postmaster,John R Bennetts,null,null,null,null,null,null,null,null,null,null,null
+272,Rapson,Helga,null,null,null,elk,Post Office,null,null,null,null,null,null,null,null,null,null,null
+282,Rhine,Jacob,null,null,Ida,elk,J R Bennetts Co,null,null,null,null,null,null,null,null,null,null,null
+291,Sackrison,August,null,null,null,miner,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+300,Schuti,Michael,null,null,null,dr,bartn Joseph Schuti,null,null,null,null,null,null,null,null,null,null,null
+310,Stimac,Ludmila,null,null,null,bkpr,Wm Stimac,null,null,null,null,null,null,null,null,null,null,null
+343,Wolosskin,Alexander,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+10,Antaloci,Joseph,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+11,Armour,James,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+12,Atwood,George,S,null,null,lab,null,res,es,null,null,Mohawk ,1 ,s,of,School,null,null
+29,Bodi,Gabor,null,null,null,lab,null,res,es,null,null,Crawford ,3 ,s,of,Keararge,null,null
+30,Bogdan,Louis,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+37,Brisky,Moxia,null,null,null,student,null,res,ws,null,null,Gratiot ,1 ,n,of,Kearsarge,null,null
+38,Brisky,Samuel,null,null,null,lab,null,res,ws,null,null,Gratiot ,1 ,n,of,Kearsarge,null,null
+68,Dukich,Antonia,null,null,wid John,null,null,res,ws,null,null,Ahmeek,null,null,null,null,null,null
+76,Evon,Frank,null,null,null,lab,null,res,es,null,null,Crawford ,8 ,s,of,Keararge,null,null
+78,Evon,Frank,null,null,null,lab,null,res,es,null,null,Crawford ,8 ,s,of,Keararge,null,null
+80,Evon,John,null,null,null,lab,null,res,es,null,null,Crawford ,8 ,s,of,Keararge,null,null
+81,Fabean,Alexander,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+84,Finfischki,Frank,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+100,Gustbecker,Edward,null,null,null,null,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+102,Gustbecker,Lillie,J,null,null,null,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+103,Gustbecker,Viola,P,null,null,elk,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+104,Hakala,Samuel,null,null,null,miner,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+112,Harrington,James,null,null,null,null,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+115,Hoahola,John,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+116,Hogyan,John,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+125,Ignatz,Stephen,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+130,Jennings,Kate,null,null,wid Thomas,null,null,null,null,null,null,null,null,null,null,null,null,null
+133,Joszczak,Antoni,null,null,null,blksmith,null,null,null,null,null,null,null,null,null,null,null,null
+162,Kosa,Paul,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+163,Koski,John,null,null,null,lab,null,res,es,null,null,Seneca,null,null,null,null,null,null
+167,Krullich,John,null,null,null,lab,null,res,es,null,null,Ahmeek,null,null,null,null,null,null
+198,Matti,Stephen,null,null,null,lab,null,res,es,null,null,Crawford ,8 ,s,of,Keararge,null,null
+208,Miller,Anna,null,null,wid Frank,null,null,null,null,null,null,null,null,null,null,null,null,null
+218,Neszarninen,Michael,null,null,null,lab,null,res,es,null,null,Mohawk ,1 ,s,of,School,null,null
+232,Pallaj,Andrew,null,null,null,lab,null,res,ws,null,null,Ahmeek,null,null,null,null,null,null
+239,Paull,Joseph,null,null,null,miner,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+240,Paull,Kate,null,null,wid James H,null,null,res,ws,null,null,Gratiot,null,null,null,null,null,null
+247,Paver,Anton,null,null,null,lab,null,res,es,null,null,Mohawk ,2 ,s,of,School,null,null
+257,Pojnich,Paul,null,null,null,lab,null,res,es,null,null,Ahmeek,null,null,null,null,null,null
+258,Pope,Alexander,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+269,Radoshevich,Ralph,null,null,Mary,blksmith,null,res,ws,null,null,Gratiot ,1 ,n,of,Kearsarge,null,null
+273,Raudio,Peter,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+281,Rickard,Gladys,null,null,null,null,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+290,Rynanen,Iver,O,null,null,puffer boy,null,res,es,null,null,Seneca,null,null,null,null,null,null
+295,Scferian,George,null,null,null,lab,null,res,es,null,null,Mohawk ,1 ,s,of,School,null,null
+297,Schlidin,Rose,M,null,null,null,null,res,ws,null,null,Allouez ,1 ,n,of,Car Statio,null,null
+298,Schlidin,W,Ettinger,null,null,student,null,res,ws,null,null,Allouez ,1 ,n,of,Car Statio,null,null
+307,Steffan,John,null,null,null,lab,null,res,es,null,null,Mohawk,null,null,null,null,null,null
+317,Svetlicic,George,null,null,null,carp,null,res,es,null,null,Mohawk ,2 ,s,of,School,null,null
+322,Talpakka,Norman,D,null,null,baker,null,res,es,null,null,Seneca,null,null,null,null,null,null
+323,Talpakka,Raymond,L,null,null,lab,null,res,es,null,null,Seneca,null,null,null,null,null,null
+331,Toth,James,null,null,null,lab,null,res,es,null,null,Crawford ,3 ,s,of,Keararge,null,null
+332,Toth,Michael,null,null,null,lab,null,res,ws,null,null,Ahmeek,null,null,null,null,null,null
+333,Uiveges,Alexander,null,null,null,lab,null,res,es,null,null,Crawford ,8 ,s,of,Keararge,null,null
+334,Uiveges,John,null,null,null,lab,null,res,es,null,null,Crawford ,8 ,s,of,Keararge,null,null
+346,Yanosi,Stephen,null,null,null,lab,null,res,ws,null,null,Ahmeek,null,null,null,null,null,null

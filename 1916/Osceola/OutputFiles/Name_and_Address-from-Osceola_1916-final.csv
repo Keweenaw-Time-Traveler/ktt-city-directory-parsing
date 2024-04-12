@@ -1,0 +1,547 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+1,Agassiz,Rodolphe,L,null,null,pres ,Osceola Consolidated Mining Co  Mass,res,null,null,null,null,null,null,null,null,Boston Mass,null
+3,Aho,Simm,null,null,Hannah,null,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+6,Alschback,Matilda,null,null,null,tchr ,Osceola Public School,res,null,null,null,null,null,null,null,null,Lake Linden,null
+7,Anderson,Bertha,null,null,null,null,null,bds,null,null,289,Store Frenchtown,null,null,null,null,null,null
+8,Anderson,01e,null,null,Ingeborg,lab ,O C M Co  Frenchtown,res,null,null,289,Store Frenchtown,null,null,null,null,null,null
+9,Andrevich,George,null,null,null,trammer ,C H M Co,bds,null,null,143,Bush,null,null,null,null,null,null
+10,Andrevich,John,null,null,Mary,miner,null,res,null,null,110,Millionaire,null,null,null,null,null,null
+11,Andrews,Joseph,null,null,null,platman ,O C M Co,bds,null,null,255,Store,null,null,null,null,null,null
+12,Andrus,Peter,null,null,null,miner ,C H M Co,bds,null,null,250,Millionaire,null,null,null,null,null,null
+13,Argillander,Emil,null,null,Hilda,trammer,null,res,null,null,50,County rd,null,null,null,null,null,null
+14,Arner,Ethel,F,null,null,tchr ,Osceola Public School,res,null,null,null,null,null,null,null,null,Calumet,null
+15,Arvola,Sophia,null,null,wid Michael,null,null,res,null,null,160,County rd,null,null,null,null,null,null
+16,Bagatini,Angelo,null,null,Elsie,miner ,O C M Co,res,null,null,106,Millionaire,null,null,null,null,null,null
+17,Bahor,Frank,null,null,Louisa,timberman ,O C M Co,res,null,null,270,Store,null,null,null,null,null,null
+18,Bahor,Fred,null,null,null,lab,null,bds,null,null,276,Store,null,null,null,null,null,null
+19,Bahor,Joseph,null,null,Anna,timberman ,O C M Co,res,null,null,269,Store,null,null,null,null,null,null
+21,Bahor,Michael,null,null,null,trammer ,O C M Co,bds,null,null,276,Store,null,null,null,null,null,null
+22,Bakkila,Charles,null,null,null,shaft house man ,OCM Co,res,null,null,210,Back,null,null,null,null,null,null
+23,Balagna,Frank,null,null,null,trammer ,O C M Co,bds,null,null,220,Opechee,null,null,null,null,null,null
+25,Baril,Armose,null,null,null,tmstr ,O C M Co,bds,null,null,87,Millionaire,null,null,null,null,null,null
+26,Baril,Harvey,null,null,null,student,null,bds,null,null,87,Millionaire,null,null,null,null,null,null
+27,Baril,Joseph,null,null,Alexandrina,surface foreman ,O CM Co,res,null,null,87,Millionaire,null,null,null,null,null,null
+28,Baril,01ymp,null,null,null,surfaceman,null,bds,null,null,87,Millionaire,null,null,null,null,null,null
+29,Barkovich,Matthew,null,null,Mary,trammer ,OCM Co,res,null,null,272,Store,null,null,null,null,null,null
+30,Barney,Thomas,H,null,null,hlpr ,C H M Co,bds,null,null,135,Millionaire,null,null,null,null,null,null
+31,Barschat,Frederick,null,null,Augusta,watchman ,OCM Co,res,null,null,199,Church,null,null,null,null,null,null
+32,Bartkowiak,Ignatz,null,null,Mary,lab,null,res,null,null,212,Opechee,null,null,null,null,null,null
+33,Bartkowiak,Stephen,null,null,null,trammer ,OCM Co,bds,null,null,212,Opechee,null,null,null,null,null,null
+36,Bekkila,Charles,null,null,Hilda,surfaceman,null,res,null,null,210,Opechee,null,null,null,null,null,null
+37,Belange,Charles,null,null,Georgianna,carp ,OCM Co,res,null,null,241,Store,null,null,null,null,null,null
+38,Belange,Homer,C,null,null,carp ,C H M Co,bds,null,null,241,Store,null,null,null,null,null,null
+39,Belange,Mary,null,null,null,null,null,bds,null,null,241,Store,null,null,null,null,null,null
+40,Belange,Sophia,null,null,null,null,null,bds,null,null,241,Store,null,null,null,null,null,null
+42,Belkonen,Walter,V,null,null,lab ,C H M Co,res,null,null,null,County rd,null,null,null,null,null,null
+43,Ben,wick,Abraham,null,null,null,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+46,Borich,Victor,null,null,null,trammer ,OCM Co,bds,null,null,129,Bush,null,null,null,null,null,null
+47,Bowden,James,H,null,null,surfaceman ,OCM Co  Frenchtown,bds,null,null,286,Store Frenchtown,null,null,null,null,null,null
+48,Bowden,Thomas,null,null,Eliza,miner ,OCM Co  Frenchtown,res,null,null,286,Store Frenchtown,null,null,null,null,null,null
+49,Bowden,W,John,null,null,trammer ,OCM Co  Frenchtown,bds,null,null,286,Store Frenchtown,null,null,null,null,null,null
+50,Brnas,Marko,null,null,Louisa,rock passer ,OCM Co,res,null,null,76,Millionaire,null,null,null,null,null,null
+51,Brokenshire,Ruth,null,null,null,null,null,bds,null,null,255,Store,null,null,null,null,null,null
+53,Brown,Richard,W,null,Jennie,foreman ,O C M Co,res,null,null,249,Store,null,null,null,null,null,null
+54,Bruno,Domenic,null,null,Adella,trammer ,O C M Co,res,null,null,219,Opechee,null,null,null,null,null,null
+55,Bryant,Frederick,W,null,null,dentist,null,bds,null,null,115,Millionaire,null,null,null,null,null,null
+56,Bryant,Jane,null,null,wid Edward,null,null,res,null,null,115,Millionaire,null,null,null,null,null,null
+57,Burich,John,null,null,null,trammer ,O C M Co,bds,null,null,46,County rd,null,null,null,null,null,null
+58,Burich,Michael,null,null,null,trammer ,C H M Co,bds,null,null,46,County rd,null,null,null,null,null,null
+59,Burich,Thomas,null,null,null,trammer ,O C M Co,bds,null,null,46,County rd,null,null,null,null,null,null
+60,Burich,Victor,null,null,Catherine,trammer,null,res,null,null,129,Bush,null,null,null,null,null,null
+61,Burley,Edward,null,null,Celina,dryman ,O C M Co,res,null,null,90,Millionaire,null,null,null,null,null,null
+62,Butler,Frederick,null,null,Catherine,miner ,O C M Co,res,null,null,15,County rd,null,null,null,null,null,null
+63,Butler,Rosella,null,null,null,null,null,bds,null,null,21,County rd,null,null,null,null,null,null
+64,Butler,Richard,S,null,Lucinda,rock passer ,O C M Co,res,null,null,21,County rd,null,null,null,null,null,null
+65,Butler,Thomas,null,null,Agnes,pumpman ,O C M Co,res,null,null,133,Bush,null,null,null,null,null,null
+66,Cabal,George,null,null,null,miner,null,bds,null,null,143,Bush,null,null,null,null,null,null
+67,Canjar,Adam,null,null,null,trammer ,C H M Co,bds,null,null,143,Bush,null,null,null,null,null,null
+68,Cartmail,Ethel,null,null,null,null,null,bds,null,null,103,Millionaire,null,null,null,null,null,null
+69,Cartmail,George,null,null,Emma J,miner ,O C M Co,res,null,null,103,Millionaire,null,null,null,null,null,null
+70,Chappie,James,null,null,null,janitor ,Osceola Public School,res,null,null,null,Millionaire,null,null,null,null,null,null
+71,Chaput,Albert,G,null,null,tmstr ,J Vivian jr Co,bds,null,null,268,Store,null,null,null,null,null,null
+72,Chaput,Charles,C,null,Elvina,mgr ,J Vivian jr Co,res,null,null,268,Store,null,null,null,null,null,null
+73,Chaput,Elmer,J,null,null,dentist,null,bds,null,null,268,Store,null,null,null,null,null,null
+74,Chaput,Georgianna,null,null,null,null,null,bds,null,null,268,Store,null,null,null,null,null,null
+75,Chaput,John,null,null,null,student,null,bds,null,null,268,Store,null,null,null,null,null,null
+76,Chaput,Mary,A,null,null,student,null,bds,null,null,268,Store,null,null,null,null,null,null
+77,Chaput,Nellie,M,null,null,tchr,null,bds,null,null,268,Store,null,null,null,null,null,null
+78,Chopp,Andrew,null,null,Annie,miner,null,res,null,null,3,Tecumseh loc,null,null,null,null,null,null
+79,Christianson,Emil,A,null,null,puffer boy ,O C M Co,bds,null,null,216,Opechee,null,null,null,null,null,null
+80,Christoff,James,null,null,null,trammer,null,bds,null,null,200,Back,null,null,null,null,null,null
+81,Ciesielski,Martin,null,null,Kate,trammer ,O C M Co,res,null,null,42,County rd,null,null,null,null,null,null
+82,Constance,Frederick,J,null,null,supply elk ,Osceola Con Mining Co,bds,null,null,266,Store,null,null,null,null,null,null
+83,Coombe,Harold,null,null,null,student,null,bds,null,null,111,Millionaire,null,null,null,null,null,null
+84,Coombe,Wm,H,null,Florence,miner ,O C M Co,res,null,null,111,Millionaire,null,null,null,null,null,null
+85,Coughlin,Daniel,null,null,null,overseer of highways,null,bds,null,null,7,County rd,null,null,null,null,null,null
+87,Crocker,Francis,null,null,Fannie,dryman ,O C M Co,res,null,null,190,Church,null,null,null,null,null,null
+88,Crocker,Mildred,null,null,null,null,null,bds,null,null,190,Church,null,null,null,null,null,null
+89,Crocker,Richard,T,null,null,engine boy ,O C M Co,bds,null,null,190,Church,null,null,null,null,null,null
+90,Curtis,Thomas,M,null,null,miner ,O C M Co,bds,null,null,255,Store,null,null,null,null,null,null
+92,Dabrowski,Wladislaw,null,null,null,trammer ,C H M Co,bds,null,null,271,Store,null,null,null,null,null,null
+94,Danborn,Arthur,H,null,Marion,police ,O C M Co,res,null,null,241,Store,null,null,null,null,null,null
+95,Darich,Robert,null,null,Catherine,timber boss ,O C M Co,res,null,null,197,Church,null,null,null,null,null,null
+96,Dawe,Gilbert,T,null,null,oiler ,O C M Co,bds,null,null,242,Store,null,null,null,null,null,null
+97,Dawe,Harold,J,null,null,puffer boy ,OCM Co,bds,null,null,242,Store,null,null,null,null,null,null
+98,Dawe,Horace,E,null,null,blksmith,null,bds,null,null,242,Store,null,null,null,null,null,null
+99,Dawe,Thomas,J,null,Anna,miner ,OCM Co,res,null,null,242,Store,null,null,null,null,null,null
+100,Defilippi,Joseph,null,null,Mary,trammer ,OCM Co,res,null,null,82,Millionaire,null,null,null,null,null,null
+101,Derzop,John,null,null,null,trammer ,OCM Co,bds,null,null,52,County rd,null,null,null,null,null,null
+102,Derzop,Lawrence,null,null,Mary,trackman ,OCM Co,res,null,null,52,County rd,null,null,null,null,null,null
+103,Deslongchamp,Andrew,null,null,Amanda,tmstr ,OCM Co,res,null,null,32,County rd,null,null,null,null,null,null
+104,Deslongchamp,Howard,null,null,null,miner,null,bds,null,null,32,County rd,null,null,null,null,null,null
+105,Deslongchamp,Joseph,null,null,null,lab,null,bds,null,null,32,County rd,null,null,null,null,null,null
+106,Deslongchamp,Lena,null,null,null,null,null,bds,null,null,32,County rd,null,null,null,null,null,null
+107,Despot,Joseph,null,null,null,trammer ,C H M Co,bds,null,null,143,Bush,null,null,null,null,null,null
+108,Despot,Paul,null,null,Dorothy,trammer ,OCM Co,res,null,null,143,Bush,null,null,null,null,null,null
+109,Domencich,George,null,null,Kate,trammer ,OCM Co,res,null,null,46,County rd,null,null,null,null,null,null
+111,Dooley,Catherine,null,null,wid John,null,null,res,null,null,101,Millionaire,null,null,null,null,null,null
+112,Dooley,Thomas,W,null,null,lab ,C H M Co,bds,null,null,101,Millionaire,null,null,null,null,null,null
+113,Downing,J,Wall,null,null,student,null,bds,null,null,7,County rd,null,null,null,null,null,null
+114,Downing,Mary,null,null,null,elk,null,bds,null,null,7,County rd,null,null,null,null,null,null
+115,Downing,Wm,null,null,null,student,null,bds,null,null,9,County rd,null,null,null,null,null,null
+116,azumerich,John,null,Dr,null,trammer ,OCM Co,res,null,null,null,County rd,null,null,null,null,null,null
+118,Dubala,Elizabeth,null,null,wid John,null,null,res,null,null,140,Bush,null,null,null,null,null,null
+119,Dubala,Thomas,null,null,null,miner,null,bds,null,null,140,Bush,null,null,null,null,null,null
+121,Dumencich,Emil,null,null,null,trammer ,O C M Co,bds,null,null,44,County rd,null,null,null,null,null,null
+122,Dymond,Wm,J,null,Ruth,miner ,OCM Co,res,null,null,274,Store,null,null,null,null,null,null
+124,Fabacz,Frank,null,null,null,trammer ,C H M Co,bds,null,null,2034,County road,null,null,null,null,null,null
+125,Fajan,Anton,null,null,Annie,trammer ,OCM Co,res,null,null,297,Frenchtown,null,null,null,null,null,null
+126,Fantini,Paul,null,null,null,gang boss ,OCM Co,res,null,null,1,County rd,null,null,null,null,null,null
+127,Fantini,Peter,null,null,null,miner ,OCM Co,bds,null,null,1,County rd,null,null,null,null,null,null
+128,Farkash,George,null,null,null,trammer ,OCM Co,bds,null,null,213,County rdj,null,null,null,null,null,null
+129,Filip,Paul,null,null,null,trammer ,OCM Co,bds,null,null,188,Church,null,null,null,null,null,null
+130,Fink,Matt,null,null,Mary,surfaceman ,OCM Co,res,null,null,92,Millionaire,null,null,null,null,null,null
+132,Fisher,Elizabeth,null,null,wid John,null,null,res,null,null,140,Bush,null,null,null,null,null,null
+133,Fisher,Thomas,null,null,null,miner,null,bds,null,null,140,Bush,null,null,null,null,null,null
+134,Flagg,George,A,null,null,sectreas ,Osceola Consolidated Mining Co  Mass,res,null,null,null,null,null,null,null,null,Boston Mass,null
+135,Flenich,Laurence,null,null,null,timberman ,OCM Co,bds,null,null,94,Millionaire,null,null,null,null,null,null
+136,Foreman,Joseph,null,null,null,timekpr ,Osecola Con M Co,res,null,null,null,null,null,null,null,null,Laurium,null
+137,Frandokowski,Anton,null,null,Pelagia,surfaceman ,OCM Co,res,null,null,174,Bush,null,null,null,null,null,null
+138,Frandokowski,Anna,null,null,wid Michael,null,null,bds,null,null,174,Bush,null,null,null,null,null,null
+139,Fretz,John,null,null,Mary,miner ,O C M Co  Frenchtown,res,null,null,308,High Frenchtown,null,null,null,null,null,null
+140,Fretz,John,null,jr,null,driver  ,Frenchtown,bds,null,null,308,High Frenchtown,null,null,null,null,null,null
+141,Galombos,John,null,null,null,trammer ,OCM Co,bds,null,null,230,County rd,null,null,null,null,null,null
+142,Gasperich,Peter,null,null,Kate,miner ,OCM Co,res,null,null,60,County road,null,null,null,null,null,null
+143,Gereau,Abram,null,null,null,trammer,null,bds,null,null,233,County rd,null,null,null,null,null,null
+144,Gereau,Joseph,null,null,Malena,trammer,null,res,null,null,233,County rd,null,null,null,null,null,null
+145,Goggin,David,null,null,null,surfaceman ,OCM Co,bds,null,null,97,Millionaire,null,null,null,null,null,null
+146,Goggin,Julia,null,null,wid Patrick,null,null,res,null,null,97,Millionaire,null,null,null,null,null,null
+147,Goldsworthy,Paul,null,null,Anna,shift boss ,OCM Co,res,null,null,253,Store,null,null,null,null,null,null
+148,Graham,Norman,null,null,Phoebe,surfaceman ,OCM Co,res,null,null,93,Millionaire,null,null,null,null,null,null
+149,Granfell,Jennie,null,null,null,null,null,bds,null,null,39,County rd,null,null,null,null,null,null
+150,Granfell,John,null,null,null,lab,null,bds,null,null,39,County rd,null,null,null,null,null,null
+151,Grant,Elizabeth,null,null,null,tchr ,Osceola Public School,res,null,null,null,null,null,null,null,null,Calumet,null
+152,Grant,George,H,null,Eva,elk ,OCM Co  Frenchtown,res,null,null,309,High Frenchtown,null,null,null,null,null,null
+153,Greenbauer,John,null,null,null,lab ,C H M Co,bds,null,null,279,Store,null,null,null,null,null,null
+154,Greenslade,John,E,null,Fannie,miner ,O C M Co  Frenchtown,res,null,null,307,High Frenchtown,null,null,null,null,null,null
+155,Grenfell,John,null,null,null,wiper ,O C M Co,bds,null,null,39,County rd,null,null,null,null,null,null
+156,Grentz,George,null,null,Mary,miner,null,res,null,null,8,Tecumseh loc,null,null,null,null,null,null
+157,Grentz,Michael,null,null,null,miner,null,bds,null,null,8,Tecumseh loc,null,null,null,null,null,null
+158,Grochowski,Kate,null,null,null,null,null,bds,null,null,271,Store,null,null,null,null,null,null
+159,Grochowski,Peter,null,null,Mary,carp ,OCM Co,res,null,null,271,Store,null,null,null,null,null,null
+160,Guerrucci,Egidio,null,null,null,trammer ,OCM Co,bds,null,null,204,Back,null,null,null,null,null,null
+161,Hadden,Charles,null,null,Mary,shaft inspr ,OCM Co,res,null,null,37,County rd,null,null,null,null,null,null
+162,Haller,Frank,H,null,Louise,mine supt ,OCM Co,res,null,null,258,Front,null,null,null,null,null,null
+163,Hand,Timothy,null,null,Geraldine R,miner ,OCM Co,res,null,null,23,County rd,null,null,null,null,null,null
+164,Harila,Katherine,null,null,wid Andrew,null,null,res,null,null,301,Frenchtown,null,null,null,null,null,null
+165,Harila,Matt,null,null,null,trammer,null,bds,null,null,301,Frenchtown,null,null,null,null,null,null
+166,Harrington,Francis,J,null,null,bkpr ,J Vivian jr Co,res,null,null,null,null,null,null,null,null,Laurium,null
+167,Harrington,Timothy,null,null,Hannah,eng and justice of the peace,null,res,null,null,135,Bush,null,null,null,null,null,null
+168,Harris,Bertha,null,null,null,drsmkr,null,bds,null,null,111,Millionaire,null,null,null,null,null,null
+169,Harris,Mabel,null,null,null,alterer,null,bds,null,null,111,Millionaire,null,null,null,null,null,null
+170,Harvey,Richard,H,null,Grace,trammer ,OCM Co,res,null,null,196,Church,null,null,null,null,null,null
+171,Heikkinen,John,null,null,Mary,surfaceman ,OCM Co,res,null,null,213,Opechee,null,null,null,null,null,null
+172,Hoar,Wm,null,null,Elizabeth,shaft inspr ,OCM Co,res,null,null,255,Store,null,null,null,null,null,null
+173,Hockaday,Martha,A,null,null,tchr ,Osceola Public School,res,null,null,null,null,null,null,null,null,Calumet,null
+174,Holland,John,null,null,Rose,surfaceman,null,res,null,null,3,County rd,null,null,null,null,null,null
+175,Horvath,George,null,null,Mary,miner ,OCM Co,res,null,null,186,Church,null,null,null,null,null,null
+176,Horvath,George,null,jr,null,null,null,bds,null,null,186,Church,null,null,null,null,null,null
+177,Horvath,Joseph,null,null,null,lab,null,bds,null,null,186,Church,null,null,null,null,null,null
+178,Horvath,Joseph,null,jr,null,puffer boy ,OCM Co,bds,null,null,186,Church,null,null,null,null,null,null
+179,Hoskins,Charles,null,null,null,marble ctr,null,bds,null,null,120,Millionaire,null,null,null,null,null,null
+181,Hould,Joseph,null,null,null,barn boss ,OCM Co,bds,null,null,266,Railroad avenue,null,null,null,null,null,null
+182,Hould,Joseph,E,null,null,sten ,OCM Co,bds,null,null,266,Railroad av,null,null,null,null,null,null
+184,Hrovatich,Joseph,L,null,Frances,trammer ,C H M Co,res,null,null,112,Millionaire,null,null,null,null,null,null
+185,Huntley,Elmer,E,null,null,fireman ,OCM Co,bds,null,null,245,Store,null,null,null,null,null,null
+186,Huntley,John,null,null,Maria,shift boss ,OCM Co,res,null,null,245,Store,null,null,null,null,null,null
+187,Huntley,Wilber,T,null,null,mach ,O C M Co,bds,null,null,245,Store,null,null,null,null,null,null
+188,Huot,Frank,null,null,Jennie,fireman ,O C M Co,res,null,null,58,County road,null,null,null,null,null,null
+189,Huot,Frank,null,jr,null,fireman ,O C M Co,bds,null,null,58,County rd,null,null,null,null,null,null
+190,Huot,John,null,null,null,surfaceman ,O C M Co,bds,null,null,58,County rd,null,null,null,null,null,null
+191,Huot,Malvina,null,null,null,null,null,bds,null,null,58,County rd,null,null,null,null,null,null
+192,Huot,Mary,null,null,null,null,null,bds,null,null,58,County rd,null,null,null,null,null,null
+193,Huta,Hjalmar,null,null,null,trammer ,C H M Co,bds,null,null,261,Millionaire,null,null,null,null,null,null
+194,Hyttinen,Oscar,null,null,null,miner,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+195,Ivanoff,Jordan,null,null,null,trammer ,O C M Co,res,null,null,200,Back,null,null,null,null,null,null
+196,Ivanoff,Samuel,null,null,null,lab,null,bds,null,null,96,Millionaire,null,null,null,null,null,null
+197,Ivanoff,Thomas,null,null,null,lab,null,bds,null,null,96,Millionaire,null,null,null,null,null,null
+198,Jagielski,Michael,null,null,Hattie,miner ,O C M Co,res,null,null,218,Opechee,null,null,null,null,null,null
+199,Jakovos,Stephen,null,null,Sylvia,miner,null,res,null,null,9,Tecumseh loc,null,null,null,null,null,null
+201,Janes,Carl,null,null,null,trammer ,O C M Co,bds,null,null,304,Frenchtown,null,null,null,null,null,null
+202,Javor,Pavel,null,null,null,trammer ,O C M Co,bds,null,null,287,Frenchtown,null,null,null,null,null,null
+203,Jedinak,Charles,null,null,Anna,miner,null,res,null,null,54,County rd,null,null,null,null,null,null
+204,Jeffery,Emily,null,null,wid James,null,null,res,null,null,283,Store Frenchtown,null,null,null,null,null,null
+205,Jeffery,Raymond,null,null,null,null,null,bds,null,null,283,Store Frenchtown,null,null,null,null,null,null
+206,Jeffery,Wilbert,null,null,null,oiler ,O C M Co  French town,bds,null,null,283,Store French town,null,null,null,null,null,null
+208,Johnson,Arthur,null,null,null,student  ,Frenchtown,bds,null,null,3000,Osceola rd Frenchtown,null,null,null,null,null,null
+210,Johnson,Ephraim,null,null,Kate,farmer,null,res,null,null,null,County rd,null,null,null,null,null,null
+211,Johnson,Henry,null,null,null,lab,null,bds,null,null,72,Millionaire,null,null,null,null,null,null
+212,Johnson,Henry,J,null,null,elk ,J Vivian jr Co,bds,null,null,3000,Osceola road,null,null,null,null,null,null
+213,Johnson,Hilda,null,null,null,null,null,bds,null,null,3000,Osceola rd,null,null,null,null,null,null
+214,Johnson,Katherine,null,null,wid Henry,null,null,res,null,null,3000,Osceola rd Frenchtown,null,null,null,null,null,null
+215,Johnson,Lydia,null,null,null,null,null,bds,null,null,72,Millionaire,null,null,null,null,null,null
+216,Johnson,Mary,null,null,wid John,null,null,res,null,null,72,Millionaire,null,null,null,null,null,null
+217,Johnson,Minnie,null,null,null,null,null,bds,null,null,72,Millionaire,null,null,null,null,null,null
+218,Johnson,Solomon,null,null,null,miner,null,res,null,null,114,Millionaire,null,null,null,null,null,null
+219,Johnson,Wm,null,null,Minnie,miner,null,res,null,null,234,County rd,null,null,null,null,null,null
+220,Johnson,Wm,J,null,null,miner ,C H M Co,bds,null,null,72,Millionaire,null,null,null,null,null,null
+221,Jolly,Roy,null,null,null,student,null,bds,null,null,181,Church,null,null,null,null,null,null
+222,Jolly,Wm,null,null,Carrie,miner ,O C M Co,res,null,null,181,Church,null,null,null,null,null,null
+223,Jukola,Charles,null,null,null,trammer ,O C M Co,bds,null,null,50,County rd,null,null,null,null,null,null
+225,Kaarti,Arthur,null,null,null,null,null,bds,null,null,113,Millionaire,null,null,null,null,null,null
+226,Kaarti,Hjalmar,null,null,null,null,null,bds,null,null,113,Millionaire,null,null,null,null,null,null
+227,Kaarti,Isaac,null,null,Mary,lab ,C H M Co,res,null,null,113,Millionaire,null,null,null,null,null,null
+228,Karaszczuk,Felix,null,null,null,trammer ,O C M Co,bds,null,null,208,Opechee,null,null,null,null,null,null
+231,Karkala,01af,null,null,Gustuva,null,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+232,Karkowich,John,null,null,Rose,timberman,null,res,null,null,230,County rd,null,null,null,null,null,null
+233,Kastelitz,Joseph,null,null,Frances,timberman ,O C M Co,res,null,null,112,Millionaireo,null,null,null,null,null,null
+234,Kasun,Matthew,null,null,null,trammer ,O C M Co,bds,null,null,143,Bush,null,null,null,null,null,null
+235,Kasun,Matthew,null,jr,null,trammer ,O C M Co,bds,null,null,143,Bush,null,null,null,null,null,null
+237,Kelly,Alice,null,null,null,null,null,bds,null,null,189,Church,null,null,null,null,null,null
+238,Kelly,Anna,F,null,null,elk,null,bds,null,null,189,Church,null,null,null,null,null,null
+239,Kelly,Cecelia,null,null,null,null,null,bds,null,null,189,Church,null,null,null,null,null,null
+240,Kelly,Cornelius,null,null,null,null,null,bds,null,null,189,Church,null,null,null,null,null,null
+241,Kelly,Johanna,null,null,null,null,null,bds,null,null,189,Church,null,null,null,null,null,null
+242,Kelly,John,null,null,Katherine,miner ,O C M Co,res,null,null,99,Million aire,null,null,null,null,null,null
+243,Kelly,John,D,null,null,surfaceman ,O C M Co,res,null,null,189,Church,null,null,null,null,null,null
+244,Kelly,Margaret,null,null,null,null,null,bds,null,null,189,Church,null,null,null,null,null,null
+246,Kinkela,Frederick,null,null,Barbara,trammer ,O C M Co,res,null,null,137,Bush,null,null,null,null,null,null
+247,Kinkela,Winko,null,null,null,trammer ,O C M Co,bds,null,null,137,Bush,null,null,null,null,null,null
+248,Kinsman,G,Meryl,null,null,student,null,bds,null,null,120,Millionaire,null,null,null,null,null,null
+249,Kinsman,Hazel,J,null,null,dressmkr ,120,bds,null,null,120,Millionaire,null,null,null,null,null,null
+250,Kinsman,J,Alfred,null,Eliza,miner ,O C M Co,res,null,null,120,Millionaire,null,null,null,null,null,null
+254,Klanzsek,Louis,null,null,Anna,trammer ,O C M Co,res,null,null,223,Opechee,null,null,null,null,null,null
+255,Klavich,James,null,null,Catherine,miner,null,res,null,null,10,Tecumseh loc,null,null,null,null,null,null
+256,Klobucarich,Samuel,null,null,null,trammer ,O C M Co,res,null,null,null,Frenchtown,null,null,null,null,null,null
+257,Kondrachich,Alexander,null,null,Frances,trammer ,O C M Co,res,null,null,145,Bush,null,null,null,null,null,null
+258,Korako,John,null,null,null,timberman ,O C M Co,res,null,null,230,County rd,null,null,null,null,null,null
+259,Koski,Joseph,null,null,Vina,miner,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+260,Kostamo,Arvid,null,null,null,car repr,null,bds,null,null,299,Frenchtown,null,null,null,null,null,null
+261,Kostamo,Gustava,null,null,wid Henry,null,null,res,null,null,300,Frenchtown,null,null,null,null,null,null
+262,Kostamo,Hilma,null,null,null,null,null,bds,null,null,299,Frenchtown,null,null,null,null,null,null
+263,Kozinger,Glenn,null,null,null,lab,null,res,null,null,121,Millionaire,null,null,null,null,null,null
+264,Kramarich,John,null,null,Antoinette,null,null,res,null,null,306,High Frenchtown,null,null,null,null,null,null
+265,Kries,John,null,null,null,trammer,null,bds,null,null,125,Mine,null,null,null,null,null,null
+266,Kries,Theodore,null,null,null,lab,null,bds,null,null,96,Millionaire,null,null,null,null,null,null
+267,Kristoff,Demetrius,null,null,null,trammer ,OCM Co,bds,null,null,200,Back,null,null,null,null,null,null
+268,Krznarich,Stephen,null,null,null,trammer ,OCM Co,res,null,null,null,Frenchtown,null,null,null,null,null,null
+269,Kump,Joseph,null,null,null,lab ,C H M Co,bds,null,null,52,County rd,null,null,null,null,null,null
+270,Kuretich,Anton,null,null,Matilda,trammer ,OCM Co  Frenchtown,res,null,null,304,High Frenchtown,null,null,null,null,null,null
+271,Kuretich,Matt,null,null,null,janitor ,OCM Co,res,null,null,291,Frenchtown,null,null,null,null,null,null
+273,Kylmili,Joseph,null,null,Amanda,miner,null,res,null,null,100,Millionaire,null,null,null,null,null,null
+274,LaMarche,Frank,null,null,Arthemise,carp ,OCM Co  Osceola loc,res,null,null,287,Store Osceola loc,null,null,null,null,null,null
+275,Lananen,Henry,null,null,null,surfaceman,null,bds,null,null,161,County rd,null,null,null,null,null,null
+276,Lananen,John,null,null,Kate,null,null,res,null,null,161,County rd,null,null,null,null,null,null
+277,Lananen,May,null,null,null,null,null,bds,null,null,161,County rd,null,null,null,null,null,null
+278,Lander,Richard,null,null,null,elk ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Calumet,null
+279,Landini,Isadore,null,null,Mary,trammer,null,res,null,null,204,Back,null,null,null,null,null,null
+280,LaRochelle,Adrian,null,null,null,elk,null,bds,null,null,266,Store,null,null,null,null,null,null
+281,LaRochelle,Alfred,null,null,null,surfaceman ,OCM Co,bds,null,null,266,Store,null,null,null,null,null,null
+282,LaRochelle,Gilbert,null,null,null,null,null,bds,null,null,266,Store,null,null,null,null,null,null
+283,LaRochelle,Homer,null,null,null,elk,null,bds,null,null,266,Store,null,null,null,null,null,null
+284,LaRochelle,Joseph,null,null,null,steelwkr,null,bds,null,null,266,Store,null,null,null,null,null,null
+285,LaRochelle,Louis,null,null,null,wiper ,OCM Co,bds,null,null,266,Store,null,null,null,null,null,null
+286,LaRochelle,Victoria,null,null,wid Joseph,null,null,res,null,null,266,Store,null,null,null,null,null,null
+287,LaRochelle,Victoria,null,null,null,dressmkr,null,bds,null,null,266,Store,null,null,null,null,null,null
+289,Lechtanski,Anton,null,null,Victoria,platman ,OCM Co,res,null,null,293,Store,null,null,null,null,null,null
+290,Lechtanski,Frank,null,null,null,null,null,bds,null,null,293,Store Frenchtown,null,null,null,null,null,null
+291,Lechtanski,John,null,null,null,null,null,bds,null,null,293,Store,null,null,null,null,null,null
+292,Lind,Paul,null,null,null,lab,null,res,null,null,174,County rd,null,null,null,null,null,null
+293,Livingway,Frank,null,null,Julia,foreman ,OCM Co,res,null,null,187,Church,null,null,null,null,null,null
+294,Lobb,Arthur,W,null,Mary J,null,null,res,null,null,105,Millionaire,null,null,null,null,null,null
+295,Lobb,Bert,null,null,null,blksmith ,O C M Co,bds,null,null,109,N Bush,null,null,null,null,null,null
+296,Lobb,Thomas,null,null,Clara B,shift boss ,OCM Co,res,null,null,179,Church,null,null,null,null,null,null
+297,Locatelli,Guido,null,null,null,miner ,OCM Co,bds,null,null,225,Opechee,null,null,null,null,null,null
+298,Locatelli,Joseph,null,null,Catherine,miner,null,res,null,null,225,Opechee,null,null,null,null,null,null
+299,Luke,Irene,null,null,null,null,null,bds,null,null,155,Bush,null,null,null,null,null,null
+300,Lundin,Louis,null,null,null,trammer,null,bds,null,null,233,County rd,null,null,null,null,null,null
+301,Luoma,Leander,null,null,null,trammer ,C H M Co,bds,null,null,50,County road,null,null,null,null,null,null
+302,McCormick,Edward,A,null,Winifred,eng,null,res,null,null,3000,Osceola rd,null,null,null,null,null,null
+303,MacNaughton,James,null,null,null,genl mgr ,Osceola Consd Mining Co,res,null,null,null,null,null,null,null,null,Calumet,null
+304,Maierle,Paul,null,null,Anna,pipeman ,O C M Co,res,null,null,110,Millionaire,null,null,null,null,null,null
+305,Mallinen,Andrew,null,null,null,trammer ,O C M Co,bds,null,null,211,Opechee,null,null,null,null,null,null
+307,Matson,Alexander,null,null,Allie,miner ,O C M Co,res,null,null,216,Opechee,null,null,null,null,null,null
+308,Matson,Esther,null,null,null,null,null,bds,null,null,183,Church,null,null,null,null,null,null
+309,Matson,Florence,null,null,null,null,null,bds,null,null,216,Opechee,null,null,null,null,null,null
+310,Matson,John,null,null,Adelia,miner ,O C M Co,res,null,null,183,Church,null,null,null,null,null,null
+311,Matson,Lillian,null,null,null,bkpr,null,bds,null,null,183,Church,null,null,null,null,null,null
+312,Matson,Mabel,null,null,null,null,null,bds,null,null,183,Church,null,null,null,null,null,null
+313,Matzelle,Joseph,null,null,Mary,miner ,O C M Co,res,null,null,31,County road,null,null,null,null,null,null
+314,Mazzolini,Octavio,null,null,Domenica,lab ,O C M Co,res,null,null,221,Opechee,null,null,null,null,null,null
+315,Medic,Frank,null,null,null,trammer ,C H M Co,bds,null,null,235,County rd,null,null,null,null,null,null
+316,Mihalof,Marcus,null,null,null,trammer,null,bds,null,null,125,Mine,null,null,null,null,null,null
+317,Mihelich,Paul,null,null,Louisa,trammer ,O C M Co  Frenchtown,res,null,null,285,Store Frenchtown,null,null,null,null,null,null
+320,Mitchell,Richard,J,null,Elizabeth,miner ,O C M Co,res,null,null,39,County rd,null,null,null,null,null,null
+321,Muhar,Frank,null,null,null,trammer ,C H M Co,bds,null,null,143,Bush,null,null,null,null,null,null
+324,Muretich,John,null,null,null,trammer ,O C M Co,bds,null,null,119,Millionaire,null,null,null,null,null,null
+325,Nankervich,Nicholas,null,null,Alma,miner ,O C M Co,res,null,null,139,Bush,null,null,null,null,null,null
+326,Nantell,Jennie,null,null,null,null,null,bds,null,null,118,Millionaire,null,null,null,null,null,null
+327,Nantell,Marguerite,null,null,null,tchr ,Osceola Public School,bds,null,null,118,Millionaire,null,null,null,null,null,null
+328,Nantell,Theophile,null,null,Celina,null,null,res,null,null,118,Millionaire,null,null,null,null,null,null
+329,Neault,Romeo,null,null,Rosanna,watchman ,O C M Co,res,null,null,25,County rd,null,null,null,null,null,null
+330,Nedoff,Chris,null,null,null,trammer,null,bds,null,null,200,Back,null,null,null,null,null,null
+331,Nicholls,Alfred,null,null,Eliza,supt ,Osceola Township School District,res,null,null,246,County rd,null,null,null,null,null,null
+332,Nicholls,Clarence,A,null,null,student,null,bds,null,null,246,County rd,null,null,null,null,null,null
+333,Nicholls,George,null,null,null,student,null,bds,null,null,246,County rd,null,null,null,null,null,null
+334,Nicholls,Kenneth,null,null,null,hlpr ,O C M Co,bds,null,null,246,County rd,null,null,null,null,null,null
+335,Nicola,John,null,null,null,trammer,null,bds,null,null,200,Back,null,null,null,null,null,null
+344,Niemela,Sakkri,null,null,Fredericka,meats,null,res,null,null,null,County rd,null,null,null,null,null,null
+346,Novosel,Nick,null,null,null,miner,null,bds,null,null,143,Bush,null,null,null,null,null,null
+347,Nowak,Joseph,null,null,null,emp ,C H M Co,bds,null,null,235,County rd,null,null,null,null,null,null
+348,Nyers,Stephen,null,null,null,trammer ,O C M Co,bds,null,null,230,County rd,null,null,null,null,null,null
+349,OBrien,Catherine,null,null,wid Patrick,null,null,res,null,null,182,Church,null,null,null,null,null,null
+350,OBrien,Cecelia,null,null,null,elk ,F W Woolworth Co,bds,null,null,182,Church,null,null,null,null,null,null
+351,OBrien,Dennis,null,null,null,pumpman ,O C M Co,bds,null,null,182,Church,null,null,null,null,null,null
+352,OBrien,Jeremiah,null,null,null,lab,null,bds,null,null,182,Church,null,null,null,null,null,null
+353,OBrien,John,null,null,null,section hd,null,bds,null,null,182,Church,null,null,null,null,null,null
+354,Odgers,Thomas,M,null,Katherine,lab ,O C M Co,res,null,null,27,County rd,null,null,null,null,null,null
+355,Ojala,Andrew,null,null,01ena,lab,null,res,null,null,102,Millionaire,null,null,null,null,null,null
+356,Ojala,Eli,null,null,Amanda,section foreman,null,res,null,null,74,Millionaire,null,null,null,null,null,null
+357,Ojala,Hilga,null,null,null,null,null,bds,null,null,74,Millionaire,null,null,null,null,null,null
+358,01eski,Fred,null,null,null,trammer ,C H M Co,bds,null,null,180,Church,null,null,null,null,null,null
+359,01eski,John,null,null,null,platman ,O C M Co,bds,null,null,145,Bush,null,null,null,null,null,null
+360,01eski,Joseph,null,null,Frances,miner ,O C M Co,res,null,null,81,Millionaire,null,null,null,null,null,null
+361,01eski,Nicholas,null,null,null,hlpr ,O C M Co,bds,null,null,206,Back,null,null,null,null,null,null
+362,01eski,Wm,null,null,null,lab,null,bds,null,null,81,Millionaire,null,null,null,null,null,null
+363,01ewski,Eli,null,null,Mary,mach,null,res,null,null,206,Opechee,null,null,null,null,null,null
+364,01ewski,John,null,null,Josephine,miner,null,res,null,null,145,Bush,null,null,null,null,null,null
+365,01ewski,John,null,jr,null,lab,null,bds,null,null,145,Bush,null,null,null,null,null,null
+367,ONeill,Jeremiah,null,null,Margaret,miner ,O C M Co,res,null,null,91,Millionaire,null,null,null,null,null,null
+368,ONeill,Jeremiah,null,jr,null,surfaceman ,O C M Co,bds,null,null,91,Millionaire,null,null,null,null,null,null
+369,ONeill,John,null,null,null,lab,null,bds,null,null,91,Millionaire,null,null,null,null,null,null
+370,Opie,Evelina,null,null,wid Richard,null,null,res,null,null,108,Millionaire,null,null,null,null,null,null
+371,Opie,John,null,null,null,hlpr ,O C M Co,bds,null,null,108,Millionaire,null,null,null,null,null,null
+372,Opie,Linda,null,null,null,student,null,bds,null,null,108,Millionaire,null,null,null,null,null,null
+373,Opie,Lucinda,null,null,null,student,null,bds,null,null,108,Millionaire,null,null,null,null,null,null
+374,Osborne,Wm,null,null,Rhoda,miner ,O C M Co,res,null,null,56,County road,null,null,null,null,null,null
+380,Oxnam,James,W,null,null,elk ,O C M Co,res,null,null,null,null,null,null,null,null,Calumet,null
+381,Oxnam,Wm,A,null,Elizabeth W,asst chief elk ,O C M Co,res,null,null,248,Store,null,null,null,null,null,null
+382,Palmeleski,Vincent,null,null,null,miner  ,Frenchtown,res,null,null,286,Store Frenchtown,null,null,null,null,null,null
+383,Panjan,Joseph,null,null,null,lab ,C H M Co,bds,null,null,25,County rd,null,null,null,null,null,null
+384,Pascoe,Wilfred,null,null,null,trammer ,O C M Co,bds,null,null,155,Bush,null,null,null,null,null,null
+385,Pasdon,Stephen,null,null,null,trammer ,O C M Co,bds,null,null,86,N Bush,null,null,null,null,null,null
+386,Pastore,Dominico,null,null,null,janitor ,O C M Co,bds,null,null,221,Opechee,null,null,null,null,null,null
+387,Patrick,Elizabeth,M,null,null,tchr ,Osceola Public School,res,null,null,null,null,null,null,null,null,Calumet,null
+388,Paulson,Alfred,null,null,null,null,null,bds,null,null,5,County rd,null,null,null,null,null,null
+389,Paulson,Emil,J,null,Amelia,pumpman ,O C M Co,res,null,null,247,Mine,null,null,null,null,null,null
+390,Paulson,Gustav,null,null,Hattie,lab,null,res,null,null,104,Millionaire,null,null,null,null,null,null
+391,Paulson,Jacob,null,null,Ida,null,null,res,null,null,5,County rd,null,null,null,null,null,null
+392,Paulson,Jacob,H,null,null,lab,null,bds,null,null,104,Millionaire,null,null,null,null,null,null
+393,Paulson,Rose,null,null,null,null,null,bds,null,null,5,County rd,null,null,null,null,null,null
+394,Pavlak,Anna,null,null,wid Joseph,null,null,res,null,null,310,High Frenchtown,null,null,null,null,null,null
+395,Pavlak,Frank,J,null,null,elk ,Osceola P O and Mineral Range R R  Frenchtown,bds,null,null,310,High Frenchtown,null,null,null,null,null,null
+396,Pavlovick,Louis,null,null,Annie,miner,null,res,null,null,8,Tecumseh loc,null,null,null,null,null,null
+397,Pawlinac,Frank,null,null,null,trammer ,O C M Co,bds,null,null,1,County rd,null,null,null,null,null,null
+398,Pawlinac,Nicholas,null,null,Anna,trammer,null,res,null,null,1,County rd,null,null,null,null,null,null
+399,Pazden,Stephen,null,null,Mary,miner,null,res,null,null,86,Millionaire,null,null,null,null,null,null
+400,Pearce,Bertha,null,null,null,null,null,bds,null,null,244,Store,null,null,null,null,null,null
+401,Pearce,Howard,T,null,null,surfaceman ,O C M Co,bds,null,null,244,Store,null,null,null,null,null,null
+402,Pearce,Mildred,null,null,null,null,null,bds,null,null,244,Store,null,null,null,null,null,null
+403,Pearce,Myrtle,null,null,null,tchr ,Osceola Public School,bds,null,null,244,Store,null,null,null,null,null,null
+404,Pearce,01ive,null,null,null,null,null,bds,null,null,244,Store,null,null,null,null,null,null
+405,Pearce,Thomas,null,null,Anna,timberman ,O C M Co,res,null,null,244,Store,null,null,null,null,null,null
+406,Pechauver,John,null,null,Anna,miner,null,res,null,null,33,County rd,null,null,null,null,null,null
+407,Peneff,Atanas,null,null,null,trammer ,O C M Co,bds,null,null,200,Back,null,null,null,null,null,null
+408,Penrose,Alfred,A,null,Elizabeth,trammer ,O C M Co  Frenchtown,res,null,null,305,High Frenchtown,null,null,null,null,null,null
+409,Penrose,Frederick,N,null,null,trammer ,O C M Co  Frenchtown,bds,null,null,305,High Frenchtown,null,null,null,null,null,null
+410,Pericic,Stephen,null,null,null,trammer ,C H M Co,bds,null,null,229,County road,null,null,null,null,null,null
+411,Peterson,Emil,null,null,null,elk,null,bds,null,null,113,Millionaire,null,null,null,null,null,null
+412,Peterson,Florence,null,null,null,null,null,bds,null,null,113,Millionaire,null,null,null,null,null,null
+413,Petkoff,Ivan,null,null,null,trammer ,O C M Co,bds,null,null,205,Back,null,null,null,null,null,null
+414,Pichauer,John,null,null,null,miner ,O C M Co,bds,null,null,33,County rd,null,null,null,null,null,null
+415,Piechowiak,Walter,null,null,Veronica,shaft inspr ,O C M Co,res,null,null,226,Opechee,null,null,null,null,null,null
+416,Podruski,Roman,null,null,null,trammer ,C H M Co,bds,null,null,28,Opechee,null,null,null,null,null,null
+417,Pomykolski,Vincent,null,null,null,miner ,O C M Co,bds,null,null,288,Frenchtown,null,null,null,null,null,null
+418,Porkowski,Joseph,null,null,Leocadia,trammer,null,res,null,null,208,Opechee,null,null,null,null,null,null
+419,Poziak,John,null,null,null,trammer ,O C M Co,bds,null,null,276,Store,null,null,null,null,null,null
+420,Pura,Wm,null,null,null,trammer ,O C M Co  elk,bds,null,null,102,Millionaire Purcell Mary elk,null,null,null,null,null,null
+421,Rebrovich,Bart,null,null,null,trammer ,O C M Co,bds,null,null,226,County rd,null,null,null,null,null,null
+422,Rengo,Viola,null,null,null,tchr ,Osceola Public School,res,null,null,null,null,null,null,null,null,Laurium,null
+423,Renowden,Wm,H,null,Elizabeth,null,null,res,null,null,2,Tecumseh loc,null,null,null,null,null,null
+424,Ribkowitz,Roman,null,null,null,trammer ,OCM Co,bds,null,null,271,Store,null,null,null,null,null,null
+425,Richards,Edward,null,null,Lottie I,trammer ,OCM Co,res,null,null,35,County rd,null,null,null,null,null,null
+427,Richards,Richard,F,null,Mae,elk,null,res,null,null,279,Store,null,null,null,null,null,null
+428,Richert,Richard,null,null,null,lab,null,res,null,null,289,Store,null,null,null,null,null,null
+429,Roberts,Daniel,null,null,Tillie,rock passer ,OCM Co,res,null,null,260,Store,null,null,null,null,null,null
+430,Rodda,Clarence,null,null,null,elk,null,bds,null,null,95,Millionaire,null,null,null,null,null,null
+431,Rodda,James,null,null,Mary E,miner ,OCM Co,res,null,null,95,Millionaire,null,null,null,null,null,null
+432,Rodda,Ruth,null,null,null,student,null,bds,null,null,95,Millionaire,null,null,null,null,null,null
+433,Rogan,Annie,null,Mrs,null,null,null,res,null,null,7,County rd,null,null,null,null,null,null
+434,Rogan,Dorothy,W,null,null,bkpr,null,bds,null,null,7,County rd,null,null,null,null,null,null
+435,Rogan,Howard,null,null,null,fireman ,OCM Co,bds,null,null,7,County rd,null,null,null,null,null,null
+436,Rome,John,null,null,null,trammer,null,bds,null,null,52,County rd,null,null,null,null,null,null
+438,Rowe,Gladys,null,null,null,null,null,bds,null,null,256,Store,null,null,null,null,null,null
+439,Rowe,James,null,null,Sarah,mine capt ,OCM Co,res,null,null,256,Store,null,null,null,null,null,null
+440,Rowe,James,H,null,Anna,miner ,OCM Co,res,null,null,195,Church,null,null,null,null,null,null
+441,Rowe,Stanley,null,null,null,null,null,bds,null,null,256,Store,null,null,null,null,null,null
+443,Rule,R,Arthur,null,Katherine,foreman ,OCM Co,res,null,null,251,Store,null,null,null,null,null,null
+445,Rybkowicz,Roman,null,null,null,trammer,null,bds,null,null,271,Store,null,null,null,null,null,null
+446,Saan,Laurie,null,null,Helma,trammer,null,res,null,null,3,County rd,null,null,null,null,null,null
+447,Saari,Lori,null,null,null,timberman ,C H M Co,bds,null,null,3,Millionaire,null,null,null,null,null,null
+448,Sackirson,Jacob,null,null,Hilda,lab,null,res,null,null,114,Millionaire,null,null,null,null,null,null
+449,Sackrison,Henry,null,null,Mamie,trammer ,OCM Co,res,null,null,211,Opechee,null,null,null,null,null,null
+450,Saje,Louis,null,null,null,trammer,null,bds,null,null,297,Frenchtown,null,null,null,null,null,null
+451,Saleff,Wasil,T,null,null,trammer,null,res,null,null,205,Back,null,null,null,null,null,null
+452,Santi,John,null,null,null,emp ,C  H M Co,bds,null,null,248,Wolverine,null,null,null,null,null,null
+453,Sapino,Antonio,null,null,Angela,trammer boss ,OCM Co,res,null,null,220,Opechee,null,null,null,null,null,null
+454,Sati,Michael,null,null,Mary,lab,null,res,null,null,276,Store,null,null,null,null,null,null
+456,Saukko,Isaac,null,null,Mary,miner ,OCM Co,res,null,null,29,County road,null,null,null,null,null,null
+457,Schives,Albert,null,null,null,engine wiper ,OCM Co,bds,null,null,19,County road,null,null,null,null,null,null
+458,Schives,Irene,null,null,null,student,null,bds,null,null,19,County rd,null,null,null,null,null,null
+459,Schives,Robert,null,null,Mary,surfaceman ,OCM Co,res,null,null,19,County rd,null,null,null,null,null,null
+461,Seghan,Antonia,null,null,null,null,null,bds,null,null,188,Church,null,null,null,null,null,null
+462,Seghan,Frank,null,null,null,timberman ,OCM Co,bds,null,null,188,Church,null,null,null,null,null,null
+463,Seghan,George,null,null,Frances,rockhouse boss ,OCM Co,res,null,null,188,Church,null,null,null,null,null,null
+464,Seghan,George,null,jr,null,elk,null,bds,null,null,188,Church,null,null,null,null,null,null
+465,Seghan,Lawrence,null,null,null,foreman ,OCM Co,bds,null,null,188,Church,null,null,null,null,null,null
+466,Seghan,Nicholas,null,null,null,trammer ,OCM Co,bds,null,null,188,Church,null,null,null,null,null,null
+467,Sertich,Jacob,null,null,Anna,trammer ,OCM Co,res,null,null,44,County road,null,null,null,null,null,null
+468,Shea,Gerald,B,null,null,student,null,bds,null,null,247,Store,null,null,null,null,null,null
+469,Shea,John,D,null,Elizabeth,master mech ,OCM Co,res,null,null,247,Store,null,null,null,null,null,null
+470,Shirley,Henrietta,E,null,null,prin ,Osceola Public School,res,null,null,null,null,null,null,null,null,Laurium,null
+471,Siiterson,John,null,null,null,pipeman ,C H M Co,bds,null,null,246,Bush,null,null,null,null,null,null
+472,Simmons,John,null,null,Catherine,lab ,C H M Co,res,null,null,184,Church,null,null,null,null,null,null
+473,Simonich,Aloysius,null,null,null,trammer ,OCM Co,bds,null,null,273,Store,null,null,null,null,null,null
+474,Simonich,John,null,null,null,trammer ,OCM Co,bds,null,null,40,County rd,null,null,null,null,null,null
+475,Simonich,Joseph,null,null,Agnes,timberman ,OCM Co,res,null,null,40,County rd,null,null,null,null,null,null
+476,Simonich,Joseph,null,jr,null,lab ,C H M Co,bds,null,null,40,County rd,null,null,null,null,null,null
+477,Simonich,Louis,null,null,null,lab,null,bds,null,null,277,Store,null,null,null,null,null,null
+478,Simonich,Mary,null,null,null,null,null,bds,null,null,40,County rd,null,null,null,null,null,null
+479,Sinkowiak,Joseph,null,null,null,trammer ,O C M Co,bds,null,null,208,Opechee,null,null,null,null,null,null
+480,Sitar,Michael,null,null,null,trackman ,O C M Co,bds,null,null,276,Store,null,null,null,null,null,null
+481,Sittonen,John,null,null,null,lab,null,bds,null,null,15,County rd,null,null,null,null,null,null
+482,Sittonen,Phena,null,null,wid Isaac,null,null,res,null,null,15,County rd,null,null,null,null,null,null
+483,Skewes,Wm,null,null,Eliza,mine capt,null,res,null,null,1,Tecumseh loc,null,null,null,null,null,null
+484,Skili,John,null,null,null,miner,null,bds,null,null,143,Bush,null,null,null,null,null,null
+485,Slobodniak,Martin,null,null,null,lab ,C H M Co,bds,null,null,53,Mine,null,null,null,null,null,null
+486,Smolcie,Joseph,null,null,null,trammer ,C H M Co,bds,null,null,143,Bush,null,null,null,null,null,null
+487,Somero,Hjalmar,null,null,Hannah,miner,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+488,Stajduhar,Frank,null,null,Mary,trammer ,O C M Co,res,null,null,125,Mine,null,null,null,null,null,null
+489,Stajduhar,Stephen,null,null,Mary,timberman,null,bds,null,null,125,Mine,null,null,null,null,null,null
+490,Stengel,John,null,null,null,lab ,C H M Co,bds,null,null,112,Millionaire,null,null,null,null,null,null
+491,Stephenich,John,null,null,null,trammer,null,bds,null,null,52,County rd,null,null,null,null,null,null
+492,Stephens,Michael,null,null,null,trammer,null,bds,null,null,125,Mine,null,null,null,null,null,null
+493,Steponen,Isaac,null,null,Hilda,miner,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+494,Strike,John,J,Rev,Tryphosa,pastor ,St Paul M E Church,res,null,null,194,Church,null,null,null,null,null,null
+495,Sullivan,Catherine,null,null,null,null,null,bds,null,null,19,County rd,null,null,null,null,null,null
+496,Sullivan,Delia,null,null,null,null,null,bds,null,null,102,Millionaire,null,null,null,null,null,null
+497,Sullivan,Ellen,null,null,wid Andrew,null,null,res,null,null,9,County rd,null,null,null,null,null,null
+498,Sullivan,Francis,null,null,null,lab ,C H M Co,bds,null,null,9,County rd,null,null,null,null,null,null
+499,Sullivan,James,R,null,null,lab,null,bds,null,null,85,Millionaire,null,null,null,null,null,null
+500,Sullivan,John,C,null,Mary,pumpman,null,res,null,null,190,Church,null,null,null,null,null,null
+501,Sullivan,John,H,null,null,null,null,res,null,null,102,Millionaire,null,null,null,null,null,null
+502,Sullivan,John,P,null,Annie,hoisting eng ,O C M Co  Frenchtown,res,null,null,303,High Frenchtown,null,null,null,null,null,null
+503,Sullivan,John,S,null,null,pumpman ,O C M Co,bds,null,null,190,Church,null,null,null,null,null,null
+504,Sullivan,Mary,null,null,wid Roger,null,null,res,null,null,85,Millionaire,null,null,null,null,null,null
+505,Sullivan,Nellie,null,null,null,tchr ,Osceola Public School,bds,null,null,9,County rd,null,null,null,null,null,null
+506,Sullivan,Patrick,D,null,Bridget,elk,null,res,null,null,262,Store,null,null,null,null,null,null
+507,Sullivan,Wm,S,null,Mary,fireman ,O C M Co,res,null,null,73,Millionaire,null,null,null,null,null,null
+508,Supancic,Nicholas,null,null,Anna,surfaceman,null,res,null,null,119,Millionaire,null,null,null,null,null,null
+509,Sweeney,Mary,null,null,null,null,null,bds,null,null,117,Millionaire,null,null,null,null,null,null
+510,SWEENEY,THOMAS,null,null,null,null,null,res,null,null,117,Millionaire,null,null,null,null,null,null
+511,Taddeucci,Enrico,null,null,Livia,confr ,243,res,null,null,243,Store,null,null,null,null,null,null
+512,Taddeucci,Valentina,null,null,null,null,null,bds,null,null,243,Store,null,null,null,null,null,null
+514,Tammi,Andrew,null,null,null,surfaceman ,O C M Co,res,null,null,299,Frenchtown,null,null,null,null,null,null
+515,Tammi,Saima,null,null,null,null,null,bds,null,null,299,Frenchtown,null,null,null,null,null,null
+516,Tammi,Walfred,null,null,null,ins agt,null,bds,null,null,299,Frenchtown,null,null,null,null,null,null
+517,Tapio,Christian,null,null,Hillia,trammer ,O C M Co,res,null,null,107,Millionaire,null,null,null,null,null,null
+518,Thomas,George,null,null,Annie,miner,null,res,null,null,9,Tecumseh loc,null,null,null,null,null,null
+519,Thomas,Harry,null,null,null,miner,null,bds,null,null,155,Bush,null,null,null,null,null,null
+520,Thomas,John,null,null,Annie,miner,null,res,null,null,7,Tecumseh loc,null,null,null,null,null,null
+521,Thomas,John,null,jr,null,miner,null,bds,null,null,7,Tecumseh loc,null,null,null,null,null,null
+522,Thomas,Matt,null,null,Annie,miner,null,res,null,null,7,Tecumseh loc,null,null,null,null,null,null
+523,Torikka,Eric,null,null,Alma,lab,null,res,null,null,107,Millionaire,null,null,null,null,null,null
+524,Tormala,Henry,null,null,null,trammer ,C H M Co,bds,null,null,140,County road,null,null,null,null,null,null
+525,Torok,Frank,null,null,null,trammer ,O C M Co,bds,null,null,45,County rd,null,null,null,null,null,null
+526,Torskka,Eric,null,null,null,lab ,C H M Co,bds,null,null,312,Millionaire,null,null,null,null,null,null
+527,Toupin,Arthur,null,null,null,surfaceman ,O C M Co,bds,null,null,180,Church,null,null,null,null,null,null
+528,Toupin,Bertha,null,null,null,student,null,bds,null,null,180,Church,null,null,null,null,null,null
+529,Toupin,Clara,null,null,null,null,null,bds,null,null,180,Church,null,null,null,null,null,null
+530,Toupin,Joseph,null,null,null,null,null,bds,null,null,180,Church,null,null,null,null,null,null
+531,Toupin,Ozine,null,null,null,elk,null,bds,null,null,180,Church,null,null,null,null,null,null
+532,Toupin,Romeo,null,null,Mary L,foreman ,O C M Co,res,null,null,180,Church,null,null,null,null,null,null
+533,Tribnak,Philip,null,null,null,lab ,C H M Co,bds,null,null,9,Tecumseh,null,null,null,null,null,null
+534,Turk,John,null,null,Kate,lab,null,res,null,null,99,Millionaire,null,null,null,null,null,null
+535,Turney,Peter,null,null,null,miner ,C H M Co,bds,null,null,32,Church,null,null,null,null,null,null
+536,Urbanec,Blasius,null,null,null,trammer,null,bds,null,null,297,Frenchtown,null,null,null,null,null,null
+537,Uren,Charles,C,null,Mary,trammer ,O C M Co,res,null,null,155,Bush,null,null,null,null,null,null
+538,Veale,Clement,null,null,null,student,null,bds,null,null,240,Store,null,null,null,null,null,null
+539,Veale,Dorothy,null,null,null,tchr,null,bds,null,null,240,Store,null,null,null,null,null,null
+540,Veale,Lenora,null,null,null,student,null,bds,null,null,240,Store,null,null,null,null,null,null
+541,Veale,Wm,null,null,Susan,chief elk ,O C M Co,res,null,null,240,Store,null,null,null,null,null,null
+542,Velickoff,Kristo,null,null,null,trammer ,O C M Co,bds,null,null,230,County rd,null,null,null,null,null,null
+543,Verbanatz,Blasius,null,null,null,trammer ,C H M Co,bds,null,null,253,County rd,null,null,null,null,null,null
+544,Vitka,Nicholas,null,null,null,trammer,null,bds,null,null,208,Opechee,null,null,null,null,null,null
+547,Warren,Peter,null,null,null,shoemkr ,70,res,null,null,70,Millionaire,null,null,null,null,null,null
+550,White,Albert,null,null,Mildred,miner ,O C M Co,res,null,null,185,Church,null,null,null,null,null,null
+551,White,David,null,null,Jennie,engr ,O C M Co,res,null,null,264,Store,null,null,null,null,null,null
+552,White,Henry,null,null,Ruby,miner ,O C M Co,res,null,null,256,Store,null,null,null,null,null,null
+553,White,John,null,null,Elizabeth,mach ,O C M Co,res,null,null,98,Millionaire,null,null,null,null,null,null
+554,White,Richard,H,null,Ellen,shift boss ,O C M Co,res,null,null,264,Store,null,null,null,null,null,null
+555,White,Wm,H,null,Martha,elk ,J Vivian jr Co,res,null,null,266,Store,null,null,null,null,null,null
+557,Witczak,Stephen,null,null,Agnes,miner ,O C M Co,res,null,null,222,Opechee,null,null,null,null,null,null
+558,Witka,Ignace,null,null,null,trammer ,O C M Co,bds,null,null,208,Opechee,null,null,null,null,null,null
+559,Wuolukka,Abram,null,null,Ida,trammer ,O C M Co,res,null,null,275,Store,null,null,null,null,null,null
+560,Yellenich,Laurence,null,null,Fannie,timberman,null,res,null,null,94,Millionaire,null,null,null,null,null,null
+561,Yellenich,Mary,null,null,null,null,null,bds,null,null,94,Millionaire,null,null,null,null,null,null
+562,Yeskevic,Frank,null,null,null,trammer ,C H M Co,bds,null,null,34,Church,null,null,null,null,null,null
+563,Yugovich,Joseph,null,null,Anna,trammer ,O C M Co,res,null,null,131,Bush,null,null,null,null,null,null
+564,Zalac,Frank,null,null,Theresa,lab ,O C M Co,res,null,null,273,Store,null,null,null,null,null,null
+565,Zalac,Joseph,null,null,Amalia,trammer boss ,O C M Co,res,null,null,192,Church,null,null,null,null,null,null
+566,Zalac,Michael,null,null,null,miner ,C H M Co,bds,null,null,277,Store,null,null,null,null,null,null
+568,Zimmer,Matilda,null,null,null,tchr ,Osceola Public School,res,null,null,null,null,null,null,null,null,Laurium,null
+569,Zinchak,Carl,C,null,null,surfaceman ,O C M Co,bds,null,null,214,Opechee,null,null,null,null,null,null
+570,Zinchak,Dorothy,null,null,null,null,null,bds,null,null,214,Opechee,null,null,null,null,null,null
+571,Zinchak,Stephen,null,null,Anna,compressor ,O C M Co,res,null,null,214,Opechee,null,null,null,null,null,null
+572,Zinchak,Theresa,null,null,null,null,null,bds,null,null,214,Opechee,null,null,null,null,null,null
+574,Zupanchich,Anton,M,null,Frances,miner ,O C M Co,res,null,null,193,Church,null,null,null,null,null,null
+575,Zupanchich,Joseph,null,null,Ellen,miner ,O C M Co,res,null,null,96,Millionaire,null,null,null,null,null,null
+576,Zupanchich,Joseph,null,jr,null,surfaceman,null,bds,null,null,96,Millionaire,null,null,null,null,null,null
+577,Zupanchich,Margaret,null,null,null,null,null,bds,null,null,96,Millionaire,null,null,null,null,null,null
+578,Zupanchich,Nicholas,null,null,null,trammer ,O C M Co,bds,null,null,119,N Bush,null,null,null,null,null,null
+20,Bahor,Matt,null,null,null,timberman,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+24,Balint,Frank,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+35,Bean,John,T,null,null,of,commissioner  highways,null,null,null,null,null,null,null,null,null,null,null
+41,Belkonen,Frank,null,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+52,Bromela,Mamie,null,null,null,dom,240 Store,null,null,null,null,null,null,null,null,null,null,null
+86,Cristoff,Todor,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+91,Czkopiec,Albert,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+207,Jilbert,Ray,null,null,null,mach,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+224,Juma,John,A,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+229,Karjala,Edward,null,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+230,Karjala,Isaac,null,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+252,Kiranoff,Alex,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+272,Kurtti,August,null,null,null,dr,iller,null,null,null,null,null,null,null,null,null,null,null
+288,Larson,Hj,aimer,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+306,Marinoff,Anton,null,null,null,trammer,O C M Co,null,null,null,null,null,null,null,null,null,null,null
+345,Noutila,Hilda,null,null,null,dom,252 Store,null,null,null,null,null,null,null,null,null,null,null
+366,01son,Evart,W,null,null,lab,CHM Co,null,null,null,null,null,null,null,null,null,null,null
+426,Richards,Nelson,null,null,null,lab,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+437,Rossberg,Elizabeth,null,null,null,dom,246 County rd,null,null,null,null,null,null,null,null,null,null,null
+444,Rupprecht,C,H,null,null,of,health ficer,null,null,null,null,null,null,null,null,null,null,null
+567,Ziebert,Rose,null,null,null,dom,258 Store,null,null,null,null,null,null,null,null,null,null,null
+573,Zoricic,George,null,null,null,trammer,C H M Co,null,null,null,null,null,null,null,null,null,null,null
+4,Aho,Simm,null,jr,null,null,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+5,Albertson,Albert,null,null,null,miner,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+209,Johnson,Elsie,null,null,null,null,null,res,null,null,null,County rd,null,null,null,null,null,null
+318,Mikla,Eli,null,null,null,miner,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+336,Niemela,Charles,null,null,null,meatctr,null,res,null,null,null,County rd,null,null,null,null,null,null
+337,Niemela,Ellen,null,null,null,nurse,null,res,null,null,null,County rd,null,null,null,null,null,null
+338,Niemela,Elma,null,null,null,null,null,res,null,null,null,County rd,null,null,null,null,null,null
+339,Niemela,Hannah,null,null,null,null,null,res,null,null,null,County rd,null,null,null,null,null,null
+340,Niemela,Hilda,null,null,null,null,null,res,null,null,null,County rd,null,null,null,null,null,null
+341,Niemela,Mary,null,null,null,null,null,res,null,null,null,County rd,null,null,null,null,null,null
+342,Niemela,Oscar,null,null,null,mgr,null,res,null,null,null,County rd,null,null,null,null,null,null
+343,Niemela,Rudolph,null,null,null,bkpr,null,res,null,null,null,County rd,null,null,null,null,null,null
+455,Saubla,John,null,null,null,lander,null,res,null,null,null,Tecumseh loc,null,null,null,null,null,null
+513,Takku,Jacob,null,null,null,lab,null,res,null,null,null,County rd,null,null,null,null,null,null

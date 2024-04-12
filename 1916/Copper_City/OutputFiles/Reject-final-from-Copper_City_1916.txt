@@ -1,0 +1,197 @@
+1 ADD, JOB LOCATION NOT FOUND: Aghjian Kurykore, laborer
+2 ADD, JOB LOCATION NOT FOUND: Alatala John, farmer
+3 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Albano Camillo, trammer, bds Anton Geacoletto
+4 ADD, JOB LOCATION NOT FOUND: Alie Anton (Catherine), miner
+6 ADD, JOB LOCATION NOT FOUND: Amala Charles, farmer
+9 ADD, JOB LOCATION NOT FOUND: Angulian Mesag, laborer
+13 ADD, JOB LOCATION NOT FOUND: Ban Theodore, surfaceman
+14 ADD, JOB LOCATION NOT FOUND: Barlow Earl H (Jennie), teamster
+15 ADD, JOB LOCATION NOT FOUND: Barsanian Miran, laborer
+16 ADD, JOB LOCATION NOT FOUND: Bassi Matt (Alina), miner
+17 ADD, JOB LOCATION NOT FOUND: Bekkola John, miner
+19 ADD, JOB LOCATION NOT FOUND: Beljan Anton (Frances), laborer
+20 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Beljan Anton M, lab, bds Anton Beljan
+21 ADD, JOB LOCATION NOT FOUND: Belli Andrew, farmer
+22 ADD, JOB LOCATION NOT FOUND: Belobrich Matt (Josephine), miner
+23 ADD, JOB LOCATION NOT FOUND: BENNETTS JOHN R (Lillie R John R Bennetts Co), Postmaster
+24 NAME: BENNETTS J R CO (John R Bennetts, Albert E Everetts), Dealers in Groceries, Hardware, Gents Furnishings, Dry Goods and Clothing, Tel 974
+25 ADD, JOB LOCATION NOT FOUND: Berger Joseph, miner
+26 ADD, JOB LOCATION NOT FOUND: Berger Matthias (Lizzie), miner
+27 ADD, JOB LOCATION NOT FOUND: Besonen John, farmer
+32 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bowden Edwin T, student, bds T W Bowden
+33 ADD, JOB LOCATION NOT FOUND: Bowden Thomas W (Rose), miner
+34 ADD, JOB LOCATION NOT FOUND: Bozach Andrew, miner
+35 ADD, JOB LOCATION NOT FOUND: Brisky Andrew (Safina), laborer
+39 ADD, JOB LOCATION NOT FOUND: Bufife John (Elizabeth), miner
+43 ADD, JOB LOCATION NOT FOUND: Campesao John (Caroline), lab
+44 ADD, JOB LOCATION NOT FOUND: Carlson Andrew (Mary), miner
+47 ADD, JOB LOCATION NOT FOUND: Cencich Fabian, miner
+48 ADD, JOB LOCATION NOT FOUND: Cencich George, laborer
+49 ADD, JOB LOCATION NOT FOUND: Cencich Joseph (Agnes), miner
+50 ADD, JOB NOT FOUND: Cencich Virginia
+54 ADD, JOB LOCATION NOT FOUND: Chopp Frederick (Valleria), miner
+55 ADD, JOB LOCATION NOT FOUND: Chopp Jacob M (Mary), laborer
+58 ADD, JOB NOT FOUND: Christianson 01e (Caroline),laborer
+60 NAME: Copper City Bowling Alley, Albert Schildin propr, es Allouez
+62 NAME: Copper City Lumber and Fuel Co, Harvey Johnson (Hancock, Mich) mgr
+63 ADD, JOB NOT FOUND: Copper City School, Jessie C MacNab prin, es Mohawk
+64 ADD, JOB LOCATION NOT FOUND: Dahlback Norman, baker
+66 ADD, JOB LOCATION NOT FOUND: Dodge Roy M, clerk
+67 ADD, JOB LOCATION NOT FOUND: Domygian John, laborer
+69 ADD, JOB LOCATION NOT FOUND: Edwards Hjalmar (Laura), surfaceman
+71 ADD, JOB NOT FOUND: Erlandson Allen (Theresa Erlandson Bros)
+72 NAME: Erlandson Bros (Allen John Erlandson), grocers
+73 ADD, JOB NOT FOUND: Erlandson John (Mary Erlandson Bros)
+82 ADD, JOB LOCATION NOT FOUND: Farkowicz John (Alla), laborer
+85 ADD, JOB NOT FOUND: Fire Department, Carl Bickel chief, Fire Hall
+86 ADD, JOB NOT FOUND: Fire Hall
+87 ADD, JOB LOCATION NOT FOUND: Fosberg Gustav (Clara), miner
+88 ADD, JOB LOCATION NOT FOUND: Fosogocz Joseph, laborer
+89 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gabrelson Alfred N, lab, bds Andrew Gabrelson
+90 ADD, JOB LOCATION NOT FOUND: Gabrelson Andrew, laborer
+91 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gabrelson Joseph, lab, bds Andrew Gabrelson
+92 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gabrelson Yalmer, lab, bds Andrew Gabrelson
+94 ADD, JOB LOCATION NOT FOUND: Giacoletto Anton (Dominica), miner
+96 ADD, JOB LOCATION NOT FOUND: Givuyn Fred, laborer
+98 ADD, JOB LOCATION NOT FOUND: Gozmaian Harry, laborer
+99 ADD, JOB LOCATION NOT FOUND: Granroth Henry (Gustava), miner
+105 ADD, JOB LOCATION NOT FOUND: Halinen Esau (Amanda), miner
+107 ADD, JOB LOCATION NOT FOUND: Hall Frank (Minnie), miner
+109 ADD, JOB LOCATION NOT FOUND: Haltinen John, farmer
+110 ADD, JOB LOCATION NOT FOUND: Hancock Wm, miner
+111 ADD, JOB LOCATION NOT FOUND: Harju John (Dena), miner
+114 ADD, JOB LOCATION NOT FOUND: Hill Michael, farmer
+117 ADD, JOB LOCATION NOT FOUND: Hokas Louis, farmer
+118 ADD, JOB LOCATION NOT FOUND: Horvath John (Mary), laborer
+119 ADD, JOB LOCATION NOT FOUND: Howell John (Anna), miner
+120 ADD, JOB NOT FOUND: Huber Charles (Anna)
+121 ADD, JOB LOCATION NOT FOUND: Huber Dorothy, student
+122 ADD, JOB LOCATION NOT FOUND: Huber John, miner
+123 ADD, JOB LOCATION NOT FOUND: Hugo James B (Emma), shift boss
+124 ADD, JOB LOCATION NOT FOUND: Hugo John (Lottie), miner
+132 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Johnson Herbert, elk Copper City Lumber Fuel Go, bds Albert Kingston
+134 ADD, JOB LOCATION NOT FOUND: Kamakien Janies, laborer
+135 ADD, JOB LOCATION NOT FOUND: Kanyoc Frank, laborer
+136 ADD, JOB LOCATION NOT FOUND: Karanen August, farmer
+137 ADD, JOB LOCATION NOT FOUND: Kazima Michael, laborer
+138 ADD, JOB LOCATION NOT FOUND: Keckonen Paul, farmer
+139 ADD, JOB LOCATION NOT FOUND: Kennell Charles, miner
+140 NAME: Keweenaw Central R R
+141 ADD, JOB LOCATION NOT FOUND: Kingston Albert (Sophia J), confr es Ahmeek opp Postoffice, res same
+142 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kingston Albert E, blksmith, bds Albert Kingston
+143 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kingston Clyde W, lab, bds Albert Kingston
+144 ADD, JOB NOT FOUND, PERSON NOT FOUND: Kingston Willard L, bds Albert Kingston
+145 ADD, JOB LOCATION NOT FOUND: Kivela Frank (Julia), miner
+147 ADD, JOB LOCATION NOT FOUND: Kiviemi Michael jr, laborer
+148 ADD, JOB LOCATION NOT FOUND: Kiviniemi Michael (Wilhelmina), miner
+149 ADD, JOB LOCATION NOT FOUND: Kochin Stephen (Anna), miner
+150 ADD, JOB LOCATION NOT FOUND: Koczan Frank (Annie), laborer
+151 ADD, JOB LOCATION NOT FOUND: Kopanosky Frank (Annie), laborer
+153 ADD, JOB LOCATION NOT FOUND: Koppela Jacob, farmer
+154 ADD, JOB LOCATION NOT FOUND: Koppela Nelo, farmer
+158 ADD, JOB NOT FOUND: Korkala Elene
+159 ADD, JOB LOCATION NOT FOUND: Korkala John (Amelia), miner
+160 ADD, JOB NOT FOUND: Korkala Lydia
+165 ADD, JOB LOCATION NOT FOUND: Kott Michael, laborer
+166 ADD, JOB LOCATION NOT FOUND: Krulich Sem (Mary), laborer
+168 ADD, JOB NOT FOUND: Kuhn May E (wid August)
+169 ADD, JOB LOCATION NOT FOUND: Kuhn Irma, student
+170 ADD, JOB NOT FOUND: Kuhn Francis
+171 ADD, JOB LOCATION NOT FOUND: Kuhn G Grace, music teacher
+172 ADD, JOB NOT FOUND: Kuhns Hall
+174 ADD, JOB LOCATION NOT FOUND: Kuziak Fred, miner
+175 ADD, JOB LOCATION NOT FOUND: Kuzina Stephen (Kate), rockhouseman
+176 ADD, JOB LOCATION NOT FOUND: Lahtala Toseph, farmer
+178 ADD, JOB LOCATION NOT FOUND: Laine Thomas (Hulda), miner
+179 ADD, JOB LOCATION NOT FOUND: Lampa Herman, miner
+180 ADD, JOB LOCATION NOT FOUND: Lampa Hjalmar (Amanda), miner
+181 ADD, JOB LOCATION NOT FOUND: Lampine Abram (Amanda), shoemkr
+185 ADD, JOB LOCATION NOT FOUND: Larson Conrad, miner
+187 ADD, JOB LOCATION NOT FOUND: Larson Jacob, farmer
+188 ADD, JOB LOCATION NOT FOUND: Lasas Frank (Catherine), miner
+190 ADD, JOB LOCATION NOT FOUND: Levinsky Andrew (Kate), miner
+191 ADD, JOB LOCATION NOT FOUND: Levinsky Wm, laborer
+192 NAME: Lind Paul M B (Ina M), carp, res es Crawford 2 s of Kearsarge
+196 ADD, JOB LOCATION NOT FOUND: Magakian Adam, laborer
+197 ADD, JOB LOCATION NOT FOUND: Maki Fred, miner
+199 ADD, JOB LOCATION NOT FOUND: Mattson John, farmer
+200 ADD, JOB LOCATION NOT FOUND: Mattson Wm (Aline), miner
+201 ADD, JOB LOCATION NOT FOUND: Mattson Wm, saloon
+203 ADD, JOB LOCATION NOT FOUND: Maynard John H (Rebecca), miner
+204 ADD, JOB LOCATION NOT FOUND: Maynard Roy, miner
+209 ADD, JOB LOCATION NOT FOUND: Miova Gust, farmer
+210 ADD, JOB NOT FOUND: Moilanen Jacob
+212 ADD, JOB LOCATION NOT FOUND: Nelson Charles (Hilda), miner
+213 ADD, JOB LOCATION NOT FOUND: Nelson Emil (Emma), surfaceman
+215 ADD, JOB NOT FOUND: Nelson Harvey
+216 ADD, JOB LOCATION NOT FOUND: Nelson John (Annie), miner
+217 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nelson Martin, lab, bds Albert Kingston
+219 ADD, JOB LOCATION NOT FOUND: Niva Nels (Alla), miner
+221 ADD, JOB NOT FOUND: Nordstrom John F (Alina)
+222 ADD, JOB LOCATION NOT FOUND: Nordstrom Oscar, surfaceman
+224 ADD, JOB LOCATION NOT FOUND: OLeary Richard (Merle), miner
+226 ADD, JOB LOCATION NOT FOUND: 01son John (Hilma), blksmith
+228 ADD, JOB LOCATION NOT FOUND: Ontic Stephen (Margaret), lab
+233 ADD, JOB LOCATION NOT FOUND: Panijan Matt, miner
+234 ADD, JOB LOCATION NOT FOUND: Panijan Stephen (Theresa), meats
+235 ADD, JOB LOCATION NOT FOUND: Parker John, miner
+237 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Patrick John, blksmith, bds Albert Kingston
+241 ADD, JOB LOCATION NOT FOUND: Paull Thomas (Bertha), miner
+244 ADD, JOB LOCATION NOT FOUND: Paulson Hjalmer, miner
+245 ADD, JOB NOT FOUND: Paulson Oscar (Matilda)
+250 ADD, JOB LOCATION NOT FOUND: Peters John (Selina), miner
+251 ADD, JOB LOCATION NOT FOUND: Pieskovich Valentine (Rose), miner
+252 ADD, JOB LOCATION NOT FOUND: Pietowski John, lab
+253 ADD, JOB LOCATION NOT FOUND: Piirien Fred, farmer
+262 ADD, JOB LOCATION NOT FOUND: Puhek Jacob, miner
+263 ADD, JOB LOCATION NOT FOUND: Puhek John (Annie), miner
+264 ADD, JOB LOCATION NOT FOUND: Radocaj Andrew (Mary), miner
+265 ADD, JOB LOCATION NOT FOUND: Radorovich Blassius, miner
+266 ADD, JOB LOCATION NOT FOUND: Radocaj Andrew (Mary), miner
+267 ADD, JOB LOCATION NOT FOUND: Radorovich Blasius, miner
+271 ADD, JOB LOCATION NOT FOUND: Rapson Harry, supply elk
+274 ADD, JOB LOCATION NOT FOUND: Raudio Peter, lab, res Mohawk
+275 ADD, JOB LOCATION NOT FOUND: Redman Henry M (Ada), timekpr
+277 ADD, JOB LOCATION NOT FOUND: Reha Gustav, farmer
+278 ADD, JOB LOCATION NOT FOUND: Richards Edward T (Jane), miner
+283 ADD, JOB LOCATION NOT FOUND: Ritz Joseph (Rhoda), miner
+284 ADD, JOB LOCATION NOT FOUND: Rochek Matt, laborer
+285 ADD, JOB LOCATION NOT FOUND: Rodosovich George (Wilhelmina), miner
+286 ADD, JOB LOCATION NOT FOUND: Roeske John (Theresa), laborer
+287 ADD, JOB NOT FOUND: Rosewarne James (Elizabeth)
+288 ADD, JOB LOCATION NOT FOUND: Rowe Edward G (Emily J), miner
+292 ADD, JOB LOCATION NOT FOUND: Sager George, tmstr Wm Stimac, res Ahmeek
+299 ADD, JOB LOCATION NOT FOUND: Schuti Joseph, saloon
+301 ADD, JOB LOCATION NOT FOUND: Shorjian Charles, laborer
+302 ADD, JOB NOT FOUND: Simmons Mary
+303 ADD, JOB LOCATION NOT FOUND: Skander Stephen (Frances), miner
+308 ADD, JOB LOCATION NOT FOUND: Stimac George (Hannah), miner
+309 ADD, JOB LOCATION NOT FOUND: Stimac John, laborer
+311 ADD, JOB LOCATION NOT FOUND: Stimac Michael (Antonia), laborer
+312 ADD, JOB LOCATION NOT FOUND: Stimac Wm (Margaret), meats
+314 ADD, JOB LOCATION NOT FOUND: Strand Louis (Petra), miner
+315 ADD, JOB NOT FOUND: Sundberg Albert J (Rose), variety store
+316 ADD, JOB LOCATION NOT FOUND: Sundberg Sigret (Alma), surfaceman
+318 ADD, JOB LOCATION NOT FOUND: Swankavich Michael, lab
+319 ADD, JOB NOT FOUND: Takhsas Elizabeth
+320 ADD, JOB LOCATION NOT FOUND: Takhsas Frank (Elizabeth), miner
+324 ADD, JOB LOCATION NOT FOUND: Thomas James, miner
+325 ADD, JOB LOCATION NOT FOUND: Thomas Wm (Clara), blacksmith
+326 ADD, JOB NOT FOUND: Thompson Edna
+327 ADD, JOB LOCATION NOT FOUND: Thompson John, miner
+328 ADD, JOB LOCATION NOT FOUND: Thompson Matt (Mary), miner
+329 ADD, JOB LOCATION NOT FOUND: Thompson Rudolph, student
+330 ADD, JOB LOCATION NOT FOUND: Torok Frank (Kate), miner
+336 ADD, JOB LOCATION NOT FOUND: Uzionkapian Asdur, laborer
+337 ADD, JOB LOCATION NOT FOUND: Vedellia Henry (Anna), miner
+338 ADD, JOB LOCATION NOT FOUND: Williams E Albert (Annie), miner
+339 ADD, JOB LOCATION NOT FOUND: Williams Fred, student
+340 ADD, JOB NOT FOUND: Williams Wm J, powderboy
+341 ADD, JOB LOCATION NOT FOUND: Williams W Thomas (Sophie), miner
+347 ADD, JOB LOCATION NOT FOUND: Yowell Alexander (Mary), fireman
+348 ADD, JOB NOT FOUND: Yowell Elsie
+349 ADD, JOB LOCATION NOT FOUND: Yowell George (Margaret), fireman
+350 ADD, JOB NOT FOUND: Yowell Lucy
+351 ADD, JOB LOCATION NOT FOUND: Yowell Russell, fireman
+354 ADD, JOB LOCATION NOT FOUND: Zakian Kurykore, laborer
+355 ADD, JOB LOCATION NOT FOUND: Zakian Sarkis, laborer

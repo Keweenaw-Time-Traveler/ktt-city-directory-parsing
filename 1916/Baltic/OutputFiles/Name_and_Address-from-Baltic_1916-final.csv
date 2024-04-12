@@ -1,0 +1,979 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+5,Ahmed,Siliman,null,null,null,emp ,Baltic M Co,res,null,null,224,14th,null,null,null,null,null,null
+6,Aho,Albert,null,null,Ida,emp ,Baltic M Co,res,null,null,523,16th av,null,null,null,null,null,null
+7,Aho,John,null,null,null,lab,null,bds,null,null,102,16th av,null,null,null,null,null,null
+10,Akgaian,Dada,null,null,null,emp ,Baltic M Co,res,null,null,222,14th av,null,null,null,null,null,null
+11,Alex,Paul,null,null,null,emp ,Baltic M Co,bds,null,null,113,13th av,null,null,null,null,null,null
+12,Alexsanoff,Leon,null,null,null,trammer,null,res,null,null,123,14th av,null,null,null,null,null,null
+15,Andeliin,Matt,null,null,null,emp ,Baltic M Co,res,null,null,511,16th av,null,null,null,null,null,null
+17,Andreini,Branco,null,null,null,emp ,Baltic M Co,bds,null,null,202,14th av,null,null,null,null,null,null
+18,Andreini,Chauncey,null,null,null,null,null,bds,null,null,102,12th av,null,null,null,null,null,null
+19,Andreini,Emilio,null,null,Margaret,timberman ,Baltic M Co,res,null,null,205,14th av,null,null,null,null,null,null
+20,Andreini,Filidi,null,null,wid Barnardo,null,null,res,null,null,102,12th av,null,null,null,null,null,null
+21,Andrew,Alfred,null,null,null,emp ,Baltic M Co,bds,null,null,101,16th av,null,null,null,null,null,null
+22,Andrew,Henry,null,null,null,lab ,Baltic M Co,bds,null,null,101,16th av,null,null,null,null,null,null
+23,Andrew,Myrtle,null,null,null,null,null,bds,null,null,101,16th av,null,null,null,null,null,null
+24,Andrew,Wm,H,null,Alvena,miner ,Baltic M Co,res,null,null,101,16th av,null,null,null,null,null,null
+25,Androni,Maurizio,null,null,null,emp ,Baltic M Co,bds,null,null,104,13th av,null,null,null,null,null,null
+26,Angeli,Matt,null,null,Anna,miner,null,res,null,null,511,16th av,null,null,null,null,null,null
+27,Ankstalis,Wm,null,null,null,trammer ,Baltic M Co,bds,null,null,110,14th av,null,null,null,null,null,null
+28,Arntoff,Karalet,null,null,null,emp ,Baltic M Co,bds,null,null,121,14th av,null,null,null,null,null,null
+29,Artini,Amadao,null,null,null,trammer,null,bds,null,null,118,12th av,null,null,null,null,null,null
+31,Aschaski,Ignatz,null,null,null,trammer ,Baltic M Co,bds,null,null,113,13th av,null,null,null,null,null,null
+32,Auger,George,null,null,Eva,timberman,null,res,null,null,105,14th av,null,null,null,null,null,null
+33,Back,John,null,null,Hendrick,miner,null,res,null,null,108,15th av,null,null,null,null,null,null
+34,Bailey,Stephen,null,null,Etta J,emp ,Baltic M Co,res,null,null,103,14th avenue,null,null,null,null,null,null
+42,Barberis,Dominic,null,null,Mary,emp ,Baltic M Co,res,null,null,208,14th av,null,null,null,null,null,null
+43,Barratt,Bessie,F,null,null,student,null,bds,null,null,122,12th av,null,null,null,null,null,null
+44,Barratt,Lillian,M,null,null,null,null,bds,null,null,122,12th av,null,null,null,null,null,null
+45,Barrett,Wm,null,null,Minnie,trammer boss ,Baltic M Co,bds,null,null,122,12th av,null,null,null,null,null,null
+46,Barsagoff,Ardich,null,null,null,emp ,Baltic M Co,bds,null,null,121,14th av,null,null,null,null,null,null
+50,Bartarni,Joseph,null,null,null,trammer,null,bds,null,null,213,14th av,null,null,null,null,null,null
+51,Bartolomei,Luigi,null,null,Nellie,lab ,Baltic M Co,res,null,null,217,14th avenue,null,null,null,null,null,null
+54,Bei,Arthur,null,null,null,emp ,Baltic M Co,bds,null,null,118,12th av,null,null,null,null,null,null
+56,Bellandi,Ovideo,null,null,null,lab ,Baltic M Co,bds,null,null,221,14th av,null,null,null,null,null,null
+59,Benassi,Giovanni,null,null,null,lab ,Baltic M Co,bds,null,null,221,14th av,null,null,null,null,null,null
+61,Bennetts,Wm,G,null,null,miner,null,bds,null,null,114,11th av,null,null,null,null,null,null
+62,Benny,Robert,null,null,null,lander,null,bds,null,null,250,Stanton,null,null,null,null,null,null
+64,Bernardini,Peter,null,null,null,trammer ,Baltic M Co,bds,null,null,123,15th av,null,null,null,null,null,null
+66,Bernier,Edward,null,null,null,puffer boy ,Baltic M Co,bds,null,null,118,15th avenue,null,null,null,null,null,null
+68,Bernier,Zepherin,null,null,Ida,lander ,Baltic M Co,res,null,null,118,15th avenue,null,null,null,null,null,null
+70,Bertodatti,Ciarli,null,null,null,emp ,Baltic M Co,bds,null,null,222,13th av,null,null,null,null,null,null
+71,Best,Felix,null,null,Adelaide,emp ,Baltic M Co,res,null,null,117,16th av,null,null,null,null,null,null
+72,Bianc,Andriani,null,null,Theresa,lab,null,res,null,null,202,14th av,null,null,null,null,null,null
+75,Bianchi,Pietro,null,null,null,emp ,Baltic M Co,bds,null,null,124,15th av,null,null,null,null,null,null
+77,Binns,Charles,W,null,Mary,emp ,Baltic M Co,res,null,null,213,15th av,null,null,null,null,null,null
+80,Blight,Charles,null,null,Emma,emp ,Baltic M Co,res,null,null,113,16th avenue,null,null,null,null,null,null
+87,Boyle,Mary,null,null,null,null,null,bds,null,null,120,13th av,null,null,null,null,null,null
+88,Boyle,Michael,null,null,null,carp,null,res,null,null,120,13th av,null,null,null,null,null,null
+89,Boyle,Wm,null,null,null,engr,null,bds,null,null,120,13th av,null,null,null,null,null,null
+94,Brault,John,N,null,Freda S,miner ,Baltic M Co,res,null,null,520,16th av,null,null,null,null,null,null
+95,Bresjackis,Antony,null,null,null,trammer ,Baltic M Co,bds,null,null,113,13th avenue,null,null,null,null,null,null
+97,Brovencher,Alphonse,null,null,Amanda,janitor ,Baltic M Co,res,null,null,119,15th av,null,null,null,null,null,null
+98,Brovencher,Donald,J,null,null,wiper ,Baltic M Co,bds,null,null,119,15th avenue,null,null,null,null,null,null
+99,Brovencher,Leo,J,null,null,student,null,bds,null,null,119,15th av,null,null,null,null,null,null
+100,Budd,Ernest,null,null,Jane,miner ,Baltic M Co,res,null,null,105,13th av,null,null,null,null,null,null
+101,Bukis,Joseph,null,null,null,miner,null,bds,null,null,214,13th av,null,null,null,null,null,null
+102,Bukis,Michael,null,null,null,miner ,Baltic M Co,bds,null,null,214,13th av,null,null,null,null,null,null
+103,Buralli,Luigi,null,null,null,trammer ,Baltic M Co,bds,null,null,102,12th av,null,null,null,null,null,null
+104,Burgar,Louis,null,null,null,trammer ,Baltic M Co,bds,null,null,228,14th av,null,null,null,null,null,null
+111,Cahoric,Frank,null,null,null,trammer ,Baltic M Co,bds,null,null,113,13th av,null,null,null,null,null,null
+112,Calella,Charles,null,null,null,emp ,Baltic M Co,res,null,null,216,13th av,null,null,null,null,null,null
+113,Calistri,Angelo,null,null,null,trammer ,Baltic M Co,bds,null,null,117,14th av,null,null,null,null,null,null
+114,Calistri,Luigi,null,null,null,lab ,Baltic M Co,bds,null,null,124,15th av,null,null,null,null,null,null
+115,Capraro,Guiseppi,null,null,null,oiler ,Baltic M Co,bds,null,null,117,13th av,null,null,null,null,null,null
+116,Carli,Joseph,null,null,null,lab ,Baltic M Co,bds,null,null,124,10th av,null,null,null,null,null,null
+119,Cartere,Augusto,null,null,null,lab,null,bds,null,null,218,13th av,null,null,null,null,null,null
+120,Car^ere,Luigi,null,null,Maria,null,null,res,null,null,218,13th av,null,null,null,null,null,null
+121,Ceonnus,Frank,null,null,null,trammer,null,bds,null,null,110,14th av,null,null,null,null,null,null
+122,Cesnauskis,Frank,null,null,null,emp ,Baltic M Co,bds,null,null,113,13th av,null,null,null,null,null,null
+125,Chapman,Ernest,null,null,null,trammer ,Baltic M Co,bds,null,null,110,15th av,null,null,null,null,null,null
+126,Charles,John,null,null,null,lab ,Baltic M Co,bds,null,null,250,Stanton,null,null,null,null,null,null
+127,Charles,Moses,null,null,Alzina,hotel ,250,bds,null,null,250,Stanton,null,null,null,null,null,null
+128,Charles,Pearl,P,null,null,null,null,bds,null,null,250,Stanton,null,null,null,null,null,null
+129,Charles,Walter,J,null,null,lab,null,bds,null,null,250,Stanton,null,null,null,null,null,null
+130,Charles,Wm,null,null,null,emp ,Baltic M Co,bds,null,null,113,14th av,null,null,null,null,null,null
+136,Cole,Albert,null,null,null,elk ,Baltic M Co,bds,null,null,null,null,null,null,null,null,Atlantic Mine,null
+139,Cole,Wm,C,null,Oda,chief elk ,Baltic M Co,res,null,null,225,12th av,null,null,null,null,null,null
+140,Collins,Bertha,C,null,null,null,null,bds,null,null,101,15th av,null,null,null,null,null,null
+141,Collins,Henry,R,null,null,driver,null,bds,null,null,101,15th av,null,null,null,null,null,null
+142,Collins,Joseph,W,null,null,lab,null,bds,null,null,101,15th av,null,null,null,null,null,null
+143,Collins,Theodore,null,null,null,fireman ,Baltic M Co,res,null,null,101,15th av,null,null,null,null,null,null
+144,Colombo,Louis,null,null,Mary,lab ,Baltic M Co,res,null,null,210,14th av,null,null,null,null,null,null
+146,Combe,John,null,null,Emma,trammer boss,null,res,null,null,101,14th av,null,null,null,null,null,null
+150,Conlksuici,Wm,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+153,Coombe,John,null,null,null,emp ,Baltic M Co,bds,null,null,101,14th av,null,null,null,null,null,null
+154,Coombs,Wm,H,null,Susan,miner ,Baltic M Co,res,null,null,203,15th av,null,null,null,null,null,null
+155,Coons,Urick,James,null,null,miner,null,bds,null,null,122,13th av,null,null,null,null,null,null
+156,Coppo,Caesar,null,null,Jennie M,emp ,Baltic M Co,res,null,null,109,15th avenue,null,null,null,null,null,null
+158,Cortese,Luigi,null,null,null,emp ,Baltic M Co,res,null,null,218,13th av,null,null,null,null,null,null
+160,Cortopassi,Angelo,null,null,null,trammer ,Baltic M Co,bds,null,null,104,13th avenue,null,null,null,null,null,null
+161,Cortopassi,01iviero,null,null,null,trammer ,Baltic M Co,bds,null,null,102,12th avenue,null,null,null,null,null,null
+164,Cotie,John,null,null,null,trammer ,Baltic M Co,bds,null,null,228,14th av,null,null,null,null,null,null
+165,Couvion,Eli,null,null,null,trammer ,Baltic M Co,bds,null,null,110,12th av,null,null,null,null,null,null
+166,Crabb,Simon,null,null,Elma,miner ,Baltic M Co,res,null,null,122,13th av,null,null,null,null,null,null
+167,Crowley,Daniel,null,null,Anna,miner ,Baltic M Co,res,null,null,513,15th avenue,null,null,null,null,null,null
+173,Danaberg,LDope,null,null,null,lab ,Baltic M Co,bds,null,null,122,14th av,null,null,null,null,null,null
+174,Danaskio,Antonas,null,null,null,emp ,Baltic M Co,bds,null,null,122,14th av,null,null,null,null,null,null
+175,Darbinoff,Arnt,null,null,null,emp ,Baltic M Co,bds,null,null,121,14th av,null,null,null,null,null,null
+178,Dati,Mingi,null,null,null,lab ,Baltic M Co,bds,null,null,221,14th av,null,null,null,null,null,null
+180,Datson,Muriel,J,null,null,tchr ,Baltic School,bds,null,null,121,12th av,null,null,null,null,null,null
+181,Datson,Nicholas,null,null,Julia,foreman ,Baltic M Co,res,null,null,121,12th av,null,null,null,null,null,null
+182,Datson,Ruth,null,null,null,null,null,bds,null,null,121,12th av,null,null,null,null,null,null
+183,Davey,Edwin,J,null,null,elk ,Baltic M Co,bds,null,null,121,12th av,null,null,null,null,null,null
+184,Davey,George,W,null,null,elk ,South Range Mercantile Co,bds,null,null,110,12th av,null,null,null,null,null,null
+185,Decair,George,null,null,null,lab ,Baltic M Co,bds,null,null,212,14th av,null,null,null,null,null,null
+187,DelDin,Louis,null,null,Theresa,miner ,Baltic M Co,res,null,null,519,16th av,null,null,null,null,null,null
+188,Delghingaro,Levio,null,null,null,trammer ,Baltic M Co,bds,null,null,123,15th avenue,null,null,null,null,null,null
+189,Delghingaro,Peter,null,null,null,trammer ,Baltic M Co,bds,null,null,123,15th avenue,null,null,null,null,null,null
+191,Demochake,Romo,null,null,null,null,null,bds,null,null,122,14th av,null,null,null,null,null,null
+192,Den,Charles,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+194,Denton,Frederick,W,null,null,genl mgr ,Baltic M Co,res,null,null,null,null,null,null,null,null,Painesdale,null
+195,Denucci,Anton,null,null,null,emp ,Baltic M Co,bds,null,null,213,14th av,null,null,null,null,null,null
+200,Dexter,John,null,null,Sarah,eng ,Baltic M Co,res,null,null,114,13th av,null,null,null,null,null,null
+201,Dexter,Philip,null,null,Anna,janitor,null,res,null,null,114,13th av,null,null,null,null,null,null
+202,Dezaakoff,Autah,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+203,DHogohian,Peneg,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+204,Disca,Selma,null,null,null,null,null,bds,null,null,517,15th av,null,null,null,null,null,null
+207,Donatti,Alberto,null,null,null,timberman ,Baltic M Co,bds,null,null,205,14th avenue,null,null,null,null,null,null
+208,Donatti,Amerigo,null,null,null,lab ,Baltic M Co,bds,null,null,205,14th av,null,null,null,null,null,null
+211,ew,Josiah,null,Dr,Ethel,agt,null,res,ws,null,null,Stanton nr railroad,null,null,null,null,null,null
+212,Dunstan,Ethel,M,null,null,null,null,bds,null,null,201,12th av,null,null,null,null,null,null
+213,Dunstan,Eva,null,null,null,null,null,bds,null,null,201,12th av,null,null,null,null,null,null
+214,Dunstan,W,James,null,Phillipa,emp ,Baltic M Co,res,null,null,201,12th av,null,null,null,null,null,null
+215,Dunucci,Anton,null,null,Lena,miner,null,res,null,null,213,14th av,null,null,null,null,null,null
+219,Enrietta,Domonic,null,null,null,lab ,Baltic M Co,bds,null,null,218,13th ac,null,null,null,null,null,null
+221,Eustice,Myrtle,E,null,null,student,null,bds,null,null,124,13th av,null,null,null,null,null,null
+222,Eustice,Roy,F,null,null,lab ,Baltic M Co,bds,null,null,124,13th av,null,null,null,null,null,null
+223,Eustice,Wm,null,null,Mabel A,miner ,Baltic M Co,res,null,null,124,13th avenue,null,null,null,null,null,null
+224,Eva,Phileman,null,null,null,lab ,Baltic M Co,bds,null,null,114,15th av,null,null,null,null,null,null
+226,Fati,Mario,null,null,null,lab,null,bds,null,null,124,15th av,null,null,null,null,null,null
+227,Fausone,James,null,null,Angela,lander ,Baltic M Co,bds,null,null,216,14th av,null,null,null,null,null,null
+230,Feliipi,Guiseppi,null,null,null,trammer ,Baltic M Co,bds,null,null,102,12th av,null,null,null,null,null,null
+234,Fisher,Ida,null,null,null,null,null,bds,null,null,113,11th av,null,null,null,null,null,null
+235,Fisher,Robert,null,null,Amelia,trammer boss ,Baltic M Co,res,null,null,113,11th av,null,null,null,null,null,null
+236,Fleury,Bertha,null,null,null,null,null,bds,null,null,114,11th av,null,null,null,null,null,null
+237,Fleury,Edward,R,null,null,null,null,bds,null,null,114,11th av,null,null,null,null,null,null
+238,Fleury,Frank,null,null,Lavina,miner ,Baltic M Co,res,null,null,114,11th av,null,null,null,null,null,null
+239,Fontana,Arturo,null,null,null,trammer ,Baltic M Co,bds,null,null,123,15th av,null,null,null,null,null,null
+240,Fontana,Victorio,null,null,null,trammer ,Baltic M Co,bds,null,null,123,15th av,null,null,null,null,null,null
+243,Fourchette,Stephen,null,null,Gladys,watchman,null,res,null,null,112,16th av,null,null,null,null,null,null
+248,Galustoff,Soro,null,null,null,emp ,Baltic M Co,res,null,null,123,14th av,null,null,null,null,null,null
+251,Gaslaroff,Ardick,null,null,null,emp ,Baltic M Co,res,null,null,121,14th av,null,null,null,null,null,null
+254,Geidvel,Julie,null,null,null,emp ,Baltic M Co,res,null,null,218,14th av,null,null,null,null,null,null
+255,Gemignani,Angelo,null,null,Emma,trammer ,Baltic M Co,res,null,null,222,14th av,null,null,null,null,null,null
+257,Gesnowski,Frank,null,null,null,trammer ,13th av,res,null,null,113,13th av,null,null,null,null,null,null
+258,Getoven,Julius,null,null,Mary,lab,null,res,null,null,220,14th av,null,null,null,null,null,null
+259,Gevorgoff,Artush,null,null,null,lab ,Baltic M Co,bds,null,null,122,14th av,null,null,null,null,null,null
+260,Ghera,Antony,null,null,Argentina,trammer ,Baltic M Co,res,null,null,104,13th av,null,null,null,null,null,null
+261,Ghernich,Joseph,null,null,null,trammer,null,bds,null,null,116,13th av,null,null,null,null,null,null
+262,Giachin,James,null,null,R Teresa,miner ,Baltic M Co,res,null,null,109,14th av,null,null,null,null,null,null
+264,Gianelli,Frank,null,null,null,emp ,Baltic M Co,bds,null,null,224,13th av,null,null,null,null,null,null
+266,Giannani,Angelo,null,null,null,emp ,Baltic M Co,bds,null,null,213,14th av,null,null,null,null,null,null
+267,Giannani,Erico,null,null,null,timberman,null,bds,null,null,213,14th av,null,null,null,null,null,null
+268,Gibowicz,Stanley,null,null,null,trammer boss,null,res,null,null,110,14th av,null,null,null,null,null,null
+270,Gilowicz,Stanley,null,null,null,emp ,Baltic M Co,bds,null,null,110,14th av,null,null,null,null,null,null
+271,Gincer,Frank,null,null,null,trammer ,Baltic M Co,bds,null,null,506,16th av,null,null,null,null,null,null
+272,Gini,Angelo,null,null,null,emp ,Baltic M Co,bds,null,null,220,14th av,null,null,null,null,null,null
+279,Gomine,Baptista,null,null,null,mason,null,bds,null,null,106,12th av,null,null,null,null,null,null
+280,Gomine,David,null,null,null,mucker,null,bds,null,null,106,12th av,null,null,null,null,null,null
+281,Gomine,John,null,null,null,mason,null,bds,null,null,106,12th av,null,null,null,null,null,null
+282,Gorigeon,Edward,null,null,null,emp ,Baltic M Co,bds,null,null,118,13th av,null,null,null,null,null,null
+284,Gougeon,Annie,null,null,null,null,null,bds,null,null,118,13th av,null,null,null,null,null,null
+285,Gougeon,Edward,null,null,null,lab,null,res,null,null,118,13th av,null,null,null,null,null,null
+286,Gougeon,Joseph,null,null,Georgiana,lab ,Baltic M Co,res,null,null,103,13th av,null,null,null,null,null,null
+287,Gourd,Joseph,W,null,Mary,timber boss ,Baltic M Co,res,null,null,118,11th av,null,null,null,null,null,null
+290,Graziani,Lamberto,null,null,null,emp ,Baltic M Co,bds,null,null,522,15th av,null,null,null,null,null,null
+292,Gregoriu,Andrew,null,null,Mary,miner ,Baltic M Co,res,null,null,208,13 th av,null,null,null,null,null,null
+294,Guerra,Paul,null,null,null,lab ,Baltic M Co,bds,null,null,124,15th av,null,null,null,null,null,null
+298,Hakkala,John,null,null,null,emp ,Baltic M Co,bds,null,null,507,15th av,null,null,null,null,null,null
+299,Hakkila,Matti,null,null,null,trammer ,Baltic M Co,bds,null,null,206,16th,null,null,null,null,null,null
+305,Hardy,Charles,M,null,Birdie L,electn ,Baltic M Co,res,null,null,110,13th av,null,null,null,null,null,null
+307,Harma,Charles,O,null,Mary,miner,null,res,null,null,308,Trimountain rd,null,null,null,null,null,null
+309,Harma,Oscar,null,null,null,emp ,Baltic M Co,bds,null,null,308,10th av,null,null,null,null,null,null
+310,Harmala,Andrew,null,null,null,miner,null,bds,null,null,102,16th av,null,null,null,null,null,null
+314,Hart,Frank,null,null,Rose,emp ,Baltic M Co,res,null,null,212,14th av,null,null,null,null,null,null
+315,Harwath,John,null,null,null,miner,null,bds,null,null,116,13th av,null,null,null,null,null,null
+321,Heikkila,Matti,null,null,01ga,miner ,Baltic M Co,res,null,null,515,16th avenue,null,null,null,null,null,null
+322,Heikkinen,Andrew,null,null,null,lab,null,bds,null,null,519,15th av,null,null,null,null,null,null
+323,Heikkinen,Charles,null,null,null,miner,null,bds,null,null,505,16th av,null,null,null,null,null,null
+324,Heikkinen,Charles,null,null,Kate,miner,null,res,null,null,507,16th av,null,null,null,null,null,null
+325,Heikkinen,Einar,null,null,Aine,trammer ,Baltic M Co,res,null,null,503,17th av,null,null,null,null,null,null
+327,Heikkinen,Jacob,null,null,Anna,lab ,Baltic M Co,res,null,null,519,15th avenue,null,null,null,null,null,null
+342,Hietala,Andrew,null,null,Anna,farmer,null,res,null,null,102,16th av,null,null,null,null,null,null
+343,Hietala,Gustaf,null,null,null,lab,null,bds,null,null,102,16th av,null,null,null,null,null,null
+346,Hilli,Sali,null,null,null,emp ,Baltic M Co,bds,null,null,507,16th av,null,null,null,null,null,null
+348,Hodge,Roy,null,null,Gertrude,physician in charge ,Baltic Mine Dispensary,res,null,null,221,12th av,null,null,null,null,null,null
+349,Holopa,John,null,null,null,miner ,Baltic M Co,bds,null,null,523,16th av,null,null,null,null,null,null
+356,Huttunen,Ida,null,null,null,null,null,bds,null,null,108,15th av,null,null,null,null,null,null
+358,Ikalainen,Paul,null,null,null,miner,null,bds,null,null,102,16th av,null,null,null,null,null,null
+359,Ilmari,Isaac,null,null,Fannie,miner,null,res,null,null,513,16th av,null,null,null,null,null,null
+361,Jackopet,Armido,null,null,null,emp ,Baltic M Co,bds,null,null,121,15th av,null,null,null,null,null,null
+363,Jacobs,Frank,null,null,null,lab ,Baltic M Co,bds,null,null,114,15th,null,null,null,null,null,null
+366,James,Mabel,null,null,null,null,null,bds,null,null,102,11th av,null,null,null,null,null,null
+367,Janelli,Frank,null,null,Julia,miner,null,res,null,null,224,13th av,null,null,null,null,null,null
+368,Janelli,Joseph,null,null,Angeline,miner,null,res,null,null,224,13th av,null,null,null,null,null,null
+371,Jolly,Elizabeth,J,null,wid Wm,null,null,res,null,null,101,11th av,null,null,null,null,null,null
+372,Jolly,John,null,null,null,timekpr ,Baltic M Co,bds,null,null,101,11th av,null,null,null,null,null,null
+373,Joutsi,Joseph,null,null,Jennie,miner ,Baltic M Co,res,null,null,517,15th avenue,null,null,null,null,null,null
+374,Juleff,Fern,null,null,null,tchr ,Baltic School,bds,null,null,106,13th av,null,null,null,null,null,null
+375,Juleff,James,null,null,Anna M,timberman ,Baltic M Co,res,null,null,106,13th av,null,null,null,null,null,null
+378,Juntinnen,Charles,null,null,null,miner ,Baltic M Co,bds,null,null,505,16th av,null,null,null,null,null,null
+379,Juntunen,Andrew,null,null,null,miner ,Baltic M Co,bds,null,null,102,16th av,null,null,null,null,null,null
+380,Juntunen,Andrew,null,null,Anna M,trammer,null,res,null,null,506,15th av,null,null,null,null,null,null
+381,Juntunen,Ilmer,null,null,null,trammer,null,bds,null,null,102,16th av,null,null,null,null,null,null
+383,Kaaria,Jacob,null,null,Margaret,lab,null,res,null,null,102,14th av,null,null,null,null,null,null
+386,Kallio,Walter,null,null,Lena,miner,null,res,null,null,503,16th av,null,null,null,null,null,null
+387,Kalliosaari,Matt,null,null,null,miner ,Baltic M Co,res,null,null,102- 1/2,14th av,null,null,null,null,null,null
+388,Kamppinen,Carl,G,null,Anna E,miner,null,res,null,null,507,17th av,null,null,null,null,null,null
+389,Kangas,Herman,null,null,Anna,miner ,Baltic M Co,res,null,null,102,15th av,null,null,null,null,null,null
+390,Kangas,Joel,null,null,Alina,miner ,Baltic M Co,res,null,null,111,16th av,null,null,null,null,null,null
+391,Kangas,John,null,null,null,miner ,Baltic M Co,bds,null,null,523,16th av,null,null,null,null,null,null
+392,Kangas,Nicholas,null,null,null,lab ,Baltic M Co,bds,null,null,111,16th av,null,null,null,null,null,null
+394,Kantoff,Kostan,null,null,null,emp ,Baltic M Co,bds,null,null,113,13th av,null,null,null,null,null,null
+395,Karinen,John,null,null,Kate E,emp ,Baltic M Co,res,null,null,503,17th avenue,null,null,null,null,null,null
+396,Karkkainen,Peter,null,null,null,lab ,Baltic M Co,bds,null,null,504,16th av,null,null,null,null,null,null
+397,Kama,Anselm,null,null,Aili,lab ,Baltic M Co,res,null,null,512,15th av,null,null,null,null,null,null
+398,Kama,Erick,null,null,Ida O,miner ,Baltic M Co,res,null,null,514,15th avenue,null,null,null,null,null,null
+399,Kama,Jacob,null,null,Sophia,miner ,Baltic M Co,res,null,null,512,15th avenue,null,null,null,null,null,null
+400,Karoja,Harry,null,null,null,emp ,Baltic M Co,res,null,null,123,14th av,null,null,null,null,null,null
+401,Karppinen,Paavo,null,null,null,lab,null,bds,null,null,102,14th av,null,null,null,null,null,null
+404,Kasparoff,Leran,null,null,null,emp ,Baltic M Co,res,null,null,121,14th av,null,null,null,null,null,null
+405,Kauranen,Emil,null,null,Helda L,lab ,Baltic M Co,res,null,null,518,16th avenue,null,null,null,null,null,null
+406,Kazocoff,Leon,null,null,null,trammer,null,res,null,null,123,14th av,null,null,null,null,null,null
+408,Kemp,Thomas,null,null,Rachel,blksmith ,Baltic M Co,res,null,null,121,16th av,null,null,null,null,null,null
+409,Kempainen,Jacob,null,null,Catherine,miner ,Baltic M Co,res,null,null,307,Trimountain rd,null,null,null,null,null,null
+411,Kempinen,Charles,null,null,null,emp ,Baltic M Co,bds,null,null,507,17th av,null,null,null,null,null,null
+412,Kendall,Charles,null,null,null,lab ,Baltic M Co,bds,null,null,103,15th av,null,null,null,null,null,null
+413,Kendall,Mildred,null,null,null,null,null,bds,null,null,114,15th av,null,null,null,null,null,null
+414,Kendall,Wm,null,null,null,lab ,Baltic M Co,bds,null,null,103,15th av,null,null,null,null,null,null
+415,Keranen,Andrew,null,null,Freda,miner,null,res,null,null,505,16th av,null,null,null,null,null,null
+416,Keranen,Axel,J,null,Edith R,miner,null,res,null,null,512,16th av,null,null,null,null,null,null
+418,Keranen,Eino,null,null,Mary,trammer ,Baltic M Co,res,null,null,102- 1/2,14th av,null,null,null,null,null,null
+420,Keranen,Herman,null,null,Walpuri,miner ,Baltic M Co,res,null,null,501,16th av,null,null,null,null,null,null
+421,Keranen,Joel,null,null,null,emp ,Baltic M Co,bds,null,null,512,16th av,null,null,null,null,null,null
+422,Keranen,Matt,null,null,Matilda,miner ,Baltic M Co,res,null,null,527,16th av,null,null,null,null,null,null
+423,Keranen,Oskar,null,null,Naina,miner ,Baltic M Co,res,null,null,510,16th av,null,null,null,null,null,null
+424,Keranen,Saima,null,null,null,null,null,bds,null,null,501,16th av,null,null,null,null,null,null
+426,Kerranen,Antti,A,null,null,emp ,Baltic M Co,bds,null,null,505,16th av,null,null,null,null,null,null
+432,Kinnunen,Charles,null,null,Kreta,lab ,Baltic M Co,res,null,null,521,15th avenue,null,null,null,null,null,null
+436,Kinsley,Frank,null,null,null,lab,null,bds,null,null,123,16th av,null,null,null,null,null,null
+437,Kinsley,John,null,null,Barbara,mason ,Baltic M Co,res,null,null,123,11th av,null,null,null,null,null,null
+438,Kinsley,Sophie,null,null,null,tchr ,Baltic School,bds,null,null,123,16th av,null,null,null,null,null,null
+440,Kissel,John,null,null,null,trammer ,Baltic M Co,bds,null,null,110,14th av,null,null,null,null,null,null
+444,Klobucher,George,null,null,null,trammer,null,bds,null,null,116,13th av,null,null,null,null,null,null
+445,Klobucher,John,null,null,null,trammer,null,bds,null,null,116,13th av,null,null,null,null,null,null
+446,Klobuchar,John,null,null,null,tmstr ,Baltic M Co,bds,null,null,217,15th av,null,null,null,null,null,null
+447,Klobuchar,Peter,null,null,Anna,miner ,Baltic M Co,res,null,null,217,15th avenue,null,null,null,null,null,null
+448,Kneebone,Clarence,E,null,null,fireman ,Baltic M Co,bds,null,null,217,13th avenue,null,null,null,null,null,null
+449,Kneebone,Elmer,J,null,null,lab ,Baltic M Co,bds,null,null,217,13th av,null,null,null,null,null,null
+450,Kneebone,Ethel,null,null,null,asst postmaster,null,bds,null,null,217,13th av,null,null,null,null,null,null
+451,Kneebone,Florence,null,null,null,null,null,bds,null,null,217,13th av,null,null,null,null,null,null
+452,Kneebone,Irvin,null,null,null,foreman,null,bds,null,null,217,13th av,null,null,null,null,null,null
+453,Kneebone,John,null,null,Mary,timber boss ,Baltic M Co,res,null,null,217,13th av,null,null,null,null,null,null
+454,Kneebone,John,R,null,null,student,null,bds,null,null,121,11th av,null,null,null,null,null,null
+455,Kneebone,Robert,W,null,null,student,null,bds,null,null,121,11th,null,null,null,null,null,null
+456,Kneebone,Thomas,T,null,Eliza,blksmith ,Baltic M Co,res,null,null,121,11th av,null,null,null,null,null,null
+457,Kneebone,Wm,J,null,null,fireman,null,bds,null,null,217,13th av,null,null,null,null,null,null
+460,Kolopa,John,null,null,null,miner,null,bds,null,null,511,16th av,null,null,null,null,null,null
+461,Komulainen,Andrew,null,null,Lydia,miner,null,res,null,null,526,16th av,null,null,null,null,null,null
+464,Korpi,Henry,null,null,Anna,null,null,res,ws,null,null,Stanton nr railroad,null,null,null,null,null,null
+466,Korpi,Sixtus,null,null,Elizabeth,farmer,null,res,es,null,null,null,15,null,null,th av nr Stanton,null,null
+469,Koski,Anska,null,null,null,trammer ,Baltic M Co,bds,null,null,102,16th av,null,null,null,null,null,null
+470,Koski,Isaac,null,null,null,emp ,Baltic M Co,bds,null,null,513,16th av,null,null,null,null,null,null
+471,Kostoff,Michael,null,null,null,trammer,null,bds,null,null,506,16th av,null,null,null,null,null,null
+474,Kovalainen,Eino,null,null,Wilma,emp ,Baltic M Co,res,null,null,515,15th av,null,null,null,null,null,null
+476,Kramaric,John,null,null,null,trammer ,Baltic M Co,bds,null,null,115,13th av,null,null,null,null,null,null
+478,Kroll,John,null,null,Anna,miner ,Baltic M Co,res,null,null,204,14th av,null,null,null,null,null,null
+479,Kroll,Nicholas,null,null,Mary,miner ,Baltic M Co,res,null,null,105,16th av,null,null,null,null,null,null
+480,Kukkola,Nels,null,null,Elizabeth,miner ,Baltic M Co,res,null,null,505,17th ay,null,null,null,null,null,null
+482,Kukkonen,Isaac,null,null,Hilda M,trammer,null,res,null,null,528,15th av,null,null,null,null,null,null
+483,Kumala,Antti,null,null,null,emp ,Baltic M Co,bds,null,null,526,16th av,null,null,null,null,null,null
+486,Kurnusaari,Lizzie,null,null,wid Henry,null,null,res,ws,null,null,null,15,null,null,th av nr Stanton,null,null
+488,Kyllonen,Peter,null,null,null,miner ,Baltic M Co,bds,null,null,525,15th av,null,null,null,null,null,null
+489,Kyllonen,Isaac,null,null,Elsie W,miner ,Baltic M Co,res,null,null,514,16th av,null,null,null,null,null,null
+490,Kyllonen,Leonard,null,null,Christina,miner ,Baltic M Co,res,null,null,525,15th av,null,null,null,null,null,null
+493,Laitinen,Abner,null,null,null,trammer,null,bds,null,null,102,16th av,null,null,null,null,null,null
+499,Lalilch,Thomas,null,null,null,trammer,null,bds,null,null,226,14th av,null,null,null,null,null,null
+502,Lamberg,Andrew,null,null,Louise,miner ,Baltic M Co,res,null,null,208,15th av,null,null,null,null,null,null
+503,Lamberg,Andrew,null,null,null,trammer ,Baltic M Co,bds,null,null,208,15th av,null,null,null,null,null,null
+505,Lampe,Frank,null,null,null,timberman ,Baltic M Co,bds,null,null,226,14th av,null,null,null,null,null,null
+506,Lampe,John,null,null,Mary,timberman ,Baltic M Co,res,null,null,228,14th av,null,null,null,null,null,null
+508,Lasich,Michael,null,null,Lucille,miner,null,res,null,null,109,13th av,null,null,null,null,null,null
+511,Latvala,John,K,null,Hilda C,trammer,null,res,null,null,510,15th av,null,null,null,null,null,null
+513,Laukkanen,Abel,null,null,null,emp ,Baltic M Co,bds,null,null,202,15th av,null,null,null,null,null,null
+523,Lexano,Leon,null,null,null,emp ,Baltic M Co,bds,null,null,121,14th av,null,null,null,null,null,null
+526,Lindquist,Arvid,null,null,null,trammer ,Baltic M Co,bds,null,null,102,16th av,null,null,null,null,null,null
+529,Liuska,John,null,null,Hannah,miner,null,res,null,null,524,15th av,null,null,null,null,null,null
+531,Lohva,Henry,null,null,null,trammer,null,bds,null,null,102,16th av,null,null,null,null,null,null
+532,Lohva,Matt,null,null,null,lab,null,bds,null,null,102,14th av,null,null,null,null,null,null
+533,Lombardini,Andrew,null,null,Josephine,propr ,Baltic Boarding House,res,null,null,122,14th av,null,null,null,null,null,null
+534,Losick,Michael,null,null,null,emp ,Baltic M Co,bds,null,null,109,13th av,null,null,null,null,null,null
+535,Louis,Calista,null,null,null,trammer,null,bds,null,null,213,14th av,null,null,null,null,null,null
+536,Lovorini,Lawrence,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+537,Lovorini,Stefono,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+542,Lundgren,Andrew,null,null,null,lab,null,bds,null,null,102,16th av,null,null,null,null,null,null
+543,Luska,John,null,null,Hannah,miner,null,res,null,null,521,15th av,null,null,null,null,null,null
+544,Luukkanen,Abel,null,null,Lena,lab,null,res,null,null,202,15th av,null,null,null,null,null,null
+545,Luukkarinen,011e,null,null,null,lab,null,bds,null,null,102,16th av,null,null,null,null,null,null
+547,Lyttinen,Appa,null,null,Ida,miner ,Baltic M Co,res,null,null,511,15th av,null,null,null,null,null,null
+548,McKendrick,Martin,J,null,null,wiper ,Baltic M Co,bds,null,null,110,11th avenue,null,null,null,null,null,null
+549,McKendrick,Michael,null,null,Elizabeth,trammer ,Baltic M Co,res,null,null,110,11th av,null,null,null,null,null,null
+550,McKendrick,Michael,J,null,null,blksmith hlpr ,Baltic M Co,bds,null,null,110,11th av,null,null,null,null,null,null
+552,McLeod,Norman,null,null,null,lab ,Baltic M Co,bds,null,null,110,12th av,null,null,null,null,null,null
+553,McNamara,Earl,null,null,null,emp ,Baltic M Co,bds,null,null,219,15th av,null,null,null,null,null,null
+555,Mahmed,Kadur,null,null,null,emp ,Baltic M Co,bds,null,null,222224,14th av,null,null,null,null,null,null
+556,Maki,John,null,null,null,trammer ,Baltic M Co,bds,null,null,102,16th av,null,null,null,null,null,null
+557,Maki,Joseph,null,null,null,lab,null,bds,null,null,102,16th av,null,null,null,null,null,null
+558,Maki,Leemes,null,null,null,lab,null,bds,null,null,102,16th av,null,null,null,null,null,null
+562,Mammi,Samuel,null,null,null,lab,null,res,null,null,224,14th av,null,null,null,null,null,null
+563,Manderfield,Bernard,I,null,null,mining eng ,Baltic M Co,bds,null,null,101,12th av,null,null,null,null,null,null
+564,Manderfield,Eldred,N,null,null,electn ,Baltic M Co,bds,null,null,101,12th avenue,null,null,null,null,null,null
+566,Manderfield,Marie,H,null,null,student,null,bds,null,null,101,12th av,null,null,null,null,null,null
+568,Marcheski,Rafifaello,null,null,null,lab ,Baltic M Co,bds,null,null,221,14th av,null,null,null,null,null,null
+569,Mare,Antonio,null,null,null,lab ,Baltic M Co,bds,null,null,109,15th av,null,null,null,null,null,null
+570,Mare,Luigi,null,null,Annie,trammer ,Baltic M Co,res,null,null,109,15th avenue,null,null,null,null,null,null
+571,Mareccini,Natalie,null,null,Rose,emp ,Baltic M Co,res,null,null,111,14th avenue,null,null,null,null,null,null
+574,Markunas,Ambros,null,null,null,trammer ,Baltic M Co,bds,null,null,null,13th av,null,null,null,null,null,null
+575,Marsy,Arthur,null,null,null,driver ,South Range Mercantile Co,bds,null,null,250,Stanton,null,null,null,null,null,null
+577,Martin,Wm,J,null,Hilda,eng ,Baltic M Co,res,null,null,207,15th av,null,null,null,null,null,null
+579,Martins,Ignatz,null,null,null,emp ,Baltic M Co,bds,null,null,214,13th av,null,null,null,null,null,null
+581,Marttila,Peter,null,null,Anna E,trammer ,Baltic M Co,res,null,null,518,15th av,null,null,null,null,null,null
+586,Matero,Henry,null,null,null,lab,null,bds,null,null,506,15th av,null,null,null,null,null,null
+589,Mattila,John,H,null,Hilda,lab ,Baltic M Co,res,null,null,502,15th avenue,null,null,null,null,null,null
+591,Matusia,Ignatz,null,null,Anna,miner,null,res,null,null,214,16th av,null,null,null,null,null,null
+592,Maurin,Paul,null,null,Lucia,miner ,Baltic M Co,res,null,null,111,13th avenue,null,null,null,null,null,null
+594,MAYNARD,WM,null,null,Mabel A,null,null,res,null,null,116,16th av,null,null,null,null,null,null
+595,Medish,John,null,null,null,trammer ,Baltic M Co,bds,null,null,217,15th av,null,null,null,null,null,null
+597,Meliy,Mamoth,null,null,null,emp ,Baltic M Co,res,null,null,222,14th av,null,null,null,null,null,null
+598,Mendelson,Albert,null,null,Dorothy,supt,null,res,null,null,226,12th av,null,null,null,null,null,null
+600,Merila,Victor,null,null,Minnie,miner ,Baltic M Co,res,null,null,521,16th avenue,null,null,null,null,null,null
+604,Metta,Wm,null,null,Ida S,miner ,Baltic M Co,res,null,null,504,15th av,null,null,null,null,null,null
+605,Meyers,Christopher,null,null,null,tmstr ,Baltic M Co,bds,null,null,122,14th av,null,null,null,null,null,null
+607,Mihelich,Peter,null,null,Mary,timberman ,Baltic M Co,res,null,null,506,16th av,null,null,null,null,null,null
+611,Misconia,Angelo,null,null,null,trammer ,Baltic M Co,bds,null,null,118,12th av,null,null,null,null,null,null
+613,Mitskus,Benjamin,null,null,null,miner ,Baltic M Co,bds,null,null,214,13th av,null,null,null,null,null,null
+616,Mionfreti,Antonio,null,null,null,trammer,null,bds,null,null,118,12th av,null,null,null,null,null,null
+617,Morotti,Julius,null,null,null,trammer,null,bds,null,null,117,14th av,null,null,null,null,null,null
+618,Muhar,Anton,null,null,null,miner ,Baltic M Co,bds,null,null,523,15th av,null,null,null,null,null,null
+619,Mukovec,Joseph,null,null,Theresa,miner,null,res,null,null,509,15th av,null,null,null,null,null,null
+625,Nastti,Giamo,null,null,null,trammer,null,bds,null,null,123,15th av,null,null,null,null,null,null
+626,Natalini,Valentino,null,null,Mary,miner,null,res,null,null,226,13th av,null,null,null,null,null,null
+631,Niemi,Charles,null,null,Augusta,miner ,Baltic M Co,res,null,null,525,16th av,null,null,null,null,null,null
+632,Niemi,Charles,null,null,null,emp ,Baltic M Co,bds,null,null,525,16th av,null,null,null,null,null,null
+637,Oanesoff,Simon,null,null,null,emp ,Baltic M Co,bds,null,null,222224,14th av,null,null,null,null,null,null
+638,Oates,Harry,null,null,Anna,blksmith ,Baltic M Co,res,null,null,214,14th avenue,null,null,null,null,null,null
+639,Oger,George,null,null,null,emp ,Baltic M Co,bds,null,null,105,14th av,null,null,null,null,null,null
+644,Okeya,Malek,null,null,null,emp ,Baltic M Co,bds,null,null,121,14th av,null,null,null,null,null,null
+645,01iski,Wm,null,null,null,lab ,Baltic M Co,bds,null,null,110,12th av,null,null,null,null,null,null
+647,Orelle,John,null,null,Theresa,miner ,Baltic M Co,res,null,null,226,14th avenue,null,null,null,null,null,null
+648,Oriskovish,Nicholas,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+652,Paak,John,null,null,null,emp ,Baltic M Co,bds,null,null,108,15th av,null,null,null,null,null,null
+653,Paatalo,Otto,null,null,null,emp ,Baltic M Co,bds,null,null,206,15th av,null,null,null,null,null,null
+654,Padajiro,Arud,null,null,null,emp ,Baltic M Co,bds,null,null,121123,14th av,null,null,null,null,null,null
+655,Palastrini,Joseph,null,null,null,trammer,null,bds,null,null,123,15th av,null,null,null,null,null,null
+657,Panian,John,null,null,Mary,trammer ,Baltic M Co,bds,null,null,115,13th avenue,null,null,null,null,null,null
+658,Panian,Joseph,null,null,Mary,miner ,Baltic M Co,res,null,null,115,13th avenue,null,null,null,null,null,null
+660,Parr,Wm,V,null,Mary G,driver ,Baltic M Co,res,null,null,502,16th avenue,null,null,null,null,null,null
+661,Partalo,Otto,null,null,Hilda,miner,null,res,null,null,206,15th av,null,null,null,null,null,null
+664,Patereni,Umberto,null,null,null,trammer,null,bds,null,null,117,13th av,null,null,null,null,null,null
+666,Pavlin,Anton,null,null,Mary,miner ,Baltic M Co,res,null,null,228,13th avenue,null,null,null,null,null,null
+667,Pavlin,Michael,null,null,Catherine,lab ,Baltic M Co,res,null,null,220,13th avenue,null,null,null,null,null,null
+669,Pellow,Vivian,null,null,Winifred,trammer boss ,Baltic M Co,res,null,null,115,16th av,null,null,null,null,null,null
+670,Pelon,Ernest,null,null,null,painter,null,bds,null,null,117,15th av,null,null,null,null,null,null
+671,Pelon,Eva,null,null,null,null,null,bds,null,null,117,15th av,null,null,null,null,null,null
+672,Pelon,Evangelist,null,null,null,lander ,Baltic M Co,res,null,null,117,15th av,null,null,null,null,null,null
+673,Pelon,Joseph,null,null,null,lab ,Baltic M Co,bds,null,null,117,15th av,null,null,null,null,null,null
+674,Pelon,Nellie,null,null,null,null,null,bds,null,null,117,15th av,null,null,null,null,null,null
+675,Peltomaa,Oscar,null,null,null,lab,null,bds,null,null,504,16th av,null,null,null,null,null,null
+680,Mendelson,Albert,null,null,Dorothy,supt,null,res,null,null,226,12th av,null,null,null,null,null,null
+682,Merila,Victor,null,null,Minnie,miner ,Baltic M Co,res,null,null,521,16th avenue,null,null,null,null,null,null
+686,Metta,Wm,null,null,Ida S,miner ,Baltic M Co,res,null,null,504,15th av,null,null,null,null,null,null
+687,Meyers,Christopher,null,null,null,tmstr ,Baltic M Co,bds,null,null,122,14th av,null,null,null,null,null,null
+689,Mihelich,Peter,null,null,Mary,timberman ,Baltic M Co,res,null,null,506,16th av,null,null,null,null,null,null
+693,Misconia,Angelo,null,null,null,trammer ,Baltic M Co,bds,null,null,118,12th av,null,null,null,null,null,null
+695,Mitskus,Benjamin,null,null,null,miner ,Baltic M Co,bds,null,null,214,13th av,null,null,null,null,null,null
+698,Monfreti,Antonio,null,null,null,trammer,null,bds,null,null,118,12th av,null,null,null,null,null,null
+699,Morotti,Julius,null,null,null,trammer,null,bds,null,null,117,14th av,null,null,null,null,null,null
+700,Muhar,Anton,null,null,null,miner ,Baltic M Co,bds,null,null,523,15th av,null,null,null,null,null,null
+701,Mukovec,Joseph,null,null,Theresa,miner,null,res,null,null,509,15th av,null,null,null,null,null,null
+707,Nastti,Giamo,null,null,null,trammer,null,bds,null,null,123,15th av,null,null,null,null,null,null
+708,Natalini,Valentino,null,null,Mary,miner,null,res,null,null,226,13th av,null,null,null,null,null,null
+713,Niemi,Charles,null,null,Augusta,miner ,Baltic M Co,res,null,null,525,16th av,null,null,null,null,null,null
+714,Niemi,Charles,null,null,null,emp ,Baltic M Co,bds,null,null,525,16th av,null,null,null,null,null,null
+719,Oanesoff,Simon,null,null,null,emp ,Baltic M Co,bds,null,null,222224,14th av,null,null,null,null,null,null
+720,Oates,Harry,null,null,Anna,blksmith ,Baltic M Co,res,null,null,214,14th avenue,null,null,null,null,null,null
+721,Oger,George,null,null,null,emp ,Baltic M Co,bds,null,null,105,14th av,null,null,null,null,null,null
+726,Okeya,Malek,null,null,null,emp ,Baltic M Co,bds,null,null,121,14th av,null,null,null,null,null,null
+727,01iski,Wm,null,null,null,lab ,Baltic M Co,bds,null,null,110,12th av,null,null,null,null,null,null
+729,Orelle,John,null,null,Theresa,miner ,Baltic M Co,res,null,null,226,14th avenue,null,null,null,null,null,null
+730,Oriskovish,Nicholas,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+734,Paak,John,null,null,null,emp ,Baltic M Co,bds,null,null,108,15th av,null,null,null,null,null,null
+735,Paatalo,Otto,null,null,null,emp ,Baltic M Co,bds,null,null,206,15th av,null,null,null,null,null,null
+736,Padajiro,Arud,null,null,null,emp ,Baltic M Co,bds,null,null,121123,14th av,null,null,null,null,null,null
+737,Palastrini,Joseph,null,null,null,trammer,null,bds,null,null,123,15th av,null,null,null,null,null,null
+739,Panian,John,null,null,Mary,trammer ,Baltic M Co,bds,null,null,115,13th avenue,null,null,null,null,null,null
+740,Panian,Joseph,null,null,Mary,miner ,Baltic M Co,res,null,null,115,13th avenue,null,null,null,null,null,null
+742,Parr,Wm,V,null,Mary G,driver ,Baltic M Co,res,null,null,502,16th avenue,null,null,null,null,null,null
+743,Partalo,Otto,null,null,Hilda,miner,null,res,null,null,206,15th av,null,null,null,null,null,null
+746,Patereni,Umberto,null,null,null,trammer,null,bds,null,null,117,13th av,null,null,null,null,null,null
+748,Pavlin,Anton,null,null,Mary,miner ,Baltic M Co,res,null,null,228,13th avenue,null,null,null,null,null,null
+749,Pavlin,Michael,null,null,Catherine,lab ,Baltic M Co,res,null,null,220,13th avenue,null,null,null,null,null,null
+751,Pellow,Vivian,null,null,Winifred,trammer boss ,Baltic M Co,res,null,null,115,16th av,null,null,null,null,null,null
+752,Pelon,Ernest,null,null,null,painter,null,bds,null,null,117,15th av,null,null,null,null,null,null
+753,Pelon,Eva,null,null,null,null,null,bds,null,null,117,15th av,null,null,null,null,null,null
+754,Pelon,Evangelist,null,null,null,lander ,Baltic M Co,res,null,null,117,15th av,null,null,null,null,null,null
+755,Pelon,Joseph,null,null,null,lab ,Baltic M Co,bds,null,null,117,15th av,null,null,null,null,null,null
+756,Pelon,Nellie,null,null,null,null,null,bds,null,null,117,15th av,null,null,null,null,null,null
+757,Peltomaa,Oscar,null,null,null,lab,null,bds,null,null,504,16th av,null,null,null,null,null,null
+762,Retar,John,null,null,null,trammer,null,bds,null,null,506,16th av,null,null,null,null,null,null
+764,Rimpela,Henry,null,null,null,emp ,Baltic M Co,bds,null,null,109,16th av,null,null,null,null,null,null
+765,Rindaba,Andrew,null,null,Minnie,miner,null,res,null,null,109,16th av,null,null,null,null,null,null
+766,Ritala,Charles,J,null,Elizabeth,trammer ,Baltic M Co,res,null,null,104,16th av,null,null,null,null,null,null
+769,Rock,John,E,null,Rosanna,electn ,Baltic M Co,res,null,null,109,11th av,null,null,null,null,null,null
+773,Romsek,Peter,null,null,Anna,miner ,Baltic M Co,res,null,null,215,15th avenue,null,null,null,null,null,null
+774,Rossi,Arminto,null,null,null,trammer ,Baltic M Co,bds,null,null,213,14th av,null,null,null,null,null,null
+775,Rowe,Haitie,null,null,null,emp ,Baltic M Co,bds,null,null,114,15th av,null,null,null,null,null,null
+776,Rubb,Hans,J,null,Georgiana,lab,null,res,null,null,114,14th av,null,null,null,null,null,null
+777,Ruben,John,null,null,null,butcher,null,bds,null,null,110,14th av,null,null,null,null,null,null
+778,Ruben,Antonio,null,null,null,trammer,null,bds,null,null,110,14th av,null,null,null,null,null,null
+781,Rund,Hans,null,null,null,emp ,Baltic M Co,bds,null,null,114,14th av,null,null,null,null,null,null
+783,Ruuhelo,Henry,null,null,Lydia S,miner ,Baltic M Co,res,null,null,516,16th av,null,null,null,null,null,null
+785,Saari,Henry,null,null,null,emp ,Baltic M Co,bds,null,null,516,16th av,null,null,null,null,null,null
+787,Saarinen,John,null,null,Tilda,miner,null,res,null,null,509,16th av,null,null,null,null,null,null
+790,Sahoff,Peter,null,null,null,emp ,Baltic M Co,bds,null,null,222224,14th av,null,null,null,null,null,null
+791,Saijowac,Frank,null,null,null,lab,null,bds,null,null,226,14th av,null,null,null,null,null,null
+792,Saijowac,Louis,null,null,null,trammer,null,bds,null,null,225,14th av,null,null,null,null,null,null
+793,St,John,John,null,Melvina,trammer ,Baltic M Co,res,null,null,201,14th av,null,null,null,null,null,null
+794,St,John,John,jr,null,elk,null,bds,null,null,201,14th av,null,null,null,null,null,null
+795,St,John,Rosanna,null,null,null,null,bds,null,null,201,14th av,null,null,null,null,null,null
+796,St,John,Victoria,null,null,null,null,bds,null,null,201,14th av,null,null,null,null,null,null
+797,St,John,Wm,null,null,driver ,Baltic M Co,bds,null,null,201,14th av,null,null,null,null,null,null
+798,St,John,Wm,null,null,trammer,null,bds,null,null,110,12th av,null,null,null,null,null,null
+802,Salsini,Francisco,null,null,null,emp ,Baltic M Co,bds,null,null,124,15th av,null,null,null,null,null,null
+803,Salsini,Peter,null,null,null,emp ,Baltic M Co,bds,null,null,118,12th av,null,null,null,null,null,null
+805,Santine,Marcus,null,null,Sabina,miner,null,res,null,null,124,15th av,null,null,null,null,null,null
+806,Santini,Alphonse,null,null,null,trammer ,Baltic M Co,bds,null,null,118,12th avenue,null,null,null,null,null,null
+808,Santini,Marco,null,null,null,emp ,Baltic M Co,bds,null,null,122124,15th av,null,null,null,null,null,null
+809,SargisofF,Gazar,null,null,null,emp ,Baltic M Co,bds,null,null,121123,14th av,null,null,null,null,null,null
+810,Sarioff,Kogosh,null,null,null,emp ,Baltic M Co,bds,null,null,222224,14th av,null,null,null,null,null,null
+813,Schnetter,August,null,null,Theresa,foreman ,Baltic M Co,res,null,null,105,11th av,null,null,null,null,null,null
+814,Schnetter,Lena,null,null,null,null,null,bds,null,null,105,11th av,null,null,null,null,null,null
+815,Schnetter,Tillie,null,null,null,null,null,bds,null,null,105,11th av,null,null,null,null,null,null
+816,Schulick,Nicholas,null,null,null,miner ,Baltic M Co,bds,null,null,523,15th av,null,null,null,null,null,null
+817,Schusjonko,Miro,null,null,null,trammer,null,bds,null,null,113,13th av,null,null,null,null,null,null
+819,Seppanen,Oscar,null,null,Johannah,miner ,Baltic M Co,res,null,null,508,16th av,null,null,null,null,null,null
+821,Serra,Mary,null,null,wid John,null,null,res,ws,null,null,Station n of ,15,null,null,th av,null,null
+827,Shea,Timothy,null,null,null,elk ,Baltic M Co,bds,null,null,null,null,null,null,null,null,Atlantic Mine,null
+828,Sheehan,Wm,null,null,Alma,eng ,Baltic M Co,res,null,null,316,11th av,null,null,null,null,null,null
+829,Siivonen,Yalmar,null,null,Hilda,miner,null,res,null,null,102,14th av,null,null,null,null,null,null
+830,Silayman,Osman,null,null,null,emp ,Baltic M Co,res,null,null,222,Nth av,null,null,null,null,null,null
+831,Simonetti,Giovanni,null,null,null,emp ,Baltic M Co,bds,null,null,124,15th av,null,null,null,null,null,null
+833,Simonoff,Dikran,null,null,null,emp ,Baltic M Co,bds,null,null,121123,Nth av,null,null,null,null,null,null
+834,SimonofF,Kachadur,null,null,null,emp ,Baltic M Co,bds,null,null,224,Nth av,null,null,null,null,null,null
+835,Siggleton,George,L,null,Elizabeth,emp ,Baltic M Co,res,null,null,109,12th av,null,null,null,null,null,null
+842,Smith,Peter,null,null,Mary,eng ,Baltic M Co,res,null,null,106,11th av,null,null,null,null,null,null
+843,Smith,Raymond,W,null,null,hlpr ,Baltic M Co,bds,null,null,106,11th av,null,null,null,null,null,null
+844,Smith,Viola,M,null,null,student,null,bds,null,null,106,11th av,null,null,null,null,null,null
+845,Smith,Walter,null,null,Mary,mine capt ,Baltic M Co,res,null,null,105,12th av,null,null,null,null,null,null
+846,Snellen,Samuel,null,null,Anna,miner ,Baltic M Co,res,null,null,523,15th avenue,null,null,null,null,null,null
+847,Sobelsa,Louis,null,null,Mary,lab ,Baltic M Co,res,null,null,106,12th av,null,null,null,null,null,null
+849,Somero,Wm,null,null,null,lab ,Baltic M Co,bds,null,null,208,15th av,null,null,null,null,null,null
+851,Spun,John,null,null,Ada E,trammer boss ,Baltic M Co,res,null,null,113,12th av,null,null,null,null,null,null
+852,Spurr,Lillian,A,null,null,tchr,null,bds,null,null,113,12th av,null,null,null,null,null,null
+853,Stakes,Clemines,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+854,Stampari,Joseph,null,null,null,miner,null,res,null,null,116,13th av,null,null,null,null,null,null
+856,Stark,Carl,null,null,null,emp ,Baltic M Co,res,null,null,524,16th av,null,null,null,null,null,null
+857,Steffani,John,null,null,null,emp ,Baltic M Co,bds,null,null,221,14th av,null,null,null,null,null,null
+858,Stemback,Oscar,null,null,Lydia,trammer ,Baltic M Co,res,null,null,501,17th av,null,null,null,null,null,null
+859,Stephani,John,null,null,Leona,miner,null,res,null,null,221,14th av,null,null,null,null,null,null
+860,Stephens,Arthur,null,null,Amelia,emp ,Baltic M Co,res,null,null,116,15th av,null,null,null,null,null,null
+861,Stephens,Arthur,null,jr,null,student,null,bds,null,null,116,15th av,null,null,null,null,null,null
+862,Stephens,Florence,null,null,null,null,null,bds,null,null,116,15th av,null,null,null,null,null,null
+864,Stesamas,Joseph,null,null,null,lab ,Baltic M Co,bds,null,null,214,13th av,null,null,null,null,null,null
+865,Stirin,Peter,null,null,null,timberman ,Baltic M Co,bds,null,null,228,14th av,null,null,null,null,null,null
+869,Stypi,Frank,W,null,Walpuri,lab ,Baltic M Co,res,null,null,508,15th avenue,null,null,null,null,null,null
+870,Styrk,Carl,null,null,null,miner,null,bds,null,null,217,15th av,null,null,null,null,null,null
+872,Styrk,John,null,null,null,miner ,Baltic M Co,bds,null,null,217,15th av,null,null,null,null,null,null
+874,Sullivan,Bartholomew,null,null,Victoria,eng ,Baltic M Co,res,null,null,110,12th av,null,null,null,null,null,null
+875,Sunich,Peter,null,null,Theresa,lab ,Baltic M Co,res,null,null,526,15th avenue,null,null,null,null,null,null
+879,Sylvester,Joseph,null,null,Maude,carp ,Baltic M Co,res,null,null,120,15th av,null,null,null,null,null,null
+880,Tamasumas,James,null,null,null,lab ,Baltic M Co,bds,null,null,122,14th av,null,null,null,null,null,null
+882,Tamblyn,Benjamin,H,null,Kate,meatctr ,South Range Mercantile Go,res,ns,null,null,null,16,null,null,th av nr ,null,null
+883,Tapio,Eric,null,null,null,lab,null,bds,null,null,523,16th av,null,null,null,null,null,null
+890,Thomas,Ethel,null,null,null,student,null,bds,null,null,212,15th av,null,null,null,null,null,null
+891,Thomas,John,A,null,null,puffer boy ,Baltic M Co,bds,null,null,212,15th av,null,null,null,null,null,null
+893,Thomas,Owen,J,null,Bertha,eng ,Baltic M Co,res,null,null,212,15th avenue,null,null,null,null,null,null
+894,Tibbetts,Wm,D,null,Mary A,eng ,Baltic M Co,res,null,null,106,14th avenue,null,null,null,null,null,null
+898,Tolvanen,Otto,null,null,Alma,timberman ,Baltic M Co,res,null,null,517,16th av,null,null,null,null,null,null
+900,Tomei,Anton,null,null,null,lab,null,bds,null,null,106,12th av,null,null,null,null,null,null
+905,Tormanen,Gustaf,A,null,Matilda A,dryman ,Baltic M Co,res,null,null,210,15th av,null,null,null,null,null,null
+907,Tormanen,Nancy,A,null,null,null,null,bds,null,null,210,15th av,null,null,null,null,null,null
+910,Tornnio,Andrew,null,null,null,lab,null,bds,null,null,526,16th av,null,null,null,null,null,null
+911,Touchier,Michael,null,null,null,lab,null,bds,null,null,225,14th av,null,null,null,null,null,null
+912,Touian,Charles,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+914,Trethewey,Albert,null,null,Catherine,miner ,Baltic M Co,res,null,null,112,15th av,null,null,null,null,null,null
+915,Trethewey,Frederick,null,null,Lottie,miner ,Baltic M Co,res,null,null,119,16th av,null,null,null,null,null,null
+916,Trethewey,Martin,null,null,Eliza,mine capt ,Baltic M Co,res,null,null,225,13th av,null,null,null,null,null,null
+917,Trethewey,Martin,null,jr,Maurie,time kpr ,Baltic M Co,res,null,null,117,11th av,null,null,null,null,null,null
+918,Trethewey,Orville,null,null,Ethel,trammer boss ,Baltic M Co,res,null,null,117,12th av,null,null,null,null,null,null
+919,Trethewey,Philip,null,null,Catherine,miner ,Baltic M Co,res,null,null,114,15th av,null,null,null,null,null,null
+920,Trethewey,Robert,null,null,Mary J,miner ,Baltic M Co,res,null,null,205,12th av,null,null,null,null,null,null
+922,Trethewey,Lillie,J,null,null,null,null,bds,null,null,225,13th av,null,null,null,null,null,null
+923,Trethewey,Mabel,P,null,null,null,null,bds,null,null,225,13th av,null,null,null,null,null,null
+924,Trethewey,Mary,E,null,null,prin ,Baltic School,bds,null,null,225,13th av,null,null,null,null,null,null
+925,Trubin,Stephen,null,null,null,miner ,Baltic M Co,bds,null,null,523,15th av,null,null,null,null,null,null
+927,Turcotte,Albert,null,null,null,lab ,Baltic M Co,bds,null,null,114,12th av,null,null,null,null,null,null
+928,Turcotte,Amanda,null,null,null,null,null,bds,null,null,114,12th av,null,null,null,null,null,null
+929,Turcotte,Arthur,null,null,Emma,carp ,Baltic M Co,res,null,null,114,12th av,null,null,null,null,null,null
+930,Turcotte,Arthur,null,jr,Lillian M,miner ,Baltic M Co,res,null,null,103,15th av,null,null,null,null,null,null
+931,Turcotte,Henry,null,null,null,lab ,Baltic M Co,bds,null,null,114,12th av,null,null,null,null,null,null
+932,Turcotte,M,Louise,null,null,student,null,bds,null,null,114,12th av,null,null,null,null,null,null
+935,Uren,Wm,T,null,Mabel,timberman ,Baltic M Co,res,null,null,110,12th av,null,null,null,null,null,null
+936,Urmacz,George,null,null,Margaret,miner ,Baltic M Co,bds,null,null,212,13 th av,null,null,null,null,null,null
+937,Urmas,John,null,null,Johanna,miner ,Baltic M Co,res,null,null,210,13th avenue,null,null,null,null,null,null
+938,Valentino,James,null,null,null,emp ,Baltic M Co,bds,null,null,226,13th av,null,null,null,null,null,null
+939,Venture,Frank,null,null,null,emp ,Baltic M Co,bds,null,null,102,12th av,null,null,null,null,null,null
+940,Verlich,John,null,null,null,trammer ,Baltic M Co,bds,null,null,506,16th av,null,null,null,null,null,null
+941,Verran,Samuel,null,null,Matilda J,miner ,Baltic M Co,res,null,null,209,15th av,null,null,null,null,null,null
+942,Verran,Wm,T,null,null,student,null,bds,null,null,209,15th av,null,null,null,null,null,null
+944,Vial,T,Carlos,null,Lina,time kpr ,Baltic M Co,res,null,null,107,14th av,null,null,null,null,null,null
+946,Villa,Peter,null,null,null,timberman ,Baltic M Co,bds,null,null,228,14th av,null,null,null,null,null,null
+948,Vinturini,Alfredo,null,null,null,trammer ,Baltic M Co,bds,null,null,102,12th av,null,null,null,null,null,null
+950,Vivian,Andrew,null,null,Emma J,miner ,Baltic M Co,res,null,null,107,13th av,null,null,null,null,null,null
+951,Vodet,Joseph,null,null,null,trammer ,Baltic M Co,bds,null,null,225,14th av,null,null,null,null,null,null
+952,Vouk,Peter,null,null,null,lab,null,bds,null,null,122,14th av,null,null,null,null,null,null
+955,Wainio,Axel,G,null,Ida M,miner ,Baltic M Co,res,null,null,528,16th av,null,null,null,null,null,null
+956,Waisanen,John,null,null,null,lab ,Baltic M Co,bds,null,null,501,16th av,null,null,null,null,null,null
+957,Waisanen,Lauri,null,null,Katie,miner,null,res,null,null,505,15th av,null,null,null,null,null,null
+959,Walikainen,John,null,null,Amelia,miner ,Baltic M Co,res,null,null,106,15th av,null,null,null,null,null,null
+960,Warren,Wm,E,null,null,emp ,Baltic M Co,bds,null,null,206,14th av,null,null,null,null,null,null
+961,Wasaloski,Stanoka,null,null,null,emp ,Baltic M Co,bds,null,null,214,13th av,null,null,null,null,null,null
+964,Wayrynen,Peter,null,null,null,emp ,Baltic M Co,bds,null,null,102,16th av,null,null,null,null,null,null
+965,Webber,Edward,null,null,null,trammer,null,bds,null,null,110,12th av,null,null,null,null,null,null
+966,Wellington,Richard,null,null,Alma,miner ,Baltic M Co,res,null,null,211,15th av,null,null,null,null,null,null
+967,Whinnen,Wm,J,null,Nettie,timberman ,Baltic M Co,res,null,null,112,13th av,null,null,null,null,null,null
+968,Wilkings,Charles,null,null,null,lab ,Baltic M Co,bds,null,null,114,15th av,null,null,null,null,null,null
+969,William,Prince,null,null,null,trammer,null,bds,null,null,113,13th av,null,null,null,null,null,null
+970,Williams,John,null,null,Emily,null,null,res,null,null,201,15th av,null,null,null,null,null,null
+971,Winpari,Mikko,null,null,Kate K,miner,null,res,null,null,520,15th av,null,null,null,null,null,null
+973,Wintteri,Gustav,null,null,Alina,miner ,Baltic M Co,res,null,null,104,15th av,null,null,null,null,null,null
+974,Wintteri,Henry,null,null,Anna,lab ,Baltic M Co,res,null,null,null,Trimountain rd,null,null,null,null,null,null
+976,Wymar,Michael,null,null,null,lab ,Baltic M Co,bds,null,null,122,14th av,null,null,null,null,null,null
+978,Yacopetti,Adelindo,null,null,null,trammer,null,bds,null,null,123,15th av,null,null,null,null,null,null
+979,Yacopetti,Armido,null,null,Carmina,timberman,null,res,null,null,123,15th avenue,null,null,null,null,null,null
+982,Ylitala,Wm,null,null,Catherine,miner ,Baltic M Co,res,null,null,202,13th av,null,null,null,null,null,null
+984,Ylitalo,Kusti,null,null,null,trammer,null,bds,null,null,521,15th av,null,null,null,null,null,null
+986,Zagar,Louis,null,null,null,emp ,Baltic M Co,bds,null,null,511,17th av,null,null,null,null,null,null
+987,Zagoric,John,null,null,null,lab ,Baltic M Co,bds,null,null,225,14th av,null,null,null,null,null,null
+991,Zanotti,Bartholomew,null,null,null,lab,null,res,ws,null,null,Stanton nr ,15,null,null,th av,null,null
+992,Zanotti,Robert,null,null,Mary,miner ,Baltic M Co,res,null,null,509,17th avenue,null,null,null,null,null,null
+993,Zeiger,Louis,null,null,Molena,miner,null,res,null,null,511,17th av,null,null,null,null,null,null
+994,Zillig,John,null,null,Bessie,miner ,Baltic M Co,res,null,null,205,15th av,null,null,null,null,null,null
+1,Aalto,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+2,Abramson,Abram,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+3,Abramson,Matti,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+4,Adrosian,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+8,Aho,Lydia,null,null,null,dom,226 12th av,null,null,null,null,null,null,null,null,null,null,null
+9,Aimonetti,Peter,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+13,Alfredo,Marcante,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+14,Altini,Anealec,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+16,Anderson,Adam,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+30,Arvikainen,Albert,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+35,Baladkevich,Roman,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+36,Balagna,Michael,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+47,Barsanti,Peter,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+48,Barsi,Angelo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+49,Barsi,Fred,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+53,Battiston,Paalo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+55,Bei,Gini,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+57,Ben,Paul,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+58,Benassi,Felix,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+60,Benassi,Massimio,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+63,Benny,Wm,H,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+65,Bernardo,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+67,Bernier,Frank,null,null,null,dr,removed to Reidge,null,null,null,null,null,null,null,null,null,null,null
+69,Berrettino,Dedemino,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+73,Bianchi,Abram,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+74,Bianchi,Paul,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+76,Bini,Maurizio,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+78,Birch,Thomas,J,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+79,Blaszyk,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+81,Boggio,Demonic,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+82,Bokoncwiski,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+83,Bolf,Philip,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+84,Bonneau,Onesirie,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+85,Bonneau,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+86,Bonnowski,Ignot,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+90,Bozich,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+91,Bradick,George,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+92,Branstrom,Axel,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+93,Branorall,Everett,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+96,Brojan,Michael,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+105,Burke,Peter,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+106,Burla,Antonio,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+107,Butkvic,Isador,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+108,Butowek,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+109,Buzerak,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+117,Carlisle,Gertrude,null,null,null,tchr,Baltic School,null,null,null,null,null,null,null,null,null,null,null
+118,Carlo,Giovanni,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+123,Ceyeski,Rudolph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+124,Chafeet,Edward,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+131,Chellew,Richard,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+132,Cilasek,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+133,Cinshoski,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+134,Cionas,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+135,Coccionotti,Anton,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+137,Cole,Fred,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+138,Cole,Milton,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+145,Columbo,Gules,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+147,Comma,Battisto,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+148,Comina,David,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+149,Comina,Epifano,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+151,Connor,Daniel,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+152,Coombe,Ewart,J,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+157,Cortese,August,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+159,Cortopassi,Atoert,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+163,Costeff,Michael,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+168,DaCosta,Guvanni,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+169,DaiPra,Domonic,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+170,DaiPra,Marcellino,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+171,Dakissian,Vartan,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+172,Dan,Charley,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+176,DaReck,Guiseppi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+177,Dastelmivo,Dominic,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+179,Dati,Severino,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+186,DelDin,Arcangelo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+190,Demaria,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+193,Dennick,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+196,DePego,Pietro,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+197,Derembi,Guiseppi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+198,Deronchuk,Alexander,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+199,Desounier,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+205,Dolor,Francis,null,null,null,elk,South Range Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+206,Domonici,Peter,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+209,Dossetto,Giovanni,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+210,apeau,Charles,null,Dr,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+216,Dyer,Arthur,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+217,Dyer,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+218,Eathorne,Elmer,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+225,Ewalowsky,Rafal,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+228,Favnaciaci,Bruno,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+229,Feedotoff,Louis,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+231,Ferdanando,Salsini,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+232,Ferrino,Josephine,null,null,null,waitress,Baltic Boarding House 122 14th av,null,null,null,null,null,null,null,null,null,null,null
+241,Forsberg,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+242,Foshey,Joseph,null,null,null,elk,South Range Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+244,Francisca,Dominic,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+246,Galetto,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+247,Galletti,Michele,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+249,Garabedian,Arakel,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+250,Garlowskio,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+252,Gavelli,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+253,Gavello,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+256,Gemignani,Harry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+263,Giacolette,Victor,null,null,null,lab,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+265,Gianelli,Guiseppi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+269,Gilbert,Israel,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+273,Gioga,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+274,Giordano,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+275,Gitzen,Albert,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+276,Givens,Edward,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+277,Givens,George,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+278,Givens,Howard,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+283,Gorsi,Hugo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+288,Gralrjan,Michael,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+289,Gramchini,Benedetto,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+291,Graziani,Hugo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+293,Grigg,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+295,Guidotti,Ralph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+296,Hagian,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+297,Hakka,Herman,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+300,Hall,Edward,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+301,Halttu,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+302,Hanley,Patrick,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+303,Hanley,Peter,null,null,null,emp,Baltic MCo,null,null,null,null,null,null,null,null,null,null,null
+304,Harciso,Pini,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+306,Harkainen,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+308,Harma,Mana,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+311,Harmala,Antti,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+312,Harrington,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+313,Harris,Lloyd,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+316,Haryu,Elmer,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+317,Haryu,Evert,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+318,Haryu,Walter,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+319,Hautala,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+320,Heikkila,aaka,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+326,Heikkinen,Herman,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+328,Heikkinen,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+329,Heikkinen,Kasper,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+330,Heikkinen,Louis,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+331,Heikkinen,Matti,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+332,Heikkinen,Sivari,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+333,Heikkinen,Vaina,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+334,Heinanen,Antti,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+335,Hendrickson,Adolph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+336,Hendrickson,Herman,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+337,Hendrickson,Ida,M,null,null,dom,120 13th av,null,null,null,null,null,null,null,null,null,null,null
+339,Hendrickson,Nula,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+340,Hendrickson,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+341,Herthey,Howard,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+344,Hildorf,Walter,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+347,Hirvela,Jacob,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+350,Hounin,Enoch,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+351,Houvinen,Paavo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+352,Howat,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+353,Huatari,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+354,Huddy,Edward,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+355,Huttu,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+357,Hynninen,Elias,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+360,Isaacson,Andrew,null,null,null,emp,Baltic M Co 503 16th av,null,null,null,null,null,null,null,null,null,null,null
+362,Jackopetta,Adelina,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+364,Jacobson,Matti,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+365,Jakkala,Jalmar,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+369,Johnson,Gabriel,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+370,Johnson,John,null,null,null,emp,Baltic M Co 509 16th av,null,null,null,null,null,null,null,null,null,null,null
+382,Juntunen,Kalle,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+384,Kakkala,Hans,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+385,Kallianen,August,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+393,Kangas,Oscar,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+402,Kartula,Jacob,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+407,Kelly,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+410,Kempanen,Andrew,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+417,Keranen,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+425,Keranen,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+427,Kerttu,Levi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+428,Keski,Nestor,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+429,Kewalski,Louis,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+430,Keya,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+431,Kilps,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+433,Kinnunen,Matti,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+434,Kinnunen,Oskar,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+435,Kinnunen,Peter,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+439,Kiski,Emil,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+441,Kiutala,Jacob,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+442,Kivipelto,Heilki,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+443,Klickes,Watsla,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+458,Kokko,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+459,Kolaski,Anton,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+462,Koneva,Stephen,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+463,Korkaaha,Toiva,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+468,Kos,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+472,Kovala,Edward,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+473,Kovala,Peter,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+475,Kovaluski,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+477,Krill,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+481,Kukkonen,Amanda,null,null,null,dom,Sixtus Korpi,null,null,null,null,null,null,null,null,null,null,null
+487,Kurnusaari,Emil,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+491,Laakso,Nestor,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+492,Lahvansuu,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+494,Laity,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+495,Laity,Richard,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+496,Lakkala,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+497,Laksa,Kalle,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+498,Lakso,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+500,Lalvula,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+501,Lambaiden,Andrew,null,null,null,emp,Baltic M Co 122 14th av,null,null,null,null,null,null,null,null,null,null,null
+504,Lamberg,Emil,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+507,Lanza,Felix,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+509,Latiala,John,null,null,null,emp,Baltic M Co 510 15th av,null,null,null,null,null,null,null,null,null,null,null
+510,Latie,Thomas,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+512,Latvala,Victor,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+514,Laukkanen,Hiski,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+515,Lehto,Waino,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+516,Lehto,Yelmar,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+517,Leinonen,Albert,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+518,Leinonen,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+519,Leinonen,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+520,Lemezis,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+521,Lesich,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+522,Leskela,Kustaava,null,null,null,dom,102 16th av,null,null,null,null,null,null,null,null,null,null,null
+524,Liikala,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+525,Likovich,Matt,D,null,null,elk,South Range Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+527,Lisac,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+528,Liskarski,Seprian,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+530,Lobodar,Lukas,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+538,Lowini,Lorenzo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+539,Lowini,Stefano,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+540,Luiko,Miron,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+541,Lukkari,Markus,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+546,Lydia,Arvid,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+554,Macari,Giovanni,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+559,Maki,Victor,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+560,Makikangas,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+561,Malko,Steven,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+565,Manderfield,John,S,null,Helen,foreman,Baltic M Co 101 12th av,null,null,null,null,null,null,null,null,null,null,null
+567,Manfredi,Antonio,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+572,Margherio,Peter,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+573,Mario,Fati,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+576,Marta,Martin,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+578,Martinelli,Bernardo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+580,Martti,August,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+582,Marusic,Anton,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+583,Marusic,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+584,Massimio,Palio,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+585,Matero,Eli,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+587,Matero,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+588,Mattero,Matti,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+590,Mattila,Samuel,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+593,May,Thomas,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+596,Mehring,Ruth,null,null,null,tchr,Baltic School,null,null,null,null,null,null,null,null,null,null,null
+599,Merila,Jacob,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+601,Merotti,Julie,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+602,Messner,Albert,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+603,Metta,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+606,Miglio,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+608,Mikkala,Kaarla,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+609,Milko,Hick,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+610,Miller,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+612,Mitchell,Fred,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+614,Moilanen,Fieru,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+615,Moilanen,Louis,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+620,Mukvich,Michael,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+621,Murphy,Patrick,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+622,Murray,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+623,Mussato,Alphonse,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+624,Mustonen,August,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+627,Neiderist,Herman,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+628,Neiderist,Martin,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+629,Nesti,Gino,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+630,Nicholls,Richard,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+633,Nigra,Domonic,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+634,Nikkinen,Alexander,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+635,Nikkinen,Antti,null,null,null,emp,Baltc M Co,null,null,null,null,null,null,null,null,null,null,null
+636,Norcia,Pasquale,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+640,Oja,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+641,Oja,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+642,Ojala,Kalle,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+643,Ojo,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+646,01uski,Keil,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+649,Ozanich,Paul,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+650,Ozanich,Steve,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+651,Ozelis,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+656,Paloner,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+659,Parolina,Oresto,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+662,Paskard,Milan,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+663,Patereni,Guiseppi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+665,Paver,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+668,Pearce,Samuel,J,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+676,Pera,Marie,null,null,null,elk,South Range Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+677,Perala,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+678,Perama,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+679,Perdelino,Luigi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+681,Merila,Jacob,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+683,Merotti,Julie,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+684,Messner,Albert,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+685,Metta,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+688,Miglio,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+690,Mikkala,Kaarla,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+691,Milko,Hick,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+692,Miller,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+694,Mitchell,Fred,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+696,Moilanen,Fieru,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+697,Moilanen,Louis,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+702,Mukvich,Michael,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+703,Murphy,Patrick,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+704,Murray,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+705,Mussato,Alphonse,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+706,Mustonen,August,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+709,Neiderist,Herman,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+710,Neiderist,Martin,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+711,Nesti,Gino,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+712,Nicholls,Richard,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+715,Nigra,Domonic,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+716,Nikkinen,Alexander,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+717,Nikkinen,Antti,null,null,null,emp,Baltc M Co,null,null,null,null,null,null,null,null,null,null,null
+718,Norcia,Pasquale,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+722,Oja,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+723,Oja,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+724,Ojala,Kalle,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+725,Ojo,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+728,01uski,Keil,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+731,Ozanich,Paul,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+732,Ozanich,Steve,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+733,Ozelis,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+738,Paloner,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+741,Parolina,Oresto,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+744,Paskard,Milan,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+745,Patereni,Guiseppi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+747,Paver,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+750,Pearce,Samuel,J,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+758,Pera,Marie,null,null,null,elk,South Range Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+759,Perala,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+760,Perama,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+761,Perdelino,Luigi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+763,Ricci,Antonio,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+767,Ritter,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+768,Rizick,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+770,Rock,Sherman,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+771,Romana,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+772,Romsek,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+779,Rugani,Franchi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+780,Ruleau,Arthur,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+782,Ruski,Louis,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+784,Saaranen,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+786,Saari,Matti,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+788,Sabbatini,Egisto,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+789,Sachan,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+799,Salasti,Ida,null,null,null,dom,507 17th av,null,null,null,null,null,null,null,null,null,null,null
+800,Salem,Ray,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+801,Salmi,Gustus,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+804,Sansua,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+807,Santini,Amabile,null,null,null,dom,106 12th av,null,null,null,null,null,null,null,null,null,null,null
+811,Sayovic,Alois,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+812,Scala,Santo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+818,Secen,Lorenzo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+823,Shea,Daniel,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+824,Shea,James,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+825,Shea,Josie,null,null,null,tchr,Baltic School,null,null,null,null,null,null,null,null,null,null,null
+826,Shea,Mollie,null,null,null,tchr,Baltic School,null,null,null,null,null,null,null,null,null,null,null
+832,Simonetti,Tony,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+836,Sirrio,Erick,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+837,Sirvia,Andrew,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+838,Sirvio,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+839,Sivanen,Hjalmar,null,null,null,emp,Baltic M Co 102 Nth av,null,null,null,null,null,null,null,null,null,null,null
+840,Skalainen,Paavo,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+841,Slanovech,Max,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+848,Solvenshuk,Alex,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+855,Stankovich,Carl,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+863,Stephens,Michael,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+866,Stokes,Clemins,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+867,Stomphoe,Joseph,null,null,null,emp,Baltic M Co 116 13th av,null,null,null,null,null,null,null,null,null,null,null
+871,Styrk,Emil,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+873,Succa,Janies,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+876,Suverkrop,Lewis,A,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+877,Sweet,George,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+878,Sweet,J,S,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+881,Tamberlin,Stephen,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+884,Tappero,George,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+885,Tarmala,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+886,Taucar,Michael,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+887,Terakopoff,Penament,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+888,Tervo,Matt,A,null,null,elk,South Range Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+889,Tesluk,Nick,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+892,Thomas,Nicholas,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+895,Tigrudis,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+896,Tinetti,James,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+897,Tolanen,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+899,Tomberg,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+901,Tomei,Luigi,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+902,Tomei,Tony,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+903,Torian,Charles,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+904,Tormala,Antti,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+906,Tormanen,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+908,Tormanen,Wm,T,null,null,wiper,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+909,Tornberg,Abel,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+913,Towsend,George,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+921,Trethewey,Kate,null,null,null,nurse,101 13th av,null,null,null,null,null,null,null,null,null,null,null
+926,Tuadias,Frank,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+933,Turhimaa,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+943,Verville,Victor,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+945,Vigo,Vincent,null,null,null,driver,South Range Mercantile Co,null,null,null,null,null,null,null,null,null,null,null
+947,Vinsek,Mike,null,null,null,emp,Baltic M Co 204 13th av,null,null,null,null,null,null,null,null,null,null,null
+949,Virenius,Axel,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+954,Wagenis,Stanley,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+958,Waldanen,Fred,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+962,Wayrynen,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+963,Wayrynen,Matt,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+972,Winter,Henry,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+975,Wintteri,Hjalmar,null,null,null,miner,Baltic M Co 104 15th av,null,null,null,null,null,null,null,null,null,null,null
+977,Wynna,Wm,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+981,Ylitala,August,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+983,Ylitalo,John,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+985,Yurkenas,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+988,Zalorney,Joseph,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+989,Zandare,Michael,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+990,Zannotti,Anthony,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+995,Zouga,Antonas,null,null,null,emp,Baltic M Co,null,null,null,null,null,null,null,null,null,null,null
+52,Basso,Joseph,null,null,null,emp,Baltic M Co,res,ws,null,null,Station n of ,15,null,null,th av,null,null
+162,Costa,Antonio,null,null,null,lab,Baltic M Co,res,ws,null,null,Station n of ,15,null,null,th av,null,null
+245,Furno,Peter,null,null,null,emp,Baltic M Co,res,ws,null,null,Station n of ,15,null,null,th av,null,null
+419,Keranen,Emil,null,null,null,trammer,Baltic M Co,res,es,null,null,null,15,null,null,th av nr Stanton,null,null
+465,Korpi,John,null,null,null,trammer,Baltic M Co,res,es,null,null,null,15,null,null,th av nr Stanton,null,null
+467,Korpi,Yalmar,null,null,null,miner,Baltic M Co,res,es,null,null,null,15,null,null,th av nr Stanton,null,null
+484,Kurnusaari,H,Mary,null,null,null,null,res,ws,null,null,null,15,null,null,th av nr Stanton,null,null
+485,Kurnusaari,Ida,null,null,null,null,null,res,ws,null,null,null,15,null,null,th av nr Stanton,null,null
+820,Serra,James,null,null,null,lab,null,res,ws,null,null,Station n of ,15,null,null,th av,null,null
+822,Serra,Mary,null,null,null,null,null,res,ws,null,null,Station n of ,15,null,null,th av,null,null
+934,Uiskko,Isaac,null,null,null,lab,Baltic M Co,res,es,null,null,null,15,null,null,th av nr Stanton,null,null
+953,Waara,Matt,null,null,null,emp,Baltic M Co,res,es,null,null,null,15,null,null,th av nr Stanton,null,null

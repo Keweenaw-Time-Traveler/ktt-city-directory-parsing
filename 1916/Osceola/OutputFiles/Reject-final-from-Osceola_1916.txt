@@ -1,0 +1,32 @@
+2 ADD, JOB NOT FOUND, PERSON NOT FOUND: Aho Sacris, bds Simm Alio
+34 ADD, JOB LOCATION NOT FOUND: Bausano Louis, timberman OCM Co, res LaSalle
+44 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Benwick Alexander, miner, bds Abraham Benwick
+45 ADD, JOB NOT FOUND: Board of Education, F H Haller pres, Wm M Harris sec, A L Burgan treas, L E Williams, James W Shields trustees, Alfred Nichols supt of schools
+93 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dalbick Andrew, trammer O C M Co, bds Simm Alio
+110 ADD, JOB LOCATION NOT FOUND: Donlon Patrick J, constable
+117 NAME: Dubala, see also Fisher
+120 NAME: Duluth, South Shore and Atlantic Railway, Osceola Station, Thomas Sweeney agt
+123 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Erickson Emil, trammer OCM Co, bds SO County rd
+131 NAME: Fisher, see also Dubala
+180 NAME: Houghton County Traction Co Waiting Room, 243 Store
+183 ADD, JOB LOCATION NOT FOUND: Howes Wm H, pay roll elk OCM Co res Laurium
+200 ADD, JOB LOCATION NOT FOUND: Jakovos Wm, miner bds 7 Tecumseh loc
+236 ADD, JOB LOCATION NOT FOUND: Kelly Agnes, elk bds 189 Church
+245 ADD, JOB LOCATION NOT FOUND: Kesti Andrew (Katherine), shoemkr 100 Millionaire res same
+251 NAME, PERSON NOT FOUND: Kinsman J A Lowell, student, bds 120 Millionaire
+253 NAME: Kirton James R W (Frances), phys Osceola Hospital res 252 Store
+319 NAME: Mineral Range R R pass depot, Thomas Sweeney ticket agt, Mine and Mineral Range R R
+322 ADD, JOB LOCATION NOT FOUND: Mullberg Amanda, elk,
+323 ADD, JOB LOCATION NOT FOUND: Mullberg Hilda, smstrs
+375 NAME: OSCEOLA CONSOLIDATED MINING CO, R L Agassiz (Boston, Mass) Pres, G A Flagg (Boston, Mass) Sec and Treas, James McNaughton Genl Mgr, John Knox Genl Supt, J T Reeder Chief Clerk and Purchasing Agt, F H Haller Supt, Wm Veale Mine Clerk
+376 ADD, JOB NOT FOUND: Osceola Hospital, Dr J R W Kirton phys in charge, 257 Store
+377 NAME: Osceola M E Church, Rev John J Strike pastor, 194 Church
+378 ADD, JOB NOT FOUND: Osceola Post Office, Thomas Sweeney postmaster, Mine and Mineral Range R R
+379 ADD, JOB NOT FOUND: Osceola Public School, Henreitta E Shirley prin, s of Bush bet County rd and Church
+442 ADD, JOB LOCATION NOT FOUND: Roy Joseph, constable
+460 ADD, JOB LOCATION NOT FOUND: Seffenan Isaac, surfaceman OCM Co, res LaSalle
+545 NAME: Vivian J jr Co, Charles C Chaput mgr, genl store ns Store cor D S S A Ry
+546 ADD, JOB LOCATION NOT FOUND: Wade Thomas H, constable
+548 NAME: Western Exp Co, Thomas Sweeney agt, office Osceola station
+549 NAME: Western Union Telegraph Co, Thomas Sweeney agt, office Osceola station
+556 ADD, JOB NOT FOUND: Witczak Catherine (wid Felix), removed to Manitowoc, Wis

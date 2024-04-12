@@ -1,0 +1,1018 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+2,Albrecht,Katherine,null,null,wid August,null,null,res,w s,null,null,Ontonagon,2 ,n,of,Myrtle av,null,null
+7,Amell,Peter,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+8,Amesse,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+10,Anthony,Peter,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+11,Archambault,Hormidas,null,null,null,feeder ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+13,Argero,George,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+16,Armstrong,Thomas,W,null,ArmstrongThielman Lumber Co,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+17,Aubin,John,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+18,Aubin,Moses,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+20,Audette,Medie,null,null,null,lab,null,null,null,cor,null,Gregory,null,null,and,Ontonagon,null,null
+22,Axford,Frederick,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+23,Axford,Joseph,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+26,Bach,Jacob,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+28,Bahka,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+30,Baioche,Casimer,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+31,Ball,Isaac,null,null,null,headrunner ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+32,Barkell,Frederick,null,null,null,mill runner ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+34,Barrett,James,N,null,null,lab ,Armstrong Thielman Lumber Co,res,null,null,null,null,null,null,null,null,Grover,null
+35,Barth,Alexander,null,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Masonville,null
+37,Barth,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+40,Bateski,John,null,null,null,refiner,null,res,n s,null,null,Daisy,3 ,w,of,Euclid av,null,null
+46,Beauchamp,Joseph,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+48,Beauchamp,Louis,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+52,Beauchene,Joseph,A,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+54,Beaudette,Lea,null,Mrs,null,null,null,res,n e,cor,null,Ontonagon ,null,null,and, Guck,null,null
+56,Beaudoin,John,null,null,null,fireman ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+58,Bedell,Cornelius,null,null,null,supt ,Quincy Stamp Mill,res,null,null,null,null,null,null,null,null,Masonville,null
+60,Beilman,Frank,null,null,null,tmstr,null,res,s s,null,null,Lakevievv,6 ,w,of,Center,null,null
+61,Beilman,John,null,null,null,tmstr,null,res,n s,null,null,Lakeview,2 ,w,of,Center,null,null
+63,Benoit,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+68,Benson,Wise,A,null,null,smelter,null,res,s s,null,null,Lakeview,null,n,null,w of Ceter,null,null
+70,Bentfield,John,null,null,null,foreman,null,res,null,null,null,null,null,null,null,null,Masonville,null
+74,Bickle,Wm,null,null,null,lab,null,res,n s,null,null,Lakeview,3 ,w,of,Center,null,null
+76,Bielgen,John,null,null,null,fireman ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+78,Biocchi,Casimiro,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+79,Biocchi,Natale,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+81,Bisson,Eleazar,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+83,Bissonette,Theodore,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+89,Bonneau,Edward,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+91,Bonneau,Frederick,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+93,Boudreau,Joseph,null,null,null,lab ,Osceola* Con M Co,res,null,null,null,null,null,null,null,null,Duncan av,null
+95,Bourdeau,Lucien,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+96,Bourdeau,Peter,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+97,Bourette,Wm,null,null,null,painter ,Tamarack Alining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+99,Boyd,Frank,null,null,null,lab,null,res,w s,null,null,Duncan av,1 ,n,of,Daisy,null,null
+100,Boyd,John,null,null,null,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+101,Braun,Charles,null,null,null,fireman,null,bds,null,null,A,Koppelman,null,null,null,null,null,null
+104,Braun,Wm,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+106,Bray,Elijah,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+107,Brayman,Cornelius,H,null,null,surface foreman,null,res,n s,null,null,Division,2 ,w,of,Duncan av,null,null
+110,Bree,James,R,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+115, Brennan, Patrick, null, null, null, lab, null, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+116,Brennan,Patrick,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+117,Brinkman,Henry,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+118,Brinkman,Herman,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+119,Brown,Matthew,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+121,Buckard,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+123,Burbank,Herbert,L,null,null,elk,null,res,n s,null,null,Lakeview,4 ,w,of,Center,null,null
+124,Burgan,A,L,null,null,supt ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+125, Burns, James, null, null, null, lab, null, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+126, Byrne, James, null, null, null, lab , ArmstrongThielman Lumber Co, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+129,Cameron,Sarah,null,null,null,tchr ,New Grover School,bds,null,null,null,null,null,null,null,null,Lake Linden,null
+131,Cappel,Charles,C,null,null,head runner ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Osceola,null
+132,Cappel,Ernest,W,null,null,carp ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+133,Cappel,Thomas,C,null,null,helper ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+141,Cashell,Thomas,null,null,Linwood,lab,null,res,s s,null,null,Lakeview,10 ,w,of,Center,null,null
+143,Cassette,Ovila,null,null,null,lab,null,res,s s,null,null,Daisy,5 ,null,null,vv of Roseland,null,null
+147,Champeaux,Adelor,null,null,null,feeder,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+148,Champeaux,Adolphus,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+152,Champion,Samuel,null,null,null,engr ,Tamarack Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+154,Chapman,George,R,null,null,watchman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+156,Chapman,Joseph,null,null,null,lab ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+158,Chaput,Edward,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+159,Charette,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+164,Clark,Michael,H,null,null,ironwkr,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+166,Closs,Elizabeth,null,Mrs,null,null,null,bds,null,null,null,null,null,null,null,null,Tamarack,null
+167,Closs,Ezra,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+171,Collins,Jessie,null,null,wid Richard,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+172,Collins,John,null,null,null,smelter,null,res,w s,null,null,Suncan av,4 ,n,of,Daisy,null,null
+173,Collins,Joseph,null,null,null,lab,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+179,Conley,Helena,null,null,wid Wm,null,null,res,s s,null,null,Kessler,1 ,w,of,Euclid av,null,null
+183,Connelly,Mary,null,null,wid Patrick,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+186,Conway,John,M,null,null,lab,null,res,e s,null,null,Dncan av,null,null,null,null,null,null
+187,Connors,John,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+191,COOPER,JAMES,B,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+193,Coppinger,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+194,Corbeil,Treffie,C,jr,Corbeil McLaughlin,null,null,res,null,null,null,null,null,null,null,null,Lake Linden,null
+197,Costa,Louis,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+198,Cousine,Emile,null,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+200,Coutiere,Joseph,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Duncan av,null
+204,Cuddihy,Michael,null,null,null,lab,null,res,n w,cor,null,Daisy ,null,null,and, Euclid av,null,null
+206,Cuddihy,Richard,null,null,null,smelter,null,res,s s,null,null,Daisy,1 ,w,of,Duncan av,null,null
+210,Cummings,Thomas,null,null,null,overseer ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+212,Cuvier,Oscar,null,null,null,engr ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Osceola,null
+213,Dalcourt,Nobert,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+214,Davoust,Leon,null,null,null,lab,null,res,w s,null,null,Center,null,null,null,i n of Lakeview,null,null
+215,Davev,Absolom,null,null,null,engr,null,res,null,null,null,null,null,null,null,null,Masonville,null
+216,Davey,Benjamin,null,null,null,blksmith,null,res,n s,null,null,Kessler,null,null,null,i n of Euclid av,null,null
+217,Davey,Edward,null,null,null,lab,null,res,w s,null,null,Duncan av,3 ,n,of,Mildred,null,null
+218,Davidson,Richard,null,null,null,carp ,Osceola Con M Co,res,n s,null,null,Guck,2 ,w,of,Ontonagon,null,null
+221,Davis,Frederick,G,null,Linwood,refiner,null,res,w s,null,null,Center,2 ,n,of,Divisio,null,null
+222,Dawe,Charles,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+224,Dearden,John,null,null,null,null,null,res,n s,null,null,Division,3 ,w,of,Duncan av,null,null
+226,Decker,John,null,null,null,engr,null,res,null,null,null,null,null,null,null,null,Masonville,null
+229,Dee,Honora,null,null,wid Martin M,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+234,Degarlais,Joseph,null,null,null,lab,null,res,w s,null,null,Duncan av,2 ,s,of,Daiy,null,null
+237,De,Langis,Delphine,null,wid Martial,null,null,res,s s,null,null,Mildred,1 ,w,of,Duncan av,null,null
+241,Dion,Alphonse,null,null,null,tmstr ,Corbeil McLaughlin,res,null,null,null,null,null,null,null,null,Grover,null
+244,Dockstader,Simon,null,null,null,watchman,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+246,Donovan,Philip,null,null,null,refiner,null,res,n s,null,null,Kessler,3 ,w,of,Euclid av,null,null
+247,Doucette,Clara,null,null,wid Joseph,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+248,Doucette,Joseph,null,jr,null,plasterer,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+249,Doucette,Mary,null,Mrs,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+252,Downey,Cornelius,J,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+260,Dreis,Nicholas,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+261,Driscoll,Michael,null,null,null,mach ,Tamarack Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+264,Dugdale,Walter,J,null,null,mach,null,res,null,null,null,null,null,null,null,null,Masonville,null
+265,Dugdale,Wm,null,null,null,mach,null,res,null,null,null,null,null,null,null,null,Masonville,null
+266,Dumonthier,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+268,Dunn,John,F,null,null,painter,null,res,s s,null,null,Lakeview,8 ,w,of,Center Lin ood,null,null
+272,Dunstone,Henry,T,null,null,mach ,Tam M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+274,Dupras,Henry,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+275,Duquette,Jerry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+276,Dutemple,Octave,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+277,Duvard,Agnes,null,Mrs,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+279,Edwards,Thomas,null,null,null,engr ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+281,Enders,Matthias,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+283,Enteman,Charles,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+284,Erickson,August,null,null,null,lab ,Osceola Con Mjming Co,res,null,null,null,null,null,null,null,null,Osceola,null
+287,Estenberg,John,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+288,Estenberg,Michael,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+295,Ewen,Nicholaus,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+298,Falcon,Ephraim,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+299,Faller,Lucas,null,null,null,lab,null,res,n e,cor,null,Ontonagon ,null,null,and, Mildred,null,null
+301,Fien,Frank,null,null,null,carp ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+304,Fillion,Isaac,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+305,Fillion,Isaac,null,jr,null,barber ,Duncan av,res,null,null,null,null,null,null,null,null,Grover,null
+307,Fischer,Arthur,P,null,null,phys and surgeon,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+310,Fitzpatrick,Wm,null,null,null,mason,null,res,null,null,null,null,null,null,null,null,Grover,null
+311,Fleury,Joseph,null,null,null,engr,null,res,null,null,null,null,null,null,null,null,Masonville,null
+315,Foley,Patrick,null,null,null,lab,null,res,s s,null,null,Kessler,6 ,w,of,Ontonaeon,null,null
+316,Fontaine,Napoleon,null,null,null,tmstr ,Osceola Con M Co,res,n w,cor,null,Euclid av ,null,null,and, Guck,null,null
+318,Fontaine,Rachel,null,null,wid Heinrich,null,null,res,n s,null,null,Guck,null,null,null,i w of Duncan av,null,null
+319,Forget,Camille,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+321,Fournier,Edmund,null,null,null,lab,null,res,n s,null,null,Mildred,3 ,w,of,Duncan av,null,null
+322,Fournier,Joseph,null,null,null,helper ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+329,Frenette,Delphis,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+330,Frenette,Leo,C,null,null,elk ,Hodges Opal,res,n s,null,null,Daisy,2 ,w,of,Euclid av,null,null
+333,Frerk,Henry,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+337,Fretter,Anton,null,null,null,mason,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+339,Fretter,Anthony,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+342,Fretter,Otto,null,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+349,Gaffney,Patrick,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+351,Gagnier,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+353,Gagnon,Benjamin,J,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+355,Gagnon,John,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+356,Gagnon,Napoleon,null,null,null,fireman,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+357,Galloway,Albert,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+358,Gamache,Oliver,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+360,Gamiela,Mathew,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+361,Gareau,George,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+362,Gareau,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+363,Genett,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+364,Gerbe,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+368,Gertz,Henry,null,null,null,fireman,null,res,n w,cor,null,Ontonagon ,null,null,and, Gttck,null,null
+371,Gillet,E,Xavier,null,null,jeweler ,Duncan av,res,null,null,null,null,null,null,null,null,Grover,null
+372,Glanville,James,H,null,null,carp ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+373,Glanville,Jennie,null,null,wid Johnson,null,null,res,null,null,null,null,null,null,null,null,Osceola,null
+380,Goodspeed,Louis,O,null,null,carp ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+381,Gouin,Desire,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+382,Granrath,Sefert,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Osceola,null
+385,Gray,Robert,G,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+388,Greb,Elizabeth,null,null,wid John,null,null,res,null,null,null,null,null,null,null,null,Osceola,null
+390,Greb,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+392,Greb,Wm,null,null,null,engr ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+395,Greif,Frank,null,null,null,lab,null,res,n s,null,null,Daisy,4 ,w,of,Roseland,null,null
+396,Gross,Peter,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+400,Guilbeault,August,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+401,Guilbeault,Henry,O,null,null,blksmith,null,res,w s,null,null,Duncan av,3 ,n,of,Daisy,null,null
+402,Gundry,James,null,null,null,mach,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+406,Gunville,Olympe,null,null,wid Isaac,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+408,Hainault,George,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+411,Hall,John,null,null,null,mach,null,res,null,null,null,null,null,null,null,null,Linwood,null
+412,Haller,Jacob,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+414,Hanner,Frank,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+417,Hannon,John,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+419,Harrington,Jeremiah,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+422,Harris,Florence,null,null,null,tchr ,Masonville School,res,null,null,null,null,null,null,null,null,Lake Linden,null
+423,Harris,Matthew,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Masonville,null
+424,Harris,Thomas,C,null,null,mach ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+425,Harris,Wm,A,null,null,engr ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+428,Harry,Wm,null,null,null,smelter,null,res,w s,null,null,Euclid av,2 ,s,of,Myrtle,null,null
+430,Hart,Basil,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+432,Hart,John,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+434,Hart,Louis,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+436,Hawke,Richard,null,null,null,feeder ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+437,Hawke,Richard,null,jr,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+441,Heath,George,L,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+446,Hebert,George,S,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+447,Hebert,Hector,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+452,Heiren,Michael,null,null,null,lab,null,res,n w,cor,null,Ontonagon ,null,null,and, Myrtle avenue,null,null
+453,Helmert,John,null,null,null,engr ,Tam M Co,res,s w,cor,null,Euclid av ,null,null,and, Guck,null,null
+455,Hendricks,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+458,Hesse,Martin,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+461,Hexham,George,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+462,Hexham,Mary,null,null,wid George,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+464,Hodge,John,null,null,null,fireman,null,res,w s,null,null,Euclid av,2 ,n,of,Mildred,null,null
+465,Hodges,John,B,null,Hodges Opal,null,null,res,s w,cor,null,Euclid av ,null,null,and, Mildred,null,null
+467,Hoffer,John,null,null,null,lab,null,res,w s,null,null,Euclid av,4 ,n,of,Daisy,null,null
+471,Hohner,Michael,null,null,null,engr ,Tamarack Mining Co,res,null,null,null,null,null,null,null,null,Grover,null
+479,Holman,Wm,J,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+481,Horst,John,null,null,null,janitor ,T O Mills School,res,null,null,null,null,null,null,null,null,Osceola,null
+483,Horst,John,null,null,null,mach,null,res,null,null,null,null,null,null,null,null,Masonville,null
+484,Horst,Kasper,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+485,Hosang,Anton,null,null,null,lab,null,res,s s,null,null,Daisy,6 ,w,of,Roseland,null,null
+487,Hosang,Frank,null,null,null,lab,null,res,s s,null,null,Daisy,3 ,w,of,Roseland,null,null
+488,Hosang,Ferdinand,J,null,null,plumber ,MacDonald Bros,res,w s,null,null,Center,3 ,n,of,Divisio,null,null
+489,Hosking,John,null,null,null,null,null,res,w s,null,null,Duncan av,3 ,n,of,Mildred,null,null
+491,Howard,James,F,null,null,lab,null,res,s s,null,null,Lake,null,null,null,View 9 w of Center Lin wood,null,null
+492,Immonen,Mathew,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+495,Ingersoll,J,Newell,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+498,Ivey,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+500,Jacobson,Alexander,null,null,null,sect hd,null,res,null,null,null,null,null,null,null,null,Osceola,null
+501,Jacobson,Oscar,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+502,Jacques,Frederick,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+504,James,Louisa,null,null,wid Alfred,null,null,res,w s,null,null,Euclid av,2 ,s,of,Daiy,null,null
+507,James,Thomas,null,null,null,lab,null,res,s w,cor,null,Euclid av ,null,null,and, Kessler,null,null
+508,Jenkin,Eleanor,null,null,wid Kelsey,null,null,res,s w,cor,null,Ontonagon ,null,null,and, Guck,null,null
+514,Jenks,Edgar,S,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+518,Johnston,George,null,null,null,mach,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+520,Jolie,Harry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+521,Jolie,Maxime,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+524,Jones,James,null,null,null,engr,null,res,null,null,null,null,null,null,null,null,Masonville,null
+526,Jordan,Charles,null,null,null,lab,null,res,n s,null,null,Lake,null,null,null,View 5 w of Center,null,null
+527,Jordan,Ferdinand,null,null,null,lab,null,res,w s,null,null,Duncan av,2 ,s,of,Keler,null,null
+529,Juleff,Richard,null,null,null,fireman ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Osceola,null
+530, Kahler, Adolph, null, null, null, bartndr, null, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+531,Kahler,Herman,null,null,null,propr ,Hotel Bismarck,res,e s,null,null,Duncan av,null,e,null,nu,null,null
+534,Karr,John,null,null,null,foreman,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+535,Karr,Mary,null,null,wid James,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+536,Karr,Wm,null,null,null,cooper,null,res,w s,null,null,Duncan av,4 ,n,of,Daisy,null,null
+537,Kaufman,Adam,G,null,null,carp,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+538,Kaufman,Rose,C,null,null,tchr ,New Grover School,bds,null,null,A,G Kaufman,null,null,null,null,null,null
+539,Kaufman,Thomas,J,null,null,tmstr ,N Reding,bds,null,null,A,G Kaufman,null,null,null,null,null,null
+540,Kaufman,Wm,F,null,null,null,null,bds,null,null,A,G KaufmanI,null,null,null,null,null,null
+542, Kemp, Joseph, null, null, null, carp, null, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+543,Keranen,Charles,null,null,null,head runner ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+545,Keranen,Matti,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+546,Keski,Charles,null,null,null,head runner ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+547,Kessler,Frank,null,null,null,fireman,null,res,w s,null,null,Euclid av,3 ,n,of,Daisy,null,null
+548,Ketterer,Stephen,null,null,null,lab,null,bds,null,null,A,U Norum,null,null,null,null,null,null
+549,Kimball,Julia,null,null,wid Albert,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+554,King,Charles,null,null,null,shoemkr ,Duncan av,res,null,null,null,null,null,null,null,null,Tamarack,null
+561,King,Thomas,null,null,null,lab,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+562,Kirchen,Peter,electrician,jr,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+563,Kirschweng,Louisa,null,null,wid Martin,null,null,res,n w,cor,null,Ontonagon ,null,null,and, Mildred,null,null
+564,Klasen,Peter,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+565,Klein,Charles,null,null,null,surface overseer ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+568,Kline,Henry,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+569,KLINE,WM,null,null,null,null,null,res,e s,null,null,Gregory,1 ,s,of,Guck,null,null
+570,Knepper,Edward,P,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+572,Knot,Frank,X,null,null,cooper,null,res,null,null,null,null,null,null,null,null,Grover,null
+574,Koenig,Louisa,null,null,wid Julius,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+577,Kohlmeier,Peter,null,null,null,lab,null,res,n s,null,null,Lake,null,null,null,View 1 w of Center,null,null
+579,Koppelman,August,null,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Masonville,null
+581,Kramer,John,null,null,null,asst overseer ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+583,Kratt,John,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+584,Kratt,John,null,jr,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+587,Krug,Charles,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+589,Krugg,John,null,null,null,painter,null,res,w s,null,null,Duncan av,2 ,n,of,Daisy,null,null
+591,Kuenzel,Charles,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+592,La,Belle,Stanislaus,null,null,lab ,C H Brayman,res,null,null,null,null,null,null,null,null,Lake Linden,null
+595,La,Chance,Henry,null,null,feeder ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+599,La,Compte,George,null,null,lab,null,res,s s,null,null,Kessler,7 ,w,of,Ontonagon,null,null
+601,La,Fave,Frank,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+603,Lajeunesse,David,null,null,null,lab,null,res,w s,null,null,Euclid av,1 ,n,of,Gregory,null,null
+606,Lamarand,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+607,Lamirande,David,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+608,Lamire,Adolph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+611,Lamotte,Mitchell,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+613,Lanctot,Albert,null,null,null,lab ,Tam M Co,bds,null,null,A,J Lanctot,null,null,null,null,null,null
+614,Lanctot,Amie,J,null,null,overseer highways,null,res,w s,null,null,Euclid av,3 ,n,of,Gregory,null,null
+616,Langevin,Ludger,null,null,null,iab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+617,Lanouette,Celina,null,null,null,tchr ,New Grover School,bds,null,null,null,null,null,null,null,null,Lake Linden,null
+618,La,Rose,Charles,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+620,Learmont,Alexander,null,null,null,smelter,null,res,n s,null,null,Guck,3 ,w,of,Ontonagon,null,null
+621,Learmont,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+625,Le,Blanc,Joseph,null,Joseph Ethier Co,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+627,Lfe,Claire,Alfred,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+628,Le,Claire,Alfred,null,null,mason,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+632,Le,Febvre,Moses,null,null,lab,null,res,n s,null,null,Gregory,null,null,null,i w of Euclid av,null,null
+635,Lenz,Henry,null,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+637,Lenz,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+638,Lenz,Martin,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+641,Leonard,Frank,null,null,null,lab ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Grover,null
+642,Leonard,Frank,null,jr,null,weighmaster ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Grover,null
+643,Lepau,Eli,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Osceola,null
+644,Leroux,Alexander,A,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+645,Le,Sage,Simon,null,null,smelter,null,res,n s,null,null,Kessler,4 ,w,of,Euclid avenue,null,null
+646,Lester,Ira,B,null,null,blksmith s s ,Mildred w of Duncan av,res,s w,cor,null,Lake View ,null,null,and, Center,null,null
+647,Letcher,Richard,null,null,null,mason ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+649,Lewis,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+651,Link,Andrew,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+652,Lizenby,Wm,null,null,null,head runner ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+654,Long,Henry,J,null,null,lab,null,res,s w,cor,null,Ontonagon ,null,null,and, Mildred,null,null
+655,Long,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+657,Lubke,Casper,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+664,Lucien,Joseph,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+665,McCall,David,null,null,null,prin ,Tamarack and Osceola Mills School,res,null,null,null,null,null,null,null,null,Grover,null
+667,McDonald,Collin,null,null,null,carp ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Osceola,null
+672,McGann,John,null,null,null,watchman,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+677,McGrath,James,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+678,McGregor,Alexander,null,null,null,blksmith,null,res,null,null,null,null,null,null,null,null,Masonville,null
+680,McGregor,George,null,null,null,lab,null,bds,null,null,A,McGregor,null,null,null,null,null,null
+685,McLaughlin,Owen,null,null,null,refiner,null,res,null,null,null,null,null,null,null,null,Linwood,null
+687,McLean,Donald,null,null,null,lab,null,bds,null,null,A,McGregor,null,null,null,null,null,null
+688,McLean,Lachlan,null,null,null,lab,null,res,n s,null,null,Division,7 ,w,of,Duncan avenue,null,null
+690,McNickle,Charles,null,null,null,lab,null,res,s s,null,null,Kessler,3 ,w,of,Ontonagon,null,null
+691,McNickle,Daniel,null,null,null,lab,null,res,s s,null,null,Myrtle av,1 ,w,of,Duncan av,null,null
+692,MacDonald,Angus,F,null,MacDonald Bros,null,null,res,null,null,null,null,null,null,null,null,Hancock Mich,null
+694,MacDonald,Christine,null,null,null,tchr ,Mills School,res,null,null,null,null,null,null,null,null,Lake Linden,null
+695,MacDonald,Donald,K,null,MacDonald Bros,null,null,res,n s,null,null,Division,5 ,w,of,Duncan av,null,null
+697,MacDonald,John,R,null,null,internal rev collr,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+699,MacFarland,John,F,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+700,Maclure,Roderick,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Masonville,null
+701,Maerzke,Charles,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+703,Maigrey,Samuel,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+704,Maigrey,Ulric,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+705,Maki,Samuel,null,null,null,lab ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+708,Marcelain,Thomas,null,null,null,teamster,null,res,null,null,null,null,null,null,null,null,Grover,null
+712,Marchand,Frederick,null,null,null,lab,null,res,w s,null,null,Euclid av,3 ,s,of,Myrtle,null,null
+715,Marcotte,James,null,null,null,tmstr,null,res,null,null,null,null,null,null,null,null,Grover,null
+716,Marcotte,Leocide,null,null,wid Luger,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+717,Marcotte,Samuel,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+718,Marcou,Albert,null,null,null,lab ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+719,Marcou,Joseph,null,null,null,feeder ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+721,Markusac,Nicholas,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+724,Matson,Constant,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+725,Mayworm,August,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+727,Mayworm,Frank,A,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+729,Mehring,Charles,null,null,null,carp,null,res,w s,null,null,Duncan av,1 ,n,of,Daisy,null,null
+730,Mehring,Wm,null,null,null,lab,null,res,s s,null,null,Daisy,2 ,w,of,Duncan av,null,null
+733,Mellon,Ellen,null,null,wid Charles,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+735,Meloche,Michael,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+737,Meolter,Henry,null,null,null,fireman,null,res,w s,null,null,Ontonagon,1 ,n,of,Daisy,null,null
+740,Messner,Andrew,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+742,Messner,Frederick,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+746,Messner,Sarah,null,null,wid Christian,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+747,Meyer,Emery,null,null,null,carp ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+748,Michel,Arsene,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+752,Middlemiss,Robert,null,null,null,foreman,null,res,n s,null,null,Division,1 ,w,of,Duncan av,null,null
+755,Miller,George,null,null,null,foreman,null,res,null,null,null,null,null,null,null,null,Linwood,null
+756,Miller,John,null,null,null,lab,null,bds,null,null,A,Roppelman,null,null,null,null,null,null
+757,Miller,J,Peter,null,null,lab,null,res,n w,cor,null,Center ,null,null,and, Lakeview,null,null
+758,Milli,Mat,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Osceola,null
+761,Mitchell,John,null,null,null,janitor,New Grover School,res,s w,cor,null,Ontonagon ,null,null,and, Myrtle av,null,null
+762,Moehrke,August,null,null,null,lab,null,res,n s,null,null,Lakeview,7 ,w,of,Center,null,null
+763,Moehrke,Charles,null,null,null,lab,null,res,n s,null,null,Lakeview,6 ,w,of,Center,null,null
+765,Mog,Charles,null,null,null,lab,null,res,w s,null,null,Center,2 ,n,of,Lakeview,null,null
+767,Monette,Modeste,null,null,null,lab,null,res,w s,null,null,Euclid av,2 ,n,of,Gregory,null,null
+773,Montaigne,Peter,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+774,Montaigne,Theresa,null,null,wid John,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+775,Monville,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+776,Monville,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+780,Morisette,Jeremiah,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Grover,null
+781,Moulton,Clara,null,null,wid Frederick,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+784,Mullen,John,null,null,null,blksmith ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+785,Munn,George,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+786,Munn,John,null,null,null,lab,null,res,w s,null,null,Center,4 ,n,of,Divisio,null,null
+791,Murphy,Michael,null,null,null,washer ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+795,Myers,Ernest,null,null,null,lab,null,res,s s,null,null,Kessler,4 ,w,of,Ontonagdn,null,null
+796,Myers,Henry,null,null,null,carp ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+797,Nancarrow,Charles,D,null,null,lab,null,res,n s,null,null,Kessler,6 ,w,of,Euclid av,null,null
+798,Nancarrow,Sidney,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+799,Nelson,Carl,F,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+800,Nelson,Herman,null,null,null,head runner ,Tam M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+801,Neugebauer,Robert,null,null,null,carp,null,res,n w,cor,null,Center ,null,null,and, Lakeview,null,null
+803,Neuveaux,Calix,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+805,Newton,Lottie,null,null,null,tchr ,Mills School,res,null,null,null,null,null,null,null,null,Lake Linden,null
+806,Nicholas,Robert,null,null,null,lab ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Grover,null
+807,Noisseux,Joseph,null,null,null,lab,null,res,n s,null,null,Guck,2 ,w,of,Duncan av,null,null
+809,Norman,d,Edward,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+810,Norum,Arne,U,null,null,lab ,J B Cooper,res,s s,null,null,Lakeview,5 ,w,of,Center,null,null
+811,Norum,Carl,null,null,null,lab ,Tam M Co,res,s s,null,null,Lakeview,7 ,w,of,Center,null,null
+814,Opal,Henry,null,null,Hodges Opal,null,null,res,n w,cor,null,Euclid av ,null,null,and, Mildred,null,null
+815,Opie,James,null,null,null,smelter,null,res,s s,null,null,Lakeview,2 ,w,of,Center,null,null
+816,Osiewarz,John,null,null,null,lab,null,res,n s,null,null,Daisy,1 ,w,of,Ontonagon,null,null
+817,Otsensi,Francesco,null,null,null,saloon,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+819,Ouelette,John,null,null,null,fireman ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+822,Owens,Emma,null,null,null,tchr ,Mills School,res,null,null,null,null,null,null,null,null,Lake Linden,null
+823,Owens,Michael,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+825,Pariso,Paul,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+826,Parr,Charles,null,null,null,engr,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+827,Pascoe,Wm,null,null,null,blksmith ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Osceola,null
+828,Pauli,Jessie,null,null,null,tchr ,New Grover School,bds,null,null,null,null,null,null,null,null,Lake Linden,null
+829,Pawelk,Richard,null,null,null,lab,null,res,e s,null,null,Ontonagon,2 ,s,of,Keler,null,null
+831,Paynter,Elizabeth,null,null,wid Thomas,null,null,res,n s,null,null,Division,6 ,w,of,Duncan av,null,null
+834,Paynter,Thomas,null,null,null,cooper,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+837,Pedelty,James,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+841,Pellero,Louis,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+842,Peltier,David,null,null,null,sampler ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+844,Peltier,Joseph,null,null,null,lab ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+847,Penglase,Wm,J,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+850,Perrault,Joseph,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+851,Perrault,Onezime,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Grover,null
+852,Perreault,George,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+853,Perreault,John,null,null,null,helper ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+854,Perso,Alfred,null,null,null,refiner,null,res,w s,null,null,Ontonagon,2 ,s,of,Keler,null,null
+857,Picard,Joseph,null,null,null,lab,null,res,s s,null,null,Daisy,3 ,w,of,Duncan av,null,null
+858,Picard,Joseph,null,null,null,smelter,null,res,n s,null,null,Kessler,7 ,w,of,Euclid av,null,null
+860,Poirier,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+862,Poissant,Emery,null,null,null,foreman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+866,Poissant,Philip,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+869,Poisson,Albert,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+870,Poisson,Cyril,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+871,Poisson,Devere,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+872,Polkinghorn,Stephen,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+875,Power,Bridget,null,null,wid John,null,null,res,w s,null,null,Euclid av,4 ,n,of,Gregory,null,null
+879,Prekel,Henry,null,Rev,null,pastor ,German Lutheran Church,res,null,null,null,null,null,null,null,null,Grover,null
+880,Prenevost,Joseph,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+882,Prevost,Charles,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+884,Priebe,John,J,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+888,Prisk,Susan,null,null,wid James,confr,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+889,Probstfeld,Jacob,null,null,null,lab,null,res,s s,null,null,Daisy,4 ,w,of,Roseland,null,null
+890,Provost,Henry,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+891,Provost,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+892,Provost,Moses,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+893,Pryor,Joseph,null,null,null,supply elk ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+895,Pue,John,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+896,Pue,John,T,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+899,Rader,Frank,A,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+900,Rader,Louis,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+903,Radichock,Peter,null,null,null,lab,null,res,w s,null,null,Euclid av,null,null,null,i n of Daisy,null,null
+905,Raether,Fredericka,null,null,wid August,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+906,Raether,Herman,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+909,Reding,Charles,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+913,Reding,Nicholas,null,null,null,general store e s ,Duncan av,res,n w,cor,null,Myrtle ,null,null,and, Duncan av,null,null
+917,Regan,Timothy,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+918,Reiter,John,null,null,null,butcher ,Hodges Opal,res,null,null,null,null,null,null,null,null,Grover,null
+922,Rheaume,Eugene,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Grover,null
+924,Richardson,Frank,null,null,null,fireman ,Tamarack Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+925,Richter,Jacob,null,null,null,lab,null,res,w s,null,null,Euclid av,2 ,n,of,Daisy,null,null
+927,Rickard,Robert,G,null,null,confr ,Duncan av,res,s w,cor,null,Myrtle ,null,null,and, Euclid av,null,null
+929,Riederich,August,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+931,Rillston,Benjamin,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+936,Roberts,Henry,null,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+937,Roberts,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+939,Roberts,Wm,T,null,null,electrician,null,res,null,null,null,null,null,null,null,null,Masonville,null
+942,Roche,Clarence,L,null,null,agt,null,res,e s,null,null,Duncan,null,null,null,null,null,null
+943,Rock,Alphonse,null,null,null,feeder ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+944,Rock,Letto,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+945,Roe,James,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+947,Rose,Adolph,null,null,null,carp ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+948, Rourke, James, null, null, null, lab, null, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+949,Roy,Anton,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+952,Rule,John,M,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+953,Saam,Frederick,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+954,Saam,Louis,null,null,null,foreman,null,res,null,null,null,null,null,null,null,null,Masonville,null
+963,St,Germain,Elezear,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+967,St,Germain,Thomas,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+968,St,Peter,Jeffrey,null,null,lab,null,res,w s,null,null,Ontonagon,2 ,s,of,Daiy,null,null
+969,Sampson,James,null,null,null,carp,null,res,w s,null,null,Ontonagon,3 ,s,of,Guck,null,null
+972,Sanregret,George,null,null,Sanregret Bros,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+973,Sanregret,Oscar,null,null,Sanregret Bros,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+974,Satterley,Elizabeth,null,null,wid Thomas,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+986,Schaafs,John,null,null,null,lab,null,res,n s,null,null,Daisy,3 ,w,of,Roseland,null,null
+987,Schenk,Mathew,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+988,Scheuermann,Philip,J,null,null,null,null,res,s s,null,null,Lakeview,3 ,w,of,Center,null,null
+989,Schleeter,Henry,null,null,null,lab ,Robert Middlemiss,res,null,null,null,null,null,null,null,null,Lake Linden,null
+990,Schnetter,Andrew,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+991,Schnotala,Joseph,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+993,Schnotala,Michael,null,null,null,carp ,Osceola Con M Co,res,n s,null,null,Daisy,2 ,w,of,Roseland,null,null
+994,Schon,Hubert,null,null,null,carp,null,res,s s,null,null,Daisy,2 ,w,of,Roseland,null,null
+995,Schon,Jacob,P,null,null,lab,null,res,s w,cor,null,Daisy ,null,null,and, Rosel,null,null
+996,Schubert,Frederick,G,null,null,carp,null,res,null,null,null,null,null,null,null,null,Masonville,null
+999,Schubert,Michael,F,null,null,carp,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1002,Schultz,Carl,null,null,null,fireman,null,res,s s,null,null,Lakeview,3 ,w,of,Center,null,null
+1003,Schultz,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1005,Seigneurie,Emile,null,null,null,engineer ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1009,Shields,James,W,null,null,asst supt ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1010,Simon,Andrew,null,null,null,mason ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1011, Simkie, Herman, null, null, null, lab, null, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+1012,Sing,Lee,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1013,Siple,Elmer,null,null,null,engineer,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1014,Siple,Marvin,null,null,null,elk,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1017,Slattery,James,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1024,Slattery,Patrick,null,null,null,livery,null,res,e s,null,null,Duncan,null,null,null,null,null,null
+1027,Smedhaug,Erick,O,null,null,blksmith,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1030,Smith,Charles,null,null,null,elk,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1031,Smith,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1032,Smith,James,null,null,null,boilermkr ,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1035,Spahn,Casimer,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1040,Stack,Francis,null,null,null,saloon e s ,Duncan av,res,null,null,null,null,null,null,null,null,Grover,null
+1042,Stamour,Peter,null,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+1045,Steehler,John,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1049,Steele,Leon,null,null,null,lab,null,res,w s,null,null,Duncan av,null,null,null,null,null,null
+1050,Stetter,Frank,null,null,null,lab,null,res,n s,null,null,Daisy,null,null,null,i w of Roseland,null,null
+1055,Stewart,Robert,null,null,null,blksmith,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1056,Store,Alexander,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1057,Stroh,Jacob,null,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1058,Stroh,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+1059,Stroh,Peter,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+1060,Sullivan,Daniel,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1061,Sullivan,Daniel,J,null,null,lab,null,res,n s,null,null,Kessler,2 ,w,of,Euclid av,null,null
+1063,Sullivan,Margaret,null,null,wid Cornelius,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+1070,Sullivan,Timothy,null,null,null,smelter ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1071,Surprenant,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1072,Surprenant,Marie,null,null,null,elk ,S Abrams,bds,null,null,null,null,null,null,null,null,Lake Linden,null
+1073,Symons,Joseph,F,null,null,mach,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1075,Teefey,James,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+1076,Tennant,Dayid,R,null,null,confr,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+1078,Thomas,Andrew,null,null,null,carp ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1079,Thomas,George,G,null,null,oiler ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1081,Thurmes,Daniel,null,null,null,saloon,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+1083,Thurmes,Nicholas,null,null,null,tmstr,null,res,w s,null,null,Ontonagon,2 ,s,of,Myrtle,null,null
+1084,Toohey,Cornelius,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Osceola,null
+1086,Toplon,David,E,null,null,dry gds ,Duncan av,res,null,null,null,null,null,null,null,null,Lake Linden,null
+1089,Toupin,Louis,null,jr,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+1090,Toupin,Ovid,null,null,null,mach hd,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+1091,Tourville,Henry,null,null,null,carp ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+1092,Tourville,John,null,null,null,lab,null,res,n s,null,null,Mildred,2 ,w,of,Duncan av,null,null
+1093,Trebilcock,Llewelyn,null,null,null,lab ,Osceola Con M Go,res,null,null,null,null,null,null,null,null,Grover,null
+1095,Tregoning,James,F,null,null,smelter,null,res,s w,cor,null,Daisy ,null,null,and, Euclid av,null,null
+1096,Tregoning,Wm,null,null,null,head runner ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+1097,Treloar,Joseph,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+1099,Trethewey,James,null,null,null,lab ,ArmstrongThielman Lumber Co,bds,s s,null,null,Kessler,2 ,w,of,Ontonagon,null,null
+1100,Trethewey,John,null,null,null,carp ,Tam M Co,res,null,null,null,null,null,null,null,null,Duncan av,null
+1104,Trevillian,Edwin,null,null,null,null,null,res,w s,null,null,Duncan av,null,null,null,null,null,null
+1105,Trevillian,Francis,J,null,null,refiner,null,res,w s,null,null,Ontonagon,3 ,n,of,Myrtle av,null,null
+1111,Trombley,Peter,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1113,Turner,Amos,null,null,null,engr ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1115,Vallier,George,null,null,null,mason,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1116,Van,Albert,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1117,Varbeau,Levi,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1118,Velmer,Elizabeth,null,Mrs,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1121,Vigneaux,Joseph,F,null,null,barber,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+1123,Vincent,Oscar,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Grover,null
+1124,Vincent,W,John,null,null,lab ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1125,Vivian,Wilbur,null,null,null,helper ,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+1127,Vollmer,Joseph,null,null,null,fireman ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1129,Voss,Joseph,null,null,null,lab,null,res,s s,null,null,Lakeview,6 ,w,of,Center,null,null
+1130,Voyer,Ernest,null,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Grover,null
+1131,Walley,John,O,null,null,engr ,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+1137,Watters,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1139,Watson,Wm,null,null,null,lab ,ArmstrongThielman Lumber Co,bds,null,null,null,null,null,null,null,null,Lake Linden,null
+1141,Westcott,Robert,null,null,null,lab,null,bds,null,null,A,Davey,null,null,null,null,null,null
+1142,Whitnall,Harry,null,null,null,elk,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1143,Widenhoefer,Herman,null,null,null,carp,null,res,s s,null,null,Lakeview,12 ,w,of,Center,null,null
+1145,Wilbur,Fred,B,null,null,agt,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+1146,Williams,Christopher,J,null,null,smelter,null,res,s s,null,null,Kessler,2 ,w,of,Euclid av,null,null
+1150,Williams,Samuel,J,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Grover,null
+1151,Wilmer,Jacob,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Osceola,null
+1153,Wilmer,Otto,null,null,null,lab ,Tam M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+1154,Wilson,Guineth,null,null,null,tchr ,New Grover School,bds,null,null,null,null,null,null,null,null,Lake Linden,null
+1155,Wilzius,Agnes,null,null,wid Matthew,null,null,res,n w,cor,null,Center ,null,null,and, Division,null,null
+1160,Winters,Peter,G,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+1162,Wise,Jacob,null,null,null,painter,null,res,null,null,null,null,null,null,null,null,Grover,null
+1163,Wise,John,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+1164,WISE,JOSEPH,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+1166,Wolf,Louis,null,null,null,carp ,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1168,Yauch,Christopher,null,null,null,driver ,Patrick Slattery,res,null,null,null,null,null,null,null,null,Duncan avenue,null
+1169,Zeitz,Anna,null,null,wid Philip,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+29,Bailey,David,J,null,null,mach,Osceola Con M Co,null,null,null,null,null,null,null,null,null,null,null
+80,Bischoff,Kate,null,null,null,dom,estic Hotel Bismarck,null,null,null,null,null,null,null,null,null,null,null
+82,Bissonette,John,null,null,null,lab,Tamarack Mining Co,null,null,null,null,null,null,null,null,null,null,null
+109,Bree,Bertha,null,null,null,housekpr,J H MacDonald,null,null,null,null,null,null,null,null,null,null,null
+135,Carbray,Joseph,null,null,null,lab,Osceola Con Mining Co,null,null,null,null,null,null,null,null,null,null,null
+136,Carbray,Michael,null,null,null,lab,Osceola Con Mining Co,null,null,null,null,null,null,null,null,null,null,null
+137,Carbray,Patrick,null,null,null,lab,Tamarack Mining Co,null,null,null,null,null,null,null,null,null,null,null
+138,Carpentier,Anna,A,null,null,housekpr,Emery Poissant,null,null,null,null,null,null,null,null,null,null,null
+181,Conley,Wm,null,null,null,lab,Osceola Con Mining Co,null,null,null,null,null,null,null,null,null,null,null
+240,Deppane,Isaac,null,null,null,lab,Osceola Con M Co,null,null,null,null,null,null,null,null,null,null,null
+250,Dover,School,null,null,null,teacher,Carrie E Moon,null,null,null,null,null,null,null,null,null,null,null
+278,Edwards,Georgie,A,null,null,tchr,Grover School,null,null,null,null,null,null,null,null,null,null,null
+300,Faull,Charles,null,null,null,carp,Osceola Con Mining Co,null,null,null,null,null,null,null,null,null,null,null
+366,German,Lutheran,Church,null,null,pastor,Rev Henry Prekel,null,null,null,null,null,null,null,null,null,null,null
+391,Greb,Mary,null,null,null,dom,estic Charles Klein,null,null,null,null,null,null,null,null,null,null,null
+399,Guard,Wm,null,null,null,lab,Osceola Con M Co,null,null,null,null,null,null,null,null,null,null,null
+407,Hagen,Ida,M,null,null,tchr,Grover School,null,null,null,null,null,null,null,null,null,null,null
+457,Hesse,Henry,null,null,null,lab,bcls Hotel Bismarck,null,null,null,null,null,null,null,null,null,null,null
+466,Hodges,Opal,null,null,John B Hodges, Henry Opal,grocer,s e s Duncan,null,null,null,null,null,null,null,null,null,null,null
+622,Leary,Ella,M,null,null,tchr,Grover School,null,null,null,null,null,null,null,null,null,null,null
+639,Lenz,Theodore,null,null,null,lab,Osceola Con Mining Co,null,null,null,null,null,null,null,null,null,null,null
+689,McMahon,Michael,null,null,null,lab,bd J Coppinger,null,null,null,null,null,null,null,null,null,null,null
+739,Mertes,Jacob,null,null,null,carp,Osceola Con Mining Co,null,null,null,null,null,null,null,null,null,null,null
+745,Messner,Mary,null,null,null,dom,estic G L Heath,null,null,null,null,null,null,null,null,null,null,null
+766,Monette,Mat,null,null,null,fireman,Osceola Con Mining Co,null,null,null,null,null,null,null,null,null,null,null
+777,Moon,Carrie,E,null,null,tchr,Dover School,null,null,null,null,null,null,null,null,null,null,null
+802,Neugebauer,Robert,null,jr,null,lab,fads Robert Neugebauer,null,null,null,null,null,null,null,null,null,null,null
+873,Pope,Anna,null,null,null,tchr,Grover School,null,null,null,null,null,null,null,null,null,null,null
+898,Quincy,Stamp,Mill,null,null,of,County rd s  Tamarack Mill,null,null,null,null,null,null,null,null,null,null,null
+940,Robinson,Henry,null,null,null,fireman,Tamarack Mining Co,null,null,null,null,null,null,null,null,null,null,null
+941,Robinson,Joseph,null,null,null,head runner,Tamarack Mining Co,null,null,null,null,null,null,null,null,null,null,null
+982,Scanlan,Patrick,null,null,null,lab,ress w cor Ontonagon and Daisy,null,null,null,null,null,null,null,null,null,null,null
+1007,Selma,Hilma,null,null,null,dom,estic R O Davidson,null,null,null,null,null,null,null,null,null,null,null
+1029,Smetheram,Erwin,null,null,null,elk,Tam M Co,null,null,null,null,null,null,null,null,null,null,null
+1085,Toomey,Mary,null,null,null,dom,estic Charles Smith,null,null,null,null,null,null,null,null,null,null,null
+1132,Wanhala,Annie,null,null,null,dom,estic A F Fischer,null,null,null,null,null,null,null,null,null,null,null
+1135,Warren,James,null,null,null,lab,Tam M Co,null,null,null,null,null,null,null,null,null,null,null
+1136,Warren,Thomas,null,null,null,washer,Tam M Co,null,null,null,null,null,null,null,null,null,null,null
+1152,Wilmer,Mary,null,null,null,dom,estic J Coppinger,null,null,null,null,null,null,null,null,null,null,null
+1170,Zimmerman,Hubert,null,Rev,null,pastor,St Cecelia Catholic Church,null,null,null,null,null,null,null,null,null,null,null
+3,Albrecht,Otto,null,null,null,lab,null,res,w s,null,null,Ontonagon,2 ,n,of,Myrtle av,null,null
+4,Allard,Cora,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+6,Amell,Napoleon,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+9,Anderson,Frank,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+14,Armstrong,null,L,null,null,inspr,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+19,Audette,Eustace,null,null,null,lab,Tam M Co,null,null,cor,null,Gregory,null,null,and,Ontonagon,null,null
+21,Axford,Caroline,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+27,Bach,John,null,null,null,blksmith,null,res,null,null,null,null,null,null,null,null,Grover,null
+33,Barrett,Ephraim,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+36,Barth,Elizabeth,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+38,Barth,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+39,Bateski,Frank,null,null,null,null,null,res,n s,null,null,Daisy,3 ,w,of,Euclid av,null,null
+41,Bateski,Julia,null,null,null,null,null,res,n s,null,null,Daisy,3 ,w,of,Euclid av,null,null
+42,Bateski,Theodore,null,null,null,student,null,res,n s,null,null,Daisy,3 ,w,of,Euclid av,null,null
+43,Beard,Anthony,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+45,Beauchamp,Adolphus,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+47,Beauchamp,null,jr,null,null,driver,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+49,Beauchamp,Louisa,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+50,Beauchamp,Mary,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+51,Beauchamp,Odilon,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+53,Beaudette,Joseph,null,null,null,painter,null,res,n e,cor,null,Ontonagon ,null,null,and, Guck,null,null
+55,Beaudette,Rose,null,null,null,null,null,res,n e,cor,null,Ontonagon ,null,null,and, Guck,null,null
+57,Beaudoin,Roselia,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+62,Bennett,Frederick,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+65,Benson,null,F,null,null,lab,null,res,s s,null,null,Lakeview,null,n,null,w of Ceter,null,null
+66,Benson,Lyla,null,null,null,null,null,res,s s,null,null,Lakeview,null,n,null,w of Ceter,null,null
+67,Benson,null,Reed,null,null,lab,null,res,s s,null,null,Lakeview,null,n,null,w of Ceter,null,null
+69,Bentfield,null,R,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+71,Bentfield,null,jr,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+73,Beurle,Jacob,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+75,Bielgen,Henry,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+77,Biocchi,Camillo,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+90,Bonneau,null,jr,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+92,Borraccini,Frank,null,null,null,fireman,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+94,Bourdeau,Ephraim,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+98,Boyd,null,P,null,null,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+102,Braup,null,H,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+103,Braun,null,T,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+105,Braun,null,A,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+108,Brayman,null,B,null,null,null,null,res,n s,null,null,Division,2 ,w,of,Duncan av,null,null
+111,Bree,Richard,null,null,null,lab,Patrick Slattery,res,w s,null,null,Duncan av,3 ,n,of,Mildred,null,null
+112, Brennan, null, J, null, null, lab, null, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+113, Brennan, null, C, null, null, lab, Osceola Con M Co, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+114, Brennan, Julia, null, null, null, null, null, bds, e s,null,null,Duncan av,null,null,null,null,null,null
+120,Brule,Joseph,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+128,Cameron,Roderick,null,null,null,lab,null,res,w s,null,null,Duncan av,4 ,n,of,Daisy,null,null
+130,Cantin,Gedeon,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+134,Cappel,Wm,null,null,null,carp,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+139,Cashell,Anna,null,null,null,null,null,res,s s,null,null,Lakeview,10 ,w,of,Center,null,null
+140,Cashell,Bridget,null,null,null,null,null,res,s s,null,null,Lakeview,10 ,w,of,Center,null,null
+142,Cashell,Wm,null,null,null,lab,null,res,s s,null,null,Lakeview,10 ,w,of,Center,null,null
+146,Chamberlain,Walter,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+149,Champeaux,Rose,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+150,Champion,null,E,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+151,Champion,null,M,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+153,Chapman,null,H,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+157,Chapman,Roxana,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+163,Clark,Dennis,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+176,Conley,Anna,null,null,null,null,null,res,s s,null,null,Kessler,1 ,w,of,Euclid av,null,null
+177,Conley,Catherine,null,null,null,tchr,null,res,s s,null,null,Kessler,1 ,w,of,Euclid av,null,null
+180,Conley,null,A,null,null,seamstress,null,res,s s,null,null,Kessler,1 ,w,of,Euclid av,null,null
+182,Connelly,Joijn,null,null,null,dr,bartn Francis Stack,res,null,null,null,null,null,null,null,null,Tamarack,null
+184,Connelly,Rose,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+188,Connors,null,E,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+189,Connors,Joseph,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+190,Connors,Margaret,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+192,Coppinger,Catherine,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+196,Cornwolf,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+199,Cousine,Pasquale,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+205,Cuddihy,null,jr,null,null,lab,null,res,n w,cor,null,Daisy ,null,null,and, Euclid av,null,null
+207,Cummings,Blanche,null,null,null,appr,Clara St Germain,res,null,null,null,null,null,null,null,null,Tamarack,null
+208,Cummings,John,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+209,Cummings,Richard,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+211,Curnow,John,null,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Grover,null
+219,Davidson,null,H,null,null,carp,Osceola Con M Co,res,n s,null,null,Guck,2 ,w,of,Ontonagon,null,null
+223,Dearden,Elizabeth,null,null,null,null,null,res,n s,null,null,Division,3 ,w,of,Duncan av,null,null
+225,Dearden,null,jr,null,null,null,null,res,n s,null,null,Division,3 ,w,of,Duncan av,null,null
+227,Dee,George,null,null,null,scaler,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+231,Dee,null,Agues,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+232,Dee,Nellie,null,null,null,dressmkr,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+233,Dee,Nora,null,null,null,tchr,Grover School,res,null,null,null,null,null,null,null,null,Duncan av,null
+235,Degarlais,Napoleon,null,null,null,lab,null,res,w s,null,null,Duncan av,2 ,s,of,Daiy,null,null
+242,Dockstader,null,M,null,null,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+243,Dockstader,null,W,null,null,lab,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+245,Donovan,John,null,null,null,lab,null,res,w s,null,null,Duncan av,4 ,n,of,Daisy,null,null
+251,Downey,Bartholomew,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+253,Downey,Jeremiah,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+254,Downey,Nora,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+255,Dreis,Annie,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+256,Dreis,Barbara,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+257,Dreis,Elizabeth,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+258,Dreis,Jacob,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+259,Dreis,Mary,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+262,Dugdale,Alice,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+263,Dugdale,Emma,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+267,Dumonthier,null,J,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+269,Dunn,null,H,null,null,lab,null,res,s s,null,null,Lakeview,8 ,w,of,Center Lin ood,null,null
+270,Dunn,Joseph,null,null,null,painter,null,res,s s,null,null,Lakeview,8 ,w,of,Center Lin ood,null,null
+271,Dunn,null,T,null,null,null,null,res,s s,null,null,Lakeview,8 ,w,of,Center Lin ood,null,null
+280,Enders,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+282,Enteman,Augusta,null,null,wid Thomas,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+285,Estenberg,null,lab,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+286,Estenberg,Frank,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+296,Ewen,null,jr,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+297,Ewen,Peter,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+302,Fillion,Belle,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+303,Fillion,Delphine,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+306,Fillion,null,S,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+308,Fisk,Charles,null,null,null,fireman,null,res,null,null,null,null,null,null,null,null,Grover,null
+309,Fissette,Louis,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+312,Foley,null,F,null,null,engr,null,res,s s,null,null,Kessler,6 ,w,of,Ontonaeon,null,null
+313,Foley,null,H,null,null,lab,null,res,s s,null,null,Kessler,6 ,w,of,Ontonaeon,null,null
+314,Foley,Nellie,null,null,null,null,null,res,s s,null,null,Kessler,6 ,w,of,Ontonaeon,null,null
+317,Fontaine,Octave,null,null,null,lab,null,res,n s,null,null,Guck,null,null,null,i w of Duncan av,null,null
+320,Forget,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+323,Fournier,Napoleon,null,null,null,lab,null,res,n s,null,null,Mildred,3 ,w,of,Duncan av,null,null
+324,Fournier,Samuel,null,null,null,lab,null,res,n s,null,null,Mildred,3 ,w,of,Duncan av,null,null
+325,Fournier,Walter,null,null,null,lab,null,res,n s,null,null,Mildred,3 ,w,of,Duncan av,null,null
+326,Francis,Joseph,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+327,Frenette,Annie,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+328,Frenette,Daniel,null,null,null,tmstr,Hodges Opal,res,null,null,null,null,null,null,null,null,Grover,null
+331,Frenette,Lumina,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+332,Frenette,Rudolph,null,null,null,painter,null,res,null,null,null,null,null,null,null,null,Grover,null
+334,Fretter,Amelia,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+335,Fretter,Anna,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+336,Fretter,null,L,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+338,Fretter,null,jr,null,null,mach,repr Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+341,Fretter,Mary,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+343,Fretter,Peter,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+344,Gaffney,Annie,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+345,Gaffney,Catherine,null,null,null,tchr,Mills School,res,null,null,null,null,null,null,null,null,Tamarack,null
+346,Gaffney,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+347,Gaffney,Margaret,null,null,null,dressmkr,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+348,Gaffney,Michael,null,null,null,oiler,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+350,Gaffney,Rose,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+352,Gagnon,null,M,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+354,Gagnon,null,J,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+359,Gamache,null,jr,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+365,Gerbe,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+367,Gertz,Gertrude,null,null,null,null,null,res,n w,cor,null,Ontonagon ,null,null,and, Gttck,null,null
+369,Gertz,null,A,null,null,lab,null,res,n w,cor,null,Ontonagon ,null,null,and, Gttck,null,null
+370,Gillet,Emma,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+375,Glanville,null,M,null,null,dressmkr,null,res,null,null,null,null,null,null,null,null,Osceola,null
+376,Glanville,Percy,null,null,null,engr,null,res,null,null,null,null,null,null,null,null,Osceola,null
+377,Glanville,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+383,Gray,Estella,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+384,Gray,null,J,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+386,Greb,Casper,null,null,null,engr,null,res,null,null,null,null,null,null,null,null,Osceola,null
+387,Greb,Christopher,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+389,Greb,Helena,null,null,null,dressmkr,null,res,null,null,null,null,null,null,null,null,Osceola,null
+393,Greenleaf,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+403,Gunville,Archibald,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+404,Gunville,Frederick,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+409,Hainault,null,jr,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+410,Hainault,Leander,null,null,null,barber,null,res,null,null,null,null,null,null,null,null,Grover,null
+413,Hanner,Charles,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+415,Hanner,null,J,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+426,Harry,null,J,null,null,bkkpr,Corbeil McLaughlin,res,w s,null,null,Euclid av,2 ,s,of,Myrtle,null,null
+427,Harry,Margaret,null,null,null,null,null,res,w s,null,null,Euclid av,2 ,s,of,Myrtle,null,null
+429,Hart,Alice,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+431,Hart,Frank,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+433,Hart,Joseph,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+438,Hayfer,Charles,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+443,Hebert,Edward,null,null,null,butcher,N Reding,res,null,null,null,null,null,null,null,null,Tamarack,null
+445,Hebert,null,F,null,null,elk,A F Fischer,res,null,null,null,null,null,null,null,null,Tamarack,null
+448,Hebert,Joseph,null,null,null,engr,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+449,Hebert,Josephine,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+454,Helmert,Lillian,null,null,null,null,null,res,s w,cor,null,Euclid av ,null,null,and, Guck,null,null
+456,Herman,Louis,null,null,null,fireman,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Duncan av,null
+459,Hesse,Mary,null,null,wid Jadocus,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+463,Hexham,Walter,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+468,Hoffmann,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+469,Hohner,Anna,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+470,Hohner,John,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+478,Holman,null,A,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+486,Hosang,Edward,null,null,null,lab,G L Heath,res,s s,null,null,Daisy,3 ,w,of,Roseland,null,null
+494,Ingersoll,null,L,null,null,tchr,music,res,null,null,null,null,null,null,null,null,Grover,null
+496,Ivey,null,J,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+497,Ivey,John,null,null,null,mason,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+499,Ivey,null,F,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+503,James,null,M,null,null,bkkpr,null,res,w s,null,null,Euclid av,2 ,s,of,Daiy,null,null
+505,James,null,M,null,null,dressmkr,null,res,w s,null,null,Euclid av,2 ,s,of,Daiy,null,null
+506,James,null,J,null,null,lab,Tam M Co,res,w s,null,null,Euclid av,2 ,s,of,Daiy,null,null
+509,Jenkin,Grace,null,null,null,tchr,null,res,s w,cor,null,Ontonagon ,null,null,and, Guck,null,null
+510,Jenkin,Joseph,null,null,null,surveyor,null,res,s w,cor,null,Ontonagon ,null,null,and, Guck,null,null
+511,Jenkin,Mary,null,null,null,null,null,res,s w,cor,null,Ontonagon ,null,null,and, Guck,null,null
+512,Jenkin,Nancy,null,null,null,tchr,null,res,s w,cor,null,Ontonagon ,null,null,and, Guck,null,null
+513,Jenks,null,O,null,null,chemist,null,res,null,null,null,null,null,null,null,null,Grover,null
+515,Jenks,Nettie,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+517,Johnson,Stuart,null,null,null,phys,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+523,Jolie,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+525,Jones,Nellie,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+528,Jordan,null,C,null,null,lab,Osceola Con Mining Co,res,n s,null,null,Lake,null,null,null,View 5 w of Center,null,null
+533,Karr,James,null,null,null,cooper,null,res,n s,null,null,Division,6 ,w,of,Duncan av,null,null
+544,Keranen,Jacob,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+550,Kimball,Norman,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+553,King,Albert,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+555,King,null,jr,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+556,King,Ethel,null,null,null,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+557,King,null,D,null,null,lab,Tam M Co,res,e s,null,null,Duncan av,null,null,null,null,null,null
+558,King,Louis,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+560,King,Nelson,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+571,Knot,Arthur,null,null,null,tmstr,null,res,null,null,null,null,null,null,null,null,Grover,null
+575,Kohlmeier,Anthony,null,null,null,lab,null,res,n s,null,null,Lake,null,null,null,View 1 w of Center,null,null
+578,Kollai,Nicholas,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+580,Kramer,Frank,null,null,null,engr,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+582,Kramer,Matthew,null,null,null,lab,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+585,Krug,null,D,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+586,Krug,null,F,null,null,helper,null,res,null,null,null,null,null,null,null,null,Grover,null
+588,Krugg,Christina,null,null,null,null,null,res,w s,null,null,Duncan av,2 ,n,of,Daisy,null,null
+590,Krugg,Katherine,null,null,null,null,null,res,w s,null,null,Duncan av,2 ,n,of,Daisy,null,null
+597,Lachapelle,Arthur,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+604,Lajeunesse,Ida,null,null,null,null,null,res,w s,null,null,Euclid av,1 ,n,of,Gregory,null,null
+605,Lajeunesse,Parmelia,null,null,null,null,null,res,w s,null,null,Euclid av,1 ,n,of,Gregory,null,null
+609,Lamire,null,jr,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+610,Lamotte,Delore,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+612,Lamotte,Selina,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+623,Lebault,Alfred,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+629,Lee,Bridget,null,null,wid Edward,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+633,Leininger,Louis,null,null,null,butcher,W B Klein,res,null,null,null,null,null,null,null,null,Tamarack,null
+634,Lenz,Anna,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+636,Lenz,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+640,Leonard,null,N,null,null,master mechanic,null,res,w s,null,null,Duncan av,3 ,n,of,Daisy,null,null
+648,Lewis,Benjamin,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+650,Lewis,null,jr,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+653,Long,Elizabeth,null,null,null,null,null,res,s w,cor,null,Ontonagon ,null,null,and, Mildred,null,null
+656,Long,null,A,null,null,lab,null,res,s w,cor,null,Ontonagon ,null,null,and, Mildred,null,null
+658,Lubke,Lena,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+659,Lubke,Elizabeth,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+660,Lubke,Frank,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+661,Lubke,Grace,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+662,Lubke,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+663,Lubke,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+666,McCullagh,Charles,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+668,McDonald,George,null,null,null,elk,Hodges Opal,res,null,null,null,null,null,null,null,null,Duncan av,null
+669,McDonald,George,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+670,McGann,Clarence,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+671,McGann,Edward,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+673,McGann,null,A,null,null,dressmkr,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+674,McGann,Theresa,null,null,null,dressmkr,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+675,McGrath,Alice,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+681,McKinnon,Ronald,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+682,McLaughlin,Christopher,null,null,null,tmstr,Corbeil McLaughlin,res,null,null,null,null,null,null,null,null,Linwood,null
+683,McLaughlin,null,M,null,null,lab,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Linwood,null
+684,McLaughlin,Josie,null,null,null,tchr,Grover School,res,null,null,null,null,null,null,null,null,Linwood,null
+686,McLaughlin,null,jr,null,Corbeil McLaughlin,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+693,MacDonald,Christina,null,null,wid John J,null,null,res,n s,null,null,Division,5 ,w,of,Duncan av,null,null
+696,MacDonald,George,null,null,null,butcher,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+698,MacDonald,null,J,null,null,prin,New Grover School,res,e s,null,null,Duncan av,null,null,null,null,null,null
+702,Maidment,Margaret,null,null,null,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+707,Marcelain,Rosa,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+709,Marcelain,null,jr,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+710,Marcelain,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+711,Marchand,Charles,null,null,null,lab,null,res,w s,null,null,Euclid av,3 ,s,of,Myrtle,null,null
+713,Marcotte,Edward,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+714,Marcotte,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+720,Marks,Joseph,null,null,null,emp,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+726,May,null,null,null,null,scaler,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+731,Mellon,null,W,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+732,Mellon,Ellen,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+734,Meloche,Josephine,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+736,Meloche,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+741,Messner,Casper,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+743,Messner,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+744,Messner,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+750,Middlemiss,null,A,null,null,null,null,res,n s,null,null,Division,1 ,w,of,Duncan av,null,null
+751,Middlemiss,null,H,null,null,null,null,res,n s,null,null,Division,1 ,w,of,Duncan av,null,null
+753,Middlemiss,null,R,null,null,lab,null,res,n s,null,null,Division,1 ,w,of,Duncan av,null,null
+759,Mitchell,Alfred,null,null,null,helper,null,res,s w,cor,null,Ontonagon ,null,null,and, Myrtle av,null,null
+760,Mitchell,Jessie,null,null,null,null,null,res,s w,cor,null,Ontonagon ,null,null,and, Myrtle av,null,null
+764,Moen,Peter,null,null,null,carp,Tam M Co,res,null,null,null,null,null,null,null,null,Duncan av,null
+769,Montaigne,David,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+770,Montaigne,Joseph,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Duncan av,null
+771,Montaigne,Mary,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+772,Montaigne,Napoleon,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+778,Morgan,Elizabeth,null,null,null,milliner,Duncan av,res,null,null,null,null,null,null,null,null,Grover,null
+779,Moriarity,Daniel,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Osceola,null
+783,Moulton,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+787,Murch,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+788,Murphy,Anna,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Osceola,null
+789,Murphy,Daniel,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Osceola,null
+790,Murphy,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+792,Murphy,Michael,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+793,Murphy,Patrick,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+794,Murray,Allen,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+808,Noisseux,Maida,null,null,null,elk,D E Toplon,res,n s,null,null,Guck,2 ,w,of,Duncan av,null,null
+812,OConnell,Michael,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+813,Olson,Charles,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+818,Ouelette,Albert,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+821,Ouelette,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+824,Pape,Josephine,null,null,wid Wm,null,null,res,w s,null,null,Ontonagon,2 ,s,of,Keler,null,null
+830,Paynter,Charles,null,null,null,lab,null,res,n s,null,null,Division,6 ,w,of,Duncan av,null,null
+832,Paynter,Ella,null,null,null,null,null,res,n s,null,null,Division,6 ,w,of,Duncan av,null,null
+835,Paynter,Wm,null,null,null,null,null,res,n s,null,null,Division,6 ,w,of,Duncan av,null,null
+836,Pedelty,null,D,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+838,Pedelty,Sarah,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+839,Pellero,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+840,Pellero,John,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Grover,null
+843,Peltier,Henry,null,null,null,finisher,Osceola Con Mining Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+845,Pene,Eugene,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+846,Pene,Peter,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+848,Peninger,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+855,Perso,Flora,null,null,null,elk,S Abrams,res,w s,null,null,Ontonagon,2 ,s,of,Keler,null,null
+856,Peters,Mary,null,null,null,teacher,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+859,Plasance,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+861,Poissant,Arthur,null,null,null,mach,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+863,Poissant,Eva,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+864,Poissant,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+865,Poissant,Louis,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+867,Poissant,Stanislaus,null,null,null,mach,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+868,Poissant,Stanislaus,null,null,null,mach,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+876,Power,John,null,null,null,lab,Tam M Co,res,w s,null,null,Euclid av,4 ,n,of,Gregory,null,null
+877,Power,Martin,null,null,null,lab,null,res,w s,null,null,Euclid av,4 ,n,of,Gregory,null,null
+878,Power,Mary,null,null,null,null,null,res,w s,null,null,Euclid av,4 ,n,of,Gregory,null,null
+881,Prevost,Albert,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+883,Prevost,Mary,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+885,Prisk,Edith,null,null,null,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+886,Prisk,Helen,null,null,null,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+887,Prisk,null,H,null,null,lab,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+894,Pryor,null,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Osceola,null
+901,Radichock,Mary,null,null,null,null,null,res,w s,null,null,Euclid av,null,null,null,i n of Daisy,null,null
+902,Radichock,Nellie,null,null,null,seamstress,null,res,w s,null,null,Euclid av,null,null,null,i n of Daisy,null,null
+904,Raether,null,A,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+907,Reding,null,C,null,null,null,null,res,n w,cor,null,Myrtle ,null,null,and, Duncan av,null,null
+914,Regan,Anna,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+915,Regan,Margaret,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+916,Regan,Patrick,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Duncan av,null
+919,Ressmann,Sophia,null,null,null,milliner,E Morgan,res,w s,null,null,Duncan av,2 ,n,of,Daisy,null,null
+920,Revest,Sinai,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+921,Rex,Isaac,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+926,Rickard,Emily,null,null,null,null,null,res,s w,cor,null,Myrtle ,null,null,and, Euclid av,null,null
+928,Rickard,Stephen,null,null,null,elk,null,res,s w,cor,null,Myrtle ,null,null,and, Euclid av,null,null
+930,Rillston,null,J,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+932,Rillston,null,B,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+933,Rillston,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Osceola,null
+934,Rillston,Mabel,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+935,Roberts,Edward,null,null,null,tmstr,null,res,null,null,null,null,null,null,null,null,Grover,null
+946,Rogers,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+950,Roy,Aurelia,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+951,Roy,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+955,Saam,null,A,null,null,student,null,res,null,null,null,null,null,null,null,null,Masonville,null
+956,Saam,Pauline,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+958,St,null,Frank,null,null,smelter,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+975,Satterley,null,J,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+976,Satterley,James,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+977,Satterley,null,H,null,null,foreman,null,res,null,null,null,null,null,null,null,null,Grover,null
+978,Scanlan,null,A,null,null,dressmkr,null,null,null,null,null,null,null,null,null,null,null,null
+979,Scanlan,Cornelius,null,null,null,lab,Osceola Con M Co,null,null,null,null,null,null,null,null,null,null,null
+980,Scanlan,Hannah,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+981,Scanlan,null,A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+983,Scanlan,null,J,null,null,lab,null,null,null,null,null,null,null,null,null,null,null,null
+985,Schaafs,Annie,null,null,null,null,null,res,n s,null,null,Daisy,3 ,w,of,Roseland,null,null
+992,Schnotala,null,A,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+997,Schubert,George,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+998,Schubert,Mary,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1000,Schubert,Wm,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1001,Schulte,John,null,null,null,lab,null,res,n s,null,null,Kessler,6 ,w,of,Euclid av,null,null
+1004,Seigneurie,Arthur,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1006,Seigneurie,null,jr,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+1015,Slack,null,E,null,null,null,null,res,e s,null,null,Duncan av,null,null,null,null,null,null
+1016,Slattery,Edward,null,null,null,lab,Osceola Con Mining Co,res,e s,null,null,Duncan,null,null,null,null,null,null
+1018,Slattery,Jeremiah,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1020,Slattery,John,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1021,Slattery,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1025,Slattery,Wm,null,null,null,lab,Osceola Con M Co,res,e s,null,null,Duncan,null,null,null,null,null,null
+1026,Slattery,Winnifred,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1028,Smedhaug,null,E,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1033,Smith,null,B,null,null,blksmith,null,res,w s,null,null,Euclid av,2 ,s,of,Myrtle,null,null
+1034,Sinith,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+1041,Stamour,Julia,null,null,wid Joseph,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+1043,Steehler,Barbara,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1044,Steehler,Christopher,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1046,Steehler,Lillie,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1047,Steehler,Louis,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1048,Steele,Estella,null,null,null,null,null,res,w s,null,null,Duncan av,null,null,null,null,null,null
+1051,Stetter,Joseph,null,null,null,lab,null,res,n s,null,null,Daisy,null,null,null,i w of Roseland,null,null
+1052,Stewart,null,Bella,null,null,seamstress,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1053,Stewart,null,M,null,null,null,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1054,Stewart,null,A,null,null,mach,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1062,Sullivan,John,null,null,null,lab,Tam M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1064,Sullivan,Margaret,null,null,wid John,null,null,res,n s,null,null,Kessler,2 ,w,of,Euclid av,null,null
+1065,Sullivan,Margaret,null,null,null,seamstress,null,res,null,null,null,null,null,null,null,null,Grover,null
+1066,Sullivan,Martin,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+1067,Sullivan,Mary,null,null,null,student,null,res,null,null,null,null,null,null,null,null,Grover,null
+1068,Sullivan,Michael,null,null,null,head runner,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Grover,null
+1077,Thomas,Alice,null,null,wid Andrew,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1080,Thurmes,Barbara,null,null,wid Christian,null,null,res,null,null,null,null,null,null,null,null,Linwood,null
+1094,Tregoning,Henry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Grover,null
+1098,Trethewey,null,B,null,null,null,null,bds,s s,null,null,Kessler,2 ,w,of,Ontonagon,null,null
+1101,Trethewey,Perry,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1102,Trevillian,Alfred,null,null,null,null,null,res,w s,null,null,Duncan av,null,null,null,null,null,null
+1103,Trevillian,null,M,null,null,null,null,res,w s,null,null,Ontonagon,3 ,n,of,Myrtle av,null,null
+1106,Trevillian,Frank,null,null,null,lab,null,res,w s,null,null,Ontonagon,3 ,n,of,Myrtle av,null,null
+1108,Trevillian,null,A,null,null,elk,null,res,w s,null,null,Ontonagon,3 ,n,of,Myrtle av,null,null
+1109,Trevillian,null,B,null,null,lab,null,res,w s,null,null,Duncan av,null,null,null,null,null,null
+1110,Trevillian,null,E,null,null,elk,P O,res,w s,null,null,Duncan av,null,null,null,null,null,null
+1114,Vallier,Bessie,null,null,null,appr,Clara St Germain,res,null,null,null,null,null,null,null,null,Duncan av,null
+1119,Velmer,Joseph,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1120,Vial,null,H,null,null,mach,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1122,Vincent,Charles,null,null,null,lab,Osceola Con M Co,res,null,null,null,null,null,null,null,null,Tamarack,null
+1126,Vollmer,null,M,null,null,null,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+1128,Voss,null,J,null,null,lab,null,res,s s,null,null,Lakeview,6 ,w,of,Center,null,null
+1133,Wanner,Frederick,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Tamarack,null
+1138,Watters,Wm,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Masonville,null
+1140,Weis,Catherine,null,null,wid Nicholas,null,null,res,null,null,null,null,null,null,null,null,Duncan av,null
+1144,Widenhoefer,null,jr,null,null,lab,null,res,s s,null,null,Lakeview,12 ,w,of,Center,null,null
+1147,Williams,Cora,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+1148,Williams,Mabel,null,null,null,null,null,res,s s,null,null,Kessler,2 ,w,of,Euclid av,null,null
+1149,Williams,Milton,null,null,null,lab,null,res,s s,null,null,Kessler,2 ,w,of,Euclid av,null,null
+1156,Wilzius,Annie,null,null,null,null,null,res,n w,cor,null,Center ,null,null,and, Division,null,null
+1157,Wilzius,John,null,null,null,lab,null,res,n w,cor,null,Center ,null,null,and, Division,null,null
+1158,Wilzius,Peter,null,null,null,lab,null,res,n w,cor,null,Center ,null,null,and, Division,null,null
+1159,Winters,null,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Grover,null
+1161,Winters,Samuel,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Grover,null
+1165,Wolf,Charles,null,null,null,carp,null,res,null,null,null,null,null,null,null,null,Tamarack,null

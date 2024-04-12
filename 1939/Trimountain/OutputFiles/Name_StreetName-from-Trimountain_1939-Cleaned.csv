@@ -1,0 +1,158 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outSt
+1,Abramson,Wm,null,null,8th av
+2,Aho,Andrew,null,null,5th av
+3,Allen,Wm,J ,null,6th av
+4,Anderson,Edw,null,null,Division
+5,Andrews,Albert,null,null,5th av
+6,Andrews,Thos,J ,null,5th av
+7,Bailey,Jas,null,null,8th av
+9,Benny,Thos,null,null,7th av
+10,Benny,Wm,null,null,5th av
+11,Briski,Anton,null,null,Division
+12,Butala,Peter,null,null,11th av
+13,Carlson,Chas,M ,null,6th av
+14,Carlson,Richd,null,null,7th av
+15,Chapman,Jesse,null,null,6th av
+16,Chapman,Reginald,null,null,4th av
+17,Christy,Wm,null,null,4th av
+19,Commons,Richd,null,null,Division
+22,Cortepassi,Salvatori,null,null,2d
+24,Crase,Eliza,null,null,7th av
+25,Dahlman,Matt,null,null,Division
+26,Dombroski,Adam,null,null,4th av
+27,Dunstan,Sidney,null,null,6th av
+28,Dyer,Reuben,null,null,7th av
+29,Eathorne,Elmer,null,null,Division
+30,Edwards,Ella,null,null,5th av
+31,Erbetta,Alfredo,null,null,8th av
+32,Erickson,Chas,null,null,8th av
+33,Fredlund,Lawrence,V ,null,7th av
+34,Garnero,Gildo,null,null,7th av
+35,Giannechini,Albert,null,null,7th av
+36,Giannechini,Eug,null,null,7th av
+37,Giannechini,Mario,null,null,9th av
+38,Givens,Bernard,null,null,4th av
+39,Givens,Howard,null,null,8th av
+40,Givens,Wm,null,null,6th av
+41,Good,Bernice,null,null,Roberts 
+43,Guili,Arganti,null,null,8th av
+44,Guili,Henry,null,null,6th av
+45,Hansen,Lawrence,null,null,th av
+46,Hanson,Anton,Mrs ,null,7th av
+47,Harkonen,Matt,null,null,7th av
+48,Harris,Edgar,null,null,7th av
+49,Harris,Violet,Mrs ,null,5th
+50,Heikkinen,Ade,null,null,4th av
+51,Heikkinen,Aug,null,null,2d
+52,Hendrickson,Henry,null,null,8th av
+53,Hitchens,Wm,J ,null,4th av
+54,Hoar,Albert,null,null,6th av
+57,Holman,Wm,M ,null,5th av
+58,Huovinen,Herman,null,null,7th av
+59,Immonen,Jalmer,null,null,2d
+60,Isaacson,Wm,null,null,8th av
+62,Jarvellini,Gust,null,null,4th av
+63,Jervosek,Frank,null,null,Division
+64,Jervosek,Frank,null,jr,5th av
+65,Jervosek,John,null,null,8th av
+67,Johnson,Carl,null,null,7th av
+68,Kaiponen,Arth,null,null,4th av
+69,Kajfes,Geo,null,null,7th av
+71,Kajfes,Geo,null,jr,8th av
+72,Kajfes,Jos,null,null,7th av
+73,Karinen,Jacob,null,null,4th av
+74,Karppinen,Emil,null,null,4th av
+75,Kauppi,Richd,null,null,Division
+76,Kellow,Reginald,null,null,5th av
+77,Kenny,Werner,null,null,7th av
+78,Keranen,Joel,null,null,Division
+79,Keranen,Oskar,null,null,5th av
+80,Kerttu,Emil,null,null,4th av
+81,King,Fred,null,null,6th av
+82,Kirkeley,Christ,null,null,Division
+83,Knight,Geo,null,null,5th av
+85,Kratt,Jacob,null,null,6th av
+86,Kuusisto,Eli,A ,null,4th av
+87,Kyllonen,Chas,null,null,4th av
+88,Kyllonen,Edw,null,null,4th av
+89,Laamanen,Tapani,null,null,Division
+91,Lahnala,John,null,null,6th av
+92,Lanquist,Ellsworth,null,null,5th av
+93,Lasio,Baldo,null,null,6th av
+94,Lassio,John,null,null,4th av
+95,Linna,Victor,null,null,4th
+96,Liuska,Eino,null,null,4th av
+98,Lorenz,Harold,null,null,6th av
+99,Lorenz,Philip,null,null,6th av
+101,Lorenz,Russell,null,null,8th av
+102,Luukkonen,Aug,null,null,7th av
+104,Mack,Martin,null,null,6th av
+105,Major,Richd,null,null,6th av
+106,Maki,John,null,null,6th av
+107,Maki,John,K ,null,6th av
+108,Maltz,Herbert,null,null,6th av
+109,Margherio,John,null,null,8th av
+110,Mattson,Matt,null,null,7th av
+111,Messner,Frank,null,null,7th av
+113,Mickalich,Henry,null,null,9th av
+114,Mickalich,Paul,null,null,6th av
+115,Mickalich,Paul,null,jr,9th av
+116,Mihelcic,Jos,null,null,8th av
+117,Mitchell,Edw,null,null,4th av
+118,Mitchell,Wm,null,null,5th av
+120,Moilanen,Hj,null,null,11th av
+121,Morcom,Reginald,null,null,6th av
+123,Mulari,Eric,null,null,7th av
+124,Nelli,Geo,null,null,8th av
+126,Neri,Gino,null,null,2d
+127,Neri,Ralph,null,null,8th av
+128,Nutini,Pietro,null,null,6th av
+129,Olkkonen,Bernhart,null,null,4th av
+130,Olson,Anton,null,null,7th av
+131,Outinen,Matt,null,null,7th av
+132,Overhouse,John,null,null,7th av
+133,Paananen,Alf,null,null,4th av
+134,Paananen,John,null,null,6th av
+135,Palo,John,null,null,4th av
+136,Parker,J,C ,null,6th av
+137,Patana,John,null,null,6th av
+139,Phillips,Arth,null,null,7th av
+140,Pieroni,Sami,null,null,7th av
+141,Powell,Wm,null,null,6th av
+142,Proctor,Wm,null,null,4th
+143,Quibici,Amildi,null,null,7th av
+144,Radosevich,Julia,null,null,7th av
+146,Redensek,Anne,null,null,8th av
+147,Reed,Henry,null,null,5th av
+148,Riddle,Nettie,null,null,5th av
+149,Rissanen,Peter,null,null,6th av
+150,Ruitta,Alf,null,null,6th av
+152,Saviko,Chas,null,null,8th av
+153,Schumaker,John,null,null,5th av
+154,Seppala,Einar,null,null,4th av
+155,Sjostrand,Hugo,null,null,6th av
+156,Sleeman,Thos,J ,null,6th av
+157,Sloan,Paul,S ,null,5th av
+158,Smith,Garfield,null,null,4th av
+159,Stefanich,Anna,null,null,9th av
+160,Steinhilb,Helmuth,null,null,5th av
+161,Stephens,Percy,null,null,5th av
+162,Stevens,Henry,null,null,5th av
+164,Stimac,John,null,null,Division
+165,Strauss,Steph,null,null,8th av
+166,Suokas,Peter,null,null,7th av
+167,Taddeuci,Frank,null,null,7th av
+168,Tamblyn,Benj,null,null,5th av
+169,Toyra,Peter,null,null,4th av
+170,Toyra,Sigurd,null,null,7th av
+171,Trevorrow,Robt,null,null,6th av
+172,Turcotte,Henry,null,null,5th av
+174,Valentino,Peter,null,null,Division
+175,Verran,Chester,A ,null,5th av
+176,Walikainen,Waino,null,null,6th av
+177,Watts,Arth,null,null,7th av
+178,Willis,Harold,null,null,6th av
+179,Wimperi,Niilo,null,null,4th av
+180,Yaasko,Albert,null,null,4th av
+181,Ylitalo,Frank,null,null,5th av
+182,Zeilonka,John,null,null,8th av

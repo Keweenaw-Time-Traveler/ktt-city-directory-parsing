@@ -1,0 +1,203 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outWid, outSpouse, outJob, outWorkPlace, outT, outStSide, outStNum, outStNum(changed), outSt, outRd, outCity, outLoc, outMoved, outH/Rdo
+1,Aimonetto,Peter,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+2,Andreine,Julio,null,null,null,null,lab ,Copper Range Co,h,null,123,null,14th av,null,null,null,null,null
+3,Andreine,Wm,null,null,null,Melba,null,null,h,null,106,null,13th av,null,null,null,null,null
+4,Andreini,Emil,null,null,null,null,null,null,h,null,205,null,14th av,null,null,null,null,null
+5,Baccetti,Giuseppe,null,null,null,null,null,null,h,null,104,null,15th av,null,null,null,null,null
+6,Bailey,Garfield,null,null,null,Camilla,hlpr ,Copper Range Co,h,null,120,null,13th av,null,null,null,null,null
+7,Baima,J,null,null,null,null,plant opr ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+8,Baima,Louis,null,null,null,null,lab ,Copper Range Co,h,null,122,null,13th av,null,null,null,null,null
+9,Barkari,Carl,null,null,null,null,null,null,h,null,510,null,15th av,null,null,null,null,null
+10,Basso,J,null,null,null,null,fieldmn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+11,Beauchamp,Geo,null,null,null,null,null,null,h,null,114,null,16th av,null,null,null,null,null
+12,Beauchamp,Raymond,null,null,null,null,null,null,h,null,109,null,15th av,null,null,null,null,null
+13,Benassi,F,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+14,Bernier,Frank,null,null,null,null,towermn,null,h,null,105,null,14th av,null,null,null,null,null
+15,Bertolli,R,null,null,null,null,mldr ,Stella Cheese Co,r,null,null,null,null,null,Painesdale,null,null,null
+16,Bloshenko,Fred,null,null,null,null,null,null,h,null,511,null,15th av,null,null,null,null,null
+18,Bond,Wm,null,null,null,Victoria,lab ,Copper Range Co,h,null,106,null,11th av,null,null,null,null,null
+19,Borgo,F,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+20,Budd,Ernest,null,null,null,null,lab ,Copper Range Co,h,null,105,null,11th av,null,null,null,null,null
+21,Cappo,Cesare,null,null,null,Jennie,formn ,Copper Range Co,h,null,101,null,12th av,null,null,null,null,null
+22,Carli,Frank,null,null,null,null,lab ,Copper Range Co,h,null,121,null,16th av,null,null,null,null,null
+24,Ceruttl,Antonio,null,null,null,null,lab ,Copper Range Co,h,null,220,null,13th av,null,null,null,null,null
+26,Chaput,Edw,null,null,null,null,lab ,Copper Range Co,h,null,203,null,12th av,null,null,null,null,null
+27,Chaput,Francis,null,null,null,null,null,null,h,null,113,null,14th av,null,null,null,null,null
+28,Charles,Walter,null,null,null,Julia,formn ,Copper Range Co,h,null,118,null,11th av,null,null,null,null,null
+29,Charles,Wm,null,null,null,null,hoist eng ,Copper Range Co,h,null,null,null,Stanton av,null,null,null,null,null
+30,Chiantel,John,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+31,Cincotta,M,null,null,null,null,mldr ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+32,Comina,David,null,null,null,null,lab ,Copper Range Co,h,null,117,null,14th av,null,null,null,null,null
+33,Coombe,Ewart,J ,null,null,Ethel,pipemn ,Copper Range Co,h,null,113,null,11th av,null,null,null,null,null
+35,Cortese,Louis,null,null,null,null,whsemn ,Stella Cheese Co,h,null,218,null,13th av,null,null,null,null,null
+37,Datto,Tony,null,null,null,null,driver ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+38,DelGhingaro,Franchi,null,null,null,Pauline,miner ,Copper Range Co,h,null,102,null,13th av,null,null,null,null,null
+39,DesCormier,J,null,null,null,null,reprmn ,Stella Cheese Co,r,null,null,null,null,null,Atlantic Mine,null,null,null
+40,Dexter,Philip,null,null,null,null,timbermn ,Copper Range Co,h,null,201,null,12th,null,null,null,null,null
+41,Drew,Josiah,null,null,null,null,null,null,h,null,null,null,Stanton av,null,null,null,null,null
+42,Etapa,Wm,null,null,null,null,null,null,h,null,501,null,16th av,null,null,null,null,null
+43,Felin,Erno,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+45,Fleury,Frank,null,null,null,Finnie,lab ,Copper Range Co,h,null,114,null,11th av,null,null,null,null,null
+47,Genovesi,Oliver,null,null,null,null,lab ,Copper Range Co,h,null,217,null,13th av,null,null,null,null,null
+49,Ghidoryi,G,null,null,null,null,cheesemkr ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+50,Gianelli,G,null,null,null,null,emp ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+51,Gianelli,R,null,null,null,null,emp ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+52,Gougeon,Jos,null,null,null,null,plmbr ,Copper Range Co,h,null,103,null,13th av,null,null,null,null,null
+53,Gougeon,Wm,null,null,null,null,null,null,h,null,118,null,13th av,null,null,null,null,null
+54,Hakala,John,null,null,null,null,null,null,h,null,310,null,11th av,null,null,null,null,null
+55,Hakala,Maunu,Ilmar ,null,null,null,null,null,h,null,525,null,15th av,null,null,null,null,null
+56,Harju,Matt,null,null,null,null,null,null,h,null,102,null,16th,null,null,null,null,null
+57,Harry,Russell,null,null,null,null,null,null,h,null,519,null,16th av,null,null,null,null,null
+58,Heikkura,H,null,null,null,null,carp ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+59,Hirvela,Jacob,null,null,null,null,null,null,h,null,513,null,15th av,null,null,null,null,null
+60,Johnson,Nellie,null,null,null,null,null,null,h,null,102,null,15th av,null,null,null,null,null
+61,Johnson,Wm,null,null,null,null,null,null,h,null,516,null,15th av,null,null,null,null,null
+62,Jutunen,Arne,null,null,null,null,null,null,h,null,110,null,13th av,null,null,null,null,null
+63,Kallio,Andrew,null,null,null,null,miner ,Copper Range Co,h,null,null,null,Stanton av,null,null,null,null,null
+64,Kamppinen,Arvo,null,null,null,Sophie,lab ,Copper Range Co,h,null,526,null,15th av,null,null,null,null,null
+65,Karp,John,null,null,null,null,null,null,h,null,105,null,13th av,null,null,null,null,null
+66,Kaspala,Henry,W ,null,null,null,null,null,h,null,216,null,14th av,null,null,null,null,null
+67,Katela,Emily,null,null,null,null,null,null,h,null,208,null,14th av,null,null,null,null,null
+68,Kehus,Wm,null,null,null,null,driver,null,h,null,124,null,13th av,null,null,null,null,null
+69,Kemppainen,Howard,null,null,null,null,lab ,Copper Range Co,h,null,107,null,14th av,null,null,null,null,null
+70,Kemppainen,Kaisa,null,null,wid,Jacob,null,null,h,null,null,null,null,null,Stanton,null,null,null
+71,Kiiskela,Jacob,null,null,null,null,null,null,h,null,null,null,11th av,null,null,null,null,null
+72,Kinsley,John,null,null,null,Barbara,null,null,h,null,101,null,11th av,null,null,null,null,null
+73,Kobe,Matt,null,null,null,null,null,null,h,null,509,null,16th av,null,null,null,null,null
+74,Koski,Toivo,null,null,null,null,null,null,h,null,514,null,15th av,null,null,null,null,null
+75,Kovala,Edw,null,null,null,null,null,null,h,null,103,null,14th av,null,null,null,null,null
+76,Laitala,Elias,null,null,null,null,driver ,Copper Range Co,h,null,null,null,null,null,Atlantic av,null,null,null
+77,Lammie,Nestor,null,null,null,null,miner,null,h,null,212,null,15th av,null,null,null,null,null
+78,Lantto,Matt,null,null,null,Ida,null,null,h,null,113,null,13th av,null,null,null,null,null
+79,LaPointe,Russell,null,null,null,Amanda,pipemn ,Copper Range Co,h,null,228,null,13th av,null,null,null,null,null
+80,Lombardi,F,null,null,null,null,mldr ,Stella Cheese Co,r,null,null,null,null,null,Painesdale,null,null,null
+81,Long,Axel,null,null,null,null,null,null,h,null,101,null,Stanton av,null,null,null,null,null
+82,Lovrine,Jack,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+84,Luttinen,Matt,Rev ,null,null,null,pastor ,Finnish Evangelical Lutheran Church,r,null,null,null,null,null,South Range,null,null,null
+85,Luttinen,Paul,A ,null,null,null,lab ,Copper Range Co,h,null,12224,null,15th av,null,null,null,null,null
+86,Lyttinen,Appa,null,null,null,null,miner ,Copper Range Co,h,null,117,null,11th av,null,null,null,null,null
+88,Maki,Wm,null,null,null,null,null,null,h,null,203,null,15th av,null,null,null,null,null
+90,Manderfield,Bernard,null,null,null,Florence,supt ,Copper Range Co,h,null,221,null,12th av,null,null,null,null,null
+91,Manderfield,John,S ,null,null,null,caretkr ,Copper Range Co,h,null,225,null,12th av,null,null,null,null,null
+93,Marier,Donat,null,null,null,null,lab ,Copper Range Co,h,null,106,null,12th av,null,null,null,null,null
+94,Marier,Jos,null,null,null,Ruth,null,null,h,null,108,null,13th av,null,null,null,null,null
+95,Martilla,Peter,null,null,null,null,null,null,h,null,208,null,15th av,null,null,null,null,null
+96,Matheus,Michl,null,null,null,null,null,null,h,null,512,null,16th av,null,null,null,null,null
+98,Mattila,John,null,null,null,null,null,null,h,null,503,null,16th av,null,null,null,null,null
+99,Mattila,Walter,null,null,null,null,null,null,h,null,104,null,13th av,null,null,null,null,null
+100,Mattson,Albert,null,null,null,null,miner ,Copper Range Co,h,null,225,null,13th av,null,null,null,null,null
+101,Maurin,P,null,Mrs,null,null,null,null,h,null,111,null,13th av,null,null,null,null,null
+102,Metsa,Henry,null,null,null,null,timbermn ,Copper Range Co,h,null,109,null,13th av,null,null,null,null,null
+103,Micheletti,Florindo,null,null,null,null,null,null,h,null,113,null,15th av,null,null,null,null,null
+104,Miller,Edw,null,null,null,null,null,null,h,null,115,null,13th av,null,null,null,null,null
+105,Morin,Joe,null,null,null,null,firemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+106,Morke,E,P ,null,null,null,sec ,Stella Cheese Co,r,null,null,null,null,null,Hancock,null,null,null
+107,Mustonen,Chas,null,null,null,null,null,null,h,null,206,null,14th av,null,null,null,null,null
+108,Myllyla,Wilho,null,null,null,null,null,null,h,null,210,null,14th av,null,null,null,null,null
+109,Naneville,Geo,null,null,null,null,null,null,h,null,121,null,14th av,null,null,null,null,null
+110,Naneville,Louis,null,null,null,Margt,lab ,Copper Range Co,h,null,205,null,15th av,null,null,null,null,null
+112,Nelli,N,null,null,null,null,emp ,Stella Cheese Co,r,null,null,null,null,null,Painesdale,null,null,null
+113,Niemi,Chas,null,null,null,null,miner ,Copper Range Co,h,null,505,null,15th av,null,null,null,null,null
+114,Oates,Harry,null,null,null,Anna,blksmith ,Copper Range Co,h,null,121,null,11th av,null,null,null,null,null
+115,Olson,Doug,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,Painesdale,null,null,null
+116,Olson,Rudy,null,null,null,null,driver ,Stella Cheese Co,r,null,null,null,null,null,Painesdale,null,null,null
+117,Ostrander,Lewis,null,null,null,Fannie,null,null,h,null,510,null,16th av,null,null,null,null,null
+118,Paakko,John,null,null,null,null,null,null,h,null,101,null,13th av,null,null,null,null,null
+119,Paananen,Anna,null,Mrs,null,null,null,null,h,null,518,null,15th av,null,null,null,null,null
+120,Pastone,Irene,null,null,null,null,sec ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+122,Pellow,Vivian,null,null,null,null,null,null,h,null,110,null,11th av,null,null,null,null,null
+123,Peltola,Matt,null,null,null,null,null,null,h,null,520,null,15th av,null,null,null,null,null
+124,Perala,John,null,null,null,null,null,null,h,null,114,null,13th av,null,null,null,null,null
+125,Perfetti,C,null,null,null,null,mldr ,Stella Cheese Co,r,null,null,null,null,null,Painesdale,null,null,null
+127,Perfetti,Louis,null,null,null,null,whsemn ,Stella Cheese Co,h,null,118,null,14th av,null,null,null,null,null
+129,Pettitti,John,null,null,null,null,null,null,h,null,114,null,12th av,null,null,null,null,null
+130,Pidgeon,Harvey,null,null,null,Lucille,lab ,Copper Range Co,h,null,108,null,15th av,null,null,null,null,null
+131,Pierozzi,Frank,null,null,null,null,null,null,h,null,116,null,13th av,null,null,null,null,null
+132,Plesha,Geo,null,null,null,null,null,null,h,null,114,null,15th av,null,null,null,null,null
+133,Pomylaski,Vincent,null,null,null,null,null,null,h,null,524,null,15th av,null,null,null,null,null
+134,Prebelich,A,null,null,null,null,electn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+135,Priniski,John,null,null,null,Nellie,formn ,Copper Range Co,h,null,122,null,11th av,null,null,null,null,null
+136,Pykkonen,Lillian,null,null,null,null,sec ,Stella Cheese Co,r,null,null,null,null,null,Chassell,null,null,null
+137,Raapana,Einar,null,null,null,null,null,null,h,null,118,null,15th av,null,null,null,null,null
+138,Raffaelli,Frank,null,null,null,null,null,null,h,null,101,null,16th av,null,null,null,null,null
+140,Raffaelli,Jos,null,null,null,null,lab ,Copper Range Co,h,null,101,null,14th av,null,null,null,null,null
+141,Raffaelli,Julia,null,Mrs,null,null,null,null,h,null,209,null,14th av,null,null,null,null,null
+142,Raisanen,John,null,null,null,null,miner ,Copper Range Co,h,null,527,null,15th av,null,null,null,null,null
+143,Recore,Arth,null,null,null,null,null,null,h,null,117,null,15th av,null,null,null,null,null
+144,Reed,Josiah,null,null,null,null,mach ,Copper Range Co,h,null,121,null,12th av,null,null,null,null,null
+145,Reed,Leonard,null,null,null,null,lab ,Copper Range Co,h,null,106,null,15th av,null,null,null,null,null
+146,Reed,Rodwell,null,null,null,null,null,null,h,null,111,null,14th av,null,null,null,null,null
+147,Robertson,R,null,null,null,null,formn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+148,Rowe,Hartie,null,null,null,Nellie,miner ,Copper Range Co,h,null,117,null,12th av,null,null,null,null,null
+149,Sabatini,Mike,null,null,null,null,emo ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+150,Segota,M,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+151,Seppanen,Oscar,null,null,null,null,null,null,h,null,506,null,16th av,null,null,null,null,null
+152,Serra,Mary,null,null,wid,John,null,null,h,null,null,null,Stanton av,null,null,null,null,null
+154,Sheehan,Wm,null,null,null,Olga,hoist eng ,Copper Range Co,h,null,110,null,12th av,null,null,null,null,null
+155,Silvola,Irving,null,null,null,null,null,null,h,null,515,null,15th av,null,null,null,null,null
+156,Singleton,Eliz,null,null,wid,Geo,null,null,h,null,109,null,12th av,null,null,null,null,null
+158,Smith,Walter,null,null,null,Mary,mine capt ,Copper Range Co,h,null,105,null,12th av,null,null,null,null,null
+159,Sotala,Aug,null,null,null,null,null,null,h,null,206,null,15th av,null,null,null,null,null
+160,Sparks,Eug,W ,null,null,null,formn ,Stella Cheese Co,h,null,121,null,15th av,null,null,null,null,null
+162,Spearman,Russell,null,null,null,null,null,null,h,null,201,null,14th av,null,null,null,null,null
+163,Stark,Carl,null,null,null,null,miner ,Copper Range Co,h,null,102,null,12th av,null,null,null,null,null
+165,Stephens,Arth,null,null,null,null,null,null,h,null,116,null,15th av,null,null,null,null,null
+166,Sweet,Andrew,null,null,null,Clara,hoist opr ,Copper Range Co,h,null,122,null,12th av,null,null,null,null,null
+167,Sweet,Geo,null,null,null,null,null,null,h,null,110,null,14th av,null,null,null,null,null
+168,Talso,Sami,null,null,null,null,null,null,h,null,210,null,13th av,null,null,null,null,null
+169,Tavcar,Peter,null,null,null,null,mason ,Copper Range Co,h,null,217,null,14th av,null,null,null,null,null
+170,Telin,A,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+171,Telin,R,null,null,null,null,whsemn ,Stella Cheese Co,r,null,null,null,null,null,South Range,null,null,null
+173,Tormala,Ahti,null,null,null,null,null,null,h,null,528,null,15th av,null,null,null,null,null
+176,Tretheway,Albert,null,null,null,null,null,null,h,null,109,null,14th av,null,null,null,null,null
+177,Tretheway,Eliz,null,null,wid,Martin,null,null,h,null,226,null,12th av,null,null,null,null,null
+178,Tretheway,Fred,null,null,null,null,null,null,h,null,212,null,14th av,null,null,null,null,null
+179,Tretheway,Robt,null,null,null,Mary,null,null,h,null,113,null,12th av,null,null,null,null,null
+180,Tretheway,Robt,J ,jr,null,null,null,null,h,null,112,null,13th av,null,null,null,null,null
+181,Typpi,Edw,null,null,null,null,null,null,h,null,507,null,16th av,null,null,null,null,null
+182,Typpi,Frank,null,null,null,null,null,null,h,null,512,null,15th av,null,null,null,null,null
+183,Urmas,John,null,null,null,null,null,null,h,null,207,null,15th av,null,null,null,null,null
+184,Valentino,Emil,null,null,null,null,miner ,Copper Range Co,h,null,109,null,11th av,null,null,null,null,null
+185,Valentino,Jas,null,null,null,null,miner ,Copper Range Co,h,null,225,null,14th av,null,null,null,null,null
+186,Valois,Clifford,null,null,null,null,timbermn ,Copper Range Co,h,null,102,null,11th av,null,null,null,null,null
+188,Venture,Frank,null,null,null,null,null,null,h,null,213,null,14th av,null,null,null,null,null
+189,Verran,Glenn,null,null,null,Ruby,lab ,Copper Range Co,h,null,20,null,15th av,null,null,null,null,null
+190,Verran,Sami,null,null,null,Matilda,null,null,h,null,118,null,12th av,null,null,null,null,null
+192,Vettori,A,B ,null,null,null,driver ,Stella Cheese Co,r,null,null,null,null,null,Painesdale,null,null,null
+194,Vial,Thos,C ,null,null,Lina,lab ,Copper Range Co,h,null,202,null,13th av,null,null,null,null,null
+195,Vinsek,Michl,null,null,null,null,null,null,h,null,119,null,14th av,null,null,null,null,null
+196,Vivian,Emma,null,null,wid,Andrew,null,null,h,null,107,null,13th av,null,null,null,null,null
+197,Waltanen,Eino,null,null,null,null,lab ,Copper Range Co,h,null,511,null,16th av,null,null,null,null,null
+198,Waltanen,Henry,null,null,null,null,null,null,h,null,517,null,15th av,null,null,null,null,null
+199,Warrick,Jas,null,null,null,null,null,null,h,null,110,null,15th av,null,null,null,null,null
+200,Wenberg,Jack,null,null,null,null,null,null,h,null,522,null,15th av,null,null,null,null,null
+201,West,Walfred,null,null,null,null,formn ,Stella Cheese Co,h,null,214,null,13th av,null,null,null,null,null
+202,Williams,Emily,A ,Mrs,null,null,null,null,h,null,114,null,14th av,null,null,null,null,null
+203,Zerbst,Irving,null,null,null,null,null,null,h,null,210,null,15th av,null,null,null,null,null
+17,Bolognesi,Emilio,null,null,null,null,mgr ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+23,Centanino,J,null,null,null,null,wtchmn ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+25,Chaput,Ed,null,null,null,null,whsemn ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+34,Corli,F,null,null,null,null,laboratory asst ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+36,Cortese,M,null,null,null,null,laboratory asst ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+44,Finnish,Evangelical,Lutheran ,null,null,null,pastor ,Stanton,null,null,null,null,null,null,null,null,null,null
+46,Genoveri,O,null,null,null,null,reprmn ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+48,Genovesi,Wm,null,null,null,null,mldr ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+83,Lucci,L,null,null,null,null,office mgr ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+87,Maki,W,null,null,null,null,driver ,Stella Cheese Co r Boraga,null,null,null,null,null,null,null,null,null,null
+89,Mallsen,D,null,null,null,null,whsemn ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+92,Manderfield,R,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+97,Mathews,A,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+111,Nehus,Bill,null,null,null,null,fieldmn ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+121,Patovisti,U,null,null,null,null,driver ,Stella Cheese Co r Boraga,null,null,null,null,null,null,null,null,null,null
+126,Perfetti,F,null,null,null,null,mldr ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+128,Perfetti,M,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+139,Raffaelli,Guido,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+153,Sheehan,N,null,null,null,null,mldr ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+157,Singleton,W,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+161,Sparks,W,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+172,Thiede,C,null,null,null,null,driver ,Stella Cheese Co r Baraga,null,null,null,null,null,null,null,null,null,null
+174,Toucher,F,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+175,Toucher,M,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+187,Vaucher,J,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+191,Verturini,P,null,null,null,null,emp ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null
+193,Vial,D,null,null,null,null,whsemn ,Stella Cheese Co,null,null,null,null,null,null,null,null,null,null

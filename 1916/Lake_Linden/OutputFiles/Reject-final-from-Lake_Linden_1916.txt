@@ -1,0 +1,331 @@
+1 ADD, JOB LOCATION NOT FOUND: Adams Benedict J, tchr
+15 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Alt Orrin, student, bds Sylvester Hollister
+41 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubin Alfred, cook, bds Nelson Aubin
+42 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubin Antoinette, mlnr E F Sutton Co, bds Nelson Aubin
+43 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubin Esdras, lab C H M Co, bds Hermisdos Aubin
+44 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubin George, lab C H M Co, bds Nelson Aubin
+45 ADD, JOB NOT FOUND, PERSON NOT FOUND: Aubin Henrietta, bds Hermisdos Aubin
+46 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubin Henry, elk, bds Hersmisdos Aubin
+47 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Aubin Henry, musician, bds Nelson Aubin
+48 ADD, JOB LOCATION NOT FOUND: Aubin Hermisdos (Hannah), carp Bosch Brewing Co, res Calumet av se cor Mill
+51 ADD, JOB LOCATION NOT FOUND: Aubin Nelson (Rebecca), lab C H M Co, res Calumet av 2 s of Vetter
+54 ADD, JOB NOT FOUND, PERSON NOT FOUND: Aubin Rose, bds Nelson Aubin
+63 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bailey David J, lab C H M Co, bds Mrs Anna Bailey
+90 NAME: Baril Joseph J L, brkmn C H M Co
+99 ADD, JOB NOT FOUND, PERSON NOT FOUND: Barkell Clarence, mill hd, bds James Barkell
+112 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Beauchamp Homer P, lab C H M Co, bds Adelard Lamoth e
+115 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beauchamp Moses (Kiefer Beauchamp), bds J J Halfer
+133 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beaudoin Clara, bds Misrael Beaudoin
+134 ADD, JOB LOCATION NOT FOUND: Beaudoin Edward (Rosanna), dipper C H M Co, res Calumet av se cor Mine
+137 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Beaudoin Eugene jr, lab C H M Co, bds Eugene Beau doin
+153 ADD, JOB NOT FOUND: Beaudry Arthur J (Mamie), ins ne cor Calumet and Center, res same
+154 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Becotte Paul, lab Eddy Lumber Co, bds Mrs M L Maying
+173 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bernard Victor, student, bds Max Bernard
+179 ADD, JOB NOT FOUND, PERSON NOT FOUND: Bileau Mary, bds Mrs Julia Bileau
+189 NAME: Board of Education of Lake Linden Public Schools, Dr George W Orr director, Joseph DesOrmiers treas, H C Marvin supt, office McKinley School bldg
+201 ADD, JOB NOT FOUND, PERSON NOT FOUND: Bosch Antoinette, bds Joseph Bosch
+202 NAME: Bosch Brewing Co The, Joseph Bosch pres, M S Kemp vicepres, A F Heidkamp sec and treas, cor Center and Schoolcraft
+203 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bosch Ernest, student, bds Joseph Bosch
+205 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bosch Joseph jr, student, bds Joseph Bosch
+206 ADD, JOB NOT FOUND, PERSON NOT FOUND: Bosch Katherine, bds Joseph Bosch
+207 ADD, JOB NOT FOUND, PERSON NOT FOUND: Bosch Mary, bds Joseph Bosch
+216 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Boudreau Annie, elk Sol Jacobson, bds Jacques Beaudreau
+245 ADD, JOB LOCATION NOT FOUND: Breault Aldie (Angelina), lab, res Chagnon nr Piche
+252 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Briere Annette, tchr, bds J A Briere
+253 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Briere Beatrice, elk E F Sutton Co, bds J A Briere
+265 ADD, JOB NOT FOUND: Brockway Albert A, res Mine and Front
+285 ADD, JOB NOT FOUND: Burbank Leland W, wheeler C H M Co
+288 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burgan Jabez, electrical eng C H M Co, rms E F Prince
+305 NAME: Calumet and Hecla Dispensary, Dr Philip D Bourland and Simon Levin phys in charge, sw cor Calumet and 1st
+306 ADD, JOB NOT FOUND: Calumet Hecla Library, Sarah E Jones librarian, 5418 County rd
+307 ADD, JOB NOT FOUND: Calumet Hecla Smelters, H B Conant supt, s end of village
+308 NAME: Calumet Hecla Stamp Mills, Henry Fisher supt, s end of village
+313 ADD, JOB LOCATION NOT FOUND: Cantin Edmund, lab C H M Co, res nr e end of Torch
+316 ADD, JOB LOCATION NOT FOUND: Cardinal Dolphis (Virginia), farmer, res n end Calumet
+329 ADD, JOB NOT FOUND: Catholic Cemetery, Leon Allwin sexton, ws 01d Calumet rd 3 miles n of limits
+331 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chabot Lawrence, student, bds Lucien Chabot
+332 ADD, JOB LOCATION NOT FOUND: Chabot Lucien S (Aurora), elk Henry Mathewson, res Calumet av ne cor Vetter
+345 ADD, JOB NOT FOUND: City Hall, ne cor Calumet and Center
+348 ADD, JOB NOT FOUND: Closs Johanna (wid Johan), res Calumet av ne cor Pine
+352 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cloutier Charles, lab, bds Thomas LaRose
+360 ADD, JOB LOCATION NOT FOUND: Codere Damasse, farmer
+368 NAME: Collins Ezra J (Jennie M) cement contr es Lake 2 n of Center, res same
+376 ADD, JOB NOT FOUND: Congregational Church, se cor County rd and 1st
+380 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Coon Philip L, tchr High School, rms Mrs Ameilia Koepel
+381 ADD, JOB NOT FOUND: Copper Range Railroad, Fred Campbell agt, depot County rd
+392 ADD, JOB LOCATION NOT FOUND: Courchesne Philip J (Elizabeth), lab C H M Co, res Calumet av se cor Mine
+419 ADD, JOB LOCATION NOT FOUND: Daniels Edmund, farmer, res Boot Jack
+422 ADD, JOB NOT FOUND, PERSON NOT FOUND: DaRoche Rose, bds Annezinne DaRoche
+438 ADD, JOB LOCATION NOT FOUND: Demars Leo (Jessie), baker Calumet av ne cor Mill, res same
+446 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: DesChamps Albert, bds Aldrick DesChamps
+447 ADD, JOB LOCATION NOT FOUND: DesChamps Aldrick E (Mary J), propr Grand Theatre, res Calumet av sw cor Vetter
+450 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Desellier Joseph A (Alice), lab C H M Co, bds Mrs Leopold Remillard
+460 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dion Arthur, barber, bds Onizime Dion
+472 ADD, JOB NOT FOUND: Dreamland Hotel, A Lemme prop, Boot Jack
+475 NAME: Dry den James H (Amy), lab C H M Co, res ns Center 3 w of Calumet
+479 ADD, JOB NOT FOUND, PERSON NOT FOUND: Duchemin Estelle, bds Mrs Julia Duchemin
+480 ADD, JOB NOT FOUND, PERSON NOT FOUND: Duchemin Eva, bds Mrs Julia Duchemin
+481 ADD, JOB NOT FOUND: Duchemin Julia Mrs, res Calumet av nw cor Maple
+482 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Duchemin Napoleon, lab C H M Co, bds Mrs Julia Duchemin
+486 ADD, JOB LOCATION NOT FOUND: Dufresne Telesford (Edith), bartndr Jeremiah Durand, res Bay Shore
+489 ADD, JOB NOT FOUND, PERSON NOT FOUND: Dunlop Ivy L, bds Herbert Dunlop
+499 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dupuis Adolph, lab C H M Co, bds Mrs Celestine Dupuis
+503 ADD, JOB NOT FOUND: Dupuis Edward (Anna), hdfeeder C H M Co, res e Gregory 2 n of Piche
+504 ADD, JOB NOT FOUND, PERSON NOT FOUND: Dupuis Eleanore, bds Mrs Celestine Dupuis
+505 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dupuis Elmer, lab C H M Co, bds Napoleon Dupuis
+510 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dupuis Joseph, lab C H M Co, bds Mrs Celestine Dupuis
+529 ADD, JOB NOT FOUND: Eddy James P (Nanny), res Calumet av sw cor Vetter
+530 NAME: EDDY LUMBER CO, Samuel Eddy Pres, Reuben Eddy Sec, Mfrs of and Dealers in Lumber, Lath and Shingles, Office es Calumet 5 n of 1st, Tel 266W, Mill north end of Torch Lake, mile from Lake Linden, Mill Office Tel 266R
+555 NAME: Falardeau Joseph O G, lab C H M Co
+567 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fillinger Adolph, student, bds Frank Fillinger
+576 ADD, JOB NOT FOUND: Fillion Wm (Mondeau), village treasurer, grocer cor Mill and Lake, res same
+581 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fink Maurice, elk Charles Fink, bds same
+582 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Finney William, driver Wells Fargo Express Co, bds Charles Kettenbeil
+584 ADD, JOB NOT FOUND: First Congregational Church, Rev Frederick Bagnall pastor, cor 1st and County rd, C H loc
+585 NAME: First National Bank Bldg, cor 4th and Hecla
+589 ADD, JOB NOT FOUND: Fitzpatrick Leo, carriage rider Eddy Lumber Co
+625 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Franks Howard J, hlpr, bds Mrs Margaret Franks
+626 ADD, JOB NOT FOUND: Franks Margaret (wid George), res w end Tunnel
+640 ADD, JOB LOCATION NOT FOUND: Gagnon Wm (Elizabeth), lab CHM Co, res Calumet and 1st
+658 ADD, JOB LOCATION NOT FOUND: Gendion Zephir (Cordelia), tmstr Eddy Lumber Co, res w Chagnon 3 s of Garfield
+659 ADD, JOB NOT FOUND: Genereaux Archibald (Elsie), motor inspr CHM Co, res Hecla nr e end Torch
+672 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gilet Cecil, student, bds Camille Plant
+673 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gilet Eleanor, student, bds Camille Plant
+674 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Giler Eugene, student, bds Camille Plant
+676 ADD, JOB NOT FOUND, PERSON NOT FOUND: Girardin Antoinette, bds George Girardin
+682 ADD, JOB LOCATION NOT FOUND: Giroux Remi (Philomene), lab C H M Co, res w end Pasture
+723 ADD, JOB NOT FOUND: Grand Theatre, Aldrick E DesChamps propr, ns Center 4 w of Calumet av
+744 NAME: Gregoryville, northeast and east shore of Lake Linden
+745 ADD, JOB NOT FOUND: Gregoryville School, Gregoryville
+758 ADD, JOB NOT FOUND, PERSON NOT FOUND: Guibord Cecile, bds Nelson Guibord
+762 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Guibord Genevieve, elk Fred Carpenter, bds Nelson Guibord
+764 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Guibord Lillian, student, bds Frank Guibord
+768 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Guibord Nelson, elk Thomas Guibord, bds same
+769 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Guibord 01ive, bkpr Nelson Guibord, bds same
+770 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Guibord Raymond, elk, bds Nelson Guibord
+771 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Guibord Romeo, driver W C Jilbert, bds Frank Guibord
+785 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hagen Ida M, tchr High School, bds Mrs Minnie Senglaub
+792 ADD, JOB NOT FOUND, PERSON NOT FOUND: Halle Mary (wid John), bds George Perreault
+798 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hamilton Clifford, lab, bds Fred Drew
+800 ADD, JOB NOT FOUND: Hamon Joseph
+818 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Heidkamp Adolph F, sectreas Bosch Brewing Co, pres of the village, rms Rabbey Flats
+833 NAME: HENNES L CO (Robert L Hennes, Adolph Hennes, Theodore Hennes), General Store cor 3d and Calumet, Tel 144
+839 ADD, JOB NOT FOUND: Hermann Building, 120122 Calumet
+840 ADD, JOB NOT FOUND: Hermanns Sons Hall, Hecla nr 2d
+842 ADD, JOB NOT FOUND: High School, L Clement Howard principal, es Front bet Maple and Torch
+843 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hill Irene C, student, bds Thomas Hill
+845 ADD, JOB NOT FOUND, PERSON NOT FOUND: Hirdning Varian, bds Joseph Keast
+848 ADD, JOB NOT FOUND: Hoar Walter H, lead burner
+851 ADD, JOB LOCATION NOT FOUND: Hocking Samuel (Minnie), fireman, res w end Pasture
+866 ADD, JOB NOT FOUND, PERSON NOT FOUND: Holland Katherine, bds Charles Herrien
+867 ADD, JOB NOT FOUND, PERSON NOT FOUND: Hollister Gertrude, bds Sylvester J Hollister
+868 ADD, JOB LOCATION NOT FOUND: Hollister Sylvester J (Kate), res Calumet av 3 s of Mine
+871 ADD, JOB NOT FOUND: Holy Rosary Church (R C), Rev Henry J Reis pastor, se cor Calumet and 3d
+872 NAME: Holy Rosary Parochial School, in charge of School Sisters of Notre Dame, Calumet se cor 3d
+882 ADD, JOB LOCATION NOT FOUND: Hopf Wm, shoes ws Calumet bet 2d and 3d, res same
+884 NAME: HOUGHTON COUNTY ELECTRIC LIGHT CO, A W Gurry Division Supt, Calumet bet 1st and 2d, Tel 15W
+900 ADD, JOB NOT FOUND: Jenkin Eleanor (wid Joseph), removed to Detroit, Mich
+903 ADD, JOB NOT FOUND, PERSON NOT FOUND: Jilbert Helen, bds Wm C Jilbert
+904 ADD, JOB LOCATION NOT FOUND: Jilbert John, foreman, res Pine sw cor Peach
+906 ADD, JOB LOCATION NOT FOUND: Jilbert Myrtle, cashr Will C Jilbert, res Will C Jilbert
+908 ADD, JOB NOT FOUND: JILBERT WILL C (Bertha), Fine Line of Groceries, Meats and Provisions ws of Calumet 6 n of 1st, Tel 35W res es Hecla 4 n of 1st, Tel 35J
+912 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Johns Charles, lab, bds Mrs Rosanna Rheault
+913 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Johns Edward, lab C H M Co, bds Mrs Rosanna Rheault
+914 ADD, JOB NOT FOUND, PERSON NOT FOUND: Johns Esther, bds Mrs Rosanna Rheault
+916 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Johns Fred, lab, bds Mrs Rosanna Rheault
+917 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Johns Nelson, lab C H M Co, bds Mrs Rosanna Rheault
+918 ADD, JOB NOT FOUND, PERSON NOT FOUND: Johns Rose, bds Mrs Rosanna Rheault
+921 ADD, JOB NOT FOUND: Johnson Henry, piler Eddy Lumber Co
+931 ADD, JOB LOCATION NOT FOUND: Joyal Adolph P, lab
+932 NAME: Joyal J G T, grocer, res ws Lake 18 n Center
+959 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Keksi Charles, furnaceman, bds Frank Beilman
+966 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Keno Claudine, tchr, bds Frank Keno
+967 ADD, JOB LOCATION NOT FOUND: Keno Frank, farmer
+968 ADD, JOB NOT FOUND: Keppler Fred, res Mill
+970 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kern George, lab, bds Henry Miller
+976 ADD, JOB NOT FOUND: Kiefer Charles (Louise Kiefer Beauchamp), res Lake
+979 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kilbury Henry, lab, bds Martin Hesse
+980 ADD, JOB LOCATION NOT FOUND: Kilpela Matt, farmer
+989 ADD, JOB NOT FOUND: King Thomas (aged 72), died April 14, 1915
+1005 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Koppelman Arnold, meatetr, bds Fred Marchand
+1006 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Koppelman August, lab C H M Co, bds Mrs Eliza Prisk
+1018 ADD, JOB LOCATION NOT FOUND: Krug Christine, milliner ss Duncan av 1 e of Daisy, res Duncan
+1019 ADD, JOB LOCATION NOT FOUND: Krug Jacob (Henriette), painter
+1048 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: LaFrenier Adolph, lab, bds David LaFrenier
+1050 ADD, JOB NOT FOUND, PERSON NOT FOUND: LaFrenier Martha, bds Daniel LaFrenier
+1053 NAME: LAKE LINDEN BOTTLING WORKS, Edwin Warren Mgr, Bottlers of Soft Drinks, Carbonated, Aerated and Mineral Waters, Calumet near Center (See right bottom lines)
+1054 NAME: Lake Linden CoOperative Society, George Watson pres, G O Girardin sec and treas, Joseph O DesOrmiers mgr, cor 4th and Calumet
+1055 NAME: Lake Linden Fire Dept, Village Hall
+1056 NAME: Lake Linden Fuel and Supply Co, Allan MacIntyre mgr, es Calumet 2 n of 2d
+1057 ADD, JOB NOT FOUND: LAKE LINDEN HOTEL, Mrs Nellie Taylor Propr, American Plan, Rates 200 and Upwards, se cor Calumet and 4th, Tel 18
+1058 NAME: Lake Linden Methodist Episcopal, Church, 5453 County road
+1059 NAME: Lake Linden Opera House, Elderic E DesChamps propr, Center nw cor Front
+1060 NAME: Lake Linden Water Works, Patrick Gregorie propr, Gregoryville
+1061 NAME: Lake Superior General Hospital, Dr George W Orr phys in charge, cor Calumet and Beasley
+1062 NAME: Lake Superior School for Nurses (incorporated), A L Burgan (Hubbell, Mich) pres, Dr G W Orr treas, Dr W Anton Manthei (Hubbell, Mich) sec, cor Calumet and Beasley
+1069 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lamonthene Mary L, bds Joseph Archambault
+1079 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lamothe Raymond, student, bds Lamothe Arthur
+1082 ADD, JOB LOCATION NOT FOUND: Lanctot Joseph R, lab
+1083 ADD, JOB LOCATION NOT FOUND: Lanctot Syriac, farmer
+1094 ADD, JOB NOT FOUND: Lapine Joseph (aged 65), died July 9, 1914
+1103 ADD, JOB NOT FOUND: LaRose Hotel, Henry LaRose propr, sw cor Front and Center
+1138 NAME: Le Courrier du Michigan, P Eudore Mayrand editor, es Calumet av 2 s of Mill
+1147 ADD, JOB LOCATION NOT FOUND: Lenne Charles (Pearl), lab res ns 1st 13 w of County rd
+1148 ADD, JOB LOCATION NOT FOUND: Lenz Henrietta, tchr
+1164 ADD, JOB NOT FOUND: LePlante Aimee, removed to Chicago, 111
+1181 ADD, JOB NOT FOUND, PERSON NOT FOUND: Levasseur Albina, bds* John B Levasseur
+1199 ADD, JOB NOT FOUND, PERSON NOT FOUND: Levigne Albert, bds Joseph Baillargeon
+1203 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Longpre Dona, lab, bds Henry Longpre
+1204 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Longpre Flavian E, lab, bds Henry Longpre
+1205 ADD, JOB LOCATION NOT FOUND: Longpre Henry (Mary), asst foreman C H M Co, res Calumet av nw cor Vetter
+1221 ADD, JOB NOT FOUND: McDonald John D (aged 96), died Nov 29, 1915
+1228 ADD, JOB LOCATION NOT FOUND: McKerroll John (Catherine), livery ss 4th 1 e of Calumet res 2 same
+1230 ADD, JOB NOT FOUND: McKinley School, Mrs Annabelle Jones prin, sw cor 4th and Hecla
+1237 ADD, JOB LOCATION NOT FOUND: MacDonald Erwin, barber
+1268 ADD, JOB NOT FOUND: Main Alice Mrs, boarding nw cor Front and 1st, res same
+1272 ADD, JOB LOCATION NOT FOUND: Manthei W Anton, phys Lake Superior General Hospital res Hubbell, Mich
+1273 ADD, JOB NOT FOUND: Maple Hill Cemetery, Robert Piche sexton, ws 01d Calumet rd n of limits
+1274 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Marceau Charles, elk Sol Jacobson, bds Joseph Marceau
+1275 ADD, JOB NOT FOUND, PERSON NOT FOUND: Marceau Ernest, bds Joseph Marceau
+1276 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Marceau Giles, student, bds Joseph Marceau
+1278 ADD, JOB NOT FOUND, PERSON NOT FOUND: Marceau Mercedes, bds Joseph Marceau
+1294 ADD, JOB LOCATION NOT FOUND: Maretta John, lab
+1301 ADD, JOB LOCATION NOT FOUND: Marvin Harry C (Edith), supt of schools, res Calumet av r 3 s of Mine
+1309 ADD, JOB LOCATION NOT FOUND: Matthews J Scott, pres Pearce Hardware and Furniture Co, res Chicago, 111
+1310 NAME: Mayer Bros (Carl R and Christ), saloon ws Calumet av 3 n of Center
+1314 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mayotte Albert, printer, bds Archie Mayotte
+1315 ADD, JOB NOT FOUND: MAYOTTE ARCHIE (Sarah), Five, Ten and TwentyFive Cent Store, Novelties, Postal Cards, Music, Etc, Also UptoDate Grocery Department, es Calumet 5 n of 1st, Tel 2, res same
+1333 ADD, JOB NOT FOUND: Methodist Episcopal Church, Rev Frank H Cookson pastor, sw cor 1st and County rd
+1344 ADD, JOB NOT FOUND, PERSON NOT FOUND: Michaud Henry, bds Gaspar Michaud
+1349 ADD, JOB LOCATION NOT FOUND: Micheaud Joseph E, lab
+1350 NAME: Michigan State Telephone Co, Anna G Glesener chief opr, ws Calumet bet 4th and Center
+1368 NAME: Mineral Range R R, Edward Baaken agt, depot ws County rd s of Trestle
+1369 ADD, JOB NOT FOUND: Mining Gazette, Frank McKindles agt, Prince blk
+1396 ADD, JOB NOT FOUND: MYERS ERNEST (Emma), General Contractor and Builder, Estimates Furnished sw cor Calumet and Fanny, Tel 44W, res same (See left bottom lines)
+1406 ADD, JOB NOT FOUND: NATHENSON HENRY (Rose R), Clothing, Boots, Shoes, Gents Furnishings, Everything for Men and Boys, Calumet bet 2d and 3d, Tel 219J
+1407 ADD, JOB NOT FOUND: Native Conner Times, J H Wilson editor, es Calumet av 2 s of Mill
+1408 ADD, JOB NOT FOUND: Nester Elizabeth, res Calumet av se cor Torch
+1410 ADD, JOB NOT FOUND: Nester Lena, res Calumet av se cor Torch
+1418 ADD, JOB NOT FOUND: Nicholas Bert, florist Pearce Hdw Furn Co
+1420 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nicholls Clarence, student, bds Wm Nicholas
+1424 ADD, JOB LOCATION NOT FOUND: Nicholls Richard (Cecelia), elk, res Calumet av ne cor Vetter
+1426 ADD, JOB NOT FOUND: Nicholls Wm, ins Calumet av cor Center, res same
+1440 ADD, JOB NOT FOUND: Odd Fellows Hall, ne cor Calumet and 3d
+1452 ADD, JOB NOT FOUND: Opera House, nw cor Center and Front
+1458 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Otte Frederick, elk Adolph G Mogk, bds Frank Otte
+1470 ADD, JOB NOT FOUND, PERSON NOT FOUND: Paquette Anna, bds Mrs Julia Bileau
+1486 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Parks David, lab, bds John Parks
+1506 NAME: Pearce Floral Co (John Nicholls) Gregoryville
+1507 NAME: Pearce Hardware and Furniture Co, J Scott Matthews pres, L C Pearce vicepres, Ransom Pearce treas and mgr, cor Calumet and Center
+1508 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pearce John, lab C H M Co, bds Mrs Margaret Franks
+1509 ADD, JOB LOCATION NOT FOUND: Pearce Louis C, vicepres Pearce Hdw Furn Co, res Calumet sw cor Center
+1510 ADD, JOB LOCATION NOT FOUND: Pearce Ransom, treas and mgr Pearce Hdw Furn Co, res Calumet sw cor Center
+1512 ADD, JOB NOT FOUND, PERSON NOT FOUND: Pearce Samuel, bds WG Pearce
+1513 ADD, JOB NOT FOUND: Pearce Sarah J (wid Joseph ), res Calumet sw cor Center
+1521 ADD, JOB NOT FOUND, PERSON NOT FOUND: Peck Sarah, bds Mrs MAT Sutton
+1524 NAME, PERSON NOT FOUND: Peiffer John jr mgr John Peiffer, bds same
+1525 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Peiffer Philip L, elk John Peiffer, bds same
+1540 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pelland Samuel, lab, bds Casper Pelland
+1544 ADD, JOB LOCATION NOT FOUND: Pellern Alfred (Maudie), lab C H M Co, res Torch se cor Hecla
+1560 ADD, JOB LOCATION NOT FOUND: Perrant Delor, lab
+1567 ADD, JOB LOCATION NOT FOUND: Perron Arthur, lab
+1577 NAME, PERSON NOT FOUND: Pflugi Leo lab C H M Co, bds 5529 Hill
+1592 ADD, JOB NOT FOUND, PERSON NOT FOUND: Piche Mary, bds Robert Piche
+1594 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pichette Antoinette, music tchr Calumet av se cor Pine, bds same
+1595 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pichette Eloise, nurse, bds J M Peter Pichette
+1596 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pichette Gaston, student, bds J M Peter Pichette
+1597 NAME: Pichette J M Peter (Celine), phys Calumet av se cor Pine res same
+1598 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pichette Theophile, student, bds J M Peter Pichette
+1604 ADD, JOB NOT FOUND, PERSON NOT FOUND: Plant Adeline, bds Camille Plant
+1607 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Plowe Anna, smstrs, bds Israel Plowe
+1618 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pomroy Chester, lab, bds Wm J Pomroy
+1619 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pomroy Henry, lab, bds Wm J Pomroy
+1622 ADD, JOB NOT FOUND, PERSON NOT FOUND: Pomroy Mabel, bds Wm J Pomroy
+1624 ADD, JOB NOT FOUND, PERSON NOT FOUND: Pomroy Ruth, bds Wm J Pomroy
+1626 ADD, JOB NOT FOUND: Pomroy Wm J (Elizabeth), hd feeder C H M Co
+1631 ADD, JOB NOT FOUND: POST OFFICE, Jacob Steffes Postmaster, ws Calumet 3 s of 3d
+1632 ADD, JOB NOT FOUND, PERSON NOT FOUND: Poull Elizabeth (wid Nicholas G), bds Joseph Bosch
+1633 ADD, JOB NOT FOUND, PERSON NOT FOUND: Poull Mary, artist, bds Joseph Bosch
+1634 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Poull Robert, student, bds Joseph Bosch
+1640 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Prince Agnes E, tchr, bds E F Prince
+1643 ADD, JOB NOT FOUND: PRINCE EMIL F (Agnes), Justice of the Peace, Notary
+1644 NAME: Public, Township Clerk, General Insurance and Real Estate, es Calumet 2 s of 4th, Tel 54, res same
+1645 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Prince Eva G, student, bds E F Prince
+1647 ADD, JOB LOCATION NOT FOUND: Prince Laura M, sten E F Prince, librarian of Schoolcraft twp and dep twp elk, bds, E F Prince
+1648 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Prince Rose A, tchr Incline School, bds E F Prince
+1649 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Prince Wm F, driver Leo Demars, bds E F Prince
+1676 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Remillard Albert, lab C H M Co, bds Mrs Leopold Remillard
+1680 ADD, JOB NOT FOUND, PERSON NOT FOUND: Remillard Edward M, bds Mrs Leopold Remillard
+1687 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Remillard Margaret, dressmkr, bds Mrs Leopold Remillard
+1689 ADD, JOB NOT FOUND: Remillard Prosper, res Boot Jack
+1697 ADD, JOB LOCATION NOT FOUND: Rheault Albert, farmer, res Boot Jack
+1699 ADD, JOB NOT FOUND, PERSON NOT FOUND: Rheault Emma, bds Mrs Rosanna Rheault
+1700 ADD, JOB NOT FOUND, PERSON NOT FOUND: Rheault Fabiana, bds Mrs Rosanna Rheault
+1701 ADD, JOB NOT FOUND, PERSON NOT FOUND: Rheault Florida, bds Mrs Rosanna Rheault
+1724 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Robert Melville, meatctr Joseph X Robert, bds same
+1727 ADD, JOB NOT FOUND: Roberts Peter, res Boot Jack
+1754 ADD, JOB NOT FOUND, PERSON NOT FOUND: Rowe Bertha Mrs, bds Mrs Louisa J Pascoe
+1759 NAME: Roy Bros (Joseph A and Homer H), billiards ws Calumet av bet 4th and Center
+1761 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Roy Felix, tmstr L Hennes Co, bds Mrs Sophia Roy
+1779 ADD, JOB NOT FOUND: Rule Thomas II (Annie T H Rule Bros), res Mine
+1780 NAME: Rule T H Bro (Thomas H and Joseph), grocers es Calumet 4 n of 4th
+1784 ADD, JOB NOT FOUND: St Anns Academy, Sisters of St Joseph of Concordia, Kansas in charge, ws Calumet bet Maple and Vetter
+1789 NAME, PERSON NOT FOUND: St George Joseph R,head feeder C H M Co, bds 5615 Schoolcraft
+1790 NAME: St Jean Baptiste Hall, ss Center 2 e of Calumet
+1794 NAME: St Josephs Catholic Church, Rev Napoleon J Raymond pastor, es Calumet bet Maple and Vetter
+1795 NAME: St Josephs Parochial School, Sisters of St Joseph in charge, ws Calumet bet Maple and Vetter
+1800 NAME, PERSON NOT FOUND: St Pierre Remy J, lab C H M Co, bds 5614 Schoolcraft
+1810 ADD, JOB NOT FOUND: SAVARD HENRY J, Tailor ws Calumet 3 n of 1st, Tel 140W, res same
+1819 ADD, JOB NOT FOUND: Schenk Michael, res Bridge
+1825 ADD, JOB LOCATION NOT FOUND: Schick Nicholas (Julia), lab C H M Co res es Hecla 6 s of Mine
+1826 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schinkel Arica, tchr, bds George Schinkel
+1828 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schinkel George W jr, lab C H M Co, bds George Schinkel
+1829 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Schinkel Herman, student, bds George Schinkel
+1844 ADD, JOB NOT FOUND, PERSON NOT FOUND: Schmelzer Fred, bds Mrs Carolina Schmelzer
+1865 ADD, JOB LOCATION NOT FOUND: Senglaub Henry (Amelia), fireman C H M Co, res Torch sw cor Hecla
+1866 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Senglaub Henry jr, elk C H M Co, bds Henry Senglaub
+1882 NAME: Sisters of Notre Dame, se cor Schoolcraft and Center
+1887 ADD, JOB NOT FOUND, PERSON NOT FOUND: Slonoker Esther, bds Janies Pope
+1911 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stappos John, elk George Grammos, bds same
+1919 ADD, JOB NOT FOUND: Steele Leon, hd feeder C H M Co
+1920 ADD, JOB NOT FOUND, PERSON NOT FOUND: Steffes Alyda, bds Edward Bogan
+1921 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Steffes Anna, tchr High School, bds Edward Bogan
+1942 NAME: SUTTON E F CO THE, Charles Briggs (Calumet) Pres, MAT Sutton VicePres, George H Bennallack Sec, Walter H Sutton Treas and Mgr, cor Calumet and 2d, Tel 223
+1943 NAME: Sutton Mary A T (wid Elias F), vicepres The E F
+1944 NAME: Sutton Co, res nw cor 3d and Hecla
+1945 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sutton Walter H, treas The E F Sutton Co, bds Mrs MAT Sutton
+1956 ADD, JOB LOCATION NOT FOUND: Tappe John (Mamie), saloon Calumet av sw cor Pine, res same
+1959 ADD, JOB LOCATION NOT FOUND: Taylor Nellie (wid Ramson J), propr Lake Linden Hotel res same
+1960 NAME: Temple of Honor Hall,5418 County rd
+1961 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Terhinger Otto, shoemkr Oscar Hokala, bds same
+1962 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tervillian Leighton, lab, bds Wm Tervillian
+1963 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tervillian Roy, student, bds Wm Tervillian
+1979 ADD, JOB NOT FOUND: Thibodeau Joseph, res Boot Jack
+1980 ADD, JOB NOT FOUND: Thibodeau Mary, house kpr Frank Buschell
+1992 ADD, JOB NOT FOUND, PERSON NOT FOUND: Toupin Albert, bds Henry Toupin
+1993 ADD, JOB NOT FOUND, PERSON NOT FOUND: Toupin Celina (wid John), bds Henry Toupin
+1994 ADD, JOB NOT FOUND, PERSON NOT FOUND: Toupin Exilda, bds Henry Toupin
+1995 ADD, JOB NOT FOUND: TOUPIN HENRY (Eleanor M), Saloon, Fine Line of Fancy Cigars, Imported and Domestic Liquors, ws Calumet 2 n of 1st, Tel 137, res same
+1996 ADD, JOB NOT FOUND, PERSON NOT FOUND: Toupin Louis (Schuette Toupin), bds Henry Toupin
+1997 ADD, JOB NOT FOUND, PERSON NOT FOUND: Toupin Lumina, bds Henry Toupin
+1998 ADD, JOB NOT FOUND, PERSON NOT FOUND: Toupin Mary, bds Henry Toupin
+2004 ADD, JOB NOT FOUND: Town Hall, ne cor Calumet and Center
+2035 ADD, JOB NOT FOUND: Village Hall, ne cor Calumet and Center
+2054 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Volmer Josephine (Theresa), lab, bds Mrs Josephine Schutte
+2078 NAME: Warner, see also Werner
+2094 NAME: Wells Fargo Co Express, Alfred A Guck agt, 317 Calumet
+2103 NAME: Western Express Co, A A Guck agt, ws Calumet 4 n of 4th
+2104 NAME: Western Union Telegraph Co, A A Guck agt, ws Calumet 4 n of 4th
+2106 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wiesenauer Florence, tchr, bds Fred Wiesenauer
+2108 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wiesenauer George, student, bds Fred Wiesenauer
+2109 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wiesenauer Milo, student, bds Fred Wiesenauer
+2110 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wiesenauer Percy, bkpr, bds Fred Wiesenauer
+2111 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wiesenauer Robert, student, bds Fred Wiesenauer
+2115 ADD, JOB NOT FOUND, PERSON NOT FOUND: Williams Arnold, bds Thomas Williams
+2116 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Williams Bessie, tchr, bds Thomas Wiliams
+2117 ADD, JOB NOT FOUND: Williams Chester J (Ellen), hd runner C H M Co, res n end of Calumet
+2126 ADD, JOB NOT FOUND, PERSON NOT FOUND: Williams Robert, bds Milton Williams
+2128 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Williams Ruth, nurse Lake Superior General Hospital, bds Thomas Williams
+2131 NAME: Williams Walter H lab C H M Co
+2136 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Withered Henry W, painter es Calumet 1 n of 1st, bds C H Boarding House
+2143 NAME: Zimmermann Henry J W, lab C H M Co

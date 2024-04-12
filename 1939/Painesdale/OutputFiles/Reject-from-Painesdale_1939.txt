@@ -1,0 +1,19 @@
+5 ADD: Adams Township School Fred A Jeffers supt
+29 ADD: Bianchi Dante r0ck hsemn Copper Range Co hi52 Forest
+64 ADD: Crowley Alvina asst bkpr South Range Mercantile Co
+68 ADD: DeForge Jos Mrs h County rd
+82 ADD: Evangelical Lutheran Church Rev P G Mueller pastor
+136 ADD: Jeffers Cora Mrs prin Painesdale High Sch
+198 ADD: Kujansuu Arth tchr r County rd
+221 ADD: Luchessi Filling Station (Ceasar Luchessi) Route 26
+248 ADD: Michels Peter barn boss Copper Range Co r near Company Barn
+285 ADD: Paine Sarah Sargent Memorial Library Mrs Clara L Clark librarian Hubbell av
+286 ADD: Painesdale Grade School Henry Dunstan prin Hubbell
+287 ADD: Painesdale High School Mrs Cora Jeffers prin Hubbell av
+305 NAME: Pin tar Antone mason Copper Range Co h194 Baltic
+307 NAME: Pin tar Martin miner Copper Range Co h196 Baltic
+323 NAME: Raj ala Chas miner Copper Range Co h183 Evergreen
+324 NAME: Raj ala Emil miner Copper Range Co h187 Baltic
+392 RESIDING WITH PERSON NOT FOUND: Steinle John tchr Painesdale High Sch r Copper Range Dispensary
+409 ADD: Teague Jas barber h Goodell
+435 ADD: Whittle Wm H (Mary) sec and mgr South Range Merc Cor r Goodell av

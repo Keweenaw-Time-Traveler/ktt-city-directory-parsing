@@ -1,0 +1,1000 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outWid, outSpouse, outJob, outWorkPlace, outT, outStSide, outStNum, outStNum(changed), outSt, outRd, outCity, outLoc, outMoved, outH/Rdo
+2,Aesche,Mary,null,Mrs,wid,Jos,null,null,r,null,5520,null,Bridge,null,null,null,null,null
+3,Allan,Alex,null,null,null,Emma,lab,null,h,null,5369,null,Depot,null,null,null,null,null
+4,Allwin,Leo,null,null,null,null,lab,null,h,ss,null,null,G 4 e Log,null,null,null,null,null
+5,Allwin,Victor,null,null,null,Ida,null,null,h,null,null,null,Calumet se cor Mine,null,null,null,null,null
+7,Amos,Nancy,null,null,wid,John,null,null,h,ss,null,null,Harris 3 w Kit,null,null,null,null,null
+8,Anderle,Harry,J ,null,null,null,tchr ,Lake Linden Hubbell High School,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+10,Annabelle,Barrette,null,null,null,null,null,null,r,null,5801,null,Gregory,null,null,null,null,null
+11,Archambeau,Ida,null,null,null,null,null,null,h,ws,null,null,Calumet 4 n of Maple,null,null,null,null,null
+12,Asselin,Albert,J ,null,null,Lake Linden Cash Market Torch Lake Hdw Co,null,null,h,null,100,null,Woodlawn av,null,null,null,Laurium,null
+13,Aubin,Hormisdas,null,null,null,Anna,null,null,h,null,null,null,Calumet se cor Mill,null,null,null,null,null
+14,Aubin,Jos,H ,null,null,Mary,lab,null,h,ss,null,null,Mill 1 e of Calumet,null,null,null,null,null
+15,Aubin,Lawrence,null,null,null,Pauline,lab,null,h,null,5464,null,Tunnel,null,null,null,null,null
+17,Aubin,Nelson,null,null,null,Rebecca,null,null,h,ws,null,null,Calumet 5 n of Maple,null,null,null,null,null
+19,Audette,Raymond,null,null,null,null,bkpr ,First Natl Bank of Lake Linden,r,null,null,null,null,null,Hubbell Mich,null,null,null
+21,Ayouette,Alphonse,null,null,null,Alvina,lab,null,h,ns,null,null,Mine 2 e of Front,null,null,null,null,null
+23,Backman,Amanda,null,null,null,null,elk ,A P Tea Co,r,null,null,null,null,null,Dollar Bay Mich,null,null,null
+25,Baillargeon,Jos,null,null,null,Mary,lab,null,h,es,null,null,Lake 2 n of Pine,null,null,null,null,null
+26,Barbeau,Alex,J ,null,null,null,pres ,Village of Lake Linden,h,null,null,null,Calumet nw cor Pine,null,null,null,null,null
+28,Baril,Alphonse,null,null,null,Genevieve,lab,null,h,null,5805,null,Gregory,null,null,null,null,null
+30,Baril,Arth,null,null,null,Mary L,slsmn ,Nelson Cantin,h,ss,null,null,Vetter 2 w of Convent,null,null,null,null,null
+32,Baril,Henry,null,null,null,null,null,null,h,ws,null,null,Calumet 3 n of Maple,null,null,null,null,null
+34,Baril,Jas,null,null,null,null,councilmn ,Village of Lake Linden,r,null,null,null,Calumet Mich,null,null,null,null,null
+35,Baril,Jos,null,null,null,Victoria,brkmn,null,h,ws,null,null,Front 3 n of Garfield,null,null,null,null,null
+39,Baril,Mose,null,null,null,Virginia,lab,null,h,ns,null,null,Division 1 w of Calumet,null,null,null,null,null
+40,Baril,Oliver,null,null,null,Alexina,justice of the peace ,Schoolcroft Twp,h,es,null,null,Calumet 1 n of Mill,null,null,null,null,null
+41,Baril,Pulcherie,null,null,wid,Diedonne,null,null,r,null,5805,null,Gregory,null,null,null,null,null
+43,Baril,Walter,null,null,null,Delia,null,null,h,es,null,null,Hecla 3 n of Pine,null,null,null,null,null
+45,Barrette,Ulric,null,null,null,Mary,lab,null,h,null,5801,null,Gregory,null,null,null,null,null
+46,Bawden,John,null,null,null,Eliza,lab,null,h,null,5254,null,County,rd,null,null,null,null
+47,Beauchaine,Jos,null,null,null,Clara,lab,null,h,null,5414,null,Library,null,null,null,null,null
+50,Beauchamp,Wm,Z ,null,null,Celina,mech,null,h,es,null,null,Calumet 5 n of Center,null,null,null,null,null
+54,Beaudoin,Eug,null,null,null,Eva,lab,null,h,ss,null,null,Beasley 1 e of Front,null,null,null,null,null
+58,Beaudry,Arth,J ,null,null,Mary,ins ,Calumet sw cor ,h,ss,null,null,Torch 2 w Hecla,null,null,null,null,null
+60,Becotte,Paul,null,null,null,Mary Gene,null,null,h,ws,null,null,Front 1 n of Mine,null,null,null,null,null
+61,Bedoie,Ernest,null,null,null,Rosanna,null,null,h,es,null,null,Calumet 2 s of Grover,null,null,null,null,null
+63,Belisle,Jos,null,null,null,Anna,lab,null,h,es,null,null,Hecla 1 s of Vetter,null,null,null,null,null
+65,Benedict,Harry,null,null,null,Lena,pres,null,h,null,5303,null,County,rd,null,null,null,null
+67,Bennett,Wm,null,null,null,Ada,firemn,null,h,null,5472,null,Tunnel,null,null,null,null,null
+69,Benoit,Wm,null,null,null,Mae,formn ,null,h,null,null,null,County ,rd,null,null,null,null
+70,Bergen,Armour,E ,null,null,Lillian,slsmn,null,h,ws,null,null,Gregory 1 n of Division,null,null,null,null,null
+73,Beril,Noah,null,null,null,Marie,lab,null,h,ns,null,null,Mill 1 w of 5955,null,null,null,null,null
+75,Beuduon,Pelecide,null,null,null,Alfonde,lab,null,h,ws,null,null,Front 6 s of Mill,null,null,null,null,null
+77,Bissonnette,Lea,null,null,null,null,null,null,r,null,915,null,Gregory,null,null,null,null,null
+78,Bissonnette,Peter,null,null,null,null,null,null,h,null,915,null,Gregory,null,null,null,null,null
+80,Blondo,Howard,W ,null,null,Agnes,slsmn,null,h,null,null,null,Hecla se cor Center,null,null,null,null,null
+81, Boismiere, Agatha, null, null, null, null, hskpr , Rev Henry Rice,h, null, null, null, Hecla se cor Center, null, null, null, null, null
+83,Bond,John,T ,null,null,Eliz,barber es ,Calumet ,h,ss,null,null,G 2 n Hecla,null,null,null,null,null
+88,Boucher,Eug,null,null,null,Flora,null,null,h,ws,null,null,Hecla 6 n of Vetter,null,null,null,null,null
+91,Bourdeau,Antoinette,null,null,null,null,asst postmstr ,Lake Linden,r,null,5373,null,Depot,null,null,null,null,null
+95,Bourdeau,Francis,null,null,null,null,lab,null,r,null,5373,null,Depot,null,null,null,null,null
+96,Bourdeau,Isabelle,null,null,null,null,opr,null,r,null,5373,null,Depot,null,null,null,null,null
+98,Bourdeau,Jos,F ,null,null,Eliz,null,null,h,es,null,null,Hecla 2 n of 1st,null,null,null,null,null
+100,Bourdeau,Jos,W ,null,null,Bessie,null,null,h,es,null,null,Hecla 3 n of Center,null,null,null,null,null
+101,Bourdeau,Rosanna,null,null,wid,Noel,null,null,r,null,5373,null,Depot,null,null,null,null,null
+103,Boyer,Alvina,null,null,wid,John,null,null,h,es,null,null,Lake 6 n of Pine,null,null,null,null,null
+105,Braun,Martin,null,null,null,null,councilmn ,Village of Lake Linden,r,null,null,null,Hecla,null,null,null,null,null
+106,Bray,Jabez,null,null,null,Marion,lab,null,h,ws,null,null,Kit 2 n 3d,null,null,null,null,null
+107,Briggs,Edith,M ,null,null,null,elk ,Lake Linden PO,r,null,5457,null,County,rd,null,null,null,null
+108,Briggs,Louise,null,null,null,null,student,null,r,null,5457,null,County,rd,null,null,null,null
+109,Briison,David,null,null,null,Eliz,lab,null,h,null,5401,null,County,rd,null,null,null,null
+110,Briison,Victoria,null,null,wid,Gedion,null,null,r,null,5401,null,County,rd,null,null,null,null
+111,Brinkman,Frank,null,null,null,Mollie,lab,null,h,ss,null,null,E 3 w Hecla,null,null,null,null,null
+113,Brouillette,Lawrence,null,null,null,Antoinette,lab,null,h,es,null,null,Gregory 2 n of Garfield,null,null,null,null,null
+115,Brown,John,B ,null,null,Minnie,wtchmn,null,h,null,5955,null,Mill,null,null,null,null,null
+116,Bruder,Ivey,null,null,wid,John,null,null,h,ws,null,null,Front 2 s of Pine,null,null,null,null,null
+118,Budette,Jas,null,null,null,null,null,null,h,ns,null,null,Mill 3 w 5955,null,null,null,null,null
+119,Burgan,Jas,null,null,null,Lillian,mstr mech,null,h,es,null,null,Schoolcraft 2 n 2d,null,null,null,null,null
+120,Burgan,Leslie,null,null,null,Lucille,lab,null,h,null,5404,null,Library,null,null,null,null,null
+122,Burgan,Mary,null,null,null,null,null,null,h,ws,null,null,Calumet 10 n of Vetter,null,null,null,null,null
+124,Burke,Wm,null,null,null,null,mech ,Turners Garage,r,null,null,null,Calumet Mich,null,null,null,null,null
+125,Burmester,Elsie,null,null,null,null,null,null,r,null,5519,null,Bridge,null,null,null,null,null
+126,Burmester,Fredk,null,null,null,null,student,null,r,null,5519,null,Bridge,null,null,null,null,null
+127,Burmester,Otto,null,null,null,Edith,lab,null,h,null,5519,null,Bridge,null,null,null,null,null
+130,Buschell,Sami,null,null,null,Stella,scaler,null,h,es,null,null,Front 1 s of Division,null,null,null,null,null
+131,Butt,Minnie,null,null,wid,Chas,null,null,h,es,null,null,Calumet 2 n of Center,null,null,null,null,null
+132,Buzzo,Juanita,null,null,null,null,null,null,r,null,5642,null,Tunnel,null,null,null,null,null
+133,Buzzo,Richd,null,null,null,Magna,blksmith,null,h,null,5642,null,Tunnel,null,null,null,null,null
+134,Buzzo,Robt,null,null,null,null,student,null,r,null,5642,null,Tunnel,null,null,null,null,null
+135,Cadwell,Raymond,null,null,null,Lou,lab,null,h,null,5463,null,Tunnel,null,null,null,null,null
+137,Cammerschen,Chris,null,null,null,Aurslina,null,null,h,null,5475,null,Tunnel,null,null,null,null,null
+138,Canfield,Wm,H ,null,null,Angeline,null,null,h,es,null,null,Hecla 4 n of Maple,null,null,null,null,null
+140, Cantin, Nelson, null, null, null, null, hdw , Calumet nw cor Torch,h, es, null, null, Hecla 4 n of Maple, null, null, null, null, null
+142,Carey,S,A ,null,null,Emily,ev  pastor ,Lake Linden M E Church,h,ns,null,null,Schoolcraft cor 3d,null,null,null,null,null
+143,Carlson,Gust,E ,null,null,Mary,lab,null,h,ss,null,null,Mine 3 w of Hecla,null,null,null,null,null
+149,Cassabon,Jos,null,null,null,Almina,carp,null,h,ws,null,null,Calumet 2 n of Torch,null,null,null,null,null
+150,Cassett,Jos,null,null,null,Elsie,lab,null,h,ns,null,null,G 1 w Log,null,null,null,null,null
+151,Cassette,Alf,null,null,null,Eva,lab,null,h,ns,null,null,Torch 2 e Hecla,null,null,null,null,null
+152,Cassette,Jerry,L ,null,null,Marion,lab,null,h,ss,null,null,Vetter 1 w of Hecla,null,null,null,null,null
+156,Chabot,Lucien,S ,null,null,Aurora,dep collr,null,h,null,null,null,Calumet se cor Vetter,null,null,null,null,null
+162,Chaput,Wilfred,J ,null,null,Laura,null,null,h,es,null,null,Hecla 8 n of Center,null,null,null,null,null
+163,Chatel,Ed,null,null,null,Louise,lab,null,r,ns,null,null,2d 3 e Ry track,null,null,null,null,null
+168,Clark,Fred,null,null,null,Anna,lab,null,h,null,1,null,w 5523 Bridge,null,null,null,null,null
+169,Clouthier,Henry,null,null,null,Leona,lab,null,h,ns,null,null,Beasley 1 w of Calumet,null,null,null,null,null
+172,Codere,Stanley,null,null,null,Eliz,lab,null,h,es,null,null,Gregory 1 n of Garfield,null,null,null,null,null
+173,Coggin,Albert,G ,null,null,Eliz,dentist ,Calumet sw cor ,h,null,null,null,Calumet sw cor Mine,null,null,null,null,null
+174,Collie,Jas,null,null,null,null,th,null,h,null,null,null,Calumet sw cor ,null,null,null,null,null
+175,Colmeyer,Anton,null,null,null,null,lab,null,h,ss,null,null,G 4 e Log,null,null,null,null,null
+179,Condon,John,null,null,null,Hannah,lab,null,h,null,5736,null,Log,rd,null,null,null,null
+181,Congdon,Mary,null,null,null,null,nurse ,Lake Superior General Hosp,r,null,null,null,Calumet Mich,null,null,null,null,null
+182,Cook,Edith,C ,null,wid,Albert,null,null,h,null,null,null,Calumet nw cor Pine,null,null,null,null,null
+186,Corbeil,Edw,J ,null,null,Bertha B,barber ,Calumet se cor ,h,ss,null,null,Harris 1 w of Kit,null,null,null,null,null
+189,Corbeil,Fredk,null,null,null,Caroline,soft drinks ws ,Calumet ,h,ws,null,null,Pear 2 s Pine,null,null,null,null,null
+190,Corriveau,Jos,null,null,null,Josephine,null,null,h,ns,null,null,Vetter 5 w of Hecla,null,null,null,null,null
+192,Cournoyer,Mary,null,null,wid,Peter,null,null,h,ws,null,null,Front 4 n of Beasley,null,null,null,null,null
+193,Cramer,Wm,null,null,null,null,lab,null,h,ws,null,null,Front 1 s of 4th,null,null,null,null,null
+194,Croisetiere,Sefrid,null,null,null,Cherry,lab,null,h,ss,null,null,G 1 w Log,null,null,null,null,null
+195,Cpllen,J,R ,null,null,Elsie,ev  pastor,null,h,es,null,null,Kit 1 n of 3d,null,null,null,null,null
+199,Curtin,Jos,null,null,null,Irene,lab,null,h,ws,null,null,Log 2 n Vetter,null,null,null,null,null
+201,Daniel,Dalma,null,null,null,Grandehene,lab,null,h,ns,null,null,Mill 1 w 5967,null,null,null,null,null
+202,Daniel,Edmund,null,null,null,Manda,null,null,h,null,5969,null,Mill,null,null,null,null,null
+203,Daniels,Irene,null,null,null,Irenes Beauty Shoppe,null,null,r,null,5969,null,Mill,null,null,null,null,null
+204,Davey,Hettie,null,null,null,null,null,null,h,ws,null,null,Schoolcraft 1 n 3d,null,null,null,null,null
+205,Davis,Edwin,C ,null,null,null,radio eng ,Mich Elec Mfg Co,r,null,null,null,null,null,Dollar Bay,null,null,null
+208,Dearden,Thos,null,null,null,Mabel,trav,null,h,null,null,null,Calumet nw cor Mine,null,null,null,null,null
+209,Decareau,Orphie,null,null,null,null,null,null,r,null,5070,null,Mill,null,null,null,null,null
+211,DeMars,Edw,null,null,null,Annie,tmstr,null,h,ns,null,null,Mine 1 e of Front,null,null,null,null,null
+213,DeMars,Jos,null,null,null,Marie,lab,null,h,es,null,null,Hecla 5 s of Vetter,null,null,null,null,null
+214,DeMarse,Geo,null,null,null,null,councilmn ,Village of Lake Linden,r,null,null,null,Hecla,null,null,null,null,null
+216, DeMers, Leo, null, null, null, Jessie, gro , Calumet ne cor Mill,r, null, null, null, Hecla, null, null, null, null, null
+217,Denault,Geo,null,null,null,Irene,driver,null,h,ss,null,null,Center 2 w of Front,null,null,null,null,null
+219, Denime, Lucille, null, Mrs, null, null, maid , Lake Linden Hotel,h, ss, null, null, Center 2 w of Front, null, null, null, null, null
+220,DeRoche,Arth,null,null,null,Marie,carp,null,h,ws,null,null,Piche 1 s of Corbeil,null,null,null,null,null
+222,Desellier,Alex,null,null,null,Georgiana,lab,null,h,null,5371,null,Depot,null,null,null,null,null
+223,Desellier,Arth,null,null,null,null,lab,null,r,null,5371,null,Depot,null,null,null,null,null
+224,Desellier,Henry,null,null,null,null,lab,null,r,null,5371,null,Depot,null,null,null,null,null
+225,Desellier,Mercedes,null,null,null,null,student,null,r,null,5371,null,Depot,null,null,null,null,null
+226,Desellier,Victoria,null,null,null,null,null,null,r,null,5371,null,Depot,null,null,null,null,null
+227,DesOrmiers,Jos,O ,null,null,Mary L,dept store ,Calumet ne cor ,h,es,null,null,Hecla 3 n of 1st,null,null,null,null,null
+232,Dion,Onesime,null,null,null,Jane,null,null,h,ns,null,null,Beasley 4 w of Cemetery,null,null,null,null,null
+233,Dion,Walter,null,null,null,Emma,lab,null,h,es,null,null,Front 3 s of Division,null,null,null,null,null
+234,Dix,Mary,null,null,wid,Nicholas,null,null,h,ns,null,null,Torch 4 e Ry crossing,null,null,null,null,null
+235,Dolan,John,null,null,null,Rose,firemn,null,h,null,5457,null,County,rd,null,null,null,null
+237,Drew,Alf,R ,null,null,Louise,lab,null,h,es,null,null,Gregory 1 n of Division,null,null,null,null,null
+238,Drew,Fred,J ,null,null,Kath,lab ,CH,h,ss,null,null,D 2 w Hecla,null,null,null,null,null
+239,Dryden,Jas,null,null,null,Anna,lab,null,h,ns,null,null,D 1 w of Hecla,null,null,null,null,null
+240,Ducheamin,Julia,null,null,wid,Felix,null,null,h,null,null,null,Lake,null,null,null,null,null
+241,Duchmin,David,null,null,null,Clara,lab,null,h,ss,null,null,Mine 4 w of Heela,null,null,null,null,null
+244,Dudley,John,null,null,null,Beatrice,eng,null,h,null,5460,null,Tunnel,null,null,null,null,null
+245,Dulong,Irving,null,null,null,Florda,lab,null,h,null,5804,null,Gregory,null,null,null,null,null
+247,Dupies,Alphonse,null,null,null,Ida,councilmn ,Village of Lake Linden,h,ss,null,null,Beasley 2 w of Calumet,null,null,null,null,null
+248,Dupries,Edw,null,null,null,Anna,lab,null,h,es,null,null,Gregory 2 n of Division,null,null,null,null,null
+252,Dupuis,Elmer,null,null,null,Roselda,lab,null,h,es,null,null,Calumet 4 s of Division,null,null,null,null,null
+253,Dupuis,Homer,null,null,null,Mary,lab,null,h,ss,null,null,Harris 4 w Kit,null,null,null,null,null
+254,Dupuis,John,null,null,null,Irene,null,null,h,ws,null,null,Front 2 n of Beasley,null,null,null,null,null
+255,Dupuis,Jos,null,null,null,Angeline,lab,null,h,ws,null,null,Neumann 1 n of Division,null,null,null,null,null
+256,Dupuis,Napoleon,null,null,null,Josephine,lab,null,h,ns,null,null,Mill 3 w of 5955,null,null,null,null,null
+257,Dupuis,Nelson,null,null,null,Aurelia,lab,null,h,es,null,null,Lake 2 n of Center,null,null,null,null,null
+258,Dupuis,Ovila,null,null,null,Valerie,null,null,h,es,null,null,Calumet 3 s of Division,null,null,null,null,null
+259,Dupuis,Rudolph,null,null,null,Regina,lab ,CH,h,es,null,null,3 n of Division,null,null,null,null,null
+262,Duquette,Geo,F ,null,null,Louise,lab,null,h,es,null,null,Gregory 3 n of Garfield,null,null,null,null,null
+263,Dusseault,Alf,null,null,null,Rachel,null,null,h,es,null,null,Hecla 2 n of Center,null,null,null,null,null
+265,Dusseault,Ray,null,null,null,Della,lab,null,h,ns,null,null,E 1 w of Hecla,null,null,null,null,null
+266,Dusseault,Wm,null,null,null,Emma,supt,null,h,es,null,null,Hecla 3 s of Vetter,null,null,null,null,null
+268,Duteau,Jos,E ,null,null,null,lab,null,r,null,59992,null,Lake,null,null,null,null,null
+269,Duteau,Marietta,G ,null,null,null,student,null,r,null,5999,null,Lake,null,null,null,null,null
+270,Duteau,Oliver,null,null,null,Cecelia,lab,null,h,null,599912,null,Lake,null,null,null,null,null
+271,Duteau,Robt,P ,null,null,null,null,null,r,null,5999,null,Lake,null,null,null,null,null
+273,Eddy,Jas,Harold ,null,null,Gwenllian W,editor and mgr ,Native Copper Times,h,ws,null,null,Front 3 s of Mill,null,null,null,null,null
+274,Eddy,Jas,P ,null,null,null,null,null,h,null,null,null,Calumet sw cor Vetter,null,null,null,null,null
+276,Eddy,Reuben,null,null,null,Eleanor,null,null,h,es,null,null,Calumet 2 s of Beasley,null,null,null,null,null
+277,Eddy,Sami,null,null,null,Georgie Eddy Lumber Co,supvr ,Schoolcraft Township,h,es,null,null,Calumet 3 n of Maple,null,null,null,null,null
+278,Edmond,Anna,null,null,wid,Victor,null,null,h,ws,null,null,Hecla 1 n of Torch,null,null,null,null,null
+279,Effinger,Matt,C ,null,null,Matilda,lab,null,h,ns,null,null,1st 1 w of Hecla,null,null,null,null,null
+283,Falerios,Edw,J ,null,null,Irene M,atndt ,Standard Oil Co Filling Sta,h,es,null,null,Calumet 1 s of Fanny,null,null,null,null,null
+285,Falerios,John,null,null,null,Adelaide,lab,null,h,ws,null,null,Poplar 3 n Hecla,null,null,null,null,null
+292,Faull,E,Lois ,null,null,null,tchr,null,r,null,5478,null,Tunnel,null,null,null,null,null
+293,Faull,Mary,null,null,wid,Wm,null,null,h,null,5478,null,Tunnel,null,null,null,null,null
+295,Filardeau,Gloris,null,null,wid,Peter,null,null,h,es,null,null,Lake 2 n of 4th,null,null,null,null,null
+298,Fillinger,Frank,null,null,null,Eliz,lab,null,h,ss,null,null,Douglass 2 w of Atlantic,null,null,null,null,null
+302,Fisher,Jos,M ,null,null,null,elk ,Lake Linden Cash Market,h,null,null,null,Lake,null,null,null,null,null
+304,Flerios,Elise,null,null,null,null,student,null,r,null,5473,null,Tunnel,null,null,null,null,null
+305,Flerios,Frank,null,null,null,Kath,lab,null,h,null,5473,null,Tunnel,null,null,null,null,null
+306,Flerios,Gertrude,null,null,null,null,elk,null,r,null,5473,null,Tunnel,null,null,null,null,null
+307,Flerios,Unis,null,null,null,null,elk,null,r,null,5473,null,Tunnel,null,null,null,null,null
+308,Fluri,Rose,null,null,null,null,null,null,r,null,5520,null,Bridge,null,null,null,null,null
+311,Folardeau,Gedon,null,null,null,Regina,null,null,h,ns,null,null,Fanny 1 w of Neuman,null,null,null,null,null
+314,Fontaine,Henry,null,null,null,Laura,lab ,CH,h,ns,null,null,E 2 w Hecla,null,null,null,null,null
+315,Fontaine,Napoleon,null,null,null,Mando,null,null,h,ns,null,null,Grover 1 w of Calumet,null,null,null,null,null
+321,Fountaine,John,null,null,null,Olivine,null,null,h,es,null,null,Calumet 3 n of Center,null,null,null,null,null
+323,Francis,Chas,null,null,null,Jennie,null,null,h,es,null,null,Hecla 4 n of Center,null,null,null,null,null
+324,Francis,John,F ,jr,null,Rose,formn,null,h,null,5520,null,Bridge,null,null,null,null,null
+328,Franks,Ella,null,null,wid,Geo,null,null,h,es,null,null,Schoolcraft 2 n 3d,null,null,null,null,null
+329,Franks,Margt,null,null,wid,Geo,s ,null,h,null,null,null,Tunnel ,null,null,null,null,null
+333,Frazer,John,null,null,null,Josephine,lab,null,h,null,3,null,w 6004 1st,null,null,null,null,null
+334,Frenette,Richd,null,null,null,Eleanor,null,null,h,ws,null,null,Gregory 1 n of Grover,null,null,null,null,null
+336,Gaffney,Anna,null,null,null,null,supt ,Lake Superior General Hosp,r,null,null,null,null,null,Hubbell Mich,null,null,null
+337,Gagnon,Adolphe,null,null,null,Edna,lab,null,h,ns,null,null,Fanny 2 w of Calumet,null,null,null,null,null
+338,Gagnon,Alex,null,null,null,Velida,lab,null,h,ws,null,null,Log 7 n Torch,null,null,null,null,null
+339,Gagnon,Archie,null,null,null,Exilda,lab,null,h,ns,null,null,Torch 4 e Hecla,null,null,null,null,null
+340,Gagnon,Aug,null,null,null,Tillie,lab,null,h,ws,null,null,Calumet 3 n of 3d,null,null,null,null,null
+344,Galbraith,Wm,J ,null,null,null,atty ,Village of Lake Linden,r,null,null,null,null,null,Laurium,null,null,null
+346,Gale,Mary,J ,null,wid,Sami,null,null,h,ws,null,null,Calumet 6 n of 4th,null,null,null,null,null
+347,Gamache,Ames,null,null,null,Antoinette,lab,null,h,es,null,null,Lake 5 nof Pine,null,null,null,null,null
+348,Gariepy,Felix,null,null,null,Rose,lab,null,h,es,null,null,Piche 1 n of Division,null,null,null,null,null
+349,Garon,Edw,null,null,null,Florence,lab,null,h,es,null,null,Lake 5 n of Vetter,null,null,null,null,null
+352,Garon,Mose,null,null,null,Mary,null,null,h,ws,null,null,Front 1 n of Division,null,null,null,null,null
+354,Gaulin,Dolphus,null,null,null,Margt,lab,null,h,ss,null,null,E 4 w Hecla,null,null,null,null,null
+356,Gerard,Nicholas,null,null,null,Arina,lab,null,h,null,null,null,null,null,C H,loc,null,null
+357,Gerard,Nicholas,null,jr,null,Beatrice,null,null,h,null,2,null,w 6004 1st,null,null,null,null,null
+358,Geroux,Remi,null,null,null,Philomine,null,null,h,null,null,null,Hecla ne cor Center,null,null,null,null,null
+362,Gervais,Onesime,null,null,null,Zarilda,lab,null,h,es,null,null,Lake 6 n of Vetter,null,null,null,null,null
+363,Gillet,Benj,E ,null,null,Mary,jwlr ws ,Calumet ,h,null,null,null,Calumet sw cor ,null,null,null,null,null
+364,Gillet,Leon,G ,null,null,null,wtchmkr ,Benj E Gillet,r,null,null,null,null,null,Hubbell Mich,null,null,null
+365,Gillies,Neil,M ,null,null,Rispah,shp elk,null,h,ws,null,null,Calumet 9 n of Vetter,null,null,null,null,null
+367,Glanville,Lula,null,null,null,null,null,null,h,ws,null,null,Calumet 2 n of Vetter,null,null,null,null,null
+368,Gleason,Wm,null,null,null,Susie,meat ctr ,Perreault Mkt,h,ss,null,null,1 w Pine,null,null,null,null,null
+369,Glesener,Fred,null,null,null,wid,supt,null,r,null,5439,null,Lake,null,null,null,null,null
+370,Glesener,Theresa,null,null,wid,Anton,null,null,r,null,5439,null,Lake,null,null,null,null,null
+371,Godin,Alex,null,null,null,Clara,lab,null,h,ws,null,null,Atlantic 1 n 2d,null,null,null,null,null
+373,Godin,Israel,null,null,null,Mathilda,lab,null,h,ss,null,null,Vetter 1 w of Convent,null,null,null,null,null
+374,Godin,Napoleon,null,null,null,null,lab,null,h,ws,null,null,Hecla 2 n of Pine,null,null,null,null,null
+375,Godin,Wilfred,null,null,null,Kate,lab,null,h,ns,null,null,Beasley 2 w of Cemetery,null,null,null,null,null
+378,Goldsworthy,Clement,null,null,null,null,lab,null,r,null,5501,null,Tunnel,null,null,null,null,null
+379,Goldsworthy,Jas,null,null,null,Eliz,lab,null,h,null,5501,null,Tunnel,null,null,null,null,null
+380,Goldsworthy,Mathias,null,null,null,null,eng,null,h,es,null,null,Hecla 7 n of Center,null,null,null,null,null
+381,Goldsworthy,Wm,J ,null,null,Bessie,switch board opr,null,h,null,1,null,w 5526 Bridge,null,null,null,null,null
+383,Graham,Geo,null,null,null,null,pnn ,Lake Lmden Hubbell High Sch,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+385,Groy,W,E ,null,null,Eliza,illard ,null,h,es,null,null,Front 1 n of Grover,null,null,null,null,null
+386,Greene,Ellen,null,null,wid,Frank,null,null,r,ss,null,null,E 1 w Hecla,null,null,null,null,null
+387,Greene,Francis,null,null,null,null,null,null,h,ss,null,null,E 1 w Hecla,null,null,null,null,null
+389,Greenshield,Rosie,null,Mrs,null,null,null,null,h,ns,null,null,Torch 1 e Hecla,null,null,null,null,null
+390,Gregory,Antoinette,null,null,null,null,opr ,Mich Bell Tel Co,r,null,null,null,Clara Gregory,null,null,null,null,null
+391,Gregory,Clara,null,null,null,null,null,null,h,ws,null,null,Front 2 s of Mill,null,null,null,null,null
+392,Gregory,Malina,null,null,null,null,null,null,r,null,null,null,Clara Gregory,null,null,null,null,null
+394,Gregory,Rudolph,null,null,null,Clara,assessor ,Village of Lake Linden,h,ss,null,null,Mine 3 w Cemetery,null,null,null,null,null
+395,Gregory,Yvonne,null,null,null,null,null,null,r,null,null,null,Rudolph Gregory,null,null,null,null,null
+396,Guard,Thos,null,null,null,Flora,lab,null,h,null,5523,null,Bridge,null,null,null,null,null
+397,Guard,Truman,T ,null,null,Eileen,bkpr ,First Natl Bank of Lake Linden,r,ss,null,null,Beasley 1 w Calumet,null,null,null,null,null
+398,Gugoun,Eug,null,null,null,null,lab,null,r,null,5379,null,Depot,null,null,null,null,null
+399,Gugoun,Geo,null,null,null,Alvina,null,null,h,null,5367,null,Depot,null,null,null,null,null
+401,Guibard,Mary,null,Mrs,wid,Thos,null,null,h,ns,null,null,Vetter 3 e Hecla,null,null,null,null,null
+403,Guibord,Thos,null,null,null,Delima,slsmn ,Variety Store,h,ws,null,null,Calumet 6 n Center,null,null,null,null,null
+404,Guilbeault,John,null,null,null,null,null,null,h,ns,null,null,Mill 2 w 5967,null,null,null,null,null
+405,Guion,Oliver,null,null,null,Louise,lab,null,h,es,null,null,Hecla 4 s Vetter,null,null,null,null,null
+406,Gustafson,Carl,A ,null,null,Evalyn,br mgr,null,h,ws,null,null,Calumet 6 n 1st,null,null,null,null,null
+409, Hainault, Leon, null, null, null, Rose, barber es , Calumet ,h, ws, null, null, Calumet 6 n 1st, null, null, null, null, null
+414,Halle,Mary,null,null,null,null,tel opr,null,h,ws,null,null,Piche 4 s Corbeil,null,null,null,null,null
+415,Haller,Alice,null,Mrs,null,null,sten ,Gaston R Pichette,r,null,22,null,Osceola,null,null,null,null,null
+416,Haller,Herman,null,null,null,Alice,lab,null,h,null,22,null,Osceola,null,null,null,null,null
+419,Hamel,Mary,null,null,wid,Dolore,null,null,h,ws,null,null,Gregory 2 n Grover,null,null,null,null,null
+420,Handberg,Sivert,null,null,null,Martha,agt ,Ry Express Agcy Inc,r,cor,null,null,Front and Vetter,null,null,null,null,null
+421,Hansen,Henry,J ,null,null,Mary S,tchr ,Lake Linden Hubbell High Sch,h,ss,null,null,Mine 2 w Calumet,null,null,null,null,null
+423,Haryu,Swande,null,null,null,Agnes,null,null,h,ws,null,null,Calumet 3 n of 1st,null,null,null,null,null
+424,Haskell,Robt,null,null,null,Detta,formn,null,h,null,5379,null,County,rd,null,null,null,null
+425,Hasselblad,Ambrose,null,null,null,null,tchr ,Lake Linden Hubbell High Sch,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+428,Hebert,Jos,null,null,null,null,lab,null,h,ws,null,null,Front 2 s Center,null,null,null,null,null
+430,Heidkamp,Adolph,F ,null,null,null,sec ,Board of Education,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+432,Hein,Nicholas,null,null,null,Eliz,null,null,h,ss,null,null,Center 4 w Front,null,null,null,null,null
+434,Heine,Peter,J ,null,null,Olive,slsmn ,Calumet Gas Coke Co,h,es,null,null,Schoolcraft 3 n 3d,null,null,null,null,null
+436,Hemon,Jos,null,null,null,Mary,lab,null,h,ws,null,null,Front 2 n Division,null,null,null,null,null
+438,Hennecke,Eliz,null,null,wid,Jos,null,null,h,ws,null,null,Gregory 6 n Grover,null,null,null,null,null
+441,Henry,Frank,null,null,null,Repioale,lab,null,h,null,5964,null,Mill,null,null,null,null,null
+442, Hexham, Henrietta, null, null, null, null, maid , Lake Linden Hotel,h, null, 5964, null, Mill, null, null, null, null, null
+443,Hoar,Jas,null,null,null,Mary,null,null,h,ws,null,null,Hecla 2 n 3d,null,null,null,null,null
+444,Hodge,Elva,null,null,null,null,null,null,h,null,5802,null,Gregory,null,null,null,null,null
+445,Hodge,Henry,null,null,null,Waldina,electn ,Harry E Penninger,r,null,null,null,Calumet,null,null,null,null,null
+447,Holtzebuger,Phillip,null,null,null,Hannah,lab,null,h,ns,null,null,Vetter 4 w Hecla,null,null,null,null,null
+451, Hopf, Wm, null, null, null, null, shoes ws , Calumet ,h, ns, null, null, Vetter 4 w Hecla, null, null, null, null, null
+452,Hosang,Bradley,null,null,null,null,slsmn ,Perreault Mkt,r,null,null,null,null,null,Hubbell Mich,null,null,null
+454,Hughes,C,Ruth ,null,null,null,tchr ,Lake Linden Hubbell High Sch,r,null,null,null,Hecla,null,null,null,null,null
+455,Hugo,Geo,null,null,null,Louise,printer ,Native Copper Times,h,ws,null,null,Calumet 4 n Vetter,null,null,null,null,null
+459,Jackson,Marvin,null,null,null,Mary,null,null,h,ns,null,null,Torch 3 e Hecla,null,null,null,null,null
+460,Jacobs,Drina,null,null,wid,John,null,null,h,ws,null,null,Piche 2 s of Corbeil,null,null,null,null,null
+462,Jacobson,Arth,J ,null,null,null,slsmn ,Pearce Hdw Fum Co,r,null,null,null,null,null,Laurium Mich,null,null,null
+463,Jacque,Alex,null,null,null,Annette,lab,null,h,ws,null,null,Log 1 n Torch,null,null,null,null,null
+465,Jaques,Leo,null,null,null,null,lab,null,h,ws,null,null,Front 1 s Torch,null,null,null,null,null
+466,Jandron,Zephir,null,null,null,Cordelia,lab,null,h,ns,null,null,Vetter 1 w of Hecla,null,null,null,null,null
+467,Jilbert,Bertha,H ,null,wid,Wm C,null,null,h,es,null,null,Hecla 4 n of 1st,null,null,null,null,null
+468,Jilbert,Russell,W ,null,null,Marion,slsmn ,Leo M Studer,r,es,null,null,Hecla 4 n 1st,null,null,null,null,null
+469,Jobin,Adelard,null,null,null,Julia,lab,null,h,ws,null,null,Atlantic 3 n 2d,null,null,null,null,null
+470,Jobin,Elzeor,null,null,null,Celina,lab,null,h,ns,null,null,Harris 5 w of Kit,null,null,null,null,null
+474,Johns,Edw,null,null,null,null,null,null,h,ns,null,null,Mill 3 w Lake,null,null,null,null,null
+476,Johns,Rose,null,null,null,null,null,null,r,ns,null,null,Mill 3 w of Lake,null,null,null,null,null
+477,Johnson,Henry,E ,null,null,Marion,lab,null,h,ns,null,null,2d 1 e ry track,null,null,null,null,null
+479,Johnston,Cath,null,Mrs,null,null,null,null,r,null,5523,null,Bridge,null,null,null,null,null
+480,Johnston,Lawrence,null,null,null,null,reprmn ,Pearce Hdw Furn Co,r,null,null,null,null,null,Hubbell Mich,null,null,null
+481,Jones,Annabelle,M ,null,wid,John E,null,null,h,ws,null,null,Hecla 3 n 3d,null,null,null,null,null
+484,Jones,Thos,null,null,null,null,null,null,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+487,Kammerschen,Bessie,null,null,wid,Christ,slswn ,Torch Lake Hdw Co,r,null,null,null,Hecla,null,null,null,null,null
+488,Kappler,Fred,null,null,null,Lena,null,null,h,ss,null,null,3 w Hecla,null,null,null,null,null
+490,Keast,Chas,null,null,null,Phyllis,lab,null,h,ss,null,null,Vetter 2 w Hecla,null,null,null,null,null
+491,Keast,Geo,null,null,null,Alice,lab,null,h,es,null,null,Lake 2 n of Vetter,null,null,null,null,null
+492,Keast,Jas,null,null,null,null,null,null,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+494,Keast,Wm,null,null,null,null,lab,null,h,ns,null,null,Harris 4 w Kit,null,null,null,null,null
+495,Kenney,Herman,null,null,null,Grace,lab,null,h,null,null,null,County,rd,null,null,null,null
+496,Kettenbeil,Agnes,null,null,wid,Chas,null,null,h,ws,null,null,Calumet 2 n 3d,null,null,null,null,null
+497,Kettenbeil,Henry,null,null,null,Margt,firemn ,Fire Dept,h,null,8569,null,Mill,null,null,null,null,null
+498,Kettenbeil,Walter,null,null,null,Flossie,null,null,h,null,null,null,Calumet ne cor Torch,null,null,null,null,null
+501,Kiefer,Chas,P ,null,null,Mary L,clothing ,Calumet nw cor Center,h,ns,null,null,Fanny 1 w Calumet,null,null,null,null,null
+502,Kingstrom,Clyde,W ,null,null,Alice,null,null,h,ss,null,null,4th 1 w Front,null,null,null,null,null
+503,Kirshweng,Agnes,null,null,null,null,null,null,r,null,5402,null,County,rd,null,null,null,null
+504,Kirshweng,Sarah,null,null,wid,Theo,null,null,h,null,5402,null,County,rd,null,null,null,null
+505,Kirshweng,Veronica,null,null,null,null,tchr,null,r,null,5402,null,County,rd,null,null,null,null
+506,Kline,Wm,null,null,null,Minnie,null,null,h,ws,null,null,Calumet 6 n Vetter,null,null,null,null,null
+507,Knepple,F,G ,null,null,Wilma,dentist ,First Natl Bank bldg,h,ns,null,null,Division 1 w Front,null,null,null,null,null
+509,Kohlmier,Helen,null,null,null,null,null,null,r,null,5524,null,Bridge,null,null,null,null,null
+510,Kohlmier,Mathew,null,null,null,Augusta,lab,null,h,null,5524,null,Bridge,null,null,null,null,null
+511,Koponen,John,null,null,null,null,slsmn ,Turners Garage,r,null,null,null,Calumet Mich,null,null,null,null,null
+513,Kramer,Barbara,null,null,wid,Wm,null,null,h,ws,null,null,Hecla 1 n of Center,null,null,null,null,null
+518,Kus,Clarence,null,null,null,Mayme,lab,null,h,null,5459,null,County,rd,null,null,null,null
+519,Kus,Susan,null,null,wid,Wybert,null,null,r,null,5526,null,Bridge,null,null,null,null,null
+520,LaBeault,Arth,null,null,null,Rebeccah,th,null,h,null,null,null,Calumet sw cor ,null,null,null,null,null
+522,LaBelle,Stanislaus,null,null,null,Alphonise,null,null,h,ns,null,null,Pine 1 e Hecla,null,null,null,null,null
+523,LaBranch,Louis,null,null,null,Mary,carp,null,h,ns,null,null,Torch 3 e Ry crossing,null,null,null,null,null
+524, LaCasse, Jos, null, null, null, null, soft drinks ws , Calumet ,h, ns, null, null, Torch 3 e Ry crossing, null, null, null, null, null
+525,LaChappelle,Jos,null,null,null,Belle,lab,null,h,es,null,null,Lake 4 n Vetter,null,null,null,null,null
+528,Lafleur,Sami,null,null,null,Alvina,lab,null,h,ns,null,null,2d 4 e Ry track,null,null,null,null,null
+530, Lafrenier, Adelard, null, null, null, Amelia, gro , Calumet ne cor Pine,h, ns, null, null, 2d 4 e Ry track, null, null, null, null, null
+531,Lafrenier,Eliz,null,null,wid,Danl,null,null,h,ws,null,null,Gregory 2 n of Garfield,null,null,null,null,null
+534,Lahait,DaMace,null,null,null,Eliz,janitor ,McKinley Sch,h,ws,null,null,Calumet 2 n Torch,null,null,null,null,null
+546,LaMothe,Adelorde,null,null,null,Valida,lab,null,h,ss,null,null,G 2 e of Log,null,null,null,null,null
+547,Lamothe,Edw,J ,null,null,Yvonne,lab,null,h,ns,null,null,3d 1 e Schoolcraft,null,null,null,null,null
+548,Lamothe,Jeannette,null,null,null,null,slswn ,Jos DesOrmiers,h,ss,null,null,G 3 e Log,null,null,null,null,null
+549,LaMotte,Arthur,null,null,null,Ernestine,lab,null,h,ss,null,null,Mine 2 w Cemetery,null,null,null,null,null
+550,LaMotte,Edmund,R ,null,null,Elsie,lab,null,h,null,5804,null,Gregory,null,null,null,null,null
+552,LaMotte,John,null,null,null,Alvina,lab,null,h,ws,null,null,Piche 3 s Corbeil,null,null,null,null,null
+553,LaMotte,Jos,null,null,null,Emma,null,null,h,ws,null,null,Piche 5 s Corbeil,null,null,null,null,null
+555,LaMotte,Rosaire,null,null,null,Laura,lab,null,h,null,5461,null,Tunnel,null,null,null,null,null
+558,Lancour,Jos,null,null,null,Anna,lab,null,h,es,null,null,Lake 3 n 4th,null,null,null,null,null
+560,Lanouette,Archie,J ,null,null,Anna,asst chf ,Fire Dept,h,ws,null,null,Calumet 5 n Center,null,null,null,null,null
+563,LaPlante,Josephine,null,null,null,null,null,null,h,ws,null,null,Front 4 s Center,null,null,null,null,null
+564,LaPorte,Dufrene,null,null,null,null,null,null,h,es,null,null,Hecla 2 n of Pine,null,null,null,null,null
+566,Laronde,Alex,null,null,null,Sophie,null,null,h,ws,null,null,Kit 6 n 3d,null,null,null,null,null
+571,Lashance,Dorothy,null,null,null,null,student,null,r,null,5402,null,County,rd,null,null,null,null
+572,Latendress,Edw,null,null,null,Beatrice,lab,null,h,ws,null,null,Gregory 1 n Garfield,null,null,null,null,null
+573,Latendresse,Jos,null,null,null,Celina,null,null,h,es,null,null,Gregory 1 n Garfield,null,null,null,null,null
+574,Lavager,John,null,null,null,Irene,lab,null,h,null,503,null,Hecla,null,null,null,null,null
+576,LaVeque,David,null,null,null,null,ins,null,h,es,null,null,Hecla 1 n 4th,null,null,null,null,null
+577,LaVeque,Prudent,null,null,null,null,null,null,r,null,null,null,Rudolph Gregory,null,null,null,null,null
+580,Laverdiere,Isabelle,null,null,null,null,null,null,r,null,5967,null,Mill,null,null,null,null,null
+581,Laverdiere,Jean,Baptiste ,null,null,Agnes,null,null,h,ss,null,null,rear 3 e Ry track,null,null,null,null,null
+582,Laverdiere,John,B ,null,null,Mary,null,null,h,null,5967,null,Mill,null,null,null,null,null
+583,Laverdiere,Mercedies,null,null,null,null,student,null,r,null,5967,null,Mill,null,null,null,null,null
+584,Laverdiere,Michl,null,null,null,Abine,lab,null,h,null,5967,null,Mill,null,null,null,null,null
+585,Lawrence,Barrette,null,null,null,null,null,null,r,null,5801,null,Gregory,null,null,null,null,null
+586,LeBlanc,Jos,C ,null,null,null,slsmn ,Turners Garage,r,null,null,null,null,null,Hubbell Mich,null,null,null
+588, Lee, Hing, null, null, null, null, laundry es , Calumet ,r, null, null, null, null, null, Hubbell Mich, null, null, null
+590,Lemere,Earl,H ,null,null,Leona,surfacemn,null,h,ws,null,null,Calumet 3 n 4th,null,null,null,null,null
+591,Lemire,Henry,E ,null,null,Celia MjMogks Drug Store,null,null,h,ws,null,null,Calumet 7 n Vetter,null,null,null,null,null
+592,Leonard,John,null,null,null,Mable,lab,null,h,ss,null,null,4 w Hecla,null,null,null,null,null
+594,LePage,Emos,null,null,null,Valerie,lab,null,h,es,null,null,Gregory 1 n Fanny,null,null,null,null,null
+595,LePage,Jos,null,null,null,Clara,lab,null,h,ss,null,null,Beasly 3 w Calumet,null,null,null,null,null
+596,Lerose,Henry,null,null,null,Marie D,null,null,h,es,null,null,Calumet 4 n Maple,null,null,null,null,null
+597,LeSage,Allen,null,null,null,Maude,lab,null,h,ns,null,null,3d 3 w Kit,null,null,null,null,null
+598,LeSage,Jos,C ,null,null,Mary L,solft drinks es ,Calumet ,h,es,null,null,Lake 4 n Pine,null,null,null,null,null
+600,Levasseur,J,B ,null,null,Alvina,null,null,h,ws,null,null,Calumet 5 n Vetter,null,null,null,null,null
+601,Levasseur,John,null,null,null,Alice,lab,null,h,es,null,null,4 n Division,null,null,null,null,null
+603,Leveque,Alf,null,null,null,Caroline,lab,null,h,ss,null,null,2d 1 e Osceola,null,null,null,null,null
+605,Leveque,Dennis,null,null,null,Eliz,null,null,h,ns,null,null,Vetter 3 w Hecla,null,null,null,null,null
+606,Leveque,Ed,G ,null,null,Theresa,lab,null,h,ss,null,null,2d 2 e Ry track,null,null,null,null,null
+608,Leveque,Peter,null,null,null,Amanda,lab,null,h,ws,null,null,Kit 1 n 3d,null,null,null,null,null
+613, Longpre, Thos, C , null, null, Mary L, confr ws , Calumet ,h, ws, null, null, Kit 1 n 3d, null, null, null, null, null
+614,Lucien,Allwin,null,null,null,Amanda,carp,null,h,ws,null,null,Hecla 1 n Maple,null,null,null,null,null
+615,Lussier,Arth,null,null,null,Louise,lab,null,h,ss,null,null,2d 4 e Ry track,null,null,null,null,null
+616,Lynch,Jerry,null,null,null,Virginia,lab,null,h,ns,null,null,Torch cor Hecla,null,null,null,null,null
+618,MacCormack,Edw,null,null,null,null,attorney ,Village of Lake Linden,r,null,null,null,Calumet,null,null,null,null,null
+619,MacDonald,Alex,null,null,null,Sophie,formn,null,h,es,null,null,Lake 2 n 1st,null,null,null,null,null
+620,MacDonald,Angus,null,null,null,Frances,lab,null,h,null,null,null,null,null,C H,loc,null,null
+621,MacDonald,Dorothy,null,null,null,null,student,null,r,null,null,null,null,null,C H,loc,null,null
+622,MacDonald,Hazel,null,null,null,null,null,null,h,es,null,null,Calumet 2 s of Division,null,null,null,null,null
+623,MacDonald,Hector,null,Mrs,null,null,null,null,h,null,102,null,Torch,null,null,null,null,null
+624,MacDonald,John,null,null,null,Clara,null,null,h,es,null,null,Calumet 1 s Division,null,null,null,null,null
+626,MacDonald,Sarah,null,null,null,null,tchr ,McKinley Sch,r,null,102,null,Torch,null,null,null,null,null
+627,MacDonald,Theo,J ,null,null,Laura,mech ,Turners Garage,h,ns,null,null,Division 2 w Calumet,null,null,null,null,null
+628,MacDougall,Edith,null,null,null,null,bkpr ,Lake Linden Supply Co,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+629,MacEachran,Glenn,null,null,null,null,lab,null,r,null,5517,null,Bridge,null,null,null,null,null
+630,MacEachran,Gordon,null,null,null,null,lab,null,r,null,5517,null,Bridge,null,null,null,null,null
+631,MacEachron,Jean,null,null,null,null,student,null,r,null,5517,null,Bridge,null,null,null,null,null
+632,MacEachron,John,null,null,null,Lillie,switch board tender,null,h,null,5517,null,Bridge,null,null,null,null,null
+633,MacIntyre,Allen,null,null,null,null,prop ,Lake Linden Supply Co,h,ws,null,null,Hecla 2 n 1st,null,null,null,null,null
+635,MacIntyre,Annie,L ,null,wid,Chas,null,null,h,ws,null,null,Hecla 4 n 2d,null,null,null,null,null
+639,MacKenzie,D,J ,Mrs,null,null,null,null,h,ws,null,null,Osceola 1 s 2d,null,null,null,null,null
+642,MacKerroll,John,null,null,null,Kate,livery ss ,null,h,ns,null,null,4th 2 w Front,null,null,null,null,null
+643,MacLay,Merdic,null,null,null,Rebecca,lab,null,h,null,5472,null,Tunnel,null,null,null,null,null
+644,Main,John,null,null,null,Alice,lab,null,h,ws,null,null,Front 2 s 4th,null,null,null,null,null
+645, Maki, Leo, null, null, null, Caroline, shoe repr es , Calumet ,h, ws, null, null, Front 2 s 4th, null, null, null, null, null
+646,Manglos,Stella,null,Mrs,null,null,null,null,h,ws,null,null,Calumet 3 n 4th,null,null,null,null,null
+647,Manthei,Wyllys,A ,null,null,Ruth,trustee ,Board of Education,h,null,5426,null,Calumet,null,null,null,null,null
+648,Manthey,Anna,A ,null,null,null,school nurse ,Lake Linden Hubbell,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+649,Marchand,Eug,null,null,null,Evelina,lab,null,h,null,5070,null,Mill,null,null,null,null,null
+650,Marchand,Eug,null,jr,null,null,null,null,r,null,5070,null,Mill,null,null,null,null,null
+651,Marchand,Raymond,null,null,null,null,null,null,r,null,5070,null,Mill,null,null,null,null,null
+652,Marchand,Wallace,null,null,null,null,driver ,Lake Linden Supply Co,r,null,5070,null,Mill,null,null,null,null,null
+653,Marcotte,Alf,null,null,null,null,null,null,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+655,Marcotte,Emo,null,null,null,Evan,lab,null,h,ws,null,null,Front 1 s Vetter,null,null,null,null,null
+657,Marcotte,Jos,null,null,null,Matilda,lab,null,h,ws,null,null,Log 6 n Torch,null,null,null,null,null
+660,Mattson,Lillian,null,null,null,null,bkpr ,Turners Garage,r,null,null,null,null,null,Hubbell Mich,null,null,null
+661,Mayer,Emma,D ,null,null,null,null,null,h,rear,null,null,ws Calumet 3 n Center,null,null,null,null,null
+663,McIntosh,Fred,Robt ,jr,null,null,student,null,r,null,5379,null,County,rd,null,null,null,null
+664,McIntosh,Mary,Helen ,null,null,null,student,null,r,null,5379,null,County,rd,null,null,null,null
+665,McIntosh,Robt,null,null,null,Kath,pres ,Board of Education,h,null,5379,null,County,rd,null,null,null,null
+668,McLaughlin,Ann,null,null,null,null,null,null,h,ss,null,null,G 2 w Log,null,null,null,null,null
+669,McNickle,Geo,C ,null,null,Loraine,formn,null,h,null,6002,null,1st,null,null,null,null,null
+670,Mecheau,Roger,null,null,null,null,lab,null,h,ss,null,null,G 2 w Log,null,null,null,null,null
+671,Mehring,Chas,H ,null,null,Elva Dutch Kitchen,null,null,h,es,null,null,Hecla 6 n Center,null,null,null,null,null
+672,Mehring,Raymond,R ,null,null,Ethel,rep,null,h,ns,null,null,Pine 2 e of Hecla,null,null,null,null,null
+676,High,Sch,null,null,null,null,null,null,h,ss,null,null,2d 3 e Ry track,null,null,null,null,null
+677,Meyer,Jos,null,null,null,Rose,lab,null,h,ws,null,null,Log 2 n Pine,null,null,null,null,null
+682,Michaelson,Linda,null,null,null,null,sten ,First Natl Bank of Lake Linden,r,null,null,null,null,null,Mohawk Mich,null,null,null
+683,Michaud,Felix,null,null,null,Cecelia,lab,null,h,ns,null,null,Mill 1 w 5964,null,null,null,null,null
+684,Michaud,Geo,null,null,null,null,lab,null,r,null,5365,null,Depot,null,null,null,null,null
+685,Michaud,Peter,null,null,null,Virginia,lab,null,h,null,5365,null,Depot,null,null,null,null,null
+686,Michel,Melba,M ,null,null,null,waitress ,The Lindell Chocolate Shop,r,null,null,null,null,null,Hubbell Mich,null,null,null
+689,Middlemiss,Wallace,R ,null,null,Susie,slsmn ,Harry E Penninger,h,es,null,null,Calumet 4 n Vetter,null,null,null,null,null
+690,Miller,Clement,null,null,null,null,lab,null,r,null,null,null,Frank Miller,null,null,null,null,null
+691,Miller,Frank,null,null,null,Julia,lab,null,h,ss,null,null,Harris 2 w Kit,null,null,null,null,null
+692,Miller,Helen,null,null,null,null,null,null,r,null,null,null,Frank Miller,null,null,null,null,null
+693,Miller,John,F ,null,null,M Emma,mgr ,Torch Lake Hdw Co,h,es,null,null,Lake 8 n Vetter,null,null,null,null,null
+694,Miller,Peter,null,null,null,Helen,lab,null,h,ss,null,null,Douglass 3 w Atlantic,null,null,null,null,null
+695,Mills,Clarence,null,null,null,Phylis,lab h,null,r,null,2,null,w 6004 1st,null,null,null,null,null
+696,Mills,Sami,null,null,null,Eliz,lab,null,h,null,5479,null,Tunnel,null,null,null,null,null
+697,Mills,Thos,null,null,null,null,null,null,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+698,Mills,Wm,null,null,null,Anna,lab,null,h,ws,null,null,Front 4 s Vetter,null,null,null,null,null
+700,Mitchell,Arth,null,null,null,Delvina,lab,null,h,null,5803,null,Gregory,null,null,null,null,null
+701, Mitchell, Louise, null, null, null, null, nurse , 5803 Gregory,h, null, 5803, null, Gregory, null, null, null, null, null
+702,Mitchell,Raymond,null,null,null,null,null,null,r,null,5803,null,Gregory,null,null,null,null,null
+703,Mogk,Minnie,J ,null,wid,Adolph G Mogks Drug Store,null,null,h,null,null,null,Calumet sw cor Center,null,null,null,null,null
+705,Molby,Geo,null,null,null,Mary,lab,null,h,ws,null,null,Gregory 1 n Mine,null,null,null,null,null
+706,Monette,Napoleon,null,null,null,Bertha,electn,null,h,es,null,null,Piche 1 n Levesque,null,null,null,null,null
+707,Montambeau,Roland,null,null,null,Bernice,lab,null,h,es,null,null,Piche 2 n Division,null,null,null,null,null
+708,Montombeau,Alf,null,null,null,Dina,lab,null,h,ns,null,null,Beasley 3 w Cemetery,null,null,null,null,null
+709,Myers,Chas,null,null,null,Matilda,carp,null,h,ns,null,null,Harris 3 w Kit,null,null,null,null,null
+710,Myers,Rudolph,null,null,null,Minnie,lab,null,h,ws,null,null,Kit 1 n Harris,null,null,null,null,null
+715,Nester,Eliz,null,null,null,null,null,null,h,null,null,null,Calumet se cor Torch,null,null,null,null,null
+716,Nester,John,null,null,null,Margt,elk,null,h,null,5469,null,Tunnel,null,null,null,null,null
+718,Nicholas,Richd,null,null,null,Cecelia,elk,null,h,null,5465,null,Tunnel,null,null,null,null,null
+720,Nicholls,John,null,null,null,null,null,null,r,null,null,null,Lake Linden Hotel,null,null,null,null,null
+721,Nicholls,Mathew,null,null,null,Lylia,lab,null,h,ss,null,null,3d 1 w Hecla,null,null,null,null,null
+723,Norbert,Ewen,null,null,null,null,driver ,Lake Linden Supply Co,r,null,null,null,null,null,Hubbell Mich,null,null,null
+724,Normand,Amie,null,null,null,Clarice,electn,null,h,ws,null,null,Front 4 n Garfield,null,null,null,null,null
+725,Normand,Ida,null,null,null,null,bkpr ,Arth F Raiche,r,null,null,null,Torch,null,null,null,null,null
+726,Normand,Peter,J ,null,null,Irene,null,null,h,ws,null,null,Calumet 3 n Maple,null,null,null,null,null
+727,North,Christina,null,null,wid,Oliver,null,null,h,ws,null,null,Calumet 3 s Garfield,null,null,null,null,null
+732,OBrien,Edw,J ,null,null,null,mgr ,Calumet Gas Coke Co,r,null,null,null,Calumet Mich,null,null,null,null,null
+733, Olkkonen, Sophie, null, null, null, null, lndrs , Lake Superior General Hospital,r, null, null, null, Calumet Mich, null, null, null, null, null
+736,Opal,Geo,null,null,null,Mary,null,null,h,ws,null,null,Osceola 3 n 1st,null,null,null,null,null
+737,Opiey,Flora,null,null,wid,James,null,null,h,ws,null,null,Front 2 s Torch,null,null,null,null,null
+740,Osburger,Ray,null,null,wid,Roy,null,null,h,ns,null,null,G 2 w Log,null,null,null,null,null
+741,Otte,Fred,D ,null,null,null,slsmn ,Mogks Drug Store,h,ws,null,null,Log 4 n Torch,null,null,null,null,null
+742, Ovila, Jos, null, null, null, null, barber ws , Calumet ,h, ws, null, null, Log 4 n Torch, null, null, null, null, null
+744,Owens,John,C ,null,null,null,adv,null,h,ws,null,null,Calumet 1 n of Vetter,null,null,null,null,null
+748,Pacquette,Earl,W ,null,null,Yvonne,elk ,Lake Linden Cash Market,h,es,null,null,Calumet 1 s Beasley,null,null,null,null,null
+749,Pacquette,Rock,null,null,null,Clara,null,null,h,ws,null,null,Front 1 n Beasley,null,null,null,null,null
+750,Pahkola,Alma,null,null,null,null,maid,null,r,null,5379,null,County,rd,null,null,null,null
+751,Paine,Martha,null,null,wid,Wm,null,null,h,ws,null,null,Calumet 8 n Vetter,null,null,null,null,null
+752,Pallis,Jas,G ,null,null,The Lindell Chocolate Shop,null,null,r,null,null,null,Calumet,null,null,null,null,null
+758,Paquette,Eva,null,null,wid,Alcide,null,null,h,ss,null,null,Center 2 w Front,null,null,null,null,null
+759,Paquette,Frank,null,null,null,Armanda,lab,null,h,ws,null,null,Hecla 3 n Vetter,null,null,null,null,null
+761,Paquette,Jos,null,null,null,Minnie,lab,null,h,ss,null,null,Douglas 1 w Atlantic,null,null,null,null,null
+763,Paquette,Jos,W ,null,null,Anna,lab,null,h,ws,null,null,Neumann 1 n Fanny,null,null,null,null,null
+765,Paquette,Leo,null,null,null,Marie,null,null,h,es,null,null,Hecla 1 n Torch,null,null,null,null,null
+766,Paquette,Peter,null,null,null,Louise,carp,null,h,ns,null,null,Mill 1 w 5969,null,null,null,null,null
+770,Paquin,Oscar,Z ,null,null,Mary J,null,null,h,es,null,null,Hecla 3 n Maple,null,null,null,null,null
+771,Parent,Amelia,null,null,null,null,null,null,h,es,null,null,Lake 4 n Center,null,null,null,null,null
+775, Parks, Henry, null, null, null, null, gro ns , Mill ,h, es, null, null, Lake 4 n Center, null, null, null, null, null
+777,Parks,Pheobe,null,null,null,null,null,null,h,ws,null,null,Front 1 s Mill,null,null,null,null,null
+778,Parks,Wm,J ,null,null,Anna C,lumbermn,null,h,es,null,null,Lake 3 n Vetter,null,null,null,null,null
+779,Pascoe,Louisa,null,null,wid,Thos,null,null,h,ws,null,null,Front 2 s 3d,null,null,null,null,null
+780,Paul,Herbert,null,null,null,null,lab ,CH,h,ws,null,null,5 n 3d,null,null,null,null,null
+781,Pauline,Anna,null,null,wid,Henry,null,null,r,null,5488,null,null,null,C H,loc,null,null
+782,Pauline,Henry,null,null,null,null,lab,null,h,null,5488,null,null,null,C H,loc,null,null
+783,Payne,Albert,E ,null,null,Ruth,filer,null,h,ss,null,null,Mill 3 e of Calumet,null,null,null,null,null
+793,Pearce,Louis,C ,null,null,Jessie O,pres ,Pearce Hardware and Furniture Co,h,null,null,null,Calumet sw cor Center,null,null,null,null,null
+794,Pearce,Ransom,null,null,null,Gail C,sec treas mgr ,Pearce Hardware and Furniture Co,h,ws,null,null,Hecla 1 w 3d,null,null,null,null,null
+795,Pearce,Raymond,P ,null,null,Eleanor,null,null,h,ns,null,null,4th 3 w Calumet,null,null,null,null,null
+796,Pearce,Sarah,null,null,wid,Jos,null,null,h,null,null,null,Calumet sw cor Center,null,null,null,null,null
+797,Pearce,Thos,null,null,null,Rachel,null,null,h,ns,null,null,4th 2 w Calumet,null,null,null,null,null
+799,Pearce,Wm,null,null,null,Carrie,lab,null,h,ws,null,null,Front 3 s Center,null,null,null,null,null
+800,Pearce,Wm,null,null,null,Minnie,lab,null,h,ws,null,null,Osceola 2 n 1st,null,null,null,null,null
+802,Peck,Mary,null,null,wid,Nicholas,null,null,h,ss,null,null,Harris 2 w Kit,null,null,null,null,null
+803,Pedla,Bert,null,null,null,Marie,slsmn,null,h,ws,null,null,Front 1 s Torch,null,null,null,null,null
+805,Peiffer,Phillip,null,null,null,Zetta,bkpr ,John Peiffer and justice,h,ws,null,null,Hecla 1 n Vetter,null,null,null,null,null
+806,Peiffer,Wm,null,null,null,null,null,null,h,ns,null,null,Vetter cor Hecla,null,null,null,null,null
+808,Pelland,Delore,null,null,null,Clara,timekpr,null,h,ss,null,null,D 1 w Hecla,null,null,null,null,null
+809,Pelland,Donah,null,null,null,Merle,firemn ,Fire Dept,h,ss,null,null,E 2 w Hecla,null,null,null,null,null
+810,Pelland,Eli,null,null,null,Leona,lab,null,h,null,5490,null,null,null,C H,loc,null,null
+811,Pelland,Jos,null,null,null,Mayme,lab,null,h,null,null,null,null,null,C H,loc,null,null
+812,Pelland,Peter,null,null,null,Minnie,lab ,null,h,null,null,null,Tunnel ,null,null,null,null,null
+814,Pellend,Arth,null,null,null,Delia,lab,null,h,ws,null,null,Log 3 n Torch,null,null,null,null,null
+817,Pellend,J,C ,null,null,Agnes,null,null,h,ns,null,null,F 1 w Hecla,null,null,null,null,null
+818,Pelleren,Edw,null,null,null,null,lab,null,r,null,5957,null,Mill,null,null,null,null,null
+819,Pelleren,Louis,null,null,null,Lydo,null,null,h,null,5957,null,Mill,null,null,null,null,null
+820,Pelleren,Louis,null,null,null,null,driver ,Perreault Market,r,null,5957,null,Mill,null,null,null,null,null
+821,Pellerin,Alf,L ,null,null,Amanda,null,null,h,null,null,null,Calumet ne cor Vetter,null,null,null,null,null
+825,Penninger,Harry,E ,null,null,null,elec contr and harness mkr ws ,Calumet ,h,ns,null,null,Torch 1 e Ry track,null,null,null,null,null
+828,Pepin,Dolphis,null,null,null,Albina,lab,null,h,es,null,null,Calumet 2 s Grover,null,null,null,null,null
+830,Perreault,Geo,null,null,null,null,lab,null,h,ws,null,null,Piche 1 s Levesque,null,null,null,null,null
+831,Perreault,Henry,W ,null,null,Perreault Market,null,null,r,null,null,null,null,null,Hubbell Mich,null,null,null
+832,Perreault,Marcella,null,null,null,null,bkpr ,Perreault Mkt,r,null,null,null,null,null,Hubbell Mich,null,null,null
+834,Peters,Geo,W ,null,null,Jennie,null,null,h,ws,null,null,Schoolcraft 3 n 3d,null,null,null,null,null
+837,Pflugi,Edw,W ,null,null,Neomi,electn,null,h,es,null,null,Calumet 5 n Vetter,null,null,null,null,null
+841,Piche,Jole,null,null,null,Mary,lab,null,h,ss,null,null,D 3 w Hecla,null,null,null,null,null
+842,Piche,Jos,null,null,null,Clara,null,null,h,ws,null,null,Vetter 4 w Hecla,null,null,null,null,null
+845,Pichette,Gaston,R ,null,null,Hazel,gen ins ,First Natl Bank bldg,h,es,null,null,Hecla 2 n 4th,null,null,null,null,null
+846, Pichette, J, M , null, null, Celina, phys , Calumet se cor Pine,h, es, null, null, Hecla 2 n 4th, null, null, null, null, null
+847,Pichette,Jos,null,null,null,Clara,null,null,h,ns,null,null,Vetter 1 e of Hecla,null,null,null,null,null
+848,Picotte,Ida,null,Mrs,null,null,tchr ,Lake Linden Hubbell High Sch,r,null,null,null,Calumet,null,null,null,null,null
+849,Plante,Emo,null,null,null,Blanche,mach,null,h,es,null,null,Lake 3 n Pine,null,null,null,null,null
+850,Pleau,Marie,null,null,wid,Israel,null,null,h,ws,null,null,Atlantic 2 n 2d,null,null,null,null,null
+852,Plfugi,Francis,null,null,null,null,null,null,r,null,5529,null,Bridge,null,null,null,null,null
+853,Plfugi,Julia,null,null,wid,John,null,null,h,null,5539,null,Bridge,null,null,null,null,null
+854,Poirer,Gabriel,null,null,wid,Ovila,null,null,h,ss,null,null,2d 1 e Osceola,null,null,null,null,null
+856,Poisson,Anton,null,null,null,Eliz,null,null,h,ns,null,null,Mine 3 e Front,null,null,null,null,null
+858,Polkinghom,Mary,null,null,wid,Jas,null,null,h,ss,null,null,Vetter 3 w Convent,null,null,null,null,null
+859,Pomroy,Alice,E ,null,wid,Wm J,null,null,h,es,null,null,Gregory 6 n Grover,null,null,null,null,null
+860,Pomroy,Jas,null,null,null,null,null,null,h,ws,null,null,Gregory 5 n Grover,null,null,null,null,null
+864,Pomroy,Richd,null,null,null,Eliz,lab,null,h,null,5455,null,County,rd,null,null,null,null
+865,Pope,Wm,null,null,null,null,null,null,h,ws,null,null,Log 1 n Vetter,null,null,null,null,null
+868,Predeaux,Jas,null,null,null,Anna,null,null,h,es,null,null,Calumet 2 n Pine,null,null,null,null,null
+869,Primeau,Ray,null,null,null,Henrietta,null,null,h,ns,null,null,Harris 1 w Kit,null,null,null,null,null
+873,Prince,Ernestine,null,null,wid,Fred,n ,null,h,null,null,null,Tunnel ,null,null,null,null,null
+876,Provost,Walter,null,null,null,null,reprmn ,Pearce Hdw Furn Co,r,null,null,null,null,null,Hubbell Mich,null,null,null
+878,Quintal,Dinah,null,null,null,null,null,null,h,ws,null,null,Torch 6 e Hecla,null,null,null,null,null
+879,Quirk,Ann,null,null,null,null,null,null,r,null,5467,null,Tunnel,null,null,null,null,null
+880,Quirk,Cathryn,null,null,null,null,bkpr ,Variety Store,r,null,5467,null,Tunnel,null,null,null,null,null
+881,Quirk,Jos,null,null,null,null,lab,null,r,null,5467,null,Tunnel,null,null,null,null,null
+882,Quirk,Michl,null,null,null,Anna,lab,null,h,null,5467,null,Tunnel,null,null,null,null,null
+883,Racine,Alf,null,null,null,Alvina,lab,null,h,es,null,null,Front 3 n of Grover,null,null,null,null,null
+886,Racine,Jos,null,null,null,Mary Orr,lab,null,h,es,null,null,Gregory 2 n of Grover,null,null,null,null,null
+888,Raduchel,Ethel,M ,null,null,null,cash ,Houghton County Elect Light Co,r,null,5516,null,1st,null,null,null,null,null
+889,Raduchel,Herman,null,null,null,Edith,lab,null,h,null,5516,null,1st,null,null,null,null,null
+890,Raiche,Arth,F ,null,null,Libby,gro ws ,Calumet ,h,es,null,null,Calumet 3 n of Vetter,null,null,null,null,null
+893, Raymond, Edna, M , null, wid, Edw, hskpr , Rev Napoleon J Raymond,h, es, null, null, Calumet 3 n of Vetter, null, null, null, null, null
+896,Remallaird,Chester,null,null,null,null,pool room,null,h,ss,null,null,2d 1 e of Atlantic,null,null,null,null,null
+897,Remallaird,Ed,null,null,null,Maude,null,null,h,ss,null,null,2d 1 e of Atlantic,null,null,null,null,null
+898,Remallaird,Robt,null,null,null,null,null,null,h,ss,null,null,2d 1 e of Atlantic,null,null,null,null,null
+899,Remillard,Arth,null,null,null,Eliz,farmer,null,h,ws,null,null,Front 4 s of Pine,null,null,null,null,null
+900,Remillerd,Felix,null,null,null,Alice,lab,null,h,ns,null,null,Mine 4 e of Front,null,null,null,null,null
+901,Remillerd,Norbert,null,null,null,null,slsmn ,Variety Store,h,ns,null,null,Mine 4 e of Front,null,null,null,null,null
+902,Repeth,Ambrose,null,null,null,Vivian,null,null,h,ws,null,null,Hecla 3 h of 2d,null,null,null,null,null
+903,Ressman,Clayton,null,null,null,null,lab,null,r,null,5363,null,Depot,null,null,null,null,null
+904,Ressman,Douglas,null,null,null,null,driver,null,r,null,5363,null,Depot,null,null,null,null,null
+905,Ressman,John,null,null,null,Estelle,lab,null,h,null,5363,null,Depot,null,null,null,null,null
+906,Ressman,Stewart,null,null,null,null,null,null,r,null,5363,null,Depot,null,null,null,null,null
+907,Rheault,Edw,null,null,null,Pomelia,null,null,h,ws,null,null,Front 2 n of Mine,null,null,null,null,null
+909,Rheauma,John,null,null,null,Diana,lab,null,h,es,null,null,Lake 1 n of 4th,null,null,null,null,null
+911,Rheaume,Jos,null,jr,null,Jennie,null,null,h,es,null,null,Lake 1 n of Center,null,null,null,null,null
+912, Rheaune, Jos, null, jr, null, Rose, soft drinks ss , Center ,h, es, null, null, Lake 1 n of Center, null, null, null, null, null
+913,Rice,Henry,Rev ,null,null,null,pastor ,Holy Rosary Ch,h,ws,null,null,Front 1 s of 3d,null,null,null,null,null
+914,Richards,Clayton,null,null,null,Irene,null,null,h,es,null,null,Calumet 2 n of Center,null,null,null,null,null
+915,Richards,Russell,J ,null,null,Myrtle,lab,null,h,ss,null,null,Garfield 1 e of Carlos,null,null,null,null,null
+916,Robert,Barrette,null,null,null,null,lumberjack,null,r,null,5801,null,Gregory,null,null,null,null,null
+917,Roberts,Elmer,null,null,null,Myrtle,lab,null,h,es,null,null,Front 1 s of Fanny,null,null,null,null,null
+920,Robinson,John,null,null,null,Mary E,lab,null,h,ws,null,null,Calumet 1 s of Fanny,null,null,null,null,null
+924,Roth,Jos,null,null,null,Rose Ann,lab,null,r,null,5400,null,County,rd,null,null,null,null
+925,Roth,Madonna,null,null,null,null,null,null,r,null,5400,null,County,rd,null,null,null,null
+926,Roth,Regina,null,null,null,null,null,null,r,null,5400,null,County,rd,null,null,null,null
+928,Roy,Clifford,null,null,null,null,null,null,h,ws,null,null,1 n of Grover,null,null,null,null,null
+929,StAmour,Duna,null,null,null,null,null,null,h,es,null,null,Calumet 1 s of Grover,null,null,null,null,null
+931,StGeorge,Eug,null,null,null,Hermelise,tchr ,Lake Linden Hubbell High Sch,h,ws,null,null,Hecla 5 n of Poplar,null,null,null,null,null
+933,StGermain,Guy,null,null,null,Lucille,pntr,null,h,null,6003,null,1st,null,null,null,null,null
+934,StJohn,Eug,null,null,null,Alice,lab,null,h,null,5958,null,Mill,null,null,null,null,null
+935,StJohn,Hermine,null,null,wid,Eug,null,null,h,es,null,null,Calumet 2 n of 3d,null,null,null,null,null
+940,StPierre,Fred,J ,null,null,StPierres Spanish Shoppe,null,null,r,ws,null,null,Log 1 n of Pine,null,null,null,null,null
+941,StPierre,Henry,null,null,null,Georgianna,lab,null,h,ws,null,null,Log 1 n of Pine,null,null,null,null,null
+944,Saladin,Herman,null,null,null,Louise,pharm ,Calumet Hecla Consolidated Copper Co,h,null,5806,null,Gregory,null,null,null,null,null
+945,Sanders,E,G ,null,null,Delia,null,null,h,null,5734,null,Log,null,null,null,null,null
+947,Sarazin,Norbert,null,Mrs,null,null,null,null,h,ws,null,null,Front 5 s of Vetter,null,null,null,null,null
+948,Schank,Chester,null,null,null,null,null,null,r,null,5422,null,Tunnel,null,null,null,null,null
+949,Schank,Mathiew,null,null,null,Kath,lab,null,h,null,5422,null,Tunnel,null,null,null,null,null
+951,Schleeter,Fred,null,null,null,Theresa,wtchmn,null,h,ws,null,null,Hecla 3 n of Poplar,null,null,null,null,null
+954,Schletter,John,null,null,null,Rose,lab,null,h,ss,null,null,Poplar 1 n of Hecla,null,null,null,null,null
+957,Schlicting,Minnie,null,null,null,null,null,null,h,es,null,null,Calumet 2 s of Fanny,null,null,null,null,null
+958,Schlicting,Rose,null,null,null,null,null,null,h,ss,null,null,Mine 1 w of Hecla,null,null,null,null,null
+961,Schnotala,Henry,null,null,null,Anna,null,null,h,es,null,null,Hecla 1 n of 1st,null,null,null,null,null
+962,Schuette,Henry,null,null,null,Anna,meats ws ,Calumet ,h,null,null,null,Calumet sw cor Torch,null,null,null,null,null
+963,Schuette,Josephine,null,null,wid,Henry,null,null,h,ws,null,null,Calumet 4 n of Center,null,null,null,null,null
+966,Schwab,Jos,null,null,null,Eliz,mech,null,h,null,5607,null,Hecla,null,null,null,null,null
+967,Senecal,Adele,null,null,wid,Adolph,null,null,h,es,null,null,2 n of Vetter,null,null,null,null,null
+969,Senecal,Louis,A ,null,null,Mary,lab,null,h,ns,null,null,4th 1 w of Calumet,null,null,null,null,null
+972,Senglaub,Chris,null,null,null,null,null,null,h,ns,null,null,Torch 5 e of Hecla,null,null,null,null,null
+973,Senglaub,Christ,null,null,null,Annie,null,null,h,null,null,null,Maple ne cor Hecla,null,null,null,null,null
+975,Senglaub,Henry,null,null,null,Amelia,null,null,h,null,null,null,Calumet nw cor Pine,null,null,null,null,null
+978,Seppala,Ernest,null,null,null,null,slsmn ,Pearce Hdw Fum Co,r,null,null,null,null,null,Laurium Mich,null,null,null
+979,Shafer,Miles,null,null,null,Kath,lab,null,h,ws,null,null,Front 3 s of Vetter,null,null,null,null,null
+983,Sibilsky,Fred,null,null,null,Annie,janitor ,Lake Superior General Hosp,r,es,null,null,Calumet 3 s of Fanny,null,null,null,null,null
+984,Sibilsky,Wm,null,null,null,Viola,lab,null,h,ss,null,null,Fanny 1 e of Calumet,null,null,null,null,null
+986,Sincock,Alvin,null,null,null,Ethel,lab,null,h,ws,null,null,Kit 2 n of Harris,null,null,null,null,null
+989,Singlaub,Frank,null,null,null,Griselda,chf police,null,h,ws,null,null,Calumet 1 s of Division,null,null,null,null,null
+994,Sleeter,Wesley,null,null,null,Georgie,mech,null,h,null,null,null,Calumet ne cor Mill,null,null,null,null,null
+999,Slonaker,Wm,null,null,null,Amelia,treas ,Village of Lake Linden,h,ws,null,null,Hecla 1 n of 2d,null,null,null,null,null
+1000,Smeltzer,Eliz,null,null,wid,Andrew,null,null,h,ns,null,null,Torch 6 e of Ry crossing,null,null,null,null,null
+1002,Smith,Esther,null,null,null,null,student,null,r,null,5427,null,County,rd,null,null,null,null
+1003,Smith,Frank,null,null,null,Gretha,electn,null,h,null,5427,null,County,rd,null,null,null,null
+1004,Smith,Gretha,null,null,null,null,tchr,null,r,null,5427,null,County,rd,null,null,null,null
+1008,Smith,John,null,null,null,Margt,lab,null,h,ws,null,null,Hecla 4 n of Poplar,null,null,null,null,null
+1010,Smith,Norma,null,null,null,null,student,null,r,null,5427,null,County,rd,null,null,null,null
+1012,Smith,Walta,null,null,null,null,chem,null,r,null,5427,null,County,rd,null,null,null,null
+1013,Smith,Walton,null,null,null,Alice,null,null,h,es,null,null,Gregory 2 n of Grover,null,null,null,null,null
+1015,Snehler,Cecilia,null,null,null,null,opr ,Mich Bell Tel Co,r,null,null,null,Calumet,null,null,null,null,null
+1017,Stark,Chris,null,null,null,Theresa,meat ctr ,Henry Schuette,h,ws,null,null,Atlantic 4 n of 2d,null,null,null,null,null
+1019,Stebler,Adolph,null,null,null,Elva,lab,null,h,null,6004,null,1st,null,null,null,null,null
+1021,Stefonich,Mary,null,null,null,null,nurse ,Lake Superior Genl Hosp,r,null,null,null,null,null,Alloway Mich,null,null,null
+1022, Stehlin, Eliz, null, null, wid, Emil, gro ws , Calumet ,r, null, null, null, null, null, Alloway Mich, null, null, null
+1023,Stehlin,Jos,null,null,null,Dory,lab,null,h,ws,null,null,Pear 1 s of Pine,null,null,null,null,null
+1024,Stehlin,Jos,null,null,null,null,treas ,Fire Dept,r,null,null,null,Calumet,null,null,null,null,null
+1025,Stetter,Peter,null,null,null,null,lab,null,h,ws,null,null,Log 3 n of Pine,null,null,null,null,null
+1027,Stevens,Jas,E ,null,null,Gertrude,lab,null,h,ns,null,null,Vetter 2 w of Hecla,null,null,null,null,null
+1029,Studer,Anselm,null,null,null,Mary,null,null,h,es,null,null,Hecla 5 n of Center,null,null,null,null,null
+1033,Swanson,Alf,null,null,null,null,lab,null,h,es,null,null,Lake 5 n of Center,null,null,null,null,null
+1036,Sweet,Wm,null,null,null,Rose,null,null,h,null,5500,null,Tunnel,null,null,null,null,null
+1038,Taper,Amelia,E ,null,wid,Richd,null,null,h,null,2,null,w of 6002 1st,null,null,null,null,null
+1039,Taper,Thos,A ,null,null,null,null,null,r,null,2,null,w of 6002 1st,null,null,null,null,null
+1040, Tappe, John, J , null, null, Mayme, gro , Calumet sw cor Pine,r, null, 2, null, w of 6002 1st, null, null, null, null, null
+1041,Tappe,Wm,null,null,null,Theresa,marshal ,Village of Lake Linden,h,es,null,null,Log 1 s of Vetter,null,null,null,null,null
+1043, Tapper, Helen, null, null, null, null, maid , Lake Linden Hotel,h, es, null, null, Log 1 s of Vetter, null, null, null, null, null
+1044, Taylor, Nellie, null, null, null, null, null, null,null, null, null, null, null, null, null, null, null, r do
+1046,Therrien,Fred,null,null,null,Clara,electn,null,h,ws,null,null,Osceola 1 n of 1st,null,null,null,null,null
+1047,Therrien,Jennie,null,null,null,null,null,null,h,ws,null,null,Calumet 3 n of 4th,null,null,null,null,null
+1048,Thibodeau,Alcide,null,null,null,Helen,lab,null,h,null,5458,null,Tunnel,null,null,null,null,null
+1049,Thibodeau,Peter,null,null,null,Zephirina,null,null,h,ws,null,null,Gregory 2 n of Mine,null,null,null,null,null
+1050,Thurmes,Louis,null,null,null,null,trustee ,Board of Education,r,null,null,null,null,null,Hubbell Mich,null,null,null
+1052,Tornuff,Julia,null,null,null,null,waitress ,The Lindell Chocolate Shop,r,null,null,null,null,null,Hubbell Mich,null,null,null
+1053,Toupin,Henry,null,null,null,Leona Variety Store,null,null,h,ws,null,null,Calumet 2 n of 1st,null,null,null,null,null
+1055,Toupin,Selina,null,null,wid,John B,null,null,h,null,null,null,Calumet sw cor Maple,null,null,null,null,null
+1056,Tourville,Henry,null,null,null,Bertha,lab,null,h,null,5526,null,Bridge,null,null,null,null,null
+1057,Trainor,Harry,J ,null,null,Eliz,supt schs ,Lake Linden Hubbell,h,ws,null,null,Schoolcraft 6 n of 3d,null,null,null,null,null
+1058,Trombly,Jos,null,null,null,Mary,lab,null,h,ws,null,null,Front 3 n of Beasley,null,null,null,null,null
+1059,Tumperi,Isaac,null,null,null,Lydia,gro ns ,Mill cor Lake,h,ns,null,null,Mill 2 w of 5955,null,null,null,null,null
+1061,Turner,Auburn,null,null,null,Ruth M Turners Garage,null,null,h,ss,null,null,Mine 1 w of Calumet,null,null,null,null,null
+1062,Turner,Harriet,null,Mrs,null,null,null,null,h,ws,null,null,Kit 4 n of Harris,null,null,null,null,null
+1063,Turner,John,null,null,null,Ethel,reprmn ,Houghton County Elec Light Co,h,ns,null,null,Pine 2 e of Hecla,null,null,null,null,null
+1068,Vairo,Jos,null,null,null,Mary,lab,null,h,ss,null,null,Mine 1 w of Cemetery,null,null,null,null,null
+1069,Valliere,Geo,null,null,null,Louise,null,null,h,sw cor,null,null,Calumet and 3d,null,null,null,null,null
+1072,Venne,Arth,null,null,null,Alexindina,lab,null,h,ns,null,null,Torch 2 e of Ry crossing,null,null,null,null,null
+1077, Versailles, Allan, A , null, null, null, driver , Fredk Versailles,h, ns, null, null, Torch 2 e of Ry crossing, null, null, null, null, null
+1082,Versailles,Jerry,null,null,null,Anna,lab,null,h,ws,null,null,Front 3 n of Division,null,null,null,null,null
+1085,Vigelius,F,Wm ,null,null,Marie E,pres ,Mich Elec Mfg Co,h,ss,null,null,Maple 1 n of Calumet,null,null,null,null,null
+1088,Vine,Wm,J ,null,null,null,lab,null,h,ss,null,null,3d 1 e of Schoolcraft,null,null,null,null,null
+1090,Vivian,Elmer,null,null,null,Mabel,lab,null,h,ws,null,null,Kit 3 n of 3d,null,null,null,null,null
+1092,Vivian,Frank,null,null,null,Eliz,formn,null,h,null,5959,null,Mill,null,null,null,null,null
+1093,Vivian,Mjary,null,null,wid,Mount,null,null,h,ns,null,null,Torch 5 e of Ry crossing,null,null,null,null,null
+1094,Vivian,Nina,null,null,null,null,opr,null,r,null,5959,null,Mill,null,null,null,null,null
+1095,Vivian,Sami,R ,null,null,Exilda,councilmn ,Village of Lake Linden,h,es,null,null,Front 1 s of Beasley,null,null,null,null,null
+1096,Wadsworth,Margt,C ,null,null,null,tchr ,Lake Linden Hubbell High Sch,h,ws,null,null,Calumet 3 n of 4th,null,null,null,null,null
+1102,Warren,Cleo,null,null,wid,Edwin,null,null,r,null,5371,null,Depot,null,null,null,null,null
+1104,Weis,Leo,null,null,null,Caroline,firemn ,Fire Dept,h,ws,null,null,Kit 3 n of Harris,null,null,null,null,null
+1105, Weis, Mary, null, null, null, null, cook , Lake Superior General Hosp,h, ws, null, null, Kit 3 n of Harris, null, null, null, null, null
+1106,Werner,Chas,null,null,null,Anna,null,null,h,null,5466,null,Tunnel,null,null,null,null,null
+1108,Werner,Wm,null,null,null,Mary,lab,null,h,null,5405,null,Library,null,null,null,null,null
+1110, Wickliffe, Thos, null, null, null, Eliz, phys, null,h, null, 5405, null, Library, null, null, null, null, null
+1111,Wiesenauer,Fredk,G ,null,null,Maymie,confr ws ,Calumet ,h,ws,null,null,Front 2 s of Vetter,null,null,null,null,null
+1112,Wilkowski,Adam,null,null,null,Mary,lab,null,h,ns,null,null,Douglass 1 w of Atlantic,null,null,null,null,null
+1114,William,Bott,null,null,null,null,lab,null,r,null,5802,null,Gregory,null,null,null,null,null
+1115,William,T,Hodge ,null,null,null,lab,null,r,null,5802,null,Gregory,null,null,null,null,null
+1116,Williams,Jos,null,null,null,null,null,null,h,ws,null,null,Front 1 n of Fanny,null,null,null,null,null
+1117,Williams,Lincoln,null,null,null,Mamie,lab,null,h,ws,null,null,Neumann 1 n of Garfield,null,null,null,null,null
+1119,Witz,Frank,null,null,null,null,lighthousekpr,null,h,ws,null,null,Calumet 4 n of Vetter,null,null,null,null,null
+1122,Ziems,Eliza,null,null,wid,Ernest,null,null,h,ws,null,null,Carlos 1 n of Garfield,null,null,null,null,null
+1124,Ziems,Fred,null,null,null,Ruth,lab,null,h,ws,null,null,Gregory 4 n of Grover,null,null,null,null,null
+6,Amos,Adelle,null,null,null,null,null,null,h,ss,null,null,Harris 3 w Kit,null,null,null,null,null
+16,Aubin,Mose,null,null,null,null,null,null,h,ws,null,null,Front 2 s 4th,null,null,null,null,null
+18,Aubin,Rose, D,null,null,null,null,null,h,ws,null,null,Calumet 5 n of Maple,null,null,null,null,null
+22,Ayouette,Mercedes,null,null,null,null,null,null,h,ns,null,null,Mine 2 e of Front,null,null,null,null,null
+24,Baillargeon,Bernadette,null,null,null,null,null,null,h,es,null,null,Lake 2 n of Pine,null,null,null,null,null
+27,Barbeau,Mary,null,null,null,null,null,null,h,null,null,null,Calumet nw cor Pine,null,null,null,null,null
+31,Baril,Everesta, B,null,null,null,null,null,h,es,null,null,Calumet 1 n of Mill,null,null,null,null,null
+33,Baril,Hubert,null,null,null,null,student,null,h,es,null,null,Calumet 1 n of Mill,null,null,null,null,null
+36,Baril,Lawrence, J,null,null,null,null,null,h,es,null,null,Calumet 1 n of Mill,null,null,null,null,null
+37,Baril,Leo,null,null,null,null,null,null,h,ws,null,null,Front 3 n of Garfield,null,null,null,null,null
+38,Baril,Leona, M,null,null,null,null,null,h,es,null,null,Calumet 1 n of Mill,null,null,null,null,null
+42,Baril,Roland,null,null,null,null,lab,null,h,ws,null,null,Front 3 n of Garfield,null,null,null,null,null
+48,Beauchamp,Jean, M,null,null,null,lino opr ,Native Copper Times,h,es,null,null,Calumet 5 n of Center,null,null,null,null,null
+49,Beauchamp,Louise, M,null,null,null,slswn ,Mogks Drug Store,h,es,null,null,Calumet 5 n of Center,null,null,null,null,null
+51,Beauchene,David, J,null,null,null,null,null,h,ws,null,null,Hecla 1 n of Torch,null,null,null,null,null
+52,Beauchene,Stephenie,null,null,wid,Chas,null,null,h,ws,null,null,Hecla 1 n of Torch,null,null,null,null,null
+53,Beaudoin,Bella,null,null,null,null,null,null,h,ws,null,null,Front 2 s 4th,null,null,null,null,null
+55,Beaudoin,Leon,null,null,null,null,null,null,h,ns,null,null,Division 1 w of Calumet,null,null,null,null,null
+56,Beaudoin,Louis,null,null,null,Brunswick Billiard Parlor,null,null,h,ws,null,null,Front 2 s 4th,null,null,null,null,null
+57,Beaudoin,Mary,null,null,null,null,null,null,h,ws,null,null,Front 2 s 4th,null,null,null,null,null
+62,Belisle,Annabelle,null,null,null,null,null,null,h,es,null,null,Hecla 1 s of Vetter,null,null,null,null,null
+64,Belisle,Jos,null,null,null,null,jr lab,null,h,es,null,null,Hecla 1 s of Vetter,null,null,null,null,null
+66,Bennalac,Mary,null,null,wid,John,null,null,h,ns,null,null,Harris 4 w Kit,null,null,null,null,null
+68,Benoit,Norhert,null,null,null,null,elk ,Lake Linden Cash Market,h,null,null,null,County ,rd,null,null,null,null
+71,Bergen,Wm, J,null,null,null,null,null,h,ws,null,null,Gregory 1 n of Division,null,null,null,null,null
+72,Beril,Henrietta,null,null,null,null,null,null,h,ns,null,null,Mill 1 w of 5955,null,null,null,null,null
+74,Bessner,Herman,null,null,null,Jeannette,lab,null,h,ws,null,null,Front 3 n of Garfield,null,null,null,null,null
+76,Biehy,Eva, M,null,null,null,student,null,h,ws,null,null,Calumet 7 n Vetter,null,null,null,null,null
+82,Bonathan,Rheuben,null,null,null,null,lab,null,h,ws,null,null,Front 3 s Center,null,null,null,null,null
+82,Bonathan,Rheuben,null,null,null,null,null,null,h,ws,null,null,Osceola 2 n 1st,null,null,null,null,null
+89,Boucher,Jules,null,null,null,null,null,null,h,ws,null,null,Hecla 6 n of Vetter,null,null,null,null,null
+90,Boucher,Morris,null,null,null,Eva,lab,null,h,ws,null,null,Torch 6 e Hecla,null,null,null,null,null
+92,Bourdeau,Bessie, Mrs,null,null,null,treas ,Schoolcraft Twp,h,es,null,null,Hecla 3 n of Center,null,null,null,null,null
+93,Bourdeau,Emma,null,null,null,null,student,null,h,es,null,null,Hecla 2 n of 1st,null,null,null,null,null
+93,Bourdeau,Emma,null,null,null,null,null,null,h,es,null,null,Hecla 3 n of Center,null,null,null,null,null
+94,Bourdeau,Exilda,null,null,null,null,null,null,h,es,null,null,Hecla 2 n of 1st,null,null,null,null,null
+94,Bourdeau,Exilda,null,null,null,null,null,null,h,es,null,null,Hecla 3 n of Center,null,null,null,null,null
+97,Bourdeau,Jacques,null,null,null,null,null,null,h,es,null,null,Hecla 1 n of 1st,null,null,null,null,null
+99,Bourdeau,Jos, F,null,null,null,jr,null,h,es,null,null,Hecla 2 n of 1st,null,null,null,null,null
+102,Bourdeau,Walter,null,null,null,null,null,null,h,es,null,null,Hecla 2 n of 1st,null,null,null,null,null
+102,Bourdeau,Walter,null,null,null,null,null,null,h,es,null,null,Hecla 3 n of Center,null,null,null,null,null
+112,Brinkman,Kath,null,null,null,null,maid,null,h,ss,null,null,E 3 w Hecla,null,null,null,null,null
+121,Burgan,Lurene,null,null,null,null,tchr ,Lake Linden Hubbell High School,h,es,null,null,Schoolcraft 2 n 2d,null,null,null,null,null
+123,Burgan,Walter,null,null,null,null,student,null,h,es,null,null,Schoolcraft 2 n 2d,null,null,null,null,null
+128,Buschell,Beatrice,null,null,null,null,student,null,h,es,null,null,Front 1 s of Division,null,null,null,null,null
+129,Buschell,Fredk,null,null,null,null,student,null,h,es,null,null,Front 1 s of Division,null,null,null,null,null
+139,Cantin,Edmund,null,null,null,null,lab,null,h,ws,null,null,Hecla 1 n of Torch,null,null,null,null,null
+141,Cantin,Wm,null,null,null,null,lab,null,h,ws,null,null,Hecla 1 n of Torch,null,null,null,null,null
+144,Carlson,Roy,null,null,null,null,lab,null,h,ss,null,null,Mine 3 w of Hecla,null,null,null,null,null
+153,Chabot,Estelle, C,null,null,null,tchr,null,h,null,null,null,Calumet se cor Vetter,null,null,null,null,null
+154,Chabot,Gertrude,null,null,null,null,null,null,h,null,null,null,Calumet se cor Vetter,null,null,null,null,null
+155,Chabot,Lawrence,null,null,null,null,elk,null,h,null,null,null,Calumet se cor Vetter,null,null,null,null,null
+157,Chabot,Lucile, A,null,null,null,tchr ,Lake Linden Hubbell High School,h,null,null,null,Calumet se cor Vetter,null,null,null,null,null
+158,Chabot,Martha,null,null,null,null,student,null,h,null,null,null,Calumet se cor Vetter,null,null,null,null,null
+159,Chabot,Olive, E,null,null,null,elk ,Ry Exp Agcy Inc,h,null,null,null,Calumet se cor Vetter,null,null,null,null,null
+160,Chaput,Edna,null,null,null,null,student,null,h,es,null,null,Hecla 8 n of Center,null,null,null,null,null
+161,Chaput,Jos, P,null,null,null,student,null,h,es,null,null,Hecla 8 n of Center,null,null,null,null,null
+164,Chendonnit,Emery,null,null,null,null,null,null,h,ws,null,null,Calumet 4 n of Maple,null,null,null,null,null
+170,Cloutier,Della,null,null,null,null,null,null,h,ws,null,null,Front 1 n of Mine,null,null,null,null,null
+171,Cloutier,Raymond,null,null,null,null,null,null,h,ws,null,null,Front 1 n of Mine,null,null,null,null,null
+176,Condon,Anna, E,null,null,null,bkpr ,Pearce Hdw Fum Co,h,null,5736,null,Log,rd,null,null,null,null
+177,Condon,Cecelia, A,null,null,null,sten ,Lake Linden Hubbell High School,h,null,5736,null,Log,rd,null,null,null,null
+178,Condon,Jack,null,null,null,null,lab,null,h,null,5736,null,Log,rd,null,null,null,null
+180,Condon,Thos,null,null,null,null,lab,null,h,null,5736,null,Log,rd,null,null,null,null
+185,Corbeil,Bruce,null,null,null,null,lab,null,h,ss,null,null,Harris 1 w of Kit,null,null,null,null,null
+187,Corbeil,Emory,null,null,null,null,mech ,Turners Garage,h,ss,null,null,Harris 1 w of Kit,null,null,null,null,null
+188,Corbeil,Ernestine,null,null,null,null,barber ,Edw J Corbeil,h,ss,null,null,Harris 1 w of Kit,null,null,null,null,null
+191,Corriveau,Ulric,null,null,null,null,lab,null,h,ns,null,null,Vetter 5 w of Hecla,null,null,null,null,null
+197,Curtin,Ed,null,null,null,Sylvia,null,null,h,ws,null,null,Log 2 n Vetter,null,null,null,null,null
+198,Curtin,John,null,null,null,null,student,null,h,ws,null,null,Log 2 n Vetter,null,null,null,null,null
+200,Curtin,Morris,null,null,null,null,lab,null,h,ws,null,null,Log 2 n Vetter,null,null,null,null,null
+206,Davison,Jas,null,null,null,null,lab,null,h,ws,null,null,Front 3 s Center,null,null,null,null,null
+206,Davison,Jas,null,null,null,null,null,null,h,ws,null,null,Osceola 2 n 1st,null,null,null,null,null
+207,Dawes,Ray,null,null,null,Mabel,lab,null,h,es,null,null,Lake 5 n of Center,null,null,null,null,null
+210,DeMars,Edw,null,null,null,null,null,null,h,es,null,null,Hecla 5 s of Vetter,null,null,null,null,null
+212,DeMars,John,null,null,null,null,hlpr,null,h,ns,null,null,Mine 1 e of Front,null,null,null,null,null
+215, DeMers, Bendette, null, null, null, null, slswn , Leo DeMers,h, ns, null, null, Mine 1 e of Front, null, null, null, null, null
+218,Denault,Geo, I,null,null,null,jr,null,h,ss,null,null,Center 2 w of Front,null,null,null,null,null
+221,DeRoche,Valerie,null,null,null,null,bkpr ,Laverdiere Garage,h,ws,null,null,Piche 1 s of Corbeil,null,null,null,null,null
+229,Dion,Arth,null,null,null,null,bkpr,null,h,ns,null,null,Beasley 4 w of Cemetery,null,null,null,null,null
+230,Dion,Laurence,null,null,null,null,student,null,h,ns,null,null,Beasley 4 w of Cemetery,null,null,null,null,null
+231,Dion,Loretta,null,null,null,null,null,null,h,ns,null,null,Beasley 4 w of Cemetery,null,null,null,null,null
+236,Douglas,Normand,null,null,null,null,lab,null,h,ws,null,null,Front 4 n Garfield,null,null,null,null,null
+242,Duchmin,Geo,null,null,null,null,driver ,Perreault Mkt,h,ss,null,null,Mine 4 w of Heela,null,null,null,null,null
+243,Duchmin,Julia,null,null,null,null,null,null,h,ss,null,null,Mine 4 w of Heela,null,null,null,null,null
+246,Dunlop,Herbison,null,null,null,null,null,null,h,ws,null,null,Calumet 8 n Vetter,null,null,null,null,null
+249,Dupuis,Bernadette,null,null,null,null,null,null,h,ss,null,null,Harris 4 w Kit,null,null,null,null,null
+250,Dupuis,Celestine,null,null,null,null,null,null,h,es,null,null,3 n of Division,null,null,null,null,null
+251,Dupuis,Dalvina,null,null,null,null,null,null,h,es,null,null,Calumet 3 s of Division,null,null,null,null,null
+260,Duquette,Alexandria,null,null,wid,Geo,null,null,h,es,null,null,Calumet 3 n of Maple,null,null,null,null,null
+261,Duquette,Geo, D,null,null,null,student,null,h,es,null,null,Gregory 3 n of Garfield,null,null,null,null,null
+264,Dusseault,Noah,null,null,null,null,null,null,h,es,null,null,Hecla 2 n of Center,null,null,null,null,null
+272,Eddy,Corbin, J,null,null,null,prof,null,h,es,null,null,Calumet 3 n of Maple,null,null,null,null,null
+280,Ellison,Hulda,null,null,wid,Aug,null,null,h,ss,null,null,Mine 2 w Calumet,null,null,null,null,null
+282,Falerios,Annette,null,null,null,null,tchr,null,h,ws,null,null,Poplar 3 n Hecla,null,null,null,null,null
+284,Falerios,Hilma, E,null,null,null,bkpr ,Harvest Bakery,h,ws,null,null,Poplar 3 n Hecla,null,null,null,null,null
+286,Falerios,Myron,null,null,null,null,lab,null,h,ws,null,null,Poplar 3 n Hecla,null,null,null,null,null
+296,Filardeau,Jos,null,null,null,null,lab,null,h,es,null,null,Lake 2 n of 4th,null,null,null,null,null
+297,Fillinger,Bernard,null,null,null,null,lab,null,h,ss,null,null,Douglass 2 w of Atlantic,null,null,null,null,null
+310,Folardeau,Beatrice,null,null,null,null,cash ,Henry Schuette,h,ns,null,null,Fanny 1 w of Neuman,null,null,null,null,null
+312,Folardeau,Raymond,null,null,null,null,lab,null,h,ns,null,null,Fanny 1 w of Neuman,null,null,null,null,null
+313,Folardeau,Walter,null,null,null,null,lab,null,h,ns,null,null,Fanny 1 w of Neuman,null,null,null,null,null
+316,Fontaine,Theo,null,null,null,null,student,null,h,ns,null,null,E 2 w Hecla,null,null,null,null,null
+317,Forget,Jos,null,null,null,null,null,null,h,es,null,null,Hecla 2 n of 1st,null,null,null,null,null
+317,Forget,Jos,null,null,null,null,null,null,h,es,null,null,Hecla 3 n of Center,null,null,null,null,null
+318,Fountaine,Anne,null,null,null,null,null,null,h,es,null,null,Calumet 3 n of Center,null,null,null,null,null
+319,Fountaine,Arth,null,null,null,null,null,null,h,es,null,null,Calumet 3 n of Center,null,null,null,null,null
+320,Fountaine,Jeffery,null,null,null,null,chauf,null,h,es,null,null,Calumet 3 n of Center,null,null,null,null,null
+322,Fournier,Olivine,null,null,wid,Jos,null,null,h,ns,null,null,4th 1 w of Calumet,null,null,null,null,null
+325,Franks,Alice,null,null,null,null,null,null,h,null,null,null,Tunnel ,null,null,null,null,null
+326,Franks,Arnold,null,null,null,null,null,null,h,es,null,null,Schoolcraft 2 n 3d,null,null,null,null,null
+327,Franks,Clement,null,null,null,null,lab,null,h,es,null,null,Schoolcraft 2 n 3d,null,null,null,null,null
+330,Franks,Wm,null,null,null,null,null,null,h,es,null,null,Schoolcraft 2 n 3d,null,null,null,null,null
+331,Frazer,Beatrice,null,null,null,null,null,null,h,null,3,null,w 6004 1st,null,null,null,null,null
+332,Frazer,Esther,null,null,null,null,maid ,Ed Remallaird,h,null,3,null,w 6004 1st,null,null,null,null,null
+335,Fretter,Beatrice,null,null,null,null,maid,null,h,ws,null,null,Hecla 1 w 3d,null,null,null,null,null
+350,Garon,Emund,null,null,null,null,lab,null,h,ws,null,null,Front 1 n of Division,null,null,null,null,null
+351,Garon,Leo,null,null,null,null,lab,null,h,ws,null,null,Front 1 n of Division,null,null,null,null,null
+353,Garon,Ulric,null,null,null,null,lab,null,h,ws,null,null,Front 1 n of Division,null,null,null,null,null
+355,Gendron,Jos,null,null,null,null,lab,null,h,ws,null,null,Hecla 5 n of Poplar,null,null,null,null,null
+359,Geroux,Wilfred,null,null,null,null,null,null,h,null,null,null,Hecla ne cor Center,null,null,null,null,null
+360,Gervais,Armand,null,null,null,null,null,null,h,es,null,null,Lake 6 n of Vetter,null,null,null,null,null
+361,Gervais,Julia,null,null,null,null,student,null,h,es,null,null,Lake 6 n of Vetter,null,null,null,null,null
+366,Glanville,Chas,null,null,null,null,null,null,h,ws,null,null,Kit 3 n of 3d,null,null,null,null,null
+372,Godin,Isabelle,null,null,null,null,null,null,h,ws,null,null,Atlantic 1 n 2d,null,null,null,null,null
+376,Gogarn,Frances, E,null,null,null,tchr ,Lake Linden Hubbel High Sch,h,ws,null,null,Hecla 3 n 3d,null,null,null,null,null
+388,Greenshield,Geo,null,null,null,null,student,null,h,ns,null,null,Torch 1 e Hecla,null,null,null,null,null
+400,Guibord,Marie, J,null,null,null,elk ,Albert G Goggin,h,ws,null,null,Front 2 s Torch,null,null,null,null,null
+408, Hainault, Beatrice,  A, null, null, null, sten , Mich Elec Mfg Co,h, ws, null, null, Front 2 s Torch, null, null, null, null, null
+410, Hainault, Ransom, null, null, null, null, barber , Leon Hainault,null, null, null, null, null, null, null, null, null, h do
+411,Halle,Eliz,null,null,null,null,null,null,h,ws,null,null,Piche 4 s Corbeil,null,null,null,null,null
+412,Halle,Jos,null,null,null,null,null,null,h,ws,null,null,Piche 4 s Corbeil,null,null,null,null,null
+413,Halle,Josephine,null,null,null,null,maid,null,h,ws,null,null,Piche 4 s Corbeil,null,null,null,null,null
+417,Haller,Martin,null,null,null,Ella,lab,null,h,ws,null,null,Kit 3 n of Harris,null,null,null,null,null
+418,Hallfrisch,Frances, C,null,null,null,tchr ,Lake Linden Hubbell High Sch,h,ws,null,null,Hecla 3 n 3d,null,null,null,null,null
+426,Hebert,Aldina,null,null,null,null,null,null,h,ws,null,null,Front 2 s Center,null,null,null,null,null
+429,Hebert,Marie,null,null,null,null,null,null,h,ws,null,null,Front 2 s Center,null,null,null,null,null
+431,Hein,John,null,null,null,null,null,null,h,ss,null,null,Center 4 w Front,null,null,null,null,null
+433,Hein,Phillip,null,null,null,null,null,null,h,ss,null,null,Center 4 w Front,null,null,null,null,null
+435,Heine,Ruth,null,null,null,null,student,null,h,es,null,null,Schoolcraft 3 n 3d,null,null,null,null,null
+437,Hennecke,Celia,null,null,null,null,null,null,h,ws,null,null,Gregory 6 n Grover,null,null,null,null,null
+439,Hennecke,Frank,null,null,null,null,farmer,null,h,ws,null,null,Gregory 6 n Grover,null,null,null,null,null
+440,Hennecke,Jos,null,null,null,null,farmer,null,h,ws,null,null,Gregory 6 n Grover,null,null,null,null,null
+446,Holtzebuger,Helen,null,null,null,null,student,null,h,ns,null,null,Vetter 4 w Hecla,null,null,null,null,null
+450, Hopf, Otilda, null, null, null, null, null, null,h, ns, null, null, Vetter 4 w Hecla, null, null, null, null, null
+456,Huot,Margt,null,null,null,null,null,null,h,ws,null,null,Gregory 2 n Grover,null,null,null,null,null
+461,Jacobs,Geo, W,null,null,null,student,null,h,ws,null,null,Piche 2 s of Corbeil,null,null,null,null,null
+464,Jacque,Oliver,null,null,null,null,lab,null,h,ws,null,null,Log 1 n Torch,null,null,null,null,null
+471,Jobin,Eva,null,null,null,null,null,null,h,ns,null,null,Harris 5 w of Kit,null,null,null,null,null
+472,Jobin,John,null,null,null,null,lab,null,h,ns,null,null,Harris 5 w of Kit,null,null,null,null,null
+473,Jobin,Jos,null,null,null,null,lab,null,h,ns,null,null,Harris 5 w of Kit,null,null,null,null,null
+482,Jones,Margt, S,null,null,null,tchr ,Lake Linden Hubbell High Sch,h,ws,null,null,Hecla 3 n 3d,null,null,null,null,null
+483,Jones,Sarah, E,null,null,null,librarian,null,h,ws,null,null,Hecla 3 n 3d,null,null,null,null,null
+486,Joyce,Patk,null,null,null,null,null,null,h,ws,null,null,Front 2 s 4th,null,null,null,null,null
+489,Kappler,John,null,null,null,null,janitor ,Turners Garage,h,ss,null,null,3 w Hecla,null,null,null,null,null
+493,Keast,John,null,null,null,null,lab,null,h,es,null,null,Lake 2 n of Vetter,null,null,null,null,null
+500,Kiefer,Chas, L,null,null,null,hlpr,null,h,ns,null,null,Fanny 1 w Calumet,null,null,null,null,null
+512,Koski,Arth,null,null,null,null,elk,null,h,ns,null,null,Mill 2 w of 5955,null,null,null,null,null
+514,Kramer,Marie, G,null,null,null,opr,null,h,ws,null,null,Hecla 1 n of Center,null,null,null,null,null
+521,LaBelle,John,null,null,null,null,lab,null,h,ns,null,null,Pine 1 e Hecla,null,null,null,null,null
+526,LaFleur,Edw,null,null,null,Mercedies,lab,null,h,ws,null,null,Front 4 s Center,null,null,null,null,null
+527,LaFleur,Marcus,null,null,null,null,baker ,Harvest Bakery,h,ns,null,null,2d 4 e Ry track,null,null,null,null,null
+529,Lafleur,Stella,null,null,null,null,null,null,h,ns,null,null,2d 4 e Ry track,null,null,null,null,null
+532, Lefrenier, Loraine, null, null, null, null, student, null,h, ns, null, null, 2d 4 e Ry track, null, null, null, null, null
+533, Lafrenier, Walter, null, null, null, null, null, null,null, null, null, null, null, null, null, null, null, h do
+535,Lahit,Jos,null,null,null,null,null,null,h,ws,null,null,Calumet 2 n of Torch,null,null,null,null,null
+545,LaMore,Antoinette,null,null,null,null,null,null,h,ns,null,null,Pine 1 e Hecla,null,null,null,null,null
+557,Lamuth,Kath,null,null,null,null,maid,null,h,ws,null,null,Hecla 2 n 3d,null,null,null,null,null
+561,Lanouette,Mary,null,null,wid,Felix,livery es ,Calumet ,h,es,null,null,Calumet 5 n of Center,null,null,null,null,null
+562,Lapenski,Elsie, E, Mrs,null,null,null,null,h,es,null,null,Hecla 7 n of Center,null,null,null,null,null
+565,LaPorte,Ephraim,null,null,null,null,driver ,Mrs Mary Lanouette,h,es,null,null,Hecla 2 n of Pine,null,null,null,null,null
+567,Laronde,Allen, J,null,null,null,student,null,h,ws,null,null,Kit 6 n 3d,null,null,null,null,null
+568,Laronde,Jean,null,null,null,null,lab,null,h,ws,null,null,Kit 6 n 3d,null,null,null,null,null
+569,Laronde,Kath,null,null,null,null,bkpr ,Fredk Versailles,h,ws,null,null,Kit 6 n 3d,null,null,null,null,null
+570,Laronde,Kenneth, O,null,null,null,null,null,h,ws,null,null,Kit 6 n 3d,null,null,null,null,null
+587,Leddy,John,null,null,null,null,lab,null,h,ws,null,null,Front 2 s 4th,null,null,null,null,null
+593,Leonard,Robt,null,null,null,null,lab,null,h,ss,null,null,4 w Hecla,null,null,null,null,null
+599,Levasseur,Amelia,null,null,null,null,elk,null,h,ws,null,null,Calumet 5 n Vetter,null,null,null,null,null
+607,Leveque,Leo,null,null,null,null,null,null,h,ws,null,null,Kit 1 n 3d,null,null,null,null,null
+610, Longpre, Edwin,  L, null, null, null, student, null,h, ws, null, null, Kit 1 n 3d, null, null, null, null, null
+611, Longpre, Hermine,  A, null, null, null, tchr, null,null, null, null, null, null, null, null, null, null, h do
+612, Longpre, Louise,  M, null, null, null, student, null,null, null, null, null, null, null, null, null, null, h do
+617,Lynch,Mary, J,null,null,null,sten,null,h,ns,null,null,Torch cor Hecla,null,null,null,null,null
+625,MacDonald,Raymond,null,null,null,null,null,null,h,es,null,null,Calumet 1 s Division,null,null,null,null,null
+634,MacIntyre,Allen, D,null,null,null,student,null,h,ws,null,null,Hecla 4 n 2d,null,null,null,null,null
+637,MacIntyre,Daisy,null,null,null,null,null,null,h,ws,null,null,Hecla 2 n 1st,null,null,null,null,null
+638,MacIntyre,Danl, D,null,null,null,teller ,First Natl Bank of Lake Linden,h,ws,null,null,Hecla 2 n 1st,null,null,null,null,null
+654,Marcotte,Anna,null,null,null,null,elk,null,h,ws,null,null,Log 6 n Torch,null,null,null,null,null
+656,Marcotte,Evelyn,null,null,null,null,student,null,h,ws,null,null,Log 6 n Torch,null,null,null,null,null
+658,Marcotte,Raymond,null,null,null,null,lab,null,h,ws,null,null,Front 1 n of Mine,null,null,null,null,null
+659,Marcotte,Raymond,null,null,null,null,lab,null,h,ws,null,null,Log 6 n Torch,null,null,null,null,null
+662,Mayer,Minnie, C,null,null,null,null,null,h,rear,null,null,ws Calumet 3 n Center,null,null,null,null,null
+667,McKinstry,Jas,null,null,null,Bernice,barber,null,h,ws,null,null,Log 3 n of Pine,null,null,null,null,null
+673,Mehring,Reuben,null,null,null,null,slsmn ,Dutch Kitchen,h,ns,null,null,Pine 2 e of Hecla,null,null,null,null,null
+674,Meister,Jacob,null,null,null,null,lab,null,h,ws,null,null,Kit 3 n of Harris,null,null,null,null,null
+678,Meyer,Kath,null,null,null,null,student,null,h,ws,null,null,Log 2 n Pine,null,null,null,null,null
+679,Meyer,Lucille,null,null,null,null,tchr,null,h,ws,null,null,Log 2 n Pine,null,null,null,null,null
+680,Meyer,Wm,null,null,null,null,student,null,h,ws,null,null,Log 2 n Pine,null,null,null,null,null
+711,Myers,Sadie,null,null,null,null,elk,null,h,ns,null,null,Harris 3 w Kit,null,null,null,null,null
+717,Nester,Lena,null,null,null,null,null,null,h,null,null,null,Calumet se cor Torch,null,null,null,null,null
+719,Nicholls,Grace,null,null,null,null,student,null,h,ss,null,null,3d 1 w Hecla,null,null,null,null,null
+722,Nicholls,Walter,null,null,null,null,null,null,h,ss,null,null,3d 1 w Hecla,null,null,null,null,null
+728,North,Daisy, O,null,null,null,tchr,null,h,ws,null,null,Calumet 3 s Garfield,null,null,null,null,null
+729,North,Emma,null,null,null,null,null,null,h,ws,null,null,Calumet 3 s Garfield,null,null,null,null,null
+738,Opiey,Susie, F,null,null,null,tchr ,Lake Linden Hubbell High Sch,h,ws,null,null,Front 2 s Torch,null,null,null,null,null
+743,Owens,Jennie, C,null,null,null,null,null,h,ws,null,null,Calumet 1 n of Vetter,null,null,null,null,null
+745,Owens,Mary,null,null,null,null,null,null,h,ws,null,null,Calumet 1 n of Vetter,null,null,null,null,null
+754,Paquette,Arth,null,null,null,null,null,null,h,ns,null,null,Mill 1 w 5969,null,null,null,null,null
+755,Paquette,Beatrice,null,null,null,null,null,null,h,ws,null,null,Hecla 3 n Vetter,null,null,null,null,null
+756,Paquette,Bertha,null,null,null,null,null,null,h,ns,null,null,Mill 1 w 5969,null,null,null,null,null
+760,Paquette,Jos,null,null,null,null,elk,null,h,ss,null,null,Douglas 1 w Atlantic,null,null,null,null,null
+760,Paquette,Jos,null,null,null,null,null,null,h,ws,null,null,Neumann 1 n Fanny,null,null,null,null,null
+762,Paquette,Jos,null,null,wid,Malvine,null,null,h,ws,null,null,Neumann 1 n Fanny,null,null,null,null,null
+764,Paquette,Leo,null,null,null,null,lab,null,h,ws,null,null,Hecla 3 n Vetter,null,null,null,null,null
+767,Paquette,Russell,null,null,null,null,student,null,h,ns,null,null,Mill 1 w 5969,null,null,null,null,null
+768,Paquette,Wallace, J,null,null,null,driver ,Fredk Versailles,h,ws,null,null,Hecla 3 n Vetter,null,null,null,null,null
+769,Paquette,Walter,null,null,null,null,lab,null,h,ns,null,null,Mill 1 w 5969,null,null,null,null,null
+772,Parent,Walter,null,null,null,null,lab,null,h,es,null,null,Lake 4 n Center,null,null,null,null,null
+773,Parks,David,null,null,null,null,lab,null,h,ws,null,null,Front 1 s Mill,null,null,null,null,null
+774, Parks, Evelyn, null, null, null, null, null, null,h, ws, null, null, Front 1 s Mill, null, null, null, null, null
+776,Parks,Henry,null,null,null,null,lab,null,h,ws,null,null,Front 1 s Mill,null,null,null,null,null
+785,Payne,Sidney,null,null,null,null,reprmn ,Pearce Hdw Furn Co,h,ss,null,null,Mill 3 e of Calumet,null,null,null,null,null
+786,Pearce,Earl,null,null,null,null,lab,null,h,ws,null,null,Front 3 s Center,null,null,null,null,null
+786,Pearce,Earl,null,null,null,null,null,null,h,ws,null,null,Osceola 2 n 1st,null,null,null,null,null
+787,Pearce,Erma,null,null,null,null,student,null,h,ws,null,null,Front 3 s Center,null,null,null,null,null
+787,Pearce,Erma,null,null,null,null,null,null,h,ws,null,null,Osceola 2 n 1st,null,null,null,null,null
+790,Pearce,Josiah,null,null,null,null,lab,null,h,null,null,null,Tunnel ,null,null,null,null,null
+791,Pearce,Lester,null,null,null,null,student,null,h,ws,null,null,Front 3 s Center,null,null,null,null,null
+791,Pearce,Lester,null,null,null,null,null,null,h,ws,null,null,Osceola 2 n 1st,null,null,null,null,null
+792,Pearce,Lezetta,null,null,null,null,student,null,h,ws,null,null,Front 3 s Center,null,null,null,null,null
+792,Pearce,Lezetta,null,null,null,null,null,null,h,ws,null,null,Osceola 2 n 1st,null,null,null,null,null
+801,Peck,Mary,null,null,null,null,prin ,McKinley Sch,h,ss,null,null,Harris 2 w Kit,null,null,null,null,null
+813,Pelland,Russell,null,null,null,null,null,null,h,ss,null,null,D 1 w Hecla,null,null,null,null,null
+815,Pellend,Elva,null,null,null,null,janitress,null,h,ns,null,null,F 1 w Hecla,null,null,null,null,null
+816,Pellend,Geo,null,null,null,null,slsmn ,Pearce Hdw Furn Co,h,ns,null,null,F 1 w Hecla,null,null,null,null,null
+822,Pellerin,Alf, M,null,null,null,driver ,Pearce Hdw Furn Co,h,null,null,null,Calumet ne cor Vetter,null,null,null,null,null
+823,Pellerin,Armand, J,null,null,null,null,null,h,null,null,null,Calumet ne cor Vetter,null,null,null,null,null
+824,Pellerin,Irene, M,null,null,null,slswn ,Calumet Gas Coke Co,h,null,null,null,Calumet ne cor Vetter,null,null,null,null,null
+826,Penninger,Kath,null,null,null,null,null,null,h,ns,null,null,Torch 1 e Ry track,null,null,null,null,null
+827,Penninger,Matilda,null,null,null,null,private sec,null,h,ns,null,null,Torch 1 e Ry track,null,null,null,null,null
+838,Piche,Cecelia, Mrs,null,wid,destine,null,null,h,ws,null,null,Vetter 4 w Hecla,null,null,null,null,null
+839,Piche,Florence,null,null,wid,Robt,null,null,h,ws,null,null,Front 4 n Garfield,null,null,null,null,null
+840,Piche,Henry,null,null,null,null,lab,null,h,ws,null,null,Vetter 4 w Hecla,null,null,null,null,null
+843,Piche,Raymond,null,null,null,null,driver ,Henry Schuette,h,ws,null,null,Vetter 4 w Hecla,null,null,null,null,null
+844,Piche,Rose,null,null,null,null,nurse,null,h,ws,null,null,Vetter 4 w Hecla,null,null,null,null,null
+855,Poisson,Alf,null,null,null,null,arion,null,h,ns,null,null,Mine 3 e Front,null,null,null,null,null
+857,Poisson,Leo,null,null,null,null,lab,null,h,ns,null,null,Mine 3 e Front,null,null,null,null,null
+867,Poull,Robt, K,null,null,Edna,chemist,null,h,ws,null,null,Calumet 2 n 3d,null,null,null,null,null
+871,Prince,Chas,null,null,null,null,lab,null,h,null,null,null,Tunnel ,null,null,null,null,null
+877,Quintal,Adelard,null,null,null,null,lab,null,h,ws,null,null,Torch 6 e Hecla,null,null,null,null,null
+884,Racine,Edw,null,null,null,null,lab,null,h,es,null,null,Gregory 2 n of Grover,null,null,null,null,null
+885,Racine,Evelyn,null,null,null,null,null,null,h,es,null,null,Gregory 2 n of Grover,null,null,null,null,null
+887,Racine,Leo,null,null,null,null,lab,null,h,es,null,null,Gregory 2 n of Grover,null,null,null,null,null
+891,Raiche,Georgine,null,null,null,null,student,null,h,es,null,null,Calumet 3 n of Vetter,null,null,null,null,null
+895,Reichardt,Anna,null,null,wid,Wm,null,null,h,ws,null,null,Hecla 1 n of Center,null,null,null,null,null
+908,Rheault,Lucille,null,null,null,null,null,null,h,ws,null,null,Front 2 n of Mine,null,null,null,null,null
+910,Rheaume,Jos,null,null,null,null,null,null,h,es,null,null,Lake 1 n of Center,null,null,null,null,null
+919,Robertson,Chas, H,null,null,null,slsmn ,Brunswick Billiard Parlor,h,ws,null,null,Front 2 s 4th,null,null,null,null,null
+921,Robinson,John, P,null,null,null,student,null,h,ws,null,null,Calumet 1 s of Fanny,null,null,null,null,null
+927,Rouger,Victorina,null,null,wid,John,null,null,h,es,null,null,Front 1 s of Beasley,null,null,null,null,null
+930,StGeorge,Edw,null,null,null,null,lab,null,h,ws,null,null,Hecla 5 n of Poplar,null,null,null,null,null
+932,StGeorge,Nannette,null,null,null,null,null,null,h,ws,null,null,Hecla 5 n of Poplar,null,null,null,null,null
+936,StJohn,Marie,null,null,null,null,student,null,h,es,null,null,Calumet 2 n of 3d,null,null,null,null,null
+937,StJohn,Reuben,null,null,null,null,null,null,h,es,null,null,Calumet 2 n of 3d,null,null,null,null,null
+942,StPierre,Marcus,null,null,null,null,lab,null,h,ws,null,null,Log 1 n of Pine,null,null,null,null,null
+946,Sarazin,Mayme,null,null,null,null,null,null,h,ws,null,null,Front 5 s of Vetter,null,null,null,null,null
+952,Schleeter,Jas,null,null,null,null,pntr,null,h,ns,null,null,Torch 1 e Hecla,null,null,null,null,null
+953,Schletter,Clarence,null,null,null,null,lab,null,h,ss,null,null,Poplar 1 n of Hecla,null,null,null,null,null
+955,Schletter,Myrtle,null,null,null,null,null,null,h,ss,null,null,Poplar 1 n of Hecla,null,null,null,null,null
+956,Schlicting,Alma,null,null,null,null,elk,null,h,es,null,null,Calumet 2 s of Fanny,null,null,null,null,null
+959, Schneller, Cecile,  B, null, null, null, tel opr, null,h, es, null, null, Calumet 2 s of Fanny, null, null, null, null, null
+960, Schneller, Martha, null, null, wid, Michl, null, null,null, null, null, null, null, null, null, null, null, h do
+964,Schuette,Mamie,null,null,null,null,elk ,Dollar Bay Lbr Co,h,ws,null,null,Calumet 4 n of Center,null,null,null,null,null
+965,Schulte,Anna,null,null,null,null,null,null,h,es,null,null,Log 1 s of Vetter,null,null,null,null,null
+968,Senecal,Isabelle, B,null,null,null,tchr ,Lake Linden Hubbell High Sch,h,es,null,null,2 n of Vetter,null,null,null,null,null
+971,Senglaub,Agnes, L,null,null,null,student,null,h,null,null,null,Maple ne cor Hecla,null,null,null,null,null
+974,Senglaub,Clara, A,null,null,null,null,null,h,null,null,null,Calumet nw cor Pine,null,null,null,null,null
+976,Senglaub,Henry, A,null,null,null,jr lab,null,h,null,null,null,Calumet nw cor Pine,null,null,null,null,null
+977,Senglaub,Martin, W,null,null,null,null,null,h,null,null,null,Maple ne cor Hecla,null,null,null,null,null
+980,Shafer,Sara,null,null,null,null,null,null,h,ws,null,null,Front 3 s of Vetter,null,null,null,null,null
+981,Shields,Evrina,null,null,wid,Jos,null,null,h,ws,null,null,Schoolcraft 1 n 3d,null,null,null,null,null
+982,Sibilsky,Clifford,null,null,null,null,null,null,r,es,null,null,Calumet 3 s of Fanny,null,null,null,null,null
+987,Sincock,E, A, Mrs,null,null,null,null,h,ws,null,null,Kit 2 n of Harris,null,null,null,null,null
+990,Singlaub,Ivadel,null,null,null,null,slswn ,Pearce Hdw Furn Co,h,ws,null,null,Calumet 1 s of Division,null,null,null,null,null
+991,Singlaub,Ruth, G,null,null,null,sten ,Pearce Hdw Furn Co,h,ws,null,null,Calumet 1 s of Division,null,null,null,null,null
+995,Slonaker,Arth, L,null,null,Auto Supply Store,null,null,h,ws,null,null,Hecla 1 n of 2d,null,null,null,null,null
+996,Slonaker,Geo,null,null,null,null,student,null,h,ws,null,null,Hecla 1 n of 2d,null,null,null,null,null
+997,Slonaker,Louise,null,null,null,null,student,null,h,ws,null,null,Hecla 1 n of 2d,null,null,null,null,null
+998,Slonaker,Madeline,null,null,null,null,asst ,Dr F G Knepple,h,ws,null,null,Hecla 1 n of 2d,null,null,null,null,null
+1001,Smeltzer,Lloyd,null,null,null,null,lab,null,h,ns,null,null,Torch 6 e of Ry crossing,null,null,null,null,null
+1005,Smith,Harriet,null,null,null,null,student,null,h,es,null,null,Gregory 2 n of Grover,null,null,null,null,null
+1006,Smith,Jas,null,null,null,null,lab,null,h,ws,null,null,Hecla 4 n of Poplar,null,null,null,null,null
+1007,Smith,John,null,null,null,Ruby,null,null,h,ws,null,null,Kit 4 n of Harris,null,null,null,null,null
+1009,Smith,Michl, L,null,null,null,rural mail carrier ,Lake Linden PO,h,ws,null,null,Hecla 4 n of Poplar,null,null,null,null,null
+1011,Smith,Robt,null,null,null,null,lab,null,h,ws,null,null,Hecla 4 n of Poplar,null,null,null,null,null
+1014,Smith,Wm,null,null,null,null,lab,null,h,ws,null,null,Hecla 4 n of Poplar,null,null,null,null,null
+1018,Stark,Geo,null,null,null,null,meat ctr ,Henry Schuette,h,ws,null,null,Atlantic 4 n of 2d,null,null,null,null,null
+1026,Stevens,Geo, Mrs,null,null,null,null,null,h,ss,null,null,Poplar 1 n of Hecla,null,null,null,null,null
+1030,Studer,Leo, M,null,null,null,billiards ws ,Calumet ,h,es,null,null,Hecla 5 n of Center,null,null,null,null,null
+1032,Surpreant,Peter,null,null,null,null,null,null,h,ws,null,null,Calumet 4 n of Maple,null,null,null,null,null
+1034,Swanson,Harry,null,null,null,null,eng,null,h,es,null,null,Lake 5 n of Center,null,null,null,null,null
+1035,Sweet,Stewart,null,null,null,null,null,null,h,ws,null,null,Calumet 3 n 4th,null,null,null,null,null
+1042,Tappe,Wm,null,null,null,null,jr asst chemist,null,h,es,null,null,Log 1 s of Vetter,null,null,null,null,null
+1045,Therrien,Clarence,null,null,null,null,lab,null,h,ws,null,null,Osceola 1 n of 1st,null,null,null,null,null
+1054,Toupin,Lumena,null,null,null,null,null,null,h,null,null,null,Calumet sw cor Maple,null,null,null,null,null
+1060,Tumperi,Lempi,null,null,null,null,student,null,h,ns,null,null,Mill 2 w of 5955,null,null,null,null,null
+1065,Vitti,Elmer,null,null,null,null,student,null,h,ns,null,null,Mill 2 w of 5955,null,null,null,null,null
+1067,Vairo,Dominic,null,null,null,null,student,null,h,ss,null,null,Mine 1 w of Cemetery,null,null,null,null,null
+1071,Venard,Maxim,null,null,null,null,lab,null,h,ws,null,null,Front 1 n of Mine,null,null,null,null,null
+1073,Venne,Arth,null,null,null,null,student,null,h,ns,null,null,Torch 2 e of Ry crossing,null,null,null,null,null
+1074,Venne,Lawrence,null,null,null,null,student,null,h,ns,null,null,Torch 2 e of Ry crossing,null,null,null,null,null
+1078,Versailles,Cora,null,null,null,null,nurse,null,h,ws,null,null,Front 3 n of Division,null,null,null,null,null
+1100,Warhem,Richd,null,null,null,null,lab,null,h,ws,null,null,Front 3 s Center,null,null,null,null,null
+1100,Warhem,Richd,null,null,null,null,null,null,h,ws,null,null,Osceola 2 n 1st,null,null,null,null,null
+1101, Warner, Geo,  J, null, null, Kath, chief , Fire Dept,h, ws, null, null, Osceola 2 n 1st, null, null, null, null, null
+1113,Wilkowski,Bernard,null,null,null,null,null,null,h,ns,null,null,Douglass 1 w of Atlantic,null,null,null,null,null
+1120,Witz,Russell,null,null,null,null,student,null,h,ws,null,null,Calumet 4 n of Vetter,null,null,null,null,null
+1121,Witz,Vivan,null,null,null,null,null,null,h,ws,null,null,Calumet 4 n of Vetter,null,null,null,null,null
+9,Anderson,Geo,null,null,null,null,slsmn ,Turners Garage,null,null,null,null,null,null,null,null,null,null
+44,Baril,Wilfred,null,null,null,null,driver ,John Peiffer,null,null,null,null,null,null,null,null,null,null
+79,Bittrich,Frank,null,null,null,null,plmbr ,Pearce Hdw Furn Co,null,null,null,null,null,null,null,null,null,null
+104,Braulette,Lawrence,null,null,null,null,flremn ,Fire Dept,null,null,null,null,null,null,null,null,null,null
+148,Cassabon,Clifford,null,null,null,null,firemn ,Fire Dept r Pine,null,null,null,null,null,null,null,null,null,null
+165,Chon,Jeanette,M ,null,null,null,sten ,Arth J Beaudry,null,null,null,null,null,null,null,null,null,null
+299,First,Methodist,Episcopal ,null,null,null,pastor ,Sunday services 10 a m and 7 p m 1st sw cor County rd,null,null,null,null,null,null,null,null,null,null
+393,Gregory,Peter,null,null,null,null,reprmn ,Pearce Hdw Furn Co,null,null,null,null,null,null,null,null,null,null
+407,Hagen,Ida,null,null,null,null,tchr ,Lake Linden Hubbell High Sch r Church,null,null,null,null,null,null,null,null,null,null
+427,Hebert,Helen,null,null,null,null,nurse ,Lake Superior General Hospital r Tamarack,null,null,null,null,null,null,null,null,null,null
+458,Irenes,Beauty,Shoppe ,null,null,Irene Daniels,bldg,null,null,null,null,null,null,null,null,null,null,null
+475,Johns,Fred,null,null,null,null,driver ,Lake Linden Supply Co,null,null,null,null,null,null,null,null,null,null
+499,Kiefer,Ardell,Henry ,null,null,null,lab ,Chas Kiefer,null,null,null,null,null,null,null,null,null,null
+538,Lake,Linden,Congregational ,null,null,null,pastor ,Sunday services 10 a m Sunday school 1115 am County rd se cor 1st,null,null,null,null,null,null,null,null,null,null
+542,Lake,Linden,Methodist ,null,null,null,pastor ,Sunday services 10 a m and 7pm Sunday school 1110 a m,null,null,null,null,null,null,null,null,null,null
+609,Lindell,Chocolate,Shop ,null,null,Louis B Grammas Jas G Pallis,confrs ,Calumet nw cor 4th,null,null,null,null,null,null,null,null,null,null
+675,Mehseau,Leonard,null,null,null,Philomene,janitor ,Lake Linden Hubbell,null,null,null,null,null,null,null,null,null,null
+681,Meyers,Rudy,null,null,null,null,firemn ,Fire Dept Harris,null,null,null,null,null,null,null,null,null,null
+730,Obert,Archie,null,null,null,Emma,lab,null,null,null,null,null,null,null,null,null,null,null
+739,Ormsby,Kath,null,null,null,null,slwn ,John Peiffer,null,null,null,null,null,null,null,null,null,null
+757,Paquette,Chelsea,null,null,null,null,driver ,Lake Linden Cash Market r Douglass,null,null,null,null,null,null,null,null,null,null
+788,Pearce,Hardware,Furniture ,null,null,null,pres ,Ransom,null,null,null,null,null,null,null,null,null,null
+798,Pearce,Wm,null,null,null,null,firemn ,Fire Dept r Schoolcraft,null,null,null,null,null,null,null,null,null,null
+807,Pelland,Albert,J ,null,null,null,slsmn ,Pearce Hdw Fum Co r Front,null,null,null,null,null,null,null,null,null,null
+894,Raymond,Napoleon,J ,null,null,null,pastor ,StJosephs Cath Ch Calumet ne cor Maple,null,null,null,null,null,null,null,null,null,null
+922,Rocque,Liquori,null,null,null,Parmelia,formn ,CH,null,null,null,null,null,null,null,null,null,null
+950,Schick,Nich,null,null,null,Julia,lab,null,null,null,null,null,null,null,null,null,null,null
+985,Sihtola,Effie,null,null,null,null,elk ,Pearce Hdw Fum Co r Kearsarge loc,null,null,null,null,null,null,null,null,null,null
+1031,Sturos,Wilbert,null,null,null,null,driver ,Harvest Bakery,null,null,null,null,null,null,null,null,null,null
+1037,Swiedrock,Rose,null,Mrs,null,null,janitress ,Lake Superior General Hosp,null,null,null,null,null,null,null,null,null,null
+1076,Versaille,Wm,null,null,null,Dora,lab,null,null,null,null,null,null,null,null,null,null,null

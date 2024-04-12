@@ -1,0 +1,957 @@
+30 ADDRESS, JOB NOT FOUND: Agnitz Block, 439 5th
+32 ADDRESS, JOB NOT FOUND: Aho Albert (aged 28), died Aug 30, 1900
+37 ADDRESS, JOB NOT FOUND: Aho Jacob (aged 22), died May 16, 1900
+74 NAME: Alaria Kasario lab Tamarack Mining Co
+76 NAME: Alatalo Isaac W removed to Colorado
+77 NAME: Alatalo John H P sec hd C H M Co res 3918 6th
+80 ADDRESS, JOB NOT FOUND: Albion Hotel, Donald A Mclyer, 821 Elm
+83 ADDRESS, JOB LOCATION NOT FOUND: Alla Charles, lab, res ioi Cent loc
+87 ADDRESS, JOB LOCATION NOT FOUND: Allan James P, lab C H M Co, tres 1783 Cemetery
+99 ADDRESS, JOB LOCATION NOT FOUND: Allen Wm, timberman Tamarack Mining Co res 17 10th Tam loc
+111 ADDRESS, JOB NOT FOUND: American House, Tohn Currie propr, 410 6th
+112 ADDRESS, JOB NOT FOUND: AMERIKAN UUTISET (Finnish, SemiWeekly, Ind), Frederick Karinen, propr, 409 Pine (See page 55)
+117 ADDRESS, JOB LOCATION NOT FOUND: Anderson Amelia, elk Arne Ruttenberg, res, Laurium, Mich
+121 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Anderson Andrew, sec hd, bds Albion hotel
+184 ADDRESS, JOB LOCATION NOT FOUND: Andrina Cecelia, elk Arne Ruttenberg res Laurium, Mich
+192 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Annala John, miner, bds Charles Haapakoskie
+216 ADDRESS, JOB LOCATION NOT FOUND: Antoniono Pietro, lab res 2754 Columbia
+217 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Arbanas Joseph, miner Centennial Copper Mining Co, bds John Michelich
+218 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Arbanas Victor, trammer Tamarack Mining Co, bds John Michelich
+219 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Arbanas Vincent, drill boy, bds John Michelich
+227 NAME: Archer Jeannette (wid Charles) res 217 Maple Lane
+235 ADDRESS, JOB NOT FOUND: ARLINGTON THE, Edward E Merz Propr, cor 8th and Oak (See page 43)
+240 NAME: ARMSTRONGTHIELMAN LUMBER CO, Lumber Dealers and Builders, Supplies Office and Yard Scott r Italian Church Planing Mills South Lake Linden and Hancock Tel (See front edge)
+241 NAME: ARMSTRONG THOMAS W (ArmstrongThielman Lumber Co) Res South Lake Linden, Mich
+245 ADDRESS, JOB NOT FOUND: ARNE RUTTENBERG (Benjamin Arne, Oscar Ruttenberg), Proprs the Savings Bank, 404410 5th
+259 ADDRESS, JOB LOCATION NOT FOUND: Asseline Joseph, meats 320 6th, res same,
+261 ADDRESS, JOB NOT FOUND: Athletic Park, s e cor Elm and 4th
+264 ADDRESS, JOB NOT FOUND: Auditorium Hotel The, James W McKenna propr, 400 6th
+272 ADDRESS, JOB LOCATION NOT FOUND: Auringer D Charles, genl agt Michigan Mutual Life Ins Co, over 301 5th, res same
+275 ADDRESS, JOB NOT FOUND: Austrian Band, Frank Padera leader, Willmers Hall, 6th
+282 ADDRESS, JOB LOCATION NOT FOUND: Bachor Ludwig, elk N Ruttenberg res Laurium
+283 ADDRESS, JOB NOT FOUND: Back Herman, C H M Co
+294 NAME: Baer Bros, Hancock (branch), meat market, 201 5th
+297 NAME: Baliich Bartj C H M Co
+299 ADDRESS, JOB NOT FOUND: Bahor Peter, C H M Co
+312 ADDRESS, JOB NOT FOUND: BAJARI ULSETH (Adolph A Bajari, Edward Ulseth), Contractors and Builders, and Dealers in Lumber and Builders Supplies Osceola rd and H T L R R (See right top lines)
+316 ADDRESS, JOB NOT FOUND: Bakstrom John D, C H M Co
+331 ADDRESS, JOB NOT FOUND: Bandettini Attilio, removed to San Francisco, Cal
+332 ADDRESS, JOB LOCATION NOT FOUND: Bandettini John, bkkpr G Procissi Co, res same
+372 ADDRESS, JOB NOT FOUND: Barinotti Kate (aged 42), died May 16, 1900
+387 ADDRESS, JOB NOT FOUND: Barquist Augusta Matilda (aged 29), died Sept 19, 1899
+397 ADDRESS, JOB NOT FOUND: Barryman James H, C H M Co
+429 ADDRESS, JOB NOT FOUND: BATEMAN WM A, Lawyer, Notary Public, Real Estate and Collections First National Bank Bldg Res Laurium (See adv)
+433 ADDRESS, JOB NOT FOUND: Bato Oscar E, C H M lCo
+434 ADDRESS, JOB LOCATION NOT FOUND: Battista Enrico, trammerAbds 2754 Columbia
+468 ADDRESS, JOB NOT FOUND: Beaudoin John, C H M Co
+502 ADDRESS, JOB NOT FOUND: Beiswanger Joseph, removed to Marinette, Wis
+514 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Belhumeur Gideon, hostler Joseph Trudell, bds Marquette House
+521 ADDRESS, JOB NOT FOUND: Bell James M, solicitor International Correspondence Schools, bds, Laurium, Mich
+536 ADDRESS, JOB NOT FOUND: Belopolivish John (aged 46), died April 25, 1901
+539 NAME, PERSON NOT FOUND: Bemo Brother O F M, janitor Sacred Heart church, bds 1383 Rockland
+540 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Benard Joseph, bds Marquette House
+544 ADDRESS, JOB LOCATION NOT FOUND: Bendoni John, grocer 415 7th, res same
+553 ADDRESS, JOB NOT FOUND: Bennetts Frank, instr Manual Training School
+581 ADDRESS, JOB NOT FOUND: Berg Gustaf,, miner res 1560 Hecla
+590 ADDRESS, JOB NOT FOUND: Berg Oscar, timbrman, rs 2672 Union
+607 NAME: Berlowitz Bros (Charles and Abraham), confec, 407 5th
+636 ADDRESS, JOB LOCATION NOT FOUND: Besander Andrew, foreman bds 818 Oak
+638 ADDRESS, JOB NOT FOUND: Bessette Raphel (aged 74), died May 24, 1899
+647 NAME: Bethlehem Finnish Evangelical Lutheran Church, Rev P Airaksinen pastor, County rd, nr Rockland
+660 ADDRESS, JOB NOT FOUND: BEVIER JOHN A, Granite and Marble Monuments, Office and res Calumet Hotel (See p 53)
+665 ADDRESS, JOB NOT FOUND: Bibber Herman, general store 465 5th, res same
+695 ADDRESS, JOB LOCATION NOT FOUND: Biscomb James, foreman Cent C M Co, res Wolverine loc
+705 NAME: Blacknev Elizabeth A bds 20 10th (Tam Loc)
+710 ADDRESS, JOB NOT FOUND: Blackwell Martha (wid John), removed to Laurium, Mich
+724 ADDRESS, JOB NOT FOUND: Bleau Vital jr, removed to Florida, Mich
+757 ADDRESS, JOB NOT FOUND: Bloys Hall, 114116 5th
+776 ADDRESS, JOB LOCATION NOT FOUND: Bobbio Pauli, timberman res 3958 Wedge
+779 ADDRESS, JOB NOT FOUND: Bodde Albert F, confy, 513 Oak res same
+788 ADDRESS, JOB NOT FOUND: Boex A M, mnfrs agt, 124 5th, res Green Bay, Mich
+799 ADDRESS, JOB NOT FOUND: Bohtor Joseph, station boss Tamarack Mining Co
+800 NAME: BOISSONNAULT REV JOSEPH R, Rector St Annes (R C) Church, res 3970 Scott
+818 ADDRESS, JOB NOT FOUND: Bollman Block, s w cor 8th and Oak
+821 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bolty John, bkkpr G R Stewart, rms r 814 Portland
+832 ADDRESS, JOB NOT FOUND: Bond John (aged 80), died Oct 26, 1899
+863 ADDRESS, JOB NOT FOUND: Borgo Block, 354 356 5th
+877 NAME: Bosch Brewing Co (Calumet Branch), Michael Kemp mngr, office cor 1st and Woodland av, Laurium
+899 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bourque George H, bartndr John Bracco, bds Marquette House
+901 ADDRESS, JOB NOT FOUND: Bowden Ann (aged 71), died Aug 10, 1900
+913 NAME: Boyde Mme Co (Mme S Alida Bovde, F Dean Rhodes), hair goods, 345 5th
+914 NAME: Boyde Mme S Alida (Mme Boyde Co), res 345 5th
+931 ADDRESS, JOB NOT FOUND: Brandel Frederick, ningr Pabst Brewing Co (Calumet Branch), res Bollraann Blk
+948 ADDRESS, JOB NOT FOUND: BRIGGS CHARLES, Pres Merchants and Miners Bank and Propr Hecla Store, 1132 Depot, Tel 151 Res 1035 Mine Tel 108 (See right side lines)
+953 NAME, PERSON NOT FOUND: Brill Wm J L, miner, bds 2040 Calumet av
+982 ADDRESS, JOB LOCATION NOT FOUND: Brown Elbridge G, supply elk, res mi Calumet av
+988 ADDRESS, JOB NOT FOUND: Brown John (aged 51), died July 9, 1899
+991 ADDRESS, JOB NOT FOUND: Brown Leander (aged 33), died Aug 8, 1901
+1007 ADDRESS, JOB NOT FOUND: Brozovich Stephen, removed to Austria
+1076 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burgunder Anthony, helper, bds *543 Mecla
+1089 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burling John O, elk E Nelson, bds Albion
+1092 ADDRESS, JOB NOT FOUND: Burrill Jennie, housekeeper, 116 8th
+1123 ADDRESS, JOB LOCATION NOT FOUND: Bye Edgar, mach res 1558 Hecla
+1128 ADDRESS, JOB NOT FOUND: Cadwell E Jane (aged 50), died May 7, 1900
+1135 ADDRESS, JOB NOT FOUND: Caesar Block, 227229 5th
+1154 NAME: Calumet Brewing Co, George Hall (Wolverine) pres, Guerino Martini treas and mngr, Charles M Coon sec, 519 Pine
+1155 ADDRESS, JOB NOT FOUND: Calumet Club The, E R Wolff propr, 320 5th
+1156 ADDRESS, JOB NOT FOUND: Calumet Congregational Church, Rev Hamilton D Hunter pastor, 1100 Calumet av
+1157 NAME: Calumet Fire Engine House, w end Old Torch Lake rd
+1158 ADDRESS, JOB NOT FOUND: Calumet High School, cor Old Torch Lake rd and Calumet av
+1159 ADDRESS, JOB NOT FOUND: CALUMET HOTEL, Judson P North Propr, ioi Calumet av cor Old Torch Lake rd
+1160 NAME: Calumet Methodist Episcopal Church, n w cor Calumet av and Church
+1161 NAME: Calumet Music Co, H M Draper ningr, 215 6th
+1162 ADDRESS, JOB NOT FOUND: CALUMET POSTEN (Swedish Weekly), Otto Leonardson Mngr, 107 6th
+1163 ADDRESS, JOB NOT FOUND: Calumet Star Laundry (Chinese), 624 Portland
+1164 ADDRESS, JOB NOT FOUND: Calumet Theatre, J D Cttddihy propr, 356 6th
+1165 NAME: CALUMET WALL PAPER AND PAINT CO, George P Gahan Propr, 418 5th (See page 49)
+1166 NAME: Calumet Arizona Mining Co, Charles Briggs pres, John S Dymock vicepres, Gordon R Campbell sec and counsel, Jacka Blk
+1167 NAME: CALUMET HECLA BAND AND ORCHESTRA,
+1168 NAME: Col J N Cox Mngr, cor Mine and Old Torch Lake rd
+1169 NAME: Calumet Hecla Club House, 11 e cor Mine and Red Jacket rd
+1170 ADDRESS, JOB NOT FOUND: Calumet Hecla Hospital, A B Simonson physician in chief, 129 Calumet av
+1171 NAME: CALUMET HECLA MINING CO (Capital 2,500,000), Alex Agassiz (Boston, Mass) Pres, T L Livermore (Boston, Mass) vicepres, George A Flagg (Boston, Mass) Sec and Treas, James MacNaughton Supt, John Duncan Asst Supt, J H Lathrop Chief Clerk, Copper Miners and Smelters Mine Offices cor Red Jacket rd and Calumet av
+1172 NAME: Calumet and Hecla Water Works (main station), shore of Lake Superior 5 miles w substation n end of Waterworks st
+1173 NAME: Calumet Keweenaw Stage Line, Thomas Anderson propr, 503 Pine
+1174 NAME: Calumet Lake Linden Stage Line, Frank Tourville propr, e s 7th 1 n of Pine
+1182 ADDRESS, JOB LOCATION NOT FOUND: Cameron Duncan, watchman C H M Co, res 167b Railroad
+1183 ADDRESS, JOB NOT FOUND: Cameron George (aged 27), died May 14, 1901
+1192 ADDRESS, JOB NOT FOUND: Campagnola Bert (aged 33), died April 26, 1899
+1230 ADDRESS, JOB LOCATION NOT FOUND: Capello Thomas, mach hd bds 534 3d
+1250 NAME: Carkeek, see also Karkeet
+1255 ADDRESS, JOB LOCATION NOT FOUND: Carlson Carl J, trammer C H M Co, res 4330
+1258 ADDRESS, JOB LOCATION NOT FOUND: Carlson Charles E, lander Centennial Copper Mining Co res 36 Cent loc
+1285 NAME: CARLTON HARDWARE CO, F S Carlton Pres and Treas, John Burder VicePres, Ernest C Walz Sec, Hardware, Iron, Steel, Mining Supplies, Plumbing, Heating, Etc, 400402 5th (See side lines)
+1297 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Carrier Adalore J, painter John Tachell, bds Marquette House
+1329 ADDRESS, JOB NOT FOUND: Cavanaugh Johanna (aged 65), died Oct 6, 1899
+1334 ADDRESS, JOB NOT FOUND: Cayanus Christian, removed to Chicago, Ill
+1341 NAME: CENTENNIAL COPPER MINING CO (Capital 2,500,000), Harry F Fay (Boston, Mass), Pres, W JB Mossman (Boston, Mass), Sec, George G Endicott (Boston, Mass), Treas, James Chynoweth Supt, John M Wagner Chief Clk, 1 12 miles n e of Calumet P O
+1342 ADDRESS, JOB NOT FOUND: Centennial School, Centennial location
+1343 NAME: CENTRAL HOTEL AND RESTAURANT, S F Loch Propr, 322 5th (See left top lines)
+1360 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chabbot Joseph, plumber, bds Marquette House
+1374 ADDRESS, JOB NOT FOUND: Champion Wm H (aged 55), died May 7, 1900
+1386 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chaput Joseph, plumber Sheridan Duncan, bds Marquette House
+1387 ADDRESS, JOB NOT FOUND: CHAPUT WM, Propr Windsor House, 333 5th (See page 51)
+1388 NAME: CharlanPauline, cook Central Hotel
+1401 ADDRESS, JOB NOT FOUND: Chartier Felix (aged 25), died March 29, 1900
+1422 ADDRESS, JOB LOCATION NOT FOUND: Childs Charles S, brakeman bds 1017 Boon lane
+1450 ADDRESS, JOB NOT FOUND: Christ Church (Episcopal), w s 5th nr Armory Bldg
+1484 ADDRESS, JOB NOT FOUND: CITY BAKERY, Edward Nelson Propr, 357 5th
+1485 ADDRESS, JOB NOT FOUND: City Drug Store, Sodergren Sodergren proprs, 216 5th
+1509 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cocking Catherine, bkkpr T Evan, bds Osceola Mine
+1518 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cole John P, bartndr The Auditorium Hotel, bds same
+1536 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Collins Mattie, bds Harry Damerell
+1543 ADDRESS, JOB NOT FOUND: Colton Henry S (aged 65), died April, 1900
+1545 ADDRESS, JOB NOT FOUND: Columbia Hotel, Joseph H Gardner propr, 405 7th
+1552 ADDRESS, JOB NOT FOUND: Commercial House, John Knute propr, 450 Pine
+1561 ADDRESS, JOB NOT FOUND: Congregational Church, s w cor Red Jacket rd and Calumet av
+1568 ADDRESS, JOB NOT FOUND: Connors Bartholomew (aged 70), died Jan 18, 1900
+1588 NAME: Church, res n w cor Calumet av and Church
+1595 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Copp Anthony, lab, bds John Belobrajdic
+1599 NAME: Copp George H trammer Tam M Co, res 9 Butlers row
+1601 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Copp Joseph, trammer Centennial Copper Mining Co, bds John Belobrajdic
+1604 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Copp Martin, lab Tam M Co, bds John Belodrajdic
+1609 NAME: COPPER COUNTRY EVENING NEWS THE (Daily and Weekly), Frederick Mackenzie Propr, 461 5th (See page 47)
+1633 NAME, PERSON NOT FOUND: Corgan Henrv jr elk Tam Cooperative Assn, bds Central Hotel
+1639 ADDRESS, JOB LOCATION NOT FOUND: Cornish Wm jr, blksmith Tam M Co bds 4 Elm
+1642 ADDRESS, JOB NOT FOUND: Corwin Rev Carl H, removed to Bellaire, Mich
+1650 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cote Jeremiah, lab, bds Marquette House
+1657 ADDRESS, JOB NOT FOUND: COWLES EASTMAN (Clarence L Cowles, George D Eastman), Architects, 1213 Quello Blk
+1662 NAME: COX COL JAMES N, Clerk Calumet Hecla Mining
+1663 NAME: Co, res 1105 Calumet av
+1678 NAME: Crnkovie John lab res 443 7th
+1680 ADDRESS, JOB NOT FOUND: Crog Christian, removed to Laurium, Mich
+1708 ADDRESS, JOB NOT FOUND: Cruse James H (aged 64), died Sept 14, 1900
+1709 ADDRESS, JOB NOT FOUND: Cruse Wm (aged 86), died Sept 27, 1899
+1721 NAME, PERSON NOT FOUND: Cuddihy Mary prin Grant School, bds 107 7th
+1725 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Culbert Wm, blksmith, bds Marquette House
+1743 ADDRESS, JOB NOT FOUND: CURTIS JOHN B, Justice of the Peace, Notary Public,
+1746 ADDRESS, JOB NOT FOUND: Curto Block, 332 6th
+1756 ADDRESS, JOB LOCATION NOT FOUND: Cusick Daniel, surface foreman Tamarack Mining Co bds American Hotel
+1760 ADDRESS, JOB NOT FOUND: Cwojdrak John, removed to Washington, D C
+1774 NAME: Daily Mining Gazette (branch office) A H Herron, local manager, 3 Quello Block
+1793 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Danbom Annie M, dressmkr 2353 A, bds same
+1798 ADDRESS, JOB LOCATION NOT FOUND: Dandurand Joseph A, bkkpr Baer Bros, res 8th cor Oak
+1814 ADDRESS, JOB NOT FOUND: Danielson Rev Henry, removed to Cambridge, Wis
+1827 ADDRESS, JOB LOCATION NOT FOUND: Davey Alfred, miner Tamarack Mining Co bds 5 Hickory (Tam loc)
+1834 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Davieson Annie B, French teacher, bds no 6th
+1846 ADDRESS, JOB NOT FOUND: Davis Solomon, optician, no 6th res same
+1849 NAME, PERSON NOT FOUND: Dawe Baldwin Mrs Minnie M, millinery, 311 6th, rms 277 5th
+1861 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Deegan Wm, elk Arlingon Hoel, bds same
+1868 NAME: Defilippi, Louis, timbecman C H M Co, res 4232 10th
+1869 NAME: De Francois Napoleon T L, miner, res 32 Cedar Tam loc
+1873 ADDRESS, JOB NOT FOUND: Deges Philip, removed to Milwaukee, Wis
+1874 ADDRESS, JOB LOCATION NOT FOUND: Deishler Rufus K, confr 425 5th, res same
+1879 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Delbridge Benjamin, lab Tamarack Mining Co, bds Wm Sparejo N Tamarack loc
+1883 ADDRESS, JOB NOT FOUND: DellOsso Angelo, removed to Iron Mountain, Mich
+1884 NAME: DellOsso Bros (Giovanni Dell Osso), fruits 348 5th
+1887 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Delwick Jules J, harnessmkr F A Wieder, rms r 415 8th
+1890 ADDRESS, JOB NOT FOUND: Damorois George (aged 57), died Dec 6, 1900
+1913 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Desgarlais Charles, hostler Joseph Truedell, bds Marquette House
+1914 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Despins Arthur, elk E M Lieblein, bds Esther House
+1924 ADDRESS, JOB NOT FOUND: DICKLEY JOHN P, Cigar Manufacturer 400 Pine, res same (See page 47)
+1937 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dobbs Archie, hostler McDonald Jacka, bds Marquette House
+1940 ADDRESS, JOB LOCATION NOT FOUND: Doeing Mrs Cecil, dressmaker 425 7th, res same
+1953 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dolkki Jacob, lab Tamarack Mining Co, bds Jacob Kenttala
+1960 ADDRESS, JOB LOCATION NOT FOUND: Donahue Peter, contr 121 7th, res same
+1990 ADDRESS, JOB NOT FOUND: Down Thomas H (aged 32), died April 15, 1901
+2001 NAME: Doyle Mary (Mrs) (aged 77), died Oct 20, 1900
+2011 ADDRESS, JOB NOT FOUND: Draper Henry M, Mngr Calumet Music Co and music teacher, 215 6th, ressame
+2012 NAME: Drapers Mandolin and Guitar Club, H M Draper leader, 215 6th
+2042 NAME: DULUTH, SOUTH SHORE ATLANTIC RY, E W Delf, Agent Depot n w cor Oak and 9th (See inside back cover)
+2049 ADDRESS, JOB NOT FOUND: Dumonthier Mary J, paper hanger 3955 6th, res same
+2051 ADDRESS, JOB NOT FOUND: Dumonthier Simon (aged 67), died April 21, 1901
+2052 NAME: DUN R G CO, W A Bateman Agt, First National Bank Bldg
+2055 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dundon Wm J, barber T C Nesbitt, bds Marquette House
+2057 NAME: DUNN BROS (John T and Edward J), Proprs Michigan House n e cor Oak and 6th Mich Tel 149
+2059 NAME: Dunn John T (Dunn Bros)), proprs Michigan House, res same
+2063 ADDRESS, JOB NOT FOUND: Dunstan Block, 443 5th
+2066 ADDRESS, JOB NOT FOUND: Dunstan John, varieties 443 5th, res same
+2087 ADDRESS, JOB NOT FOUND: Dumonthier Mary J, paper hanger 3955 6th, res same
+2089 ADDRESS, JOB NOT FOUND: Dumonthier Simon (aged 67), died April 21, 1901
+2090 NAME: DUN R G CO, W A Bateman Agt, First National Bank Bldg
+2093 NAME, PERSON NOT FOUND: Dundon Wm J barber J C Nesbitt, bds Marquette House
+2095 NAME: DUNN BROS (John T and Edward J), Proprs Michigan House n e cor Oak and 6th Mich Tel 149
+2097 NAME: Dunn John T (Dunn Bros)), proprs Michigan House, res same
+2101 ADDRESS, JOB NOT FOUND: Dunstan Block, 443 5th
+2104 ADDRESS, JOB NOT FOUND: Dunstan John, varieties 443 5th, res same
+2122 ADDRESS, JOB LOCATION NOT FOUND: Dyer Joseph, boarding house 210 6th, res same
+2135 ADDRESS, JOB NOT FOUND: EAGLE DRUG STORE, J C Vivian Propr Cal Hollinger Mngr, Wholesale and Retail Druggists, 222 5th (See right bottom lines)
+2160 NAME: Edwards Edwin weigher C H M Co, res 163 Calumet Avenue
+2162 ADDRESS, JOB NOT FOUND: Edwards Janies, rock house boss Centennial Copper Mining Co
+2172 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Eggen Caroline, elk Jacob Gartner, bds Laurium, iMch
+2173 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Eikrim John, carp, bds Ole Olson Osceola rd
+2175 ADDRESS, JOB LOCATION NOT FOUND: Eister Antoine J, grocer 338 5th, res same
+2209 ADDRESS, JOB LOCATION NOT FOUND: Eloheimo Rev John W, editor The Suometar, res Hannah, Wyoming
+2211 ADDRESS, JOB NOT FOUND: Elwood Edwin F, optician 115 5th
+2215 NAME: EMPIRE TAILORING CO AND RUSSIAN FURRIERS, David Horwitz, Mngr, 402 Oak (See back cover)
+2216 ADDRESS, JOB LOCATION NOT FOUND: Endahl Charles V, miner C H M Co, res 421010th
+2237 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Ennes Dayton W, pharmacist Tamarack hospital, rms Hospital
+2239 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Entemann Thomas, cigarmkr E W Koppelman, bds Capital Restaurant
+2257 ADDRESS, JOB NOT FOUND: Erickson Henry (Wickstrom, Niemi Co), 415 Pine
+2292 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Esterbrook Elizabeth, bds Wm H Hosking
+2293 ADDRESS, JOB NOT FOUND: Esther Hotel The, Thomas Lean proprs, n w cor 6th and Scott
+2304 ADDRESS, JOB NOT FOUND: Evans James (aged 66), died June 23, 1900
+2308 NAME: Evers, Michael F, mngr J A Fuller, 125 5th
+2318 NAME: Fahlen Co (Axel T Fahlen, Charles A Peterson), jewelers, 321 5th
+2324 NAME, PERSON NOT FOUND: Farrel, brakeman, bds American House
+2330 ADDRESS, JOB NOT FOUND: Farrand Royal, removed to Niagara, Wis
+2338 NAME: FAUCETT W H BRO (Wm H and Robert C), Real Estate and Insurance, 1 and 2 Quello Block
+2363 ADDRESS, JOB NOT FOUND: Fezzey John N (aged 59), died July 5, 1900
+2369 ADDRESS, JOB NOT FOUND: Fezzey Wm (aged 39), died July 28, 1900
+2382 NAME: FINLANDERS MUTUAL FIRE INSURANCE CO Houghton and Kekeenaw Counties, Alex Onkka Pres, Alex Leinonen Sec, Borgo Block, 354 5th (See p 49)
+2386 ADDRESS, JOB NOT FOUND: Finley Edward J (agecf 19), died June 18, 1900
+2388 NAME: Finnish Evangelical Lutheran National Church, s w cor 8th and Elm
+2389 NAME: FINNISH FURNITURE AND UNDERTAKING CO, Magnus Anderson Propr, 413415 Pine
+2390 ADDRESS, JOB NOT FOUND: Finnish Hall, 312 8th
+2391 NAME: Finnish Lutheran Apostolic Church, Rev A L Heideman pastor, 635 Pine
+2392 ADDRESS, JOB NOT FOUND: Finnish School, Peter Harvala teacher, 312 8th
+2396 ADDRESS, JOB NOT FOUND: Fire Department Headquarters, C C Schenk chief 339 Sixth
+2397 NAME: First Congregational Church of Calumet, s w cor Calumet av and Red Jacket rd
+2398 NAME: First Congregational Church of Red Jacket, w s 7th nr Oak
+2399 NAME: First Methodist Episcopal Church, n w cor Calumet av and Church
+2400 NAME: First National Bank Bldg, 219221 5th
+2401 NAME: FIRST NATIONAL BANK OF CALUMET, John S Dymock Pres, John D Cuddihy VicePres, Wm B Anderson Cashier, 219221 5th (See page 3)
+2402 ADDRESS, JOB NOT FOUND: First Presbyterian Church, 3903 S 5th
+2412 ADDRESS, JOB NOT FOUND: Fisher Mrs Jane (aged 87), died June 22, 1900
+2421 ADDRESS, JOB NOT FOUND: Fisk John A (aged 35), died June 2, 1900
+2422 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fiske Anna J, asst librarian The Public Library of the Calumet Hecla Mining Co, bds mi Calumet av
+2426 ADDRESS, JOB NOT FOUND: Fitzhenry Carrie (aged 35), died April 29, 1900
+2494 ADDRESS, JOB NOT FOUND: Francisca John, C H M Co
+2497 ADDRESS, JOB NOT FOUND: Francovich John, station boss Tamarack Mining Co
+2499 ADDRESS, JOB NOT FOUND: Frauquist Andrew, died August, 1900
+2501 ADDRESS, JOB NOT FOUND: Franklin School, s w cor 7th and Elm
+2541 ADDRESS, JOB LOCATION NOT FOUND: Frei Philip, plumber Peninsula Heating and Plumbing Co bds Laurium, Mich
+2567 ADDRESS, JOB NOT FOUND: Frommholz Charles (aged 57), died Jan 13, 1901,
+2583 ADDRESS, JOB NOT FOUND: FULLER JOSEPH A, Broker, 123125 5th, Res Hancock (See front cover)
+2588 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Fyfe Alexander (Fyfe Gingras), bds Capital Restaurant
+2597 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gaecke Edward, student, bds, 1767 Lake Linden av
+2633 ADDRESS, JOB NOT FOUND: GARDETTO JOSEPH (J Gardetto Co), Res 345 5th
+2634 NAME: GARDETTO J CO, Proprs Red Jacket Liquor Store
+2635 ADDRESS, JOB NOT FOUND: Gardettos Block, 345 5th (See p 47)
+2646 ADDRESS, JOB LOCATION NOT FOUND: Gardner Joseph M, agt P F Collier Son, 3 Borgo Blk rms same
+2656 ADDRESS, JOB NOT FOUND: Garfield School, n s Depot bet Hecla and Calumet
+2692 NAME: Gasperich John lab bds 4257 11th
+2700 ADDRESS, JOB NOT FOUND: Gately Wiggins Bldg, 323 6th
+2701 NAME: Gately Wiggins Co, John Gately (Chicago, Ill), pres, Janies F Wiggins sec and treas, Timothy R Donovan (Saginaw, Mich), James J Quinn (Chicago, Ill), Adam C Drier directors, installment goods, 325 6th
+2720 ADDRESS, JOB NOT FOUND: Gebore Fram (aged 23), died Sept 29, 1899
+2729 NAME: Geiver John N elk James Lisa, res 450 8th
+2771 NAME: Gergorick Auson (aged 25) died Aug 18, 1899
+2772 ADDRESS, JOB NOT FOUND: Gerich Joseph, C H M Co
+2781 ADDRESS, JOB NOT FOUND: German Lutheran Church, s s Scott nr 6th
+2782 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gerott Arthur, tmstr, bds Marquette House
+2783 NAME: Gerrans John PI miner Centennial Copper Mining Co
+2801 ADDRESS, JOB NOT FOUND: Getchell Susan K (aged 76), died Nov 17, 1900
+2805 ADDRESS, JOB NOT FOUND: Geueke Henry, removed to Lake Linden, Mich
+2823 ADDRESS, JOB NOT FOUND: Giacchina James, C H M Co
+2871 ADDRESS, JOB NOT FOUND: Gipp Anton (aged 92), died March 2, 1901
+2882 ADDRESS, JOB NOT FOUND: Gittler Isadore, removed to Duluth, Minn
+2883 ADDRESS, JOB LOCATION NOT FOUND: Gittler Moritz, clothing and jeweler 353 5th, res same
+2890 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Glanville Curtis, chef The Auditorium Hotel, bds same
+2898 ADDRESS, JOB LOCATION NOT FOUND: Glasson John C, brakeman res 3980 Scott
+2901 NAME: Glasson Wm R miner, res 574 Elm
+2903 NAME: Globe Shoe Co Christianson Nelson proprs, 102 5th
+2906 NAME: Glocke F C Co (Frederick C Glocke, Charles A Laurier, Abraham Herman), cigar mnfrs, 344 5th
+2911 NAME: Godfrey E R Sons Co, James D Godfrey mngr, commission merchants foot 9th
+2937 NAME: Gordon Angus R res r 519 6th
+2945 NAME: Goulette Charles elk Vertin Bros
+2972 NAME: Grahek John D foreman Pabst Brewing Co (Calumet Branch), res 217 Birch Lane
+2980 ADDRESS, JOB LOCATION NOT FOUND: Grahek Matthias, saloon 430 7th, res same
+2982 ADDRESS, JOB NOT FOUND: Grahek Sunich (Joseph O Grahek, Michael S Sunich), general merchandise 431 7th
+2984 NAME: Grand Union Tea Co, Horace E Phillips mngr, 439 th
+2993 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grant Duncan M, bartndr The Auditorium Hotel, bds same
+2995 ADDRESS, JOB NOT FOUND: Grant School, s s Pine bet 9th and 10th
+3006 ADDRESS, JOB LOCATION NOT FOUND: Grathwohl John, shoemkr 305 5th res 417 Pine
+3009 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Graves George, ironmkr, bds Michigan Hotel
+3031 NAME: Gregg Wm I S, asst phys Tamarack Hospital, res n w cor Beech and 3d, Tam loc
+3039 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gregoric John, trammer, bds John Belobrajdic
+3040 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gregoric Joseph, miner, bds Barthlomew Gregoric
+3055 NAME: Gregovich Joseph T miner Centennial Copper Mining Co
+3069 ADDRESS, JOB LOCATION NOT FOUND: Grentz John D, saloon 343 5th, res same
+3078 ADDRESS, JOB NOT FOUND: Gribaldo Rosalia (aged 33), died May 26, 1901
+3085 ADDRESS, JOB NOT FOUND: Gribble John A (aged 19) ,died Feb 28 1900
+3091 ADDRESS, JOB NOT FOUND: Gribble Thomas J (aged 19), died Feb 28 1900
+3094 ADDRESS, JOB LOCATION NOT FOUND: Gribble Winnifred, elk bds 301 7th
+3100 ADDRESS, JOB NOT FOUND: GRIERSON PAUL W, Mngr Paine, Webber Co, 105 5th, res Scott, cor 8th
+3105 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grigg Bessie, student, bds no 8th
+3106 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grigg Elmer, mach, bds no 8th
+3107 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Grigg Emeline, bds no 8th
+3108 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Grigg Frederick, elk H R Miller, bds no 8th
+3118 ADDRESS, JOB NOT FOUND: Grigg Wm, tinsmth, res no 8th
+3135 NAME: Grobbel Anton (aged 63) died July 5, 1899
+3142 ADDRESS, JOB NOT FOUND: Gruble Tracey (aged 73), died Feb 25, 1900
+3163 ADDRESS, JOB NOT FOUND: Guibord Frem (aged 23), died Sept 29, 1900
+3202 NAME: Guy Battisti lab Centennial Copper Mining Co
+3212 ADDRESS, JOB NOT FOUND: Haapakangas Leander (aged 44), died Nov 10, 1899
+3218 NAME: Haas Ed Co (Edward, David and Herman Haas), clothing and mens furnishings, 306 5th
+3226 ADDRESS, JOB NOT FOUND: Hagan James, removed to Painsdale, Mich
+3264 ADDRESS, JOB NOT FOUND: Halseth Martin, removed to Opechee, Mich
+3272 ADDRESS, JOB NOT FOUND: Hamilton School, cor County rd and Division
+3274 ADDRESS, JOB NOT FOUND: Hammerstrom Agnes, removed to Newbury, Mich
+3275 ADDRESS, JOB NOT FOUND: Hammarstrom John, removed to Alluez, Mich
+3280 ADDRESS, JOB NOT FOUND: Hammula Matti (aged 58), died Aug 1, 1900
+3291 NAME: Hancock Liquor Co, Hyman Cohen mngr, 323 5th
+3293 ADDRESS, JOB LOCATION NOT FOUND: Hancock Thomas, miner res 12 opruce (Tam loc)
+3295 ADDRESS, JOB NOT FOUND: Hancock Calumet Railroad, E D Delf agt, office cor Portland and 9th
+3297 NAME: Hand You Co, Wing Lee mngr, Japanese goods, 347 5th
+3320 NAME: HANSEN SON (Hans G and Charles G), General Merchandise, 451 Pine
+3358 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Harrington Annie, bds 180J Calumet av
+3365 NAME: Harrington Dennis C blksmith, res 701 Pine
+3399 ADDRESS, JOB NOT FOUND: Harris Alice L, primary and kindergarten supervisor Public Schools
+3407 ADDRESS, JOB NOT FOUND: Harris John C, removed to Arizona
+3458 ADDRESS, JOB LOCATION NOT FOUND: Hathaway Mildred A (wid Wm), dressmkr Caesar Blk, res same
+3462 ADDRESS, JOB LOCATION NOT FOUND: Haun Carrie W, dressmkr Mrs M J Rowe, res Ramyboultown
+3476 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hayes Charles V, blksmith Farmer Neeiands, bds American Hotel
+3494 ADDRESS, JOB NOT FOUND: HECLA STORE, Charles Briggs Propr, General Merchandise, 1132 Depot Tel 151 (See right side lines)
+3495 NAME: HECLA TORCH LAKE RAILROAD, Alex Agassiz (Boston, Mass) Pres, W A Childs Mngr, Janies N Cox Sec and Treas, James D Ramsay Supt of Motive Power, Office C H Mine Office
+3499 ADDRESS, JOB NOT FOUND: HEIDEMAN ALFHILD E, M D, Physician and Surgeon, rear 536 7th, res same Office Hours 11 a m to 1 p m and 7 to 8 p m
+3502 ADDRESS, JOB LOCATION NOT FOUND: Heighes Josiah J, lab bds Wm Heiglies
+3524 ADDRESS, JOB LOCATION NOT FOUND: Heimlich Peter jr, cigar mnfr 113 7th, res same
+3561 ADDRESS, JOB LOCATION NOT FOUND: Hendrickson Emil, watchmkr Abram Waananen res 441 8th
+3564 ADDRESS, JOB LOCATION NOT FOUND: Hendrickson Jacob, miner, res 433T Elm
+3568 ADDRESS, JOB NOT FOUND: Hendrickson Matthew (aged 55), died May 3, 1901
+3577 ADDRESS, JOB NOT FOUND: Hennes Block, s w cor 5th and Portland
+3587 NAME: Herickila Orvit trammer Tamarack Mining Co
+3593 ADDRESS, JOB NOT FOUND: Hermann Block, 111 5th
+3596 ADDRESS, JOB NOT FOUND: HERMANN JOSEPH, Jewelry Pianos and Sewing Machines, 111 5th, res 1126th
+3657 ADDRESS, JOB NOT FOUND: Hill James, removed to Laurium, Mich
+3683 NAME: Hip Wo Lung Co, teas, 212 6th
+3697 ADDRESS, JOB NOT FOUND: Hjelt Oscar, removed to Dakota
+3703 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hobba Henry, blksmith Farmer Neelands, bds American Hotel
+3710 ADDRESS, JOB LOCATION NOT FOUND: Hocking Abner, asst bkkpr Tam CoOperative Assn, res Blue Jacket
+3721 ADDRESS, JOB LOCATION NOT FOUND: Hocking Wm H, elk W H Richards Co res Laurium, Mich
+3724 ADDRESS, JOB NOT FOUND: Hodge Joseph (aged 32), died Jan 10 1900
+3727 NAME: Hodges Wm H miner, res 1580 Hecla
+3728 ADDRESS, JOB LOCATION NOT FOUND: Hoehner Charles, engineer, res T760 Boundary
+3747 NAME: Hogan Wm pumpman Tamarack Mining Co
+3756 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Holihan Wm, hostler J R Ryan, bds Marquette House
+3763 ADDRESS, JOB LOCATION NOT FOUND: Hollow Wm, lab res 23 Oak (Tam loc)
+3764 ADDRESS, JOB LOCATION NOT FOUND: Hollow Wm jr, blksmith, res to Spruce (Tam loc)
+3769 ADDRESS, JOB NOT FOUND: Holman Block, 124 5th
+3820 NAME: HOSKING CO (Mrs Annie M Hosking), Dry Goods, Clothing and Mens Furnishings, 225 5th
+3844 NAME: Huddlestone, Robert, lab, res 1722 Calumet av
+3847 NAME: Huddy James blksmith C H M Co res 357 Caledonia
+3913 ADDRESS, JOB NOT FOUND: Impola Jacob (aged 27), died July 8, 1899
+3914 ADDRESS, JOB NOT FOUND: Inch Henry T, died Nov, 1900
+3922 ADDRESS, JOB NOT FOUND: International Correspondence Schools, James M Bell, solicitor, 10 Quello Block
+3931 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Isaacson Sophia L, elk Wickstrom, Niemi Co, bds same
+3934 ADDRESS, JOB NOT FOUND: Italian Catholic Church, s s Portland nr H C R R
+3935 NAME: Italian Benevolent Society Hall, 409 7th
+3943 ADDRESS, JOB LOCATION NOT FOUND: Jaaska John, miner, res, 2772 Columbia
+3947 ADDRESS, JOB NOT FOUND: Jacka Block, 200 5th
+3950 ADDRESS, JOB LOCATION NOT FOUND: Jacka George, contr 214 8th, res same
+3951 NAME: JACKA GEORGE EST OF, George and Mrs Cordelia Jacka Administrators, Contrs and Dealers in Logs, Timber and Cordwood 120 8th
+3970 NAME: Jacobson Annie E (aged 76) died Dec 30, 1899
+3971 ADDRESS, JOB LOCATION NOT FOUND: Jacobson Conrad, lab bds 125 7th
+4044 NAME: JarvalaEva, domestic 2515 D
+4059 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jaulet Medrich, lab, bds Marquette House
+4061 ADDRESS, JOB NOT FOUND: Jeannotte Edward, removed to Keweenaw Co, Mich
+4062 ADDRESS, JOB NOT FOUND: Jeannotte Joseph, removed to Traverse Bay, Mich
+4064 ADDRESS, JOB NOT FOUND: Jefferson School, Jefferson av nd Old Torch Lake rd
+4090 ADDRESS, JOB LOCATION NOT FOUND: Jenkins Wm, lab C H M Co res 176 Calumet av
+4106 ADDRESS, JOB LOCATION NOT FOUND: Jewell Wm J, miner Tamarack M Co res Cent Heights,
+4147 ADDRESS, JOB LOCATION NOT FOUND: Johnson Axel, lab bds 5 Chestnut (Tam loc)
+4149 ADDRESS, JOB NOT FOUND: Johnson Block, 417 Pine
+4150 ADDRESS, JOB NOT FOUND: Johnson Carl F, bdfe 376 Caledonia
+4152 NAME, PERSON NOT FOUND: Johnson Caroline L D (wid Wm), bds 1156 Calumet av
+4157 ADDRESS, JOB LOCATION NOT FOUND: Johnson Charles, fireman Tam M Co res 62 N Tamarack location
+4167 ADDRESS, JOB NOT FOUND: Johnson Edward (aged 56), died January 25, 1900
+4188 NAME: Johnson Henry tmstr P Ruppe Son, res 214 Birch lane
+4189 ADDRESS, JOB NOT FOUND: Johnson Henry (aged 22), died Dec 30, 1899
+4194 ADDRESS, JOB NOT FOUND: Johnson John, removed to Hancock, Mich
+4207 NAME: Johnson John P (aged 59) died May 26
+4220 ADDRESS, JOB LOCATION NOT FOUND: Johnson Mary, elk Arne Ruttenberg res Laurium, Mich
+4223 NAME: Johnson Michael jr bds 708 Pine
+4240 ADDRESS, JOB LOCATION NOT FOUND: Johnson Wm, lab C PI M Co res 4321 Acorn
+4259 NAME: Jones Arthur R Co C L Fichtel mngr brokers, 204 5th
+4265 ADDRESS, JOB NOT FOUND: Jones Mary J, bets 175 Calumet av
+4276 ADDRESS, JOB LOCATION NOT FOUND: Jory Edwin, blksmith C H Al Co res 1357 Rockland
+4292 ADDRESS, JOB NOT FOUND: Joski August, instructor Alanual Training School
+4296 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jova Henry W, elk Jova Keihta, bds same
+4297 ADDRESS, JOB NOT FOUND: Jova Keihta (Henry Jova, August Keihta), general store 440 5th
+4302 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Judnich John H, elk Ed Haas Co, rms Ryan Block
+4308 ADDRESS, JOB LOCATION NOT FOUND: Jukttry John, miner Tamarack Mining Co res Cent Heights
+4328 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jurkovic Jacob, lab Tamarack Mining Co, bds John Belobrajdic
+4340 ADDRESS, JOB NOT FOUND: Kachor John, stripper, bcls 23 6th
+4345 ADDRESS, JOB LOCATION NOT FOUND: Kaiser Jacob, blksmith 420 6th, res same
+4346 ADDRESS, JOB NOT FOUND: Kaiser Nicholas, removed to Sault Ste Marie, Mich
+4356 ADDRESS, JOB LOCATION NOT FOUND: Kallio Jacob, lab bds 3139 Tunnel
+4394 ADDRESS, JOB NOT FOUND: Kansanvolistusseuren Hall, 312 8th
+4410 ADDRESS, JOB NOT FOUND: KARINEN FREDERICK, Propr Amerikan Uutiset and Job Printer, 409 Pine, res 416 Iroquois, Laurium, Mich (See p 55)
+4452 NAME, PERSON NOT FOUND: Katajamaa Wm compositor Paivalehti Pub Co, bds Montreal House
+4454 ADDRESS, JOB LOCATION NOT FOUND: Kaufmann Joseph, lab bds 1169 Calumet av
+4461 ADDRESS, JOB LOCATION NOT FOUND: Kauppinen Wm, lab res 4341 Cone
+4473 NAME: Keast George H elk Tamarack Mining Co bds 5 Spruce
+4475 ADDRESS, JOB LOCATION NOT FOUND: Keast Richard R, blksmith bds 2367 A
+4479 NAME, PERSON NOT FOUND: Keckonen Victor elk Oscar Keckonen, bds Central Hotel
+4495 NAME: Kelly Daniel J engr C sH M Co, res 44 Pine
+4502 NAME: Kelly John C blksmith C H M Co, res 1502 Hecla
+4519 NAME: Kelly Co (Anthony Kelly, George Antioho), fruits 460 5th
+4525 NAME, PERSON NOT FOUND: Kemp, Frances, bds 423 6th
+4538 ADDRESS, JOB LOCATION NOT FOUND: Kempainen August, carp, res Cen Heights
+4578 NAME, PERSON NOT FOUND: Kerr George A timberman, bds 588 Elm
+4590 ADDRESS, JOB LOCATION NOT FOUND: Kesaniemi Jacob, sec Wickstrom Niemi Co res 541 2d
+4598 NAME: Keune Wm J lab bds 48 Pine
+4602 ADDRESS, JOB LOCATION NOT FOUND: Kiddila Victor, lab res 475 Caledonia
+4608 NAME, PERSON NOT FOUND: Kieri Wm A helper, bds 550 2d
+4626 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: King Cecilia, bdsi35i Rockland
+4630 NAME, PERSON NOT FOUND: King John A G, drill boy, bds 262 12 Rockland
+4645 ADDRESS, JOB NOT FOUND: Kinsman Block, n e cor Scott and 6th
+4667 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kiuttu Michael, sec hd, bds Gustav Wankala
+4675 ADDRESS, JOB LOCATION NOT FOUND: Kivela Henry, elk bds 4042 Oak
+4678 NAME, PERSON NOT FOUND: Kivela John W elk Wickstrom, Niemi Co, bds 4042 Oak
+4686 ADDRESS, JOB NOT FOUND: Kjelgren Carl G (aged 61), died Oct 21, 1900
+4693 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Klaric Andrew, lab, bds John Belobrajdic
+4697 ADDRESS, JOB LOCATION NOT FOUND: Klaric Michael, lab bds John Belobrajdic
+4705 ADDRESS, JOB LOCATION NOT FOUND: Klearic George, lab bds r 320 6th
+4728 ADDRESS, JOB LOCATION NOT FOUND: Knauf John, checker D, S S A Rv bds 419 5th
+4734 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kneebone Arthur E, elk Tamarack Cooperative Assn, bds Lake Linden av, Florida
+4748 NAME: Knight Woodman mach Tamarack Mining Co, res 27 10th
+4749 NAME: KNIVEL BROS (Frank and John), Wines, Liquors and Cigars Ijorgo Blk, 356 5th Tel 90
+4754 NAME: Knuckey James E miner C H M Co, res 253 12 Rockland
+4756 NAME: Knuckey Rosina bds 253 12 Rockland
+4757 NAME, PERSON NOT FOUND: Knuckey Wm drill boy, bds 253 12 Rockland
+4761 NAME, PERSON NOT FOUND: Knudson Viola M student, bds 349 8th
+4780 ADDRESS, JOB LOCATION NOT FOUND: Kocjan Jacob, trammer C H M Co res 4229 11th
+4788 NAME: Kohn Carrie F M, dressmkr 2366 A, res same
+4789 ADDRESS, JOB LOCATION NOT FOUND: Kohn Christ, engr C H M Co res 2366 A
+4803 ADDRESS, JOB LOCATION NOT FOUND: Kolb John, miner C H M Co res 2122 Raymbanlt
+4829 ADDRESS, JOB NOT FOUND: Kornmann Ike, removed to Chicago Ill
+4840 NAME: Koskela John W miner Mayflower Mining Co
+4867 ADDRESS, JOB NOT FOUND: Kowac Antone (aged 34), died Dec 22 1899
+4869 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kowalewski Anton, trammer, bds John Kowalewski
+4870 ADDRESS, JOB LOCATION NOT FOUND: Kowalewski John, lab res 22 Tamarack Jr loc
+4873 ADDRESS, JOB LOCATION NOT FOUND: Kowalski Mary, dressinkr A R Krupich res Laurium, Mich
+4886 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kramarich Matti, timberman, bds 294th
+4900 NAME: KRATT BROS (Paul Jr and Charles), Dealers in Wines Liquors and Cigars, 409 5th (See page 53)
+4922 ADDRESS, JOB LOCATION NOT FOUND: Krigsholm Henry, miner C H M Co res 4046 Oak
+4935 NAME: Krogh John W N, miner C H M Co
+4938 ADDRESS, JOB LOCATION NOT FOUND: Krone Ellen M, hair dresser Mme Boyde Co bds 345 5th
+4965 ADDRESS, JOB LOCATION NOT FOUND: Kuhnmuench Emil C, bkkpr Joseph Schlitz Brewing Co Calumet Branch, res 43oBth
+5002 NAME: Kurike John miner Tamarack Mining Co
+5042 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lacknar Paul, lab, bds 24 ^Tamarack loc
+5057 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: La Feve Mary, dressmkr, bds 2645Union
+5076 NAME: Lahti Peter O miner C H M Co, res 2034 Calumet av
+5083 ADDRESS, JOB NOT FOUND: Lajeunesse Albina, housekeeper Rev Antonio Molinari
+5088 NAME: Lake Superior Produce and Cold Storage Co (Houghton, Mich), Charles J McGee mngr (Calumet Branch), warehouse, 9th and Osceola rd
+5100 NAME, PERSON NOT FOUND: La Marche George A, oiler, bds 4986 Waterworks
+5104 NAME, PERSON NOT FOUND: La Marre Edgar J, blksmith James McHardy, bds Marquette House
+5111 ADDRESS, JOB NOT FOUND: Lambert Oscar B, studenCds 443 6th
+5128 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: La More E, blksmith, bds Marquette House
+5138 NAME: Lampi Saulus miner Centennial Copper Mining Co, res 479 Caledonia
+5179 ADDRESS, JOB LOCATION NOT FOUND: Lanksbury Joseph H, blksmith Centennial Copper Mining Co, res, 5 Cent loc
+5213 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Larson Anna, bds C A Peterson
+5219 NAME, PERSON NOT FOUND: Larson Elmer P compositor Copper Country Evening News, bds r 534 7th
+5221 NAME, PERSON NOT FOUND: Larson Ernest L helper, bds 218 Rockland
+5222 NAME: Larson Frank O elk Wertin Co, res 454 5th
+5241 ADDRESS, JOB NOT FOUND: Larson Victor, steam fitter Carlton Hardware Co
+5243 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lasanen Janies, tmstr Simon Lasanen, bds same
+5247 ADDRESS, JOB NOT FOUND: La Sentinella (weekly, Ind), John Lisa publr and propr, sc cor Oak and 7th
+5298 NAME: Lean H E Sons (Harold E, Harold E jr and Joseph A), general mdse, 101103 6th
+5311 ADDRESS, JOB NOT FOUND: Leary John (aged 24), died Dec 9, 1899
+5327 NAME: Le Chevalier Charles E, lab, res 1414 Rockland
+5330 NAME: Le Claire Thomas E, vet surgeon, 426 5th, res same
+5333 NAME, PERSON NOT FOUND: Le Due Cora M, bds 507 Oak
+5341 NAME, PERSON NOT FOUND: LE GENDRE EDWARD F, Lawyer and Justice of the Peace, 78 Quello Blk, bds 436 6th
+5360 ADDRESS, JOB LOCATION NOT FOUND: Lenten Frederick J, shift boss Centennial Copper Mining Co res 21 Cent loc
+5362 NAME: Leonard Ellen bds r 409 6th
+5364 NAME, PERSON NOT FOUND: Leonardson Otto mngr Calumet Posten, rms 820 Portland
+5385 NAME: Letcher George J F, lab, res 4214 10th
+5394 ADDRESS, JOB LOCATION NOT FOUND: Leveque Joseph, brakeman res 1353 Rockland
+5396 NAME: Levin Jewelry Co, Alexander Levin mngr, 325 5th
+5410 ADDRESS, JOB NOT FOUND: Lewis Oscar F (aged 21), died July 10, 1900
+5411 ADDRESS, JOB LOCATION NOT FOUND: Lewis Ralph, mach Tamarack Mining Co, bds 4 N Tam loc, Liberty Hall, 409 6th
+5423 NAME: Light Evlyn M bds 9 2d, (Tam loc)
+5437 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Lijeunesse Emma, bds Marquette House
+5439 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lijeunesse Frederick, tmstr, bds Marquette House
+5443 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Limata Hilda, bds J R Lirnata
+5450 ADDRESS, JOB NOT FOUND: Limback John, died Jan, 7899
+5453 ADDRESS, JOB NOT FOUND: Lincoln School, Waterworks nr Pine
+5461 NAME: Lindquist, see also Lundquist
+5490 ADDRESS, JOB NOT FOUND: Little James (aged 76), died March 29 1901
+5508 NAME: Loik, Anton, platman, res 4994 Waterworks
+5516 ADDRESS, JOB NOT FOUND: Longfellow School, 230 County rd
+5536 ADDRESS, JOB NOT FOUND: Lowney Catherine, removed to Hancock, Mich
+5540 ADDRESS, JOB LOCATION NOT FOUND: Lowney John, lab bds 147 Calumet av
+5542 ADDRESS, JOB NOT FOUND: Lowney John jr, removed to Laurium
+5573 NAME: Lundquist, see also Lindquist
+5585 ADDRESS, JOB NOT FOUND: LUTEY ALBERT E, Florist and Landscape Gardener, 434 5th, res 116 Tamarack, Laurium, Mich (See p 55)
+5591 NAME: Lutey Samuel lab A E Lutey, res Laurium, Mich
+5600 ADDRESS, JOB LOCATION NOT FOUND: Lvnch Timothy, miner C H M Co res 2103 Raymbault
+5613 NAME: McAuley, see also Macauley
+5663 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McCormick Julia V, teacher, bds 154^Hecla
+5712 ADDRESS, JOB NOT FOUND: McHENRY GEORGE A, Jeweler, Engraver, Optician and Diamond Setter Watches, Silverware, Cut Glass,1 BricaBrac, Clocks, Etc, 115 5th
+5718 ADDRESS, JOB NOT FOUND: McKay George (aged 70), died March 24, 1901
+5726 NAME: McKenzie, see also Mackenzie
+5752 NAME: McKinnon, see also Mackinnon
+5769 ADDRESS, JOB NOT FOUND: McLellan Euphemia, teachecAlbion School
+5798 ADDRESS, JOB LOCATION NOT FOUND: McLeod Norman, lab P E L P Co bds 1331 Depot
+5800 ADDRESS, JOB LOCATION NOT FOUND: McLogan James C, bkkpr ArmstrongThielman Lumber Co res Cent Heights
+5803 NAME: McMullen May waitress American House
+5807 NAME, PERSON NOT FOUND: McNabb Jessie C tclir Whittier School, bds 1021 Mine
+5811 ADDRESS, JOB LOCATION NOT FOUND: McNamara James, elk Carlton Hardware Co, res no 6th
+5827 ADDRESS, JOB NOT FOUND: McRae Wm (aged 27), died May 28, 1900
+5837 NAME: Macaulay, see also McAuley
+5845 ADDRESS, JOB NOT FOUND: Macauley Wm A, steamfitter C H M Co, rear 200 1/2 Rockland
+5846 NAME: Macdonald, see also McDonald
+5854 ADDRESS, JOB LOCATION NOT FOUND: Macdonald Jessie, stenogr F W Cooleyg bds 326 5th
+5867 ADDRESS, JOB LOCATION NOT FOUND: Mack Walter E, asst sec Y M C A, res Laurinm, Mich
+5877 NAME: MacKenzie, see also McKenzie
+5884 NAME: Mackey Erick bds 421 Pine
+5932 NAME, PERSON NOT FOUND: Mahoney Mary A elk Hosking Co, bds 322 7th
+5934 NAME: Maier see also Meyer
+5936 NAME: Malkkelen Samuel res 445 5th
+5942 NAME: Majerle Mathias timber boss, res 15 N Tamarack loc
+5957 NAME: Major Isaac D cigar mnfr, 443 6th, res Three Rivers, Mich
+5980 ADDRESS, JOB NOT FOUND: Matenczak Stephen, C H M Co
+5987 NAME: Malfroid Trading Co (Silvain and Nester E Malfroid) flour and feed, brick, etc 822 Portland
+5995 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mandv Penni, printer, bds John Mandv
+6003 ADDRESS, JOB LOCATION NOT FOUND: Malmquist John A, miner, res 260^ Rockland
+6030 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mannista Felix, carp, bds Charles Haapakoskie
+6033 ADDRESS, JOB NOT FOUND: Manser Joseph W (aged 64), died Feb 18, 1901
+6042 ADDRESS, JOB NOT FOUND: Manual Training School, s w cor Old Torch Lake rd and Calumet av
+6068 ADDRESS, JOB LOCATION NOT FOUND: Markle Tohn C, agt The Singer Mnfg Co res Laurium, Mich
+6075 NAME: Marqitardt Juliusblksmith C H M Co, res 586 Elm
+6084 ADDRESS, JOB LOCATION NOT FOUND: Marsch Martin W, timekpr bds 1555 Hecia
+6097 NAME: Martin David jr lab bds aia Rockland
+6124 ADDRESS, JOB LOCATION NOT FOUND: Martinac John, trammer Tam M Co bds 32 N Tamarack loc
+6145 ADDRESS, JOB LOCATION NOT FOUND: Maslin Thomas, mining captain Tamarack Mine Co, res n 2d
+6146 ADDRESS, JOB LOCATION NOT FOUND: Masnado Antonio, mason C H M Co res 470 Caledonia
+6147 ADDRESS, JOB NOT FOUND: Masonic Hall, n e cor th and Red Jacket rd
+6156 NAME: Masters Melville D C, macli C H M Co, res 591 Waterworks
+6168 ADDRESS, JOB LOCATION NOT FOUND: Matheson Murdock R, engr C H M Co res 352 Caledonia
+6175 NAME: Mathews, see also Matthews
+6179 ADDRESS, JOB NOT FOUND: Mathison Josephine (aged 56), died Oct 7, 1899
+6189 NAME: Matson, see also Madson and Mattson
+6216 NAME: Matthews, see also Mathews
+6224 NAME: Matthews Thomasi oiler C H M Co bds 2033 Calumet avenue
+6234 NAME: Mattson, see also Matson
+6245 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: May Fred, miner Centennial Copper Mining Co, bds 9c Cent loc
+6247 NAME: Mayflower Mining Co, James Chynoweth supt, office miles n e of CalumetP O
+6258 ADDRESS, JOB NOT FOUND: Mecovic Mrs Mary, Centennial Copper Mining Co
+6276 ADDRESS, JOB NOT FOUND: Mehelich Matt S, supply boy Tamarack Mining Co
+6308 NAME: MERCHANTS AND MINERS BANK, Charles Briggs Pres, Peter Ruppe VicePres, Stephen Pauli Cashier, F J Kohlhaas Asst Cashier, Union Block, 498 5th (See page 4)
+6310 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mercier Phoebe, dressmkr Lydia Mercier, bds same
+6316 ADDRESS, JOB LOCATION NOT FOUND: Merritt Wm, miner C H M Co, res 2751^ Rockland
+6317 ADDRESS, JOB NOT FOUND: Merton James (aged 69), died May 25, 1900
+6324 ADDRESS, JOB NOT FOUND: MERZ EDWARD E, Propr The Arlington, cor 8th and Oak (See page 43)
+6351 ADDRESS, JOB NOT FOUND: Messner Matt (aged 60), died Oct 1, 1899
+6361 ADDRESS, JOB LOCATION NOT FOUND: Metesh George, timberman bds 28 Chestnut
+6362 NAME: METROPOLITAN LIFE INSURANCE CO OF N Y George W Bodenhorn Supt, New Ryan Blk, 311 6th
+6368 NAME: Meyer, see also Maier
+6394 ADDRESS, JOB LOCATION NOT FOUND: Michaelson Matti, lab C H M Co res 4320 Oak
+6395 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: MICHAELSON MICHAEL, Dry Goods Notions, Boots Shoes and Confectionery 415 Pine, bds same
+6399 ADDRESS, JOB LOCATION NOT FOUND: Michelich John, miner, res Cebt Heights
+6408 NAME: Michetti,Vincent, lab res 1302 Rockland
+6409 ADDRESS, JOB NOT FOUND: Michigan Dye Works, Israel Bielostozky propr, 312 5th
+6411 ADDRESS, JOB NOT FOUND: MICHIGAN HOUSE, Dunn Bros Proprs, n e cor Oak and 6th, Mich tel 149
+6412 NAME: Michigan Mutual Life Ins Co, D C Auringer, genl agt, over 301 5th
+6413 NAME: Michigan Telepone Co Harry T Hosking mngr, 4 Mine
+6429 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Miklio Martina, elk Carlo Miglio, bds same
+6432 ADDRESS, JOB LOCATION NOT FOUND: Mihalatz John, trammer bds 2471 C
+6457 ADDRESS, JOB NOT FOUND: Mikkenon Henry (aged 36), died July 3, 1901
+6460 NAME, PERSON NOT FOUND: Mikko Heimer helper F A Weider, bds 2575 E
+6479 ADDRESS, JOB NOT FOUND: MILLER ARNOLD A, Meat Market, Groceries and Propr Millers Bowling Alley, r 125 5th Mich Tel
+6481 ADDRESS, JOB NOT FOUND: Millers Bowling Alley, A A Miller propr, r 125 5th
+6501 ADDRESS, JOB NOT FOUND: Miller Sarah (aged 32), died April 4, 1901
+6521 NAME: Mineral Range R R, E W Delf, agt, office cor Portland and 9th
+6524 NAME: Minneapolis Brewing Co (IBranch), cor H T L R R, w of Osceola rd
+6526 NAME: Minovich, Joseph, lab Tamarack Mining Co
+6530 NAME: Misica Joseph timberman bds 4991 Waterworks
+6536 NAME: Mitchell Edward F miner, res 512 4th
+6545 ADDRESS, JOB LOCATION NOT FOUND: Mitchell Simon, miner Tamarack Mining Co bds 3957 Wedge
+6546 ADDRESS, JOB LOCATION NOT FOUND: Mitchell Wm H, miner Tamarack Mining Co res 33 N Tamarack loc
+6573 ADDRESS, JOB LOCATION NOT FOUND: Molinari Rev Antonio, pastor St Maria Church (Italian), res r of church
+6589 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Montin Uno M, elk Norman Macdonald, bds ioo 5th
+6590 ADDRESS, JOB NOT FOUND: Montini James (aged 59), died July 31, 1900
+6593 ADDRESS, JOB NOT FOUND: Montreal House, Jacob Petersen propr, 439 5th
+6634 NAME: Morgans John J rope splicer, res 276 Rockland
+6659 NAME: Mowick James O bkkpr Mowick Christiansen, res Laurium, Mich
+6661 ADDRESS, JOB LOCATION NOT FOUND: Moyle Alfred, fireman Tamarack Mining Co res 19 6th
+6680 ADDRESS, JOB LOCATION NOT FOUND: Mukavich John, lab bds r 213 7th
+6689 ADDRESS, JOB LOCATION NOT FOUND: Mulligan John, miner C H M Co res 2123 Raymbault
+6690 NAME, PERSON NOT FOUND: Mulligan John Tr miner, bds 2123 Raymbault
+6711 ADDRESS, JOB NOT FOUND: Mundy Bessie (aged 25), died Dec 30, 1900
+6727 ADDRESS, JOB NOT FOUND: Murphy Block, 301 5th
+6772 ADDRESS, JOB NOT FOUND: Mustomaki John (aged 44), died April 21, 1901
+6774 ADDRESS, JOB NOT FOUND: MUSTONEN SANFRID, Treas and Mngr Paivalehti Publishing Co, Borgo Blk ,
+6781 ADDRESS, JOB LOCATION NOT FOUND: Myers Joseph H, barber, 343 5th res 409 Pine
+6783 ADDRESS, JOB NOT FOUND: Myllykandas Anna (aged 19), died Dec 25, 1900
+6797 ADDRESS, JOB NOT FOUND: Naisten Lehti (quarterly Ladies Journal), Miss Maggie Walz editor and propr, 416 Pine
+6849 ADDRESS, JOB NOT FOUND: NELSON EDWARD, Propr The City Bakery, and Grocer, 357 5th, fes 417 8th
+6866 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Nelson John (Christianson Nelson), bds Edward Nelson
+6867 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nelson John, carp Bajari Ulseth, bds Ole Oleson
+6886 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nelson Selma, elk, bds Charles Haapakoskie
+6904 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nettell Richard jr, blksmith, bds Richard Nett ell
+6910 NAME: New England Mutual Life Ins Co of Boston, Mass, W J Holman genl agt, Holman Blk
+6916 ADDRESS, JOB NOT FOUND: Newman Elizabeth, removed to Rockford, Ill
+6918 ADDRESS, JOB LOCATION NOT FOUND: Newman Henry, miner res 4809 Red Jacket shaft
+6919 ADDRESS, JOB NOT FOUND: New Ryan Block, 309 6th
+6929 NAME: Nickols Kitt miner Tamarack Mining Co
+6933 NAME: Nielson, see Nelson
+6966 ADDRESS, JOB LOCATION NOT FOUND: Nieminen Oscar, lab, res h 443 6th
+6986 ADDRESS, JOB LOCATION NOT FOUND: Nikulas Arvid, miner, res Cent heights
+7002 NAME: Niva Niemi (Emil E Niva, Charles Niemi) fruits, 460 Pine
+7027 ADDRESS, JOB NOT FOUND: NORTH JUDSON P, Propr Calumet Hotel, 101 Calumet av, cor Old Torch Lake rd
+7029 NAME: Northern Michigan Building and Loan Assn, W H Faucett asst sec, 12 Quello Blk
+7030 ADDRESS, JOB NOT FOUND: Northey Susanna (wid Matthew aged 87), died March 7, 1901
+7031 NAME: Northwestern Mutual Life Ins Co of Milwaukee, Wis, Webb OBrien agts, First National Bank Bldg
+7039 ADDRESS, JOB NOT FOUND: Norwegian Lutheran Church, Rev Simon Romsdahl pastor, s c cor 7th and Elm
+7040 NAME: Norwegian Methodist Episcopal Church, 347 8th
+7087 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: OBrien Thomas, blksmith James McHardy, bds Marquette House
+7094 ADDRESS, JOB NOT FOUND: Odd Fellows Hall, over 206210 5th
+7127 ADDRESS, JOB NOT FOUND: Olander Carl, removed to Laurium, Mich
+7130 ADDRESS, JOB NOT FOUND: Olander Mary, removed to Rhode Island
+7131 ADDRESS, JOB NOT FOUND: Olander Oscar, removed to Rhode Island
+7138 NAME: Old Colony Copper Co, James Chynoweth supt, office
+7139 NAME: 1 1/2 miles n e of Calumet P O
+7140 NAME: Old Finnish Apostolical Lutheran Church, Rev Charles
+7141 ADDRESS, JOB NOT FOUND: Ojala pastor, 702 Pine
+7149 NAME: Oleson, see also Olsen and Olson
+7150 NAME: Oleson Aminda C bds 10 Butlers Row
+7165 NAME: Oliver Wm W miner Tam Mining Co, res 14 Oak (Tam location)
+7169 ADDRESS, JOB LOCATION NOT FOUND: Ollila Isaac, lab bds 3120 Tunnel
+7174 NAME: Olson, see also Oleson and Olsen
+7179 ADDRESS, JOB NOT FOUND: Olson Arne (aged 87), died Feb 7, 1900
+7205 ADDRESS, JOB NOT FOUND: Olson Louis C, removed to Marquette, Mich
+7215 ADDRESS, JOB NOT FOUND: Olson Ole H, removed to Lauriuin, Mich
+7218 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Olson Peter, carp Bajari Ulseth, bds Ole Olson Osceola rd
+7235 ADDRESS, JOB NOT FOUND: ONeil Cornelius (aged 23), died Jan 25, 1901
+7248 ADDRESS, JOB NOT FOUND: ONKA ALEX, Pres Finlanders Mutual Fire Insurance Co, res Blue Jacket
+7257 ADDRESS, JOB NOT FOUND: Opera House, s e cor 6th and Elm
+7270 NAME: ORENSTEIN JAS CO (James Orenstein, Mrs Sadie Orenstein), Manufacturing Furriers and Ladies Tailors, 115 5th Tel 350 (See back cover)
+7285 ADDRESS, JOB NOT FOUND: Osborn Matthew jr, removeckio Sault St Marie, Ont
+7299 ADDRESS, JOB LOCATION NOT FOUND: OShea James, timberman bds 2101 Raymbault
+7315 NAME: OSTRANDER E R CO (Charles Briggs, Edwin R Ostrander), Meat Market, Butter, Eggs and Vegetables, 7 Mine (See page 55)
+7335 ADDRESS, JOB NOT FOUND: Ozanic Michael, removed to Austria
+7344 NAME: PABST BREWING CO (Calumet Branch), Frederick Brandel Mngr, Ferdinand Engelhardt Sec and Treas, Depot s w cor Scott and 9th
+7357 NAME: PAINE, WEBBER CO, Bankers and Brokers, Boston, Mass, P W Grierson Mngr, 105 5th (See back cover)
+7358 NAME: PAIVALEHTI (Finnish Daily) Paivalehti Publishing Co Proprs, Borgo Blk (See page 57)
+7359 NAME: PAIVALEHTI PUBLISHING CO, Leander Brown Pres, John A Harpet Sec, Sanfrid Mustonen Treas and Mngr, Publrs Paivalehti, Borgo Blk (See p 57)
+7369 ADDRESS, JOB NOT FOUND: PALACE LIVERY STABLE, Joseph Trudell Propr, 616 Portland (See page 57)
+7379 ADDRESS, JOB LOCATION NOT FOUND: Palovaara Oscar, timberman, res in Oak (Tam loc)
+7403 NAME: Parkin Wm A blksmith C H M Co, res 4803 Red Jacket Shaft
+7413 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Parsons Walter, bartndr E R Wolff, bds 4555th
+7423 ADDRESS, JOB NOT FOUND: Pascoe Garfield, removed to Duluth, Wis
+7448 ADDRESS, JOB LOCATION NOT FOUND: Patterson Mary (wid John), boarding house, r 438 5th, res same
+7476 NAME: Pearce, see also Pierce
+7522 NAME: Peltier J Charles H, watchman D, S S A Ry, res 813 Scott
+7538 NAME: Pengely Ettie H bds 14 Hickory, Tam loc
+7540 ADDRESS, JOB LOCATION NOT FOUND: Pengelly John, mason Tam M Co res 14 Hickorv Tam loc
+7551 NAME: Peninsula Electric Light and Power Co (branch), Harry Hosking mngr, 4 Mine
+7552 NAME: PENINSULA HEATING AND PLUMBING CO, Frank Distel Jr Sec and Treas, 426 Pine (See back cover)
+7557 NAME, PERSON NOT FOUND: Pentecost John T jr mach helper Centennial Copper Mining Co, bds 39 Cent loc
+7626 ADDRESS, JOB NOT FOUND: Peterson Frank, removed to Houghton, Mich
+7686 ADDRESS, JOB NOT FOUND: Philp Aubrey, instructor Manual Training chool
+7689 ADDRESS, JOB LOCATION NOT FOUND: Picnvar Anthony, lab bds r 430 7th
+7700 ADDRESS, JOB NOT FOUND: Picchiottino Joseph M (aged 43), died June 22, 1901
+7707 ADDRESS, JOB NOT FOUND: Pichette Henry, removed to Laurium, Mich
+7731 ADDRESS, JOB LOCATION NOT FOUND: Pikkarinen Otto, elk Hansen Son, res Laurium, Midi
+7756 ADDRESS, JOB NOT FOUND: Pistonetti Joseph, removed to Italy
+7761 ADDRESS, JOB NOT FOUND: Plant Jerome, wines and liquors, 312 5th rms Bollman Block
+7780 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Poerjuj John, lab, bds Henry Mannikka
+7810 ADDRESS, JOB LOCATION NOT FOUND: Pope Frank, miner Centennial Copper Mining Co res 65 Cent loc
+7814 ADDRESS, JOB NOT FOUND: Pope Samuel C (aged 66), died June 21, 1901
+7819 ADDRESS, JOB NOT FOUND: POST OFFICE, Wm H Hosking Postmaster, Union Blk
+7820 NAME: Postal Telegraph Cable Co, Inez O Bradley mngr, 220 5th
+7853 ADDRESS, JOB LOCATION NOT FOUND: Primeau Paul jr, carp Tamarack Mining Co res 14 N Tam location
+7859 ADDRESS, JOB LOCATION NOT FOUND: Pro Bartholomew, baker Bernard Bracco bds 815 Elm
+7866 NAME: Procissi G Co (Gaetano Procissi, Guerins Martini), mason contractors, 444 5th
+7872 NAME: PUBLIC LIBRARY THE OF THE CALUMET Hecla Mining Co, Mrs E S Grierson Librarian, cor Red Jacket rd and Mine
+7878 ADDRESS, JOB LOCATION NOT FOUND: Puhek Jacob, miner Tam M Co res 24 Chestnut (Tam location)
+7881 NAME, PERSON NOT FOUND: Puhek John Mr drill boy Tam M Co, bds 24 Chestnut (Tam loc)
+7896 ADDRESS, JOB LOCATION NOT FOUND: Pyrrhus Conrad B, blksmith C H M Co res 288 Rockland
+7897 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pytleski Joseph, timberman, bds 6t2 Oak
+7906 ADDRESS, JOB LOCATION NOT FOUND: Quello Bartholomew, driver B Ouello res r cor 6th and Oak
+7908 ADDRESS, JOB NOT FOUND: Quello Block, 306310 5U1
+7912 ADDRESS, JOB LOCATION NOT FOUND: Quello Michael, bkkpr,B Ouello, res Lauriuni
+7919 NAME: Quong Wo Chong Co, laundry and grocers, 818 Oak
+7935 NAME: Radosevich Frank C trammer Centennial Copper Mining Co
+7950 ADDRESS, JOB LOCATION NOT FOUND: Ramsay James D, supt motive power H T L R R res 111 Calumet av
+7976 ADDRESS, JOB NOT FOUND: Rasmussen Niels, wireman P E L P Co
+7991 ADDRESS, JOB NOT FOUND: Rayfecli Frank (aged 23), died Dec 22, 1899
+8001 NAME: Red Jacket City Band and Orchestra, Opera House Hall, Cor Elm and 6th
+8002 NAME: Red Jacket Congregational Church, Rev C H Corwin pastor, w s 7th nr Oak
+8003 NAME: RED JACKET LIQUOR STORE, J Gardetto Co Proprs, 345 5th (See p 47)
+8004 NAME: Red Jacket Opera House, s e cor 6th and Elm
+8007 ADDRESS, JOB LOCATION NOT FOUND: Reed Andrew, section hd res 4332 Acorn
+8011 ADDRESS, JOB NOT FOUND: Reed John P, tiniberman Tamarack Mining Co, les 4 Chestnut
+8015 ADDRESS, JOB NOT FOUND: Reed Win H (aged 63), died June 21, 1899
+8016 NAME, PERSON NOT FOUND: Reed Wm P elk C L Fichtel, bds 4 Chestnut
+8017 NAME: Reeder Clara M bds J T Reeder
+8021 NAME: Rees George M phys C H Hospital, res 1167 Calumet avenue
+8050 NAME: Reuther Frederick C J, mach, res 1151 Depot
+8058 ADDRESS, JOB LOCATION NOT FOUND: Reynolds James, lab Tamarack Mining Co res 25 Oak
+8090 ADDRESS, JOB LOCATION NOT FOUND: Richards Edward C, miner Tamarack Mining Co res 251 A
+8098 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Richards George, mach hd, bds 3*88 Caledonia
+8099 NAME: Richards H E bds Central Hotel
+8111 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Richards Laura, tchr Webster School, bds ion Mine
+8131 ADDRESS, JOB NOT FOUND: Richards Wm H (W H Richards Co), res Laminin, Mich
+8132 NAME, PERSON NOT FOUND: Richards Wm H lab, bds 1382 Rockland
+8135 ADDRESS, JOB LOCATION NOT FOUND: Richards Wm T, miner C H M Co res 4875 Red Jacket Shaft
+8137 NAME: Richards W H Co (Wm H Richards, James Hocking), clothing, 224 5th
+8173 ADDRESS, JOB LOCATION NOT FOUND: Ristell Edith, elk bds Mary Retell
+8179 ADDRESS, JOB LOCATION NOT FOUND: Ristell Win, engine boy bds Mary Ristell
+8193 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Roach Patrick, blksmith James McHardy, bds Marquette House
+8194 NAME: Roach Seeber Co, G V Seeber ningr, wholesale dealers in flour, feed, hay, butter, etc, w s oth 2 s of Scott
+8201 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Roberts Alice, dressmkr Rose Roberts, bds same
+8205 ADDRESS, JOB LOCATION NOT FOUND: Roberts Charles R, lab res 2026 Calumet av
+8206 ADDRESS, JOB LOCATION NOT FOUND: Roberts David D, lab res 4 Thorn
+8207 NAME, PERSON NOT FOUND: Roberts David D jr mach Tamarack Mining Co, bds 4 Thorn
+8236 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Robins Alfred, blksmith H W Villeneuve, bds Marquette House
+8282 ADDRESS, JOB NOT FOUND: Roider Antoine (aged 21), died July 25, 1899
+8289 ADDRESS, JOB NOT FOUND: Rolando Lorenz (aged 33), died December 2, 1900
+8294 NAME: Rom, see also Rum
+8304 ADDRESS, JOB LOCATION NOT FOUND: Rondy Anton, miner C H M Co res 571 Cedar
+8309 ADDRESS, JOB LOCATION NOT FOUND: Rosemergy James, oiler C H M Co res 241 Rockland
+8311 ADDRESS, JOB LOCATION NOT FOUND: Rosemergy Wm H, tmstr Centennial Copper Mining Co res 15 Cent loc
+8318 ADDRESS, JOB LOCATION NOT FOUND: Rosevear Wm, asst mining capt ram H Co res 3 N Tam loc
+8322 ADDRESS, JOB NOT FOUND: Ross Daniel M, blksniith res 1774 Boundary
+8325 NAME: Ross Eldie student bdsI774 Bounary
+8329 ADDRESS, JOB LOCATION NOT FOUND: Ross James W, mach C H M Co res 1742 Depot
+8330 NAME, PERSON NOT FOUND: Ross John D blksniith, bds 1774 Boundary
+8331 NAME, PERSON NOT FOUND: Ross Oscar C miner C H M Co, bds 369 Caledonia
+8333 ADDRESS, JOB LOCATION NOT FOUND: Ross Samuel, lab bds Michigan House
+8336 ADDRESS, JOB LOCATION NOT FOUND: Rossio Carlo, timberman C H M Co res 3951 Temple
+8349 NAME, PERSON NOT FOUND: Roth Joseph V tmstr Calumet Brewing Co, bds 3930 Temple
+8353 ADDRESS, JOB LOCATION NOT FOUND: Rousa Daniel, miner Tam M Co bds iti Oak
+8354 ADDRESS, JOB LOCATION NOT FOUND: Rousa John, miner Tam M Co res m Oak
+8355 ADDRESS, JOB LOCATION NOT FOUND: Rousa John, section lid M R and H C Ry res in Oak Tam loc
+8356 ADDRESS, JOB LOCATION NOT FOUND: Rousa Joseph, miner Tam M Co bds in Oak
+8357 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Rousa Thomas, miner Tam M Co, bds in Oak
+8381 ADDRESS, JOB LOCATION NOT FOUND: Rowe Mary J (wid Richard), dressmkr, 338 5th res same
+8399 ADDRESS, JOB LOCATION NOT FOUND: Rozich Paul, timberman C H M Co res 4359 Pine
+8414 NAME: Rum, see also Rom
+8421 NAME, PERSON NOT FOUND: Ruonavaara Hjlmar H druggist, bds 406 6th
+8427 ADDRESS, JOB LOCATION NOT FOUND: Ruppe George F, elk P Ruppe Son bds 113 6th
+8428 ADDRESS, JOB LOCATION NOT FOUND: Ruppe John, helper Tam M Co bds 577 Cedar
+8434 NAME, PERSON NOT FOUND: Ruppe Peter F asst bkkpr P Ruppe Son, bds 113 6th
+8435 ADDRESS, JOB NOT FOUND: Ruppe P Son (Peter Ruppe), genl mdse, 213217 5th
+8438 NAME: Rupprecht Charles H asst pins Tamarack Hospital, res Tamarack jr loc
+8452 ADDRESS, JOB LOCATION NOT FOUND: Ruttenberg Nathan, clothing, 227229 5th res Laurium, Mich
+8456 ADDRESS, JOB NOT FOUND: RYAN EDWARD (Estate of), General Merchandise, John D Cuddihy Mngr, 311317 5th (See right top lines)
+8472 ADDRESS, JOB LOCATION NOT FOUND: Saari Annie, elk W M Gatiss bds 351 Caledonia
+8482 ADDRESS, JOB NOT FOUND: SACRED HEART CHURCH, Rev Sigismund Pirron, O F M, Pastor, s end of Rockland
+8493 NAME: St Annes (R C) Church, s w cor 5th and Scott
+8494 NAME: St Annes Parochial School, r s w cor 5th and Scott
+8496 NAME: St Anthonys Parochial School 321 7th
+8497 ADDRESS, JOB NOT FOUND: St Jerman Block, s e cor Oak and 7th
+8498 NAME: St Josephs Slavonian Roman Catholic Church Rev Mark Pakiz pastor Rev Joseph Policli asst pastor, cor 8th and Oak
+8499 NAME: St Maria (R C) Church (Italian) Rev Antonio Molinari pastor, s s Portland nr D S S R R
+8500 NAME: St Stanislaus Parochial School Frank IubMwiecki teacher, 321 7th
+8501 ADDRESS, JOB LOCATION NOT FOUND: Saitz Frederick, lab Pabst Brewing Co (Calumet Branch) bds 500 Klin
+8502 ADDRESS, JOB NOT FOUND: Saitz John (aged 67), died June 1, 1900
+8526 ADDRESS, JOB NOT FOUND: Salvation Army (Swedish), 428 5th
+8527 ADDRESS, JOB NOT FOUND: Salvation Army Band, 204 7th
+8528 ADDRESS, JOB NOT FOUND: Salvation Army Hall, 204 7th
+8529 ADDRESS, JOB NOT FOUND: Salvation Army Hall (Swedish), 428 5th
+8554 ADDRESS, JOB NOT FOUND: Sandstrom John, steam fitter Carlton Hardware Co
+8594 ADDRESS, JOB NOT FOUND: SAVINGS BANK THE, Arne Ruttenberg Proprs, General Merchandise, 404 to 410 5th
+8616 NAME: Schenk Wm F G, mach, res 318 7th
+8618 ADDRESS, JOB NOT FOUND: Scheuermann Brewery Office (Calumet Branch), John A Gries clerk, w s 9th 5 s of Scott
+8620 ADDRESS, JOB NOT FOUND: Schindler Henry G, removed to Houghton, Mich
+8622 ADDRESS, JOB NOT FOUND: Schindler J Gottlieb, removed to Pittsburg, Pa
+8624 NAME: Schlitz Joseph Brewing Co (Calumet Branch), s e cor Pine and 9th
+8631 ADDRESS, JOB LOCATION NOT FOUND: Schmitt Joseph, lab res 1630 Laurium
+8652 ADDRESS, JOB LOCATION NOT FOUND: Schroeder Elizabeth, dressmkr bds 443 6th
+8654 ADDRESS, JOB NOT FOUND: Schroeder John F, res, 217 6th
+8656 ADDRESS, JOB LOCATION NOT FOUND: Schroeder Joseph F, collr bds 443 6th
+8661 NAME: Schubert Julius tnistr bcls Commercial House
+8696 ADDRESS, JOB NOT FOUND: Scotland Woolen Mills, Patrick H Sheehan propr, Borgo Blk
+8720 ADDRESS, JOB LOCATION NOT FOUND: Selberg Nels F, lab res 530 3d
+8729 ADDRESS, JOB NOT FOUND: Senate The, James C Smith propr, saloon, 336 5th
+8731 ADDRESS, JOB NOT FOUND: Sentinella La, John Lisa publr, s e cor Oak and 7th
+8732 NAME: Seppala, see also Sipola
+8742 ADDRESS, JOB LOCATION NOT FOUND: Serman Matthias, lab bds 439 7th
+8743 ADDRESS, JOB LOCATION NOT FOUND: Serrurier Richard T, bartndr bds 112 8th
+8755 ADDRESS, JOB LOCATION NOT FOUND: Shalaz John, lab bds 13 Tam jr loc
+8778 NAME: Shea Jeremiah E engr, res 2111 Raymbault
+8796 NAME: SHEEDLO F BROS (Frank J, John and Theodore), Carriages, Wagons, Harness, Trunks and Valises, 437 5th (See page 40)
+8811 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sheehan Patrick H, propr Scotland Woolen Mills, bds Auditorium
+8825 ADDRESS, JOB NOT FOUND: Sheridan Owen (aged 73), died June 11, 1900
+8827 ADDRESS, JOB NOT FOUND: SHERIDAN DUNCAN (Philip O Sheridan, Wm J Duncan), Plumbers Hardware, Stoves, Etc, 109 5th
+8866 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Silvola Erick, bds Sakris Silvola
+8867 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Silvola Irving A, student, bds Sakris Silvola
+8909 NAME: Singer Mnfg Co, Wm W Wright mngr, sewing machines, 429 5th
+8928 ADDRESS, JOB NOT FOUND: Skelly Charles (Skelly Co), 404 Oak
+8930 NAME: SKELLY CO (Thomas and Charles Skelly), Wholesale Cigars and Specialties, 404 Oak Tel 279
+8959 ADDRESS, JOB NOT FOUND: Smalls Laundry, W L Foley mngr, 505 Oak
+8963 ADDRESS, JOB LOCATION NOT FOUND: Smith Albert C, bartndr M Sterk, res Lake Linden av, Laurium
+8968 ADDRESS, JOB NOT FOUND: Smith Edward (aged 31), died June 21, 1900
+8973 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Smith James W, draughtsman Cowles Eastman, bds W C Smith
+8976 NAME: Smith John F D, plumber, 405 5th, res 415 8th
+9002 NAME, PERSON NOT FOUND: Snell Wm J H, lab Tam M Co, bds 413 Cedar lane
+9012 NAME, PERSON NOT FOUND: Soddy Francis J student, bds 715 Scott
+9026 NAME: SODERGREN SODERGREN (Henry A and Uno) Proprs City Drug Store, 216 5th
+9031 ADDRESS, JOB LOCATION NOT FOUND: Solarski Nicholas, tramer res 2329 County rd
+9048 ADDRESS, JOB NOT FOUND: Sommariva Janus, tratmner bds 2515 D
+9051 NAME: Sons of St George Hall, 443 5th
+9092 ADDRESS, JOB NOT FOUND: Spence Jane, removed to Ishpeming, Mich
+9094 ADDRESS, JOB NOT FOUND: Spence Margaret, removed to Laurium, Mich
+9117 ADDRESS, JOB NOT FOUND: Stanieh Matt, died August 15, 1901
+9121 NAME: STAR STEAM DYE WORKS, George F Mather Propr 400 Oak (See p 51)
+9136 ADDRESS, JOB LOCATION NOT FOUND: Stefanac Frank, trammer
+9173 NAME: Stephens, see also Stevens
+9177 ADDRESS, JOB NOT FOUND: Stehpens Grace (wid Wm aged 58), died Sept 28, 1900
+9202 ADDRESS, JOB NOT FOUND: Stork Block, 337339 5th
+9207 ADDRESS, JOB NOT FOUND: Sterk Peter (aged 19), died Oct 30, 1899
+9211 NAME: Stevens, see also Stephens
+9222 ADDRESS, JOB NOT FOUND: Stierna John (aged 54), died May 21, 1901
+9226 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stifaid Anton, miner, bds John Jukuri
+9269 ADDRESS, JOB LOCATION NOT FOUND: Stranberg Peter, blaster, res 48n_Red Jacket Shaft
+9330 NAME: Sullivan Anna (aged 18) died Oct 6, 1900
+9347 ADDRESS, JOB NOT FOUND: Sullivan Jeremiah (aged 33), died July 29, 1899
+9348 ADDRESS, JOB NOT FOUND: Sullivan Jeremiah (aged 20), died Sept 26, 1900
+9350 ADDRESS, JOB LOCATION NOT FOUND: Sullivan Jeremiah J, bkkpr Estate of Edward Ryaiti res Laurium, Mich
+9351 ADDRESS, JOB NOT FOUND: Sullivan John (aged 21), died Jan 25, 1901
+9367 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Sullivan Marie, stenogr Estate of Edward Ryan, bds Larium, Mich
+9417 NAME: SUOMETAR (Finnish Weekly), Suometar Printing Co Publrs, Rev J W Eloheimo Editor, 416 Pine (See page 43 )
+9418 NAME: SUOMETAR PRINTING CO, Andrew Johnson Pres, Ed Jonas VicePres, Andrew Beam Sec, Maggie Walz Treas and Business Mngr,4i6 Pine (See p 43)
+9451 ADDRESS, JOB NOT FOUND: Swanson Jennie A (aged 18), died June 26, 1900
+9459 NAME: Swedish Evangelical Lutheran Church, s 6th nr Armory
+9460 NAME: Swedish M E Church, Rev Carl J Berggren pastor, 337 6th
+9482 ADDRESS, JOB LOCATION NOT FOUND: Symons John G jr, asst bkkpr Tam CoOperative Assn, res Amygdaloid (Laurium)
+9492 ADDRESS, JOB LOCATION NOT FOUND: Sztambek Valentine, lab res 2209 Middle
+9502 ADDRESS, JOB LOCATION NOT FOUND: Takala John, lab res 415 Pine
+9504 ADDRESS, JOB LOCATION NOT FOUND: Takka Joel, lab bds 436 Pine
+9508 NAME: TALLBACK, HACKMAN TERVO (Samuel Tallback, John A Hackman, Victor Tervo), Merchant Tailors, Pressing and Repairing, 205 5th
+9516 ADDRESS, JOB NOT FOUND: Tamarack CoOperative Association, Wm E Parnall pres, Wm M Harris sec, John T Reeder treas, Wm J Light mngr, general store, Tamarack location w end Oak
+9517 ADDRESS, JOB NOT FOUND: Tamarack Hospital, C H Rodi res physician, s w cor Beech and 2d, Tamarack loc
+9518 NAME: Tamarack M E Church, Tamarack Hill w of Oak
+9519 ADDRESS, JOB NOT FOUND: Tamarack Miners Band, Wm Morgan jr leader, Town Hall
+9520 NAME: TAMARACK MINING CO, Albert S Bigelow (Boston, Mass) Pres, Wm J Ladd (Boston, Mass) Sec and Treas, Wm E Parnall Genl Supt, Wm E Parnall jr Asst Supt, John T Reeder Chief Clerk, west end Portland, Tamarack location
+9521 NAME: Tamarack Jr Mining Co, see Osceola Consolidated Mining Co, Opechee, Mich
+9524 ADDRESS, JOB NOT FOUND: Tamarack Social Club, s s Oak nr Tamarack mine
+9554 ADDRESS, JOB NOT FOUND: TAYLOR HOUSE, John B Taylor Propr, 316 5th (See Page 45 )
+9558 ADDRESS, JOB NOT FOUND: TAYLOR JOHN B, Propr Taylor House, 316 5th (See page 45)
+9561 NAME: Taylor Wm blksmith C H M Co, res 1370 Rockland
+9568 NAME: Temple of Honor Hall, s w cor Scott and 6th, 3974 Scott
+9570 NAME: Ten Broeck Rev Joseph A, rector Christ Church
+9596 ADDRESS, JOB NOT FOUND: Thiele Erick A, wireman PELP Co
+9646 NAME: Thomas Susan (wid Wm G) bds 431 6th
+9654 ADDRESS, JOB NOT FOUND: Thomas Wm G (aged 57), died Aug 16, 1900
+9666 ADDRESS, JOB NOT FOUND: Thompson John H (aged 66), died Jan 19, 1091
+9676 ADDRESS, JOB NOT FOUND: Thulen Ernst, tngr Tamarack Mining Co
+9684 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tiemo Andrew, porter Matt Petersen, bds same
+9701 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tingstad Richard, bartndr Edward Tingstad, bds same
+9764 ADDRESS, JOB LOCATION NOT FOUND: Toppari John, timberman, res 2559
+9769 NAME: Tornquist Charles G V, blksmith C H M Co res 315 Caledonia
+9770 ADDRESS, JOB NOT FOUND: Tornquist Ernest, removed to Laurium
+9795 ADDRESS, JOB NOT FOUND: Town Hall, 356 6th
+9839 ADDRESS, JOB NOT FOUND: Trestrail Edward, removed to Laurium
+9840 ADDRESS, JOB NOT FOUND: Trestrail Richard, removed to Butte, Mont
+9853 ADDRESS, JOB LOCATION NOT FOUND: Trevarrow James, lab bds 2236 Middle
+9857 ADDRESS, JOB NOT FOUND: Trevarrow Richard (aged 21), died March 23, 1900
+9878 ADDRESS, JOB NOT FOUND: Trezona Richard, died Aug 15, 1901
+9928 NAME: TURNER A B BRO (Boston, Mass), Paul J Ober Mngr, Bankers and Brokers, 228 5th (See front cover)
+9941 ADDRESS, JOB NOT FOUND: Ulseth Andrew (aged 45), died Aug 19, 190a
+9951 ADDRESS, JOB LOCATION NOT FOUND: Ulseth Thomas, painter bds r 348 5th,
+9953 ADDRESS, JOB NOT FOUND: Union Block, n e cor 5th and Red Jacket rd
+9954 NAME: Union Copper Land and Mining Co, Charles Chynoweth supt, Cent loc
+9961 ADDRESS, JOB NOT FOUND: Uren Arthur, car checker D, S S A Ry
+9976 ADDRESS, JOB NOT FOUND: Vairo Joseph, removed to Laurium, Mich
+9993 NAME, PERSON NOT FOUND: Van Dusen Cyrus A, elk Eagle Drug Store, bds Central House
+9996 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Varson John, real estate, cor Portland and 6th, bds Marquette Hotel
+9997 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Varson Nina, teacher, bds John Varson
+10014 NAME: Verbanac, see also Werbanac
+10019 ADDRESS, JOB NOT FOUND: Verbanac Stephen (aged 33), died July 16, 1900
+10045 NAME: VERTIN BROS (John and Joseph), General Merchandise, s e cor Oak and 6th (See right side lines)
+10070 ADDRESS, JOB NOT FOUND: Vienna Bakery, Mrs Mary A Brown, propr, 445 Pine
+10075 ADDRESS, JOB NOT FOUND: Village Clerks Office, Albert J March clerk, Town Hall
+10077 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Vincent Annie, bds 25Rockland
+10087 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Viohkola Helmer, lab, bds Lorenz Xiohkola
+10157 NAME: Wagner Jacob M timberman, res 2034 Calumet av
+10178 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wallace Abraham, miner, bds n Beech (Tam loc)
+10195 NAME: WALZ MISS MAGGIE J, Treas and Business Mngi Suometar Printing Co, 416418 Pine, res same
+10209 ADDRESS, JOB NOT FOUND: Wareham John (aged 43), died March 22, 1901
+10220 ADDRESS, JOB LOCATION NOT FOUND: Warren Arthur, lab bds 2347 County rd
+10222 ADDRESS, JOB NOT FOUND: Warren Elizabeth, died October, 1900
+10236 ADDRESS, JOB NOT FOUND: Washington Building, cor Calumet av and Old Torch Lake rd
+10240 ADDRESS, JOB NOT FOUND: Waters Wm J (aged 43), died July 6, 1901
+10271 ADDRESS, JOB NOT FOUND: WEBB OBRIEN (Wm J Webb, Michael E OBrien), Real Estate, Insurance and Loans, First National Bank Bldg (See adv)
+10280 ADDRESS, JOB NOT FOUND: Webster School, w s Osceola rd nr Wedge
+10288 ADDRESS, JOB NOT FOUND: Weidelman John, removed to Laurium, Mich
+10297 ADDRESS, JOB LOCATION NOT FOUND: Welden Eugene C, foreman, res 1J34 Depot
+10298 ADDRESS, JOB NOT FOUND: Welling Rev Peter, removed to Cincinnati, O
+10326 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wertin John, bartndr M B Wertin, bds same
+10330 NAME: Wertin Co (Elizabeth Wertin), John P Huberty mngr, general merchandise, 446448 5th
+10335 NAME: West Preston C F, died March, 1901
+10348 NAME, PERSON NOT FOUND: Westerberg Teckla A J, student, bds 4357 Pine
+10350 NAME: WESTERN EXPRESS CO, B J Willesen Agent, 519 Scott
+10351 NAME: WESTERN UNION TELEGRAPH CO, R J Coates Mngr, First National Bank Bldg
+10355 NAME: Wheeler Wilson Mnfg Co, Alvin P Barnes mngr, sewing machines, 350 5th
+10357 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Whetter Ida, bds G H Whetter
+10358 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Whetter Oliver, timberman, bds G H Whetter
+10359 NAME: WHISLER WILBUR S Dentist, Hennes Blk, 123 5th res 304 Old Torch Lake rd
+10376 ADDRESS, JOB NOT FOUND: Whittier School, s w cor C and Raymbault
+10388 NAME: WICKSTROM, NIEMI CO, C J Wickstrom Mngr, General Merchandise, 462464 Pine
+10431 NAME, PERSON NOT FOUND: Williams Edward R driver Western Express Co, bds 1552 Hecla
+10472 ADDRESS, JOB NOT FOUND: Williams Wm H, removed to Duluth, Minn
+10480 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Willisniemi Andrew, lab, bds L P Willioniemi
+10484 ADDRESS, JOB NOT FOUND: Willmes Oscar (aged 27), died Feb 18, 1901
+10488 ADDRESS, JOB NOT FOUND: Wills Edward, res Arcadian Mine
+10490 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Wills Ethel, bds, 831 County rd
+10497 NAME: Wills Rutherford B H, timberman bds 831 County rd
+10504 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wilmers Albert, driver Tamarack Cooperative Association, bds Mrs Anna Wilmers
+10506 ADDRESS, JOB NOT FOUND: Wilmers Hall, 409 6lh
+10516 ADDRESS, JOB NOT FOUND: WILSON FRED, Livery, Logging Contractor, Timber, Etc, 415 Pine res same (See p 49)
+10521 ADDRESS, JOB NOT FOUND, PERSON NOT FOUND: Wilson Robert C, bridge ironwkr, bdsAlbion Hotel
+10527 ADDRESS, JOB NOT FOUND: WINDSOR HOUSE, Wm Chaput Propr, 333 5th (See P 51 )
+10531 NAME: Wing Lee Co, cigar mnfrs, 347 5th
+10539 ADDRESS, JOB NOT FOUND: Winspear Philip (aged 43), died April 17, 1901
+10541 ADDRESS, JOB NOT FOUND: Wisniewska Anna (wid John), housekeeper 315 7th
+10544 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Witika Matt, bartndr Matt Petersen, bds same
+10549 ADDRESS, JOB NOT FOUND: Woitkowiak Anna (wid Albert),4ds 4226 10th
+10566 NAME: WORKMENS MERCANTILE CO, Olaf Lumatta Pres, Jacob Hakala VicePres, Ole Olson Sec, Jacob H Castren Mngr, General Merchandise, 334 5th
+10572 ADDRESS, JOB NOT FOUND: Wright James (aged 73), died Feb 2, 1900
+10594 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wyatt Charles, drill boy, bds Richard Wyatt
+10595 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wyatt Laura G, student, bds Richard Wyatt
+10596 ADDRESS, JOB LOCATION NOT FOUND: Wyatt Richard, miner, res Centenniat Heights
+10607 NAME, PERSON NOT FOUND: Yates, Wm, miner, bds 210 6th
+10617 ADDRESS, JOB NOT FOUND: Yellow Jacket School, s s Pine bet 9th and 10th
+10630 ADDRESS, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Young George W, barber, bds RTA Young
+10632 NAME: YOUNG MENS CHRISTIAN ASSOCIATION, W T S Gregg Pres, Edward S Grierson VicePres, Peter J McClelland Treas, Samuel A Ackley Genl Sec, Wm J Galbraith Rec Sec, Walter E Mack Asst Sec, Charles M Douthitt Physical Director, Temple Square
+10633 ADDRESS, JOB LOCATION NOT FOUND: Young Robert A, contr Centennial Heights, res samev
+10643 ADDRESS, JOB NOT FOUND: Zagar Barto, removed to Austria
+10647 ADDRESS, JOB NOT FOUND: Zagar Michael, removed to Austria
+10670 ADDRESS, JOB NOT FOUND: Ziegler Rev Otto, removed to Cincinnati, Ohio
+10680 NAME: Zion German Reformed Church, n s Depot e of Calumet

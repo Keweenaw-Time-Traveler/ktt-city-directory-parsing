@@ -1,0 +1,270 @@
+25 ADD, JOB LOCATION NOT FOUND: Alatalo Frederick H (Eva), miner, res 433Quincy
+49 NAME: Amundson S Co (Sivert Amundson, Mrs Dora Schwartz), ladies tailors 301 Hecla
+78 ADD, JOB LOCATION NOT FOUND: Angove Wm, student,4 bds 304 Kearsarge
+104 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Arnovits Maurice S, elk Boston Store, rms Marta blk
+109 ADD, JOB LOCATION NOT FOUND: Aroitenoff Ovit, lab C H M Co bds 211 Seneca
+138 ADD, JOB LOCATION NOT FOUND: Balcom George P, station agt K C R R Co and C R R R, res ft of 3d
+147 NAME: Barkhausen Oil Co, Andrew Kennedy mgr, 319 Hecla
+165 NAME: Barsanti Co (Albert and Pasco Barsanti), fruits 244 Hecla
+238 ADD, JOB NOT FOUND: Beleck John, removed to Detroit, Mich
+275 NAME: Bergroth Henry (Adolfine) motorman H C T Co, res 433 Iroquois
+276 ADD, JOB NOT FOUND: Bergstrom Frank, removed to Detroit, Mich
+300 ADD, JOB NOT FOUND: Bianco Joseph (aged 50), died July 18, 1914
+304 NAME: Birk, see also Burke
+312 ADD, JOB NOT FOUND: Biscomb John, removed to Flint, Mich
+339 ADD, JOB LOCATION NOT FOUND: Bloy Wm J (Bessie), undertaker, res T00 Woodland av
+354 NAME: Bonefant B J substation attndt H C T Co
+359 ADD, JOB NOT FOUND: Boon Building, 206 2d
+373 NAME: BOSCH BREWING CO (CALUMET BRANCH), Adolph P Malherbe Mgr, cor 1st and Woodland av, Tel 92
+374 ADD, JOB NOT FOUND: Boston Store, Jacob J Arnovits prop, gen store 312 Hecla
+384 ADD, JOB NOT FOUND: BRACCO JOHN B (Florence C), Sec Italian Mutual Fire Ins Co, res Calumet, Mich, Tel 567W
+385 ADD, JOB NOT FOUND: Branch Store The, Peter Berlow mgr, clothing 436 Hecla
+386 NAME: Braun see also Brown
+418 NAME: Brown, see also Braun
+424 ADD, JOB NOT FOUND: Brown Mary A (wid Dominick), removed to Hancock, Mich
+455 NAME: Burke, see also Birk
+476 ADD, JOB NOT FOUND: CALUMET CARRIAGE WORKS, Joseph Hebert Propr, Carriages, Wagons and Sleighs, Automobile BodyWork and Painting, Horseshoeing and Rubber Tireing a Specialty 229231 Osceola, Tel 193J (See opposite page 345)
+477 NAME: Calumet Gas Co, Charles Briggs pres, Gordon R Campbell vpres, Albert E Petermann sec, Peter Ruppe treas, 407 Hecla
+478 NAME: Calumet Gas Co Plant, Wm H Thomas foreman, ne cor Lake Linden av and Franklin
+479 ADD, JOB NOT FOUND: Calumet Public Hospital, Florence M Nicholson supt, 300 Florida
+480 ADD, JOB NOT FOUND: Calumet Social Club, 3d fl State Savings Bank bldg
+500 ADD, JOB NOT FOUND: Cappello James (aged 55), died April 12, 1912
+505 NAME: Carbonatto Charles (Mary) Salicetti Carbonatto), res 75 1st
+507 ADD, JOB NOT FOUND: Cardis David, removed to Detroit, Mich
+524 ADD, JOB NOT FOUND: Carlyon Lottie A, res 147C Pewabic
+525 ADD, JOB NOT FOUND: Carlyon Wm T (aged 45), died Jan 29, 1915
+532 NAME: Caserio Massoglia (Joseph Caserio, Frank Massoglia) grocers 125 Hecla
+535 ADD, JOB NOT FOUND: Central Hotel, W H Richards propr, 340 Osceola
+550 ADD, JOB NOT FOUND: Charles Briggs School, James M Chapman prin, ne cor Pewabic and 4th
+560 ADD, JOB LOCATION NOT FOUND: Cherrier John (Marie), elk res 160 Willow av
+567 ADD, JOB LOCATION NOT FOUND: Chop Matt M (Julia), solr Matt Chop, Calumet res 114 S Kearsarge
+580 ADD, JOB NOT FOUND: CITY HALL, 306308 Hecla
+589 NAME: CLOUTIER BROS CO (John B, Alphonse and George Cloutier), Dealers in Groceries, Meats and Provisions 421 Lake Linden av, Tel 88R
+616 ADD, JOB NOT FOUND: Collins Richard W (aged 59), died May 5, 1913
+618 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Colombe Margaret (wid Peter), nurse 528 Tamarack, bds sarrre
+619 NAME: COLUMBIA STEAM LAUNDRY AND DYE WKS, Angus McLennan Prop, Laundry Work in All Its Branches, Dyeing, Cleaning, Pressing and Repairing of Mens and Ladies Clothing, 243 Hecla, Tel 150F1 Branch 63 3d, Tel 150F2 (See left side lines)
+641 NAME: Copper Range R R Freight Depot, George Balcom agt, ft of 3d
+671 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cudlip Ellen F, dressmkr 244 Kearsarge, bds came
+672 NAME: Cudlip Joseph (Elizabeth A) miner C H M Co, res 125 S Kearsarge
+698 NAME: DalBalcon John trammer C H M Co
+741 ADD, JOB LOCATION NOT FOUND: DeGooyer Anna, tchr bds 344 Calumet
+755 ADD, JOB NOT FOUND: DellAngelica Vincent (aged 65), died Feb 11, 1915
+788 ADD, JOB NOT FOUND: Dolan Mary (wid James aged 64), died March 5, 1915
+794 ADD, JOB LOCATION NOT FOUND: Donovan Robert W (Margaret), barnman C H M Co res 509 Pewabic
+851 NAME: DUPONT J F CO, John F Dupont Mgr, Automobiles and Automobile Supplies and Garage, Bicycles and Sporting Goods 336338 Osceola, Tel North 493 (See front cover)
+856 NAME: Ecklund, see also Eklund
+860 ADD, JOB NOT FOUND, PERSON NOT FOUND: Eddy Clara, bds237 Tamarack
+867 ADD, JOB NOT FOUND: Eddy Thomas, removed to Detroit, Mich
+874 ADD, JOB LOCATION NOT FOUND: Edwards Walter (Gussie), asst cashr, res 3d and Kearsarge
+890 NAME: Eklund, see also Ecklund
+898 ADD, JOB NOT FOUND: Ellis Charles (aged 73), died February 9, 1914
+945 ADD, JOB NOT FOUND: Eva Elizabeth (wid Thomas aged 63), died April 15, 1915
+947 NAME: Evangelical Lutheran St Pauls Church, ne cor Tamarack and 2d
+948 ADD, JOB NOT FOUND: Evangelical Lutheran School, F E Treichel supt, 76 1st
+953 ADD, JOB LOCATION NOT FOUND: Evely Richard C, student bds 335 Atlantic
+966 ADD, JOB NOT FOUND: Farnham L Augustine, removed to Pontiac, Mich
+968 ADD, JOB NOT FOUND: Faucett Block, 317319 Hecla
+969 ADD, JOB NOT FOUND: FAUCETT BROS GUCK (Wm H Faucett, Frederick K Guck), Real Estate, Loans and Insurance, Faucett Block, Tel 197 (See right top lines)
+988 ADD, JOB NOT FOUND: Fink Charles, removed to Lake Linden, Mich
+996 ADD, JOB NOT FOUND: Finnish Methodist Church, Rev Carl A Nurmi pastor, 611 Lake Linden av
+997 NAME: Finnish Sunday School Hall, 785 Lake Linden av, Florida
+998 ADD, JOB NOT FOUND: Fire Department, Gustave J Preuss chief, 308 Hecla
+999 NAME: First National Bank Building, 301 Hecla
+1000 NAME: FIRST NATIONAL BANK OF LAURIUM THE, Wm J Reynolds Pres, Fred S Eaton VicePres, C H Rodi VicePres, Alexander Levin VicePres, J Bruce Paton Cashier, 301 Hecla, Tel 121
+1004 ADD, JOB NOT FOUND: Fisher Block, 240242 Osceola
+1017 ADD, JOB NOT FOUND: Florida School, Bridget A Mahoney prin, ne cor Quincy and Houghton
+1055 ADD, JOB NOT FOUND: Frink Henry, removed to Minneapolis, Minn
+1086 ADD, JOB LOCATION NOT FOUND: Gallassero Dominic, lab bds 221 Tamarack
+1126 ADD, JOB LOCATION NOT FOUND: Geueke Peter (Nellie), elk, res SOS Iroquois
+1137 NAME: Gilbert, see Jelbert and Jilbert
+1172 ADD, JOB NOT FOUND: Glocke Block, 313315 Hecla
+1176 NAME: Glocke Walter P C (Glocke Swetish), res 313 Hecla
+1177 ADD, JOB NOT FOUND: Glocke Swetish (Walter P C Glocke, Joseph Swetish), billiards 313315 Hecla
+1210 NAME: Gourd Bros (Thaddeus and Alcidas), meats 206 Hecla
+1218 ADD, JOB NOT FOUND: Gray Hiram, elev feeder C H M Co
+1232 NAME: Gregor Chester A (Belle) tel opr, res 139 Iroquois
+1256 ADD, JOB NOT FOUND: Grossio John B, removed to Calumet, Mich
+1278 ADD, JOB NOT FOUND: Gustafson Victor, removed to Detroit, Mich
+1299 NAME: Halley, see also Hawley
+1375 NAME: Harris, see also Herres
+1398 ADD, JOB NOT FOUND: HARVEY BOTTLING WORKS, G H Harvey Mgr, Mfrs of All Kinds of Carbonated Beverages, Specialties Harvey Brew and Solo Ginger Ale, 105 S Florida, Tel 23
+1441 NAME: Herres, see also Harris
+1477 ADD, JOB LOCATION NOT FOUND: Hoatson Elsie, elk bds 128 Iroquois
+1512 ADD, JOB NOT FOUND: HOLDEN ARTHUR J (Caroline H), Principal Laurium Commercial School, res 117 N Pewabic, Bollmans Addition, Tel 537J
+1513 NAME: HOLDEN CAROLINE H MRS, Teacher Laurium Commercial School, res 117 N Pewabic, Bollmans Addition
+1525 ADD, JOB NOT FOUND: Holmes School, ne cor Lake Linden av and Florida
+1533 NAME: Honold Henry W (J (Louisa), timberman C H M Co, res 225 Tamarack
+1545 ADD, JOB NOT FOUND: Horace Mann School, nw cor 4th and Iroquois
+1556 NAME: Houghton County Traction Co, barns nw cor 7th and Calumet
+1569 NAME, PERSON NOT FOUND: Huddleston Myrtle J nurse 218 Ahmeek, bds same
+1571 ADD, JOB NOT FOUND: HUFFMAN AMBROSE P, Propr Huffman Hotel, res same, Tel 83
+1572 ADD, JOB NOT FOUND: HUFFMAN HOTEL, A P Huffman Prop, American and European Plans, FirstClass Restaurant in Connection, Open Day and Night, cor Osceola and 3d sts, Tel 83 (See left side lines)
+1596 ADD, JOB NOT FOUND: Hustad Block, 523 Lake Linden av
+1622 ADD, JOB NOT FOUND: Irving School, sw cor Iroquois and Fulton
+1627 ADD, JOB NOT FOUND: Italian CoOperative Store, James Zubiana mgr, 209 Hecla
+1628 ADD, JOB NOT FOUND: ITALIAN MINER THE (Italian Daily), Miner Publishing Co Inc Publishers, 116 Osceola, Tel 134 (See opposite page 345)
+1629 NAME: ITALIAN MUTUAL FIRE INSURANCE CO, Vincent Vairo Pres, John B Bracco Sec, Michael Richetta Treas, 327 Hecla, Tel 526W (See right bottom lines)
+1703 NAME: Jeffery Joseph (Elizabeth) farmer, res 245 Iroquois
+1708 NAME: Jelbert, see also Jilbert and Gilbert
+1718 NAME: Jewel Tea Co, John A Langenfeld agt, 534 Tamarack
+1723 NAME: Jilbert, see also Jelbert and Gilbert
+1726 ADD, JOB NOT FOUND: Jilbert Frank H, removed to Pontiac, Mich
+1728 ADD, JOB NOT FOUND: John Duncan School, Pewabic bet 2d and 3d
+1823 ADD, JOB NOT FOUND: Juchno Adam, removed to Detroit, Mich
+1832 ADD, JOB LOCATION NOT FOUND: Juntunen Nicholas, miner, res 413^ Quincy
+1903 ADD, JOB NOT FOUND: Kelly John C (aged 36), died Mar 18, 1913
+1924 ADD, JOB NOT FOUND: Kerr Angus W, removed to Springfield, 111
+1929 ADD, JOB NOT FOUND: Kerr Robert H, cljc C H M Co
+1935 ADD, JOB NOT FOUND: Koller Ida Mrs, midwife 332A Osceola, res same
+1941 NAME: Koppelo, see also Cappello
+1959 ADD, JOB NOT FOUND: Korvonen Adolph (aged 57), died Jan 1, 1914
+1991 ADD, JOB LOCATION NOT FOUND: Kneebone Albert, lab bds 777 Lake Linden av
+1997 NAME: K O T M Hall, 336338 Hecla
+1998 ADD, JOB NOT FOUND: Knivel Frank, removed to Detroit, Mich
+2024 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kapanen Jacob, lab, bds S70y2 Wyandotte
+2039 ADD, JOB NOT FOUND: Kasper Joseph (aged 72), died June 13, 1913
+2072 ADD, JOB LOCATION NOT FOUND: Kuhn George, tmstr res 309 Kearsarge
+2133 ADD, JOB NOT FOUND: LaMere Edward (aged 57), died Sept 28, 1915
+2186 NAME: Lantz F H Co (Fred H Lantz), meats 316 Hecla
+2219 ADD, JOB LOCATION NOT FOUND: LaSage Wm A (Agatha), driver Standard Oil Co, res Ahmeek n of 1st
+2239 ADD, JOB NOT FOUND: LAURIUM COMMERCIAL SCH00L, Arthur J Holden Principal, Day and Evening Classes in Bookkeeping, Shorthand, Typewriting, Penmanship and Other Commercial Subjects, 203 Hecla, Tel 422 Office Supply Department, 201 Hecla (See top and bottom edges)
+2240 NAME: Laurium Fire Dept Headquarters, Gustav J Preuss chief, 308 Hecla
+2241 ADD, JOB NOT FOUND: Laurium Jail, 30810 Hecla
+2242 ADD, JOB NOT FOUND: Laurium Jewelry Store, Edward Marcotte mgr, 305 Hecla
+2243 ADD, JOB NOT FOUND: LAURIUM MEAT MARKET, Wm J Reynolds Propr, 341 Hecla, Tel 102
+2244 ADD, JOB NOT FOUND: Laurium Opera House, Town Hall, 306308 Hecla
+2245 ADD, JOB NOT FOUND: LAURIUM PHARMACY, John C Vivian Propr, 336 Hecla, Tel 103
+2246 ADD, JOB NOT FOUND: LAURIUM POSTOFFICE, Christopher Lowney Postmaster, 65 3d
+2247 ADD, JOB NOT FOUND: Laurium Town Hall, 306308 Hecla
+2248 ADD, JOB NOT FOUND: Laurium Water Board, Martin Prisk chairman and sec, 306 Hecla
+2284 NAME: LeClaire Lena Mrs bds 500 Pewabic
+2330 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lieblien Edwin, elk, bds 125Ahmeek
+2335 ADD, JOB NOT FOUND: Limback Peter, removed to Painesdale, Mich
+2343 ADD, JOB NOT FOUND: Link Jacob, removed to Detroit, Mich
+2371 ADD, JOB NOT FOUND: Losselyong Hall, 33638 Osceola
+2401 ADD, JOB NOT FOUND: Lundy John, removed to Houghton, Mich
+2402 ADD, JOB NOT FOUND: Lundy Wm, removed to Belle Plains, la
+2416 ADD, JOB NOT FOUND: Lustig Victor, removed to Detroit, Mich
+2428 ADD, JOB NOT FOUND: Lyric Theatre, E M Timmons mgr, 408 Hecla
+2440 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McCormick Joseph, tmstr George Labby, rms National Hotel
+2449 NAME: McDonald, see also MacDonald
+2467 NAME: McKenzie, see also MacKenzie
+2478 NAME: McLean, see also MacLean
+2490 NAME: McLOGAN PEARCE MUSIC CO (James C McLogan, Irving G Pearce), Pianos, Organs, Talking Machines and Diamond Disc Phonographs, Piano and Pipe Organ Tuning and Repairing, 337339 5th, Calumet, Tel North 234 (See front cover)
+2521 NAME: MacKenzie, see also McKenzie
+2522 NAME: MacLean, see also McLean
+2524 ADD, JOB NOT FOUND: MacLean Hugh A, removed to Detroit, Mich
+2533 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: MacLeod Kenneth, watchman C H M Co, bds Palace Hotel
+2534 ADD, JOB NOT FOUND: MacLEOD MALCOLM, Propr Pioneer Livery and Sale Stables, Moving and Hauling Contractor, 102 Lake Linden av, res same, Tel 99 (See opp page 345)
+2545 ADD, JOB NOT FOUND: MacQUEEN SIBILSKY (Donald K MacQueen, Anton W Sibilsky), Proprs Superior Pharmacy, First National Bank Bldg, Tel North 317
+2551 NAME: Maheux, see also Mayhew
+2581 ADD, JOB NOT FOUND: Makinson Harrison F, removed to Spokane, Wash
+2624 ADD, JOB NOT FOUND: Marta Block, 32123 Hecla
+2629 NAME, PERSON NOT FOUND: Marta John B L, baker, bds 323 Hecla
+2639 ADD, JOB NOT FOUND: Martin Bertha (wid Wm), res 125Ahmeek
+2641 ADD, JOB LOCATION NOT FOUND: Martin Erma, elk bds 125 1/2 Ahmeek
+2644 ADD, JOB NOT FOUND: Martin John H (aged 75), died Nov 10, 1915
+2650 ADD, JOB NOT FOUND: Martin Wm T, removed to Detroit, Mich
+2672 NAME: MINER PUBLISHING CO, INC, A C Marinelli Pres, C J Kamerchen Sec, Publishers Daily Italian Miner 116 Osceola, Tel 134 (See opposite page 345)
+2673 NAME: Mineral Range R R, E E Gibson Agt, frt depot nw cor Isle Royale and 3d
+2675 NAME: MINNEAR J A CO (J A Minnear), Brokers, Private Wire Connections, State Savings Bank Bldg, Tel Private Exchange 820 (See right top lines)
+2726 ADD, JOB NOT FOUND: Morrisette Charles, removed to Detroit, Mich
+2735 NAME: Morrison J S Estate, Charles J Morrison administrator, timber lands, State Savings Bank bldg
+2769 ADD, JOB NOT FOUND: Munro Block, 316 Hecla
+2827 ADD, JOB LOCATION NOT FOUND: Nelson Lars (Ulrica), baker, res 433Hecla
+2844 ADD, JOB NOT FOUND: NEW CENTRAL HOTEL, Wm H Richards Propr, Moderate Prices, Special Weekly Rates, 340 Osceola, Tel 267W (See right side lines)
+2846 ADD, JOB NOT FOUND: Newberg Wm, (Elsie), hlpr res 129 Osceola
+2870 ADD, JOB NOT FOUND: NIEMELA SONS (Sacris, Oscar, Charles and Rudolph), Groceries and Meats 522 Tamarack, Tel 484R
+2895 NAME: NORTHERN GARAGE CO, Harris Smith Manager, Distributors Overland Automobiles, a Full Line of Auto Supplies, Accessories, Etc, 428 Hecla, Tel 266 (See right side lines)
+2945 ADD, JOB NOT FOUND: 01son Hans (aged 33), died Apr 23, 1915
+2958 ADD, JOB NOT FOUND: ONeill Block, nw cor Osceola and 3d
+2961 NAME, PERSON NOT FOUND: ONeill Mary H M, bds 519 Red Jacket
+2967 ADD, JOB NOT FOUND: Opera House, 306308 Hecla
+2998 ADD, JOB NOT FOUND: PALACE RESTAURANT, Lawrence L Distel Propr, 402 Hecla, Tel 307J
+3002 ADD, JOB NOT FOUND: Palestra The, skating rink, Harry Herman mgr, e end of 3d
+3018 ADD, JOB NOT FOUND: Paradis Nelson, removed to Detroit, Mich
+3021 ADD, JOB NOT FOUND: Park Brewery (branch), Matt Sustarich mgr, 306 Osceola
+3052 ADD, JOB NOT FOUND: Pauli Thomas, removed to Chicago, 111
+3082 NAME: Pellow John T A (Margaret), miner C H M Co, res 546 Wyandotte
+3096 ADD, JOB NOT FOUND: Penberthy Emily J (wid Wm J), removed to Calumet, Mich
+3097 ADD, JOB NOT FOUND: Penberthy Percy, removed to Calumet, Mich
+3100 NAME: PENINSULA HEATING PLUMBING CO (Harry Hermann, Frank Distel Jr), Plumbing and Heating 401 Hecla, Tel 295
+3102 ADD, JOB NOT FOUND: Peoples Theatre, W Lyman Fisher mgr, 246 Hecla
+3135 NAME: PETERSON A C CO (Andrew C Peterson, Thomas G Walsh), Gun and Locksmiths, Electrical Repair Shop, Bicycles and Motorcycles Repaired, General Repairing and All Kinds of Machine Work Promptly Attended to, 245 Osceola, Tel 83 (See left bottom lines)
+3136 NAME, PERSON NOT FOUND: PETERSON ANDREW C (A C Peterson Co, bds Huffman Hotel
+3147 ADD, JOB NOT FOUND: Peterson Henry (aged 69), died April 6, 1915
+3148 ADD, JOB LOCATION NOT FOUND: Peterson Israel (01ga E), lab, res 425^ Quincy, Florida
+3156 NAME, PERSON NOT FOUND: Peterson Otto O A, undertaker, bds 616 Florida
+3177 NAME: Pietila Niilo S lab, bds 264 Franklin, Florida
+3187 ADD, JOB NOT FOUND: PIONEER LIVERY, Malcolm MacLeod Propr, Livery and Boarding Stable, Fashionable Turnouts, Prompt Cab Service 102 Lake Linden av, Tel 99 (See opp page 345)
+3199 ADD, JOB NOT FOUND: POLGLASE WM J, Dentist, Office Hours 9 to 12 m and 130 to 5 p m, 334 Hecla, Tel 307M res 233 Tamarack, Tel 220M
+3211 ADD, JOB NOT FOUND: POST OFFICE, Christopher Lowney Postmaster, 65 3d
+3227 NAME: Pure Mfg Co, E S White pres, grocers sundries 318 Calumet
+3263 NAME: Reed, see also Reid
+3274 NAME: Reid, see also Reed
+3331 ADD, JOB NOT FOUND: Richetta Block, 333335 Hecla
+3332 NAME: RICHETTA BROS (Michael and Mrs Victoria Richetta), Horse and Auto Livery, Undertakers and Embalmers, Blacksmith and Horseshoeing Shop in Connection 329 Hecla, Tel 185 (See right bottom lines)
+3430 ADD, JOB NOT FOUND: Rowe John (aged 42), died May 12, 1915
+3455 ADD, JOB NOT FOUND: Ruppe Block, 337339 Hecla
+3485 NAME: Ryckman Store Co The, Charles W Ryckman pres, Mrs Nettie R Reynolds vpres, Howard Ryckman sectreas, 450 Hecla
+3495 ADD, JOB LOCATION NOT FOUND: Saborowski Samuel, lab bds 114 Kearsarge
+3496 NAME: SACRED HEART PAROCHIAL SCH00L and Sacred Heart High School, Rev Basil Henze Supt, Sister M Almira Prin, Lake Linden av opp Osceola, Tel 414M
+3505 NAME: St Germain Archibald J (Katherine), painter 137 Ahmeek, res same
+3506 NAME, PERSON NOT FOUND: St Germain Archibald W, oiler, bds 137 Ahmeek
+3507 NAME: St Germain Guy F (Lucille), painter, res 229 Tamarack
+3510 NAME, PERSON NOT FOUND: St Germain Raymond F, painter, bds 137 Ahmeek
+3512 NAME: St Pauls German Evangelical Lutheran Church, Rev Albert Bartling pastor, ne cor Tamarack and 2d
+3542 ADD, JOB NOT FOUND: Sandry Rose, doni 443 Iroquois
+3560 ADD, JOB NOT FOUND: SAXBY McDonald (Charles B Saxby, Wm McDonald), Sale Stable 302 Lake Linden av (See right top lines)
+3570 ADD, JOB NOT FOUND: SCHMALZEL MICHAEL (Marie), Fine Wines, Liquors and Cigars, Imported and Domestic, 320 Hecla, Tel 107, res same
+3577 NAME: Schneller John bds 619 Lake Linden av
+3585 NAME: Schneller Co (Peter Schneller jr and Albert Asselin), grocers and meats 501 Lake Linden av
+3692 ADD, JOB NOT FOUND: Sibilsky Henry, removed to Duluth, Minn
+3706 ADD, JOB NOT FOUND: SIMPSON DAVID (Nellie), Express and Drayage, Light and Heavy Moving, Piano Moving a Specialty 335 Osceola, res same, Tel 320M (See opp page 345)
+3714 NAME: Sisters of Notre Dame, 108 Lake Linden av
+3744 ADD, JOB NOT FOUND: Smith Herbert, removed to Detroit, Mich
+3770 ADD, JOB NOT FOUND: Sorsen Adolfina (wid John aged 67), died Feb 10, 1912
+3781 ADD, JOB NOT FOUND: Spence John J, removed to Duluth, Minn
+3797 NAME: Standard Oil Co, Fred S Richards agt, 107 Iroquois
+3805 ADD, JOB NOT FOUND: STATE SAVINGS BANK, Johnson Vivian Pres, Wm H Thielman VicePres, James T Fisher Cashier, Edward P Bast Asst Cashier, State Savings Bank Bldg cor 3d and Hecla
+3806 NAME: State Savings Bank bldg, 300302 Hecla
+3835 ADD, JOB NOT FOUND: Stetter John jr, plmbr Peninsular Plumbing Heating
+3852 ADD, JOB NOT FOUND: Stolt John, removed to Detroit, Mich
+3872 ADD, JOB NOT FOUND: Stroh Adam, removed to Sault Ste Marie, Mich
+3894 ADD, JOB NOT FOUND: Suino Frank, removed to Calumet, Mich
+3928 ADD, JOB NOT FOUND: SUPERIOR PHARMACY (MacQueen Sibilsky), The Rexall Store, First Natl Bank Bldg, Tel 317
+3929 ADD, JOB NOT FOUND: Superior Brass Foundry, J Amos Macauley propr, end of 3d
+3930 NAME: SUPERIOR SPECIALTY CO, A J Holden Mgr, Farm Record Specialties, Mail Orders Given Prompt Attention, 201203 Hecla, Tel 422
+3949 ADD, JOB NOT FOUND: Swartz Mary A (wid Jacob aged 81), died July 9, 1915
+3951 NAME: Swedish Evangelical Lutheran Church, Rev Andrew E Monell pastor, 6th
+3952 ADD, JOB NOT FOUND: Swedish Mission Church, ne cor 3d and Tamarack
+3956 ADD, JOB NOT FOUND: SWYKERT JOSEPH (Anna), Groceries, Provisions, Fruits and Confectionery cor 1st and Osceola, Tel 436, res same
+3995 ADD, JOB NOT FOUND: TERRIAN PHILIP (Rosalie), General Contractor and Builder 444 Florida, res same, Tel 525W (See right side lines)
+4088 ADD, JOB LOCATION NOT FOUND: Torreano Frank, driver J A Torreano bds 63 1st
+4097 ADD, JOB LOCATION NOT FOUND: Torreano Martin, chauf bds 105 Osceola
+4106 ADD, JOB NOT FOUND: TOWN HALL, 306308 Hecla
+4143 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Trevena A Ralph, student, bds 139N Pewabic
+4159 ADD, JOB NOT FOUND: Trevillion John (aged 58), died Nov 21, 1914
+4193 ADD, JOB LOCATION NOT FOUND: Tupola Edward, lab res 317 Florida
+4194 NAME, PERSON NOT FOUND: Turnquist Edna L S, bds 233 N Pewabic
+4197 ADD, JOB NOT FOUND: Ulseth Building, 232234 Calumet
+4215 ADD, JOB NOT FOUND: VAIRO VINCENT (Julia), Pres The Italian Mutual Fire Ins Co and Contractor 108 Seneca, res same, Tel 555R
+4226 NAME: VAN ORDEN M CO THE, E H Welsing Local Mgr, Wholesale Dealers in Coal, Wood, Builders Materials and Feed, 73 3d, Tel 407 (See right top lines)
+4249 ADD, JOB NOT FOUND: VILLAGE CLERKS OFFICE, Martin Prisk Clerk, 306 Hecla
+4250 ADD, JOB NOT FOUND: Village Hall, 306308 Hecla
+4251 ADD, JOB NOT FOUND: VILLAGE PRESIDENTS OFFICE, Joseph Wills President, 306 Hecla
+4252 ADD, JOB NOT FOUND: VILLAGE TREASURERS OFFICE, John Gillies Treasurer, 306 Hecla
+4261 NAME: VIVIAN J JR CO, Johnson Vivian Propr, General Store cor Hecla and 4th, Tel 10
+4282 ADD, JOB LOCATION NOT FOUND: Wagner Peter, hlpr C H M Co bds 505 Iroquois
+4301 ADD, JOB NOT FOUND: Warbler Henry, removed to Detroit, Mich
+4302 ADD, JOB NOT FOUND: Ward Wm M Rev, removed to Romeo, Mich
+4314 ADD, JOB NOT FOUND: WATER BOARDS OFFICE, Martin Prisk Chairman and Sec, 306 Hecla
+4356 NAME: WESTERN UNION TELEGRAPH CABLE CO, John B Gherna Mgr, (Office Calumet), 116 5th, Tels 45 and 109, Automatic No 1
+4362 ADD, JOB NOT FOUND: White Elizabeth (wid Richard), removed to Detroit, Mich
+4388 NAME: Wiita Matilda Mrs res 785 Lake Linden av
+4414 ADD, JOB NOT FOUND: Williams Thomas R, removed to Milwaukee, Wis
+4419 ADD, JOB NOT FOUND: Wills Charles V, removed to Detroit, Mich
+4421 ADD, JOB NOT FOUND: WILLS JOSEPH (Addie B), President of The Village of Laurium, Office 306 Hecla
+4422 ADD, JOB NOT FOUND: Wills Richard H, removed to Port Arthur, Canada
+4423 NAME: Wills Rutherford V H (Aima), bkpr, res 414 Kearsarge
+4509 ADD, JOB NOT FOUND: Ziehr Peter A (aged 36), died Aug 18, 1915

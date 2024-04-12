@@ -1,0 +1,279 @@
+1 ADD, JOB LOCATION NOT FOUND: Adams Clarence (Lillie), laborer
+3 ADD, JOB LOCATION NOT FOUND: Alschbach Christian, lab
+4 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Alschbach Winifield, lab, bds Christian Alschbach
+5 ADD, JOB LOCATION NOT FOUND: Altenen Frederick (Selma), miner
+6 NAME: American Handle Co, D A Stratton genl mgr
+7 ADD, JOB LOCATION NOT FOUND: Anderson Adam (Sophie), lab
+8 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Anderson C Wm, lab, bds Adam Anderson
+9 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Anderson Lena E, tchr, bds Adam Anderson
+10 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Anderson Peter A, lab, bds Adam Anderson
+11 ADD, JOB NOT FOUND, PERSON NOT FOUND: Anderson Sophie, bds Adam Anderson
+14 NAME: ATLANTIC MINING CO, Branch of Copper Range Mining Co, W A Payne (Boston, Mass) Pres, Joseph Pauli Mgr, Tel 941
+15 NAME: Atlantic Mining Cos Store, Joseph Pauli mgr, general store
+16 NAME: Atlantic and Lake Superior Ry, Atlantic Mining Co proprs, Michael Messner lessee
+17 ADD, JOB NOT FOUND, PERSON NOT FOUND: Austin Edith, bds Wm Austin
+18 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Austin George D, blksmith, bds Wm Austin
+19 ADD, JOB NOT FOUND, PERSON NOT FOUND: Austin Jennie, bds Wm Austin
+20 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Austin John R, lab, bds Wm Austin
+21 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Austin Stephen H, lab Superior Mine, bds Wm Austin
+22 ADD, JOB LOCATION NOT FOUND: Austin Wm, lander
+24 ADD, JOB LOCATION NOT FOUND: Bates Joseph L (Josephine), scaler
+25 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bean Frank, lab, bds Albert Repke
+26 ADD, JOB LOCATION NOT FOUND: Beane Wm (Mary), sawyer
+27 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beattie Amanda, bds Erick Beattie
+28 ADD, JOB LOCATION NOT FOUND: Beattie Erick (Emma), miner
+29 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beattie Hulda, bds Erick Beattie
+30 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beattie Mamie, bds Erick Beattie
+31 ADD, JOB NOT FOUND, PERSON NOT FOUND: Beauchene Leo, bds Ludger Beauchene
+32 ADD, JOB LOCATION NOT FOUND: Beauchene Ludger (Clara), laborer
+33 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Beauchene Silas, miner, bds Ludger Beauchene
+34 ADD, JOB LOCATION NOT FOUND: Beck Stephen (Mary), laborer
+35 ADD, JOB LOCATION NOT FOUND: Bekkala Edward (Flora), laborer
+36 ADD, JOB LOCATION NOT FOUND: Bergdahl Axel, meatctr
+37 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bergdahl Wm, student, bds Axel Bergdahl
+40 ADD, JOB NOT FOUND, PERSON NOT FOUND: Bezotte Jerome jr, bds Atlantic Mine Hotel
+41 ADD, JOB NOT FOUND, PERSON NOT FOUND: Bezotte Maude, bds Atlantic Mine Hotel
+42 ADD, JOB NOT FOUND, PERSON NOT FOUND: Bezotte Vina, bds Atlantic Mine Hotel
+44 ADD, JOB NOT FOUND, PERSON NOT FOUND: Blaszyk John trammer, bds Stephen Blaszyk
+45 ADD, JOB LOCATION NOT FOUND: Blaszyk Stephen (Maggie), miner
+46 ADD, JOB NOT FOUND: Board of Education, A D Edwards director, F W Denton moderator, B D Noetzel treas, Michael Messner, John H Jolly trustees
+47 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bonneau Fred, lab, bds Onesime Bonneau
+48 ADD, JOB NOT FOUND, PERSON NOT FOUND: Bonneau Nelida, bds Onesime Bonneau
+49 ADD, JOB LOCATION NOT FOUND: Bonneau Onesime (Sophie), brakeman
+50 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bonneau Onesime jr, laborer, bds Onesime Bonneau
+51 ADD, JOB LOCATION NOT FOUND: Brecher G A, vicepres D A Stratton Co, res Chicago, 111
+52 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Brown Amy, tchr Atlantic Mine School, bds Mrs Mary Uren
+53 ADD, JOB LOCATION NOT FOUND: Buntunen Adam (Jane), laborer
+54 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Buntunen Anna, tchr, bds Adam Buntunen
+55 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Buntunen Charles, teamster, bds Adam Buntunen
+56 ADD, JOB NOT FOUND, PERSON NOT FOUND: Buntunen Ella, bds Adam Buntunen
+57 ADD, JOB NOT FOUND, PERSON NOT FOUND: Burdick Catherine Mrs, bds J A Rowland
+59 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burke Clemens, student, bds John Burke
+60 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burke Felix, blksmith, bds John Burke
+61 ADD, JOB NOT FOUND: Burke John (Margaret)
+62 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burke John jr, meatctr Alfred Mills, bds John Burke
+63 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burke Peter, miner Baltic Mine, bds John Burke
+65 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Burke Wm, miner, bds John Burke
+67 ADD, JOB LOCATION NOT FOUND: Chaput Edward (Josephine), engr
+68 ADD, JOB LOCATION NOT FOUND: Chaput George (Exilda), tmstr
+69 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chaput Henry, brakeman, bds George Chaput
+70 ADD, JOB NOT FOUND, PERSON NOT FOUND: Chaput Marion, bds George Chaput
+71 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chaput Patrick, student, bds George Chaput
+72 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chaput Victor, saloon, bds George Chaput
+73 ADD, JOB LOCATION NOT FOUND: Chimino John (Margaret), farmer
+74 ADD, JOB NOT FOUND, PERSON NOT FOUND: Chimino John jr, bds John Chimino
+75 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chimino Joseph, farmer, bds John Chimino
+76 ADD, JOB NOT FOUND, PERSON NOT FOUND: Chimino Martha, bds John Chimino
+77 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chimino Theresa, elk, bds John Chimino
+83 ADD, JOB NOT FOUND, PERSON NOT FOUND: Clary Margaret (wid Matthew), bds Mrs Ellen Shea
+84 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cole Albert, elk Baltic Mining Co, bds C M Cole
+85 ADD, JOB LOCATION NOT FOUND: COLE CHARLES M (Jessie), Postmaster
+87 ADD, JOB NOT FOUND, PERSON NOT FOUND: Cole Gladys M, bds C M Cole
+88 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cole Milton, mach, bds C M Cole
+89 ADD, JOB NOT FOUND, PERSON NOT FOUND: Cole Norman, bds C M Cole
+90 ADD, JOB LOCATION NOT FOUND: Colliver Stanley (Josephine), miner
+91 NAME: Copper Range R R, W S Williamson agt
+92 ADD, JOB LOCATION NOT FOUND: Cote Edward (Virginia), tmstr
+93 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cote Edward jr, lab, bds Edward Cote
+94 ADD, JOB NOT FOUND, PERSON NOT FOUND: Cote Henrietta, bds Edward Cote
+99 ADD, JOB LOCATION NOT FOUND: Erichsan Johanna (wid Henry), confr
+100 ADD, JOB NOT FOUND, PERSON NOT FOUND: Erickson Marie, bds Peter Erickson
+101 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Erickson Matthew, lab, bds Peter Erickson
+102 ADD, JOB LOCATION NOT FOUND: Erickson Peter (Anna), lab
+103 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Erickson Peter jr, lab, bds Peter Erickson
+105 NAME: Finnish Lutheran Apostolic Church
+108 ADD, JOB NOT FOUND: Fish Josephine (wid Romeo)
+109 ADD, JOB NOT FOUND: Foresters Hall
+110 ADD, JOB LOCATION NOT FOUND: Fox Ira (Grace), lab
+111 ADD, JOB LOCATION NOT FOUND: Gard Edward I (Emily), lumber inspr
+114 ADD, JOB NOT FOUND, PERSON NOT FOUND: Graika Telesphore, bds Antoine Letta
+115 ADD, JOB LOCATION NOT FOUND: Gregory James (Edith), miner
+116 ADD, JOB LOCATION NOT FOUND: Haapala John (Tina), lab
+117 ADD, JOB LOCATION NOT FOUND: Haapaniemi Nicholas (Alma), miner
+118 ADD, JOB LOCATION NOT FOUND: Hahka Herman (Hilda), miner
+121 ADD, JOB NOT FOUND: Halappa Matt (Lizzie)
+122 ADD, JOB NOT FOUND, PERSON NOT FOUND: Halvary Edla, bds Jacob Halvary
+123 ADD, JOB LOCATION NOT FOUND: Halvary Jacob (Johanna), farmer
+124 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Halvary Mayme, tchr Atlantic Mine School, bds Jacob Halvary
+125 ADD, JOB NOT FOUND, PERSON NOT FOUND: Halvary Milma, bds Jacob Halvary
+126 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Halvary Nina, student, bds Jacob Halvary
+127 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hanley John, ins agt, bds Patrick Hanley
+128 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hanley Michael, elk, bds Patrick Hanley
+129 ADD, JOB LOCATION NOT FOUND: Hanley Patrick (Ellen), saloon
+130 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hanley Patrick jr, lab, bds Patrick Hanley
+131 ADD, JOB LOCATION NOT FOUND: Harma Isaac (Helen), lab
+133 ADD, JOB LOCATION NOT FOUND: Harma John F (Hannah), miner
+134 ADD, JOB LOCATION NOT FOUND: Harma Mannes (Lydia), miner
+139 ADD, JOB NOT FOUND, PERSON NOT FOUND: Heikkinen Ida, bds Thomas Heikkinen
+140 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Heikkinen Jacob, sprinkler Isle Royale C Co, bds Thomas Heikkinen
+142 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Heikkinen John, lab, bds Thomas Heikkinen
+143 ADD, JOB LOCATION NOT FOUND: Heikkinen Louis (Margaret), miner
+144 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Heikkinen Mamie, student, bds Louis Heikkinen
+145 ADD, JOB NOT FOUND, PERSON NOT FOUND: Heikkinen Minta, bds Louis Heikkinen
+147 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Heikkinen Theodore, lab, bds Thomas Heikkinen
+148 ADD, JOB LOCATION NOT FOUND: Heikkinen Thomas (Anna), lab
+149 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Heikkinen Thomas jr, lab, bds Thomas Heikkinen
+150 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Heikkinen Waino, trammer, bds Louis Heikkinen
+152 ADD, JOB NOT FOUND: Henke Julius A (Mary), setter
+153 ADD, JOB LOCATION NOT FOUND: Herman John, lab
+154 ADD, JOB NOT FOUND, PERSON NOT FOUND: Herman Nancy, bds John Herman
+155 ADD, JOB NOT FOUND, PERSON NOT FOUND: Herman Sadie, bds John Herman
+156 ADD, JOB LOCATION NOT FOUND: Hietala Andrew (Elizabeth), lab
+157 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hiltunen Edward, miner, bds Matt Hiltunen
+158 ADD, JOB LOCATION NOT FOUND: Hiltunen John, lab
+159 ADD, JOB LOCATION NOT FOUND: Hiltunen Matt (Mary), lab
+160 ADD, JOB LOCATION NOT FOUND: Holappa Paul (Eva), lab
+161 ADD, JOB LOCATION NOT FOUND: Holmlund Jacob (01ga), undertaker
+162 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Holmlund Sakri, student, bds Jacob Holmlund
+163 ADD, JOB LOCATION NOT FOUND: Hospenthal Frank (Anna), lab
+164 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Immonen John, pipeman, bds Louis Heikkinen
+165 ADD, JOB LOCATION NOT FOUND: Immonen Victor (Elizabeth), miner
+166 ADD, JOB LOCATION NOT FOUND: Jacobs Paul S (Anna), chauffeur
+167 ADD, JOB NOT FOUND, PERSON NOT FOUND: Jacobson Ellen, bds Matthew Jacobson
+168 ADD, JOB NOT FOUND, PERSON NOT FOUND: Jacobson Elma, bds Matthew Jacobson
+169 ADD, JOB LOCATION NOT FOUND: Jacobson Frank (Mary), lab
+170 ADD, JOB LOCATION NOT FOUND: Jacobson Matthew (Amanda), miner
+171 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jacobson Wallace, miner, bds Matthew Jacobson
+172 ADD, JOB LOCATION NOT FOUND: Jalgren Emil (Hilda), sawyer
+173 ADD, JOB LOCATION NOT FOUND: Jauch Christian (Eliza), carp
+174 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jauch Conrad C, lab, bds Christian Jauch
+176 NAME: Township District No 1, res Painesdale
+177 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Johnson Aino, student, bds Isaac Johnson
+178 ADD, JOB LOCATION NOT FOUND: Johnson Emil, lab
+179 ADD, JOB LOCATION NOT FOUND: Johnson Gabriel (Anna), miner
+180 ADD, JOB LOCATION NOT FOUND: Johnson Isaac (Amanda), lab
+181 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Johnson Oscar, lab, bds Isaac Johnson
+182 ADD, JOB LOCATION NOT FOUND: Juntunen Andrew (01ga), lab
+184 ADD, JOB LOCATION NOT FOUND: Juntunen John (Hilda), miner
+186 ADD, JOB LOCATION NOT FOUND: Jurva Arthur (Anna), lab
+194 ADD, JOB NOT FOUND: Karjan Anna Mrs
+196 ADD, JOB NOT FOUND, PERSON NOT FOUND: Karppinen Paul, bds Edward Wirtanen
+197 ADD, JOB LOCATION NOT FOUND: Kaskey Charles (Kate), lab
+198 ADD, JOB LOCATION NOT FOUND: Kellogg Asa (Martha), lab
+199 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kelly Cornelius, lab, bds Patrick Hanley
+206 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Keranen Hjalmer, meatctr Alfred Mills, bds John Keranen
+207 ADD, JOB LOCATION NOT FOUND: Keranen John, meats
+208 ADD, JOB LOCATION NOT FOUND: Kertu Levi (Minnie), lab
+210 ADD, JOB NOT FOUND, PERSON NOT FOUND: Klee Esther, bds John Tate
+211 ADD, JOB NOT FOUND, PERSON NOT FOUND: Klee Margaret, bds John Tate
+213 ADD, JOB LOCATION NOT FOUND: Klemintti Uno (Emma), tailor
+216 ADD, JOB NOT FOUND: Kolaski John, billiards
+217 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kolaski John jr, lab Superior Mine, bds John Kolaski
+218 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kolaski Stephen, lab, bds John Kolaski
+219 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Korhonen Matt, hlpr John Merila, bds John Merila
+220 ADD, JOB LOCATION NOT FOUND: Koskela Bernard (Mary), lab
+221 ADD, JOB LOCATION NOT FOUND: Koskela Bernard jr, lab
+222 ADD, JOB LOCATION NOT FOUND: Koskela Peter, miner
+225 ADD, JOB NOT FOUND, PERSON NOT FOUND: Kyllonen Mahilma, bds Henry Seppanen
+226 ADD, JOB NOT FOUND: Labissonniere Delphine (wid Isaac)
+227 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Labissonniere Napoleon, sawyer, bds Mrs Delphine Labissonniere
+229 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lampinen Warner, lab, bds Wm Lampinen
+230 ADD, JOB LOCATION NOT FOUND: Lampinen Wm (Sophia), lab
+231 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lantto Matthew (Valpuri), bds Albert Tapani
+233 ADD, JOB NOT FOUND: Laru Lizzie Mrs
+234 ADD, JOB LOCATION NOT FOUND: Laurich Joseph (Josephine), lab
+235 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Leary Margaret, tchr Atlantic Mine School, bds Mrs Mary Uren
+236 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lehti Arvid, tmstr, bds Henry Lehti
+237 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lehti Fannie, bds Henry Lehti
+238 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lehti George, lab, bds Henry Lehti
+239 ADD, JOB LOCATION NOT FOUND: Lehti Henry (Eva), miner
+240 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lehti Mamie, bds Henry Lehti
+241 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lehti 01ga, student, bds Henry Lehti
+242 ADD, JOB NOT FOUND: Lehtola Elizabeth (wid Matthew)
+243 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lehtola Ellen, bds Mrs Elizabeth Lehtola
+244 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lehtola Elma, bds Mrs Elizabeth Lehtola
+246 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lesieur Arthur, sawyer, bds Mrs Delphine Labissonnier
+248 ADD, JOB NOT FOUND: Letta Antoine (Mary)
+250 ADD, JOB LOCATION NOT FOUND: Link Anna, dressmkr
+257 ADD, JOB LOCATION NOT FOUND: Lukkarila Michael (Tina), lab
+258 ADD, JOB LOCATION NOT FOUND: Lundberg Uno (Sophia), miner
+259 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lustig Lydia, bds Mrs Margaret Lustig
+260 ADD, JOB NOT FOUND: Lustig Margaret (wid Peter)
+262 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: McCarthy Jeremiah, lab, bds Patrick Hanley
+263 ADD, JOB LOCATION NOT FOUND: Mcllraith Michael (Aleda), eng
+268 ADD, JOB LOCATION NOT FOUND: Madden Henry D (Josephine), elk
+269 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Maki Amanda, bds Andrew Maki
+270 ADD, JOB LOCATION NOT FOUND: Maki Andrew (Matilda), farmer
+271 ADD, JOB LOCATION NOT FOUND: Maki Annie (wid Frank), confr
+272 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Maki Hjalmar, lab, bds Andrew Maki
+273 ADD, JOB NOT FOUND: Maki Mary (wid Jacob)
+274 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Maki Wm, lab, bds Andrew Maki
+283 ADD, JOB LOCATION NOT FOUND: Matero Eli (Bridget), miner
+284 ADD, JOB LOCATION NOT FOUND: Matero Matti (Hilma), miner
+285 ADD, JOB LOCATION NOT FOUND: Mattila Samuel (Hannah), miner
+287 ADD, JOB LOCATION NOT FOUND: Merila John (Hilma), blksmith
+288 ADD, JOB NOT FOUND, PERSON NOT FOUND: Messner Emma, bds Mark Messner
+290 ADD, JOB LOCATION NOT FOUND: Messner Jacob S, saloon
+291 ADD, JOB NOT FOUND, PERSON NOT FOUND: Messner Jacob S jr, bds J S Messner
+292 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Messner John, coachman, bds Mrs Ursula Messner
+293 ADD, JOB NOT FOUND: Messner Kathryn (wid Paul)
+294 ADD, JOB LOCATION NOT FOUND: Messner Mark, farmer
+295 ADD, JOB NOT FOUND: Messner Martin, removed to Painesdale
+298 ADD, JOB LOCATION NOT FOUND: Messner Michael (Kathryn), farmer
+300 ADD, JOB NOT FOUND, PERSON NOT FOUND: Messner Pauline, bds J S Messner
+301 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Messner Rudolph B, lab Isle Royale C Co, bds J S Messner
+302 ADD, JOB NOT FOUND: Messner Ursula (wid Martin)
+304 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Miller Lempi, student, bds Thomas Miller
+305 ADD, JOB LOCATION NOT FOUND: Miller Thomas (Mary), carp
+307 ADD, JOB NOT FOUND, PERSON NOT FOUND: Miron Eva, bds Louis Viznia
+309 ADD, JOB NOT FOUND, PERSON NOT FOUND: Moilanen Amanda, bds Seberus Moilanen
+310 ADD, JOB LOCATION NOT FOUND: Moilanen Henry (Lena), lab
+311 ADD, JOB LOCATION NOT FOUND: Moilanen Seberus (Elizabeth), miner
+312 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Moilanen Wm, lab, bds Seberus Moilanen
+313 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Monkoski Joseph, mgr Alfred Mills, bds Mrs Frances Monkoski
+314 ADD, JOB LOCATION NOT FOUND: Moore John W (Helen L), physician
+315 ADD, JOB LOCATION NOT FOUND: Morin Joseph (Alphonsine), fireman
+319 ADD, JOB NOT FOUND: Neuman Abraham (Lizzie)
+320 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Neuman Fannie, student, bds Abraham Neuman
+321 ADD, JOB NOT FOUND, PERSON NOT FOUND: Neuman Simie, bds Abraham Neuman
+323 ADD, JOB LOCATION NOT FOUND: Nichols H Lincoln (Jennie), carp
+326 ADD, JOB LOCATION NOT FOUND: Nichols Wm A (Cora), timberman
+327 ADD, JOB LOCATION NOT FOUND: Niemela Herman (Ella), miner
+329 ADD, JOB LOCATION NOT FOUND: Nikkonen George (Kate), lab
+330 ADD, JOB LOCATION NOT FOUND: Niska Erick (Kate), farmer
+331 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Niska Herbert, lab, bds Erick Niska
+332 ADD, JOB NOT FOUND, PERSON NOT FOUND: Niska Raymond, bds Erick Niska
+333 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Niska Reuben, lab Isle Royale C Co, bds Erick Niska
+335 ADD, JOB LOCATION NOT FOUND: Northy Harry, janitor
+337 ADD, JOB NOT FOUND: Paavalo Amanda (wid Charles)
+338 ADD, JOB NOT FOUND, PERSON NOT FOUND: Paavalo Mayme, bds Mrs Amanda Paavalo
+339 ADD, JOB LOCATION NOT FOUND: Paavo Isaac (Sophia), miner
+341 ADD, JOB LOCATION NOT FOUND: Partanen 01af (Mina), farmer
+346 ADD, JOB LOCATION NOT FOUND: Pelki Michael (Aina), inspr
+347 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Perala Lempi, waitress, bds Matthew Perala
+348 ADD, JOB LOCATION NOT FOUND: Perala Matthew (Mary), miner
+349 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Peranaa Frank, miner, bds Edward Wirtanen
+351 ADD, JOB NOT FOUND: Pleska Mae (wid Anthony)
+352 ADD, JOB NOT FOUND, PERSON NOT FOUND: Polglase Dora, bds James Polglase
+353 ADD, JOB LOCATION NOT FOUND: Polglase James, blksmith
+354 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Polglase Wm J, engr Baltic Mine, bds James Polglase
+358 ADD, JOB LOCATION NOT FOUND: Prittinen Nils (Juliana), livery
+359 ADD, JOB LOCATION NOT FOUND: Putman George (Catherine), miner
+362 ADD, JOB LOCATION NOT FOUND: Rapp Thomas (Ida), painter
+363 ADD, JOB LOCATION NOT FOUND: Reinso Peter (Pauline), lab
+364 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Repka Arthur, lab, bds Rudolph Repka
+365 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Repka George, student, bds Rudolph Repka
+366 ADD, JOB LOCATION NOT FOUND: Repka Rudolph (Bertha), mach
+367 ADD, JOB LOCATION NOT FOUND: Repke Albert (Louise), lab
+368 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Repke Clarence C, lab, bds Albert Repke
+369 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Richards Anna, tchr Atlantic Mine School, bds Mrs Mary Uren
+370 ADD, JOB LOCATION NOT FOUND: Richards Joseph H (Mary), blksmith
+371 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Richards Roy J, bkpr Atlantic Mine Co Store, bds J H Richards
+373 ADD, JOB LOCATION NOT FOUND: Riippa Adolf Rev, pastor Finnish Lutheran Church, res S Range
+374 ADD, JOB LOCATION NOT FOUND: Riippi Wm, lab
+379 ADD, JOB LOCATION NOT FOUND: Roller Wilson M (Margaret), filer
+381 ADD, JOB LOCATION NOT FOUND: Rova Arvid (Minnie), lab
+382 ADD, JOB LOCATION NOT FOUND: Viitanen Casper (Anna), lab
+383 ADD, JOB LOCATION NOT FOUND: Viznia Louis (Pauline), tmstr
+384 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Viznia Louis jr, elk, bds Louis Viznia
+385 ADD, JOB NOT FOUND: Warren Charles (Amy), sorter
+386 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Warren Ray, lab, bds Charles Warren
+387 NAME: Wells, Fargo Co, Express, W S Williamson agt
+389 NAME: Western Union TelegraphCable Co, W S Williamson mgr
+390 ADD, JOB LOCATION NOT FOUND: Westola Charles (Johanna), lab
+391 ADD, JOB LOCATION NOT FOUND: Wiinikainen Wilhelm (Ida), shoemkr
+392 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Williamson Wm S, agt Copper Range R R, Wells Fargo Co, Western Union TelegraphCable Co, bds Atlantic Mine Hotel
+393 ADD, JOB LOCATION NOT FOUND: Wirtanen Edward (Mary), miner
+395 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Zalorney Christian, lab, bds Joseph Zalornev
+396 ADD, JOB LOCATION NOT FOUND: Zalorney Joseph (Catherine), lander
+397 ADD, JOB LOCATION NOT FOUND: Zazaski John C (Amelia), miner

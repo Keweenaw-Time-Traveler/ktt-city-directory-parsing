@@ -1,0 +1,196 @@
+student
+maid
+tchr
+reprmn
+lecturer
+prof
+slwn
+miner
+carp
+eng hlpr
+acct
+phys
+pipemn
+pumpmn
+lander
+drymn
+meatetr
+enginemn
+mech
+timbermn
+chf surg
+wtchmn
+nurse
+janitor
+ironer
+carriage rider
+trimmermn
+candymkr
+whsemn
+hskpr
+housekpr
+cook
+cond
+ins
+elk
+lab
+asst cash
+undertkr
+justice of the peace
+dentist
+lawyer
+millwright
+resaw fdr
+tie peeler
+wldr
+sawyer
+music supvr
+sten
+chauf
+slsmn
+barber
+lndrs
+lbr inspr
+studnt
+research fellow
+plmbr
+mgr
+checker
+hlpr
+treas
+janitress
+waitress
+bldg
+asst prof
+gro
+gros
+opr
+slswn
+firemn
+flremn
+supt
+boilermkr hlpr
+soft drinks
+confr
+driver
+carrier
+ydmn
+v pres
+whol meats
+woodsmn
+tmstr
+ins and real est
+pres gen mgr
+j of p
+collr
+cigarmkr
+mach
+pastor
+sausagemkr
+blksmith
+porter
+pres
+boilermkr
+hlpr hss
+brklyr
+bkpd
+auto repr
+bkpr
+bottler
+tmstr
+yd mn
+mlnrs
+gros and meats
+gro and meats
+cash
+tailor
+sec
+butcher
+lino opr
+eng
+baker
+atndt
+formn
+kitchen wkr
+chiro
+kitchenwkr
+confrs
+mldr
+garage es
+pntr
+auto wkr
+emp
+waiter
+pntrs
+wtchmkr
+meat ctr
+tmstr
+lather
+whsmn
+woodwkr
+alteration dept
+policemn
+asst photog
+florist
+laboratory asst
+fieldmn
+office mgr
+chairmn
+trammer
+constr wkr
+mirier
+mason
+surfacemn
+mech eng
+hoist eng
+coremkr
+oiler
+inspr
+chipper
+meter reader
+groundmn
+tel opr
+asst pharm
+linemn
+dept mgr
+corjstr wkr
+frt agt
+ptrnmkr
+molder
+brkmn
+crane opr
+mach shop
+superior oiler
+metermn
+shaftmn
+asst sectreas
+masseur
+jr chief fire dept
+compressormn
+asst pastor
+superior boiler clnr
+flash carrier
+aimer emp
+engine wiper
+tkt taker
+ptmmkr
+cupolamn
+gatemn
+mlnr
+blr clnr
+red miner
+tires
+installer
+eng wiper
+pharm
+butler
+jr confr
+aimer miner
+clnr
+motor opr
+hoistmn
+jr chief fire dept
+restr
+red eng
+asst supt
+shaftsman

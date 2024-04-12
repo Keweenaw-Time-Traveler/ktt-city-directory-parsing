@@ -1,0 +1,731 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outWid, outSpouse, outJob, outWorkPlace, outT, outStSide, outStNum, outStNum(changed), outSt, outRd, outCity, outLoc, outMoved, outH/Rdo
+4,Aho,Oscar,null,null,null,Jean,lab ,Tam Reclamation Co,h,null,null,null,Linwood,null,null,null,Hubbell,null
+7,Allen,Thos,A ,null,null,Ellouse,elk,null,h,null,null,null,null,null,Tamarack City,null,null,null
+17,Arvo,Sena,null,null,wid,Jacob,null,null,h,null,null,null,null,null,Tamarack City,null,null,null
+21,Audette,Gervais,null,null,null,Isabelle,eng ,Tam Reclamation Co,h,null,null,null,null,null,Tamarack City,null,null,null
+22,Axford,Alf,null,null,null,Bessie,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tamarack City,null,null,null
+30,Badger,Fedel,null,null,null,Anna,pntr,null,h,null,null,null,null,null,Tam City,null,null,null
+31,Baiocchi,Camille,null,null,null,Lottie,reprmn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+38,Barnier,Mary,null,null,wid,Jos,null,null,h,null,null,null,null,null,Tam City,null,null,null
+39,Bahr,Geo,null,null,null,null,electn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+43, Beauchame, Louise, null, null, null, null, beauty shop, null,h, null, null, null, null, null, Tam City, null, null, null
+50,Beilman,Peter,null,jr,null,Clara,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+55,Berg,Herman,null,null,null,Martha,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+59,Bickle,Wm,null,null,null,Christina,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+75,Bohrer,Jos,null,null,null,Emily,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+77,Boire,Wilfred,null,null,null,Marie,reprmn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+78,Bonan,A,J ,null,null,null,slsmn,null,h,null,null,null,null,null,Tam City,null,null,null
+89,Brown,Florence,null,null,null,null,tchr ,Lincoln School,r,null,null,null,null,null,Lake Linden,null,null,null
+90,Brunell,Edw,null,null,null,Margt,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+91,Brunneau,Edw,null,null,null,null,firemn,null,h,null,null,null,null,null,Tam City,null,null,null
+98, Bussiere, Gladys, null, Mrs, null, null, maid  , Patk Gaffney,h, null, null, null, null, null, Tam City, null, null, null
+99,Butler,Chester,null,null,null,Augusta,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+124,Cheput,Chas,C ,null,null,Alvina,null,null,h,null,null,null,null,null,Tam City,null,null,null
+127,Christine,Louis,null,null,null,Cynthia,feeder ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+128,Clouthier,Louis,null,null,null,Mary Louise,null,null,h,null,null,null,null,null,Tam City,null,null,null
+132,Conley,Geo,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+142,Crapeau,Jos,null,null,null,Anna,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+150,Daniels,Josephine,null,null,wid,Wm,null,null,h,null,null,null,null,null,Tam City,null,null,null
+159,Davis,Thos,null,null,null,Eleanor,feeder ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+160, Decker, John, null, jr, null, Elsie, piano tuner , Tam City,h, null, null, null, null, null, Tam City, null, null, null
+164,Delcor,Anne,null,null,wid,Norbert,null,null,h,null,null,null,null,null,Tam City,null,null,null
+172,Destrempes,Philip,null,null,null,01ivine,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+182,Dostaler,Lewis,null,null,null,Anna,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+183,Dostaler,Louis,E ,null,null,Madonna,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+187,Downey,Margt,null,null,wid,Con,null,null,h,null,null,null,null,null,Tam City,null,null,null
+191,Drouin,Chas,null,null,null,Julia,pntr,null,h,null,null,null,Linwood,null,null,null,Hubbell,null
+195,Dube,David,null,null,null,Edna,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+197,Duby,Jas,null,null,null,Emma,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+200,Duchemin,Jos,null,null,null,Anna,opr ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+210,Dupres,Peter,null,null,null,Mary,runner ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+216,Edwards,Arth,null,null,null,Vina,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+229, Ewen, Nicholas, null, null, null, Mary, gro , Tam City,h, null, null, null, null, null, Tam City, null, null, null
+230,Ewen,Norbert,null,null,null,Emily,driver,null,h,null,null,null,null,null,Tam City,null,null,null
+240,Fitzpatrick,Wm,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+241,Flourre,Malvine,null,null,wid,Octer,null,null,h,null,null,null,null,null,Tam City,null,null,null
+242,Fontaine,Emil,null,null,null,Millie,feeder ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+245,Forgette,Camille,null,null,null,Anna,null,null,h,null,null,null,null,null,Tam City,null,null,null
+247,Forso,Andrew,null,null,null,01ivia,firemn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+248,Fountaine,Arth,null,null,null,Melvina,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+249,Fountaine,Geo,null,null,null,Anna,dredge hd ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+259,Fretter,Anton,null,null,null,null,firemn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+265,Fretter,Fred,null,null,null,Alina,reprmn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+270,Fretter,Matilda,null,null,wid,Peter,null,null,h,null,null,null,null,null,Tam City,null,null,null
+275,Gaffney,Patk,null,Mrs,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+280,Gagnon,Geo,null,null,null,Valena,blksmith ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+283,Gamache,Hortense,null,null,wid,01iver,null,null,h,null,null,null,null,null,Tam City,null,null,null
+292,Geen,Peter,null,null,null,Mary J,oiler ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+293,Gerbe,Wm,null,null,null,Adeline,null,null,h,null,null,null,null,null,Tam City,null,null,null
+309,Greb,Wm,null,null,null,Anna,wtchmn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+312,Guibord,Wm,null,null,null,Julia,elk,null,h,null,5030,Linwood,null,null,null,null,null,null
+315,Hagman,John,null,null,null,Selma,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+322,Hanner,Adolph,null,null,null,Eugenia,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+337,Hebert,Geo,F ,null,null,Mary Hubbell Pharmacy,null,null,r,null,null,null,null,null,Tam City,null,null,null
+346,Henricks,Gertrude,null,null,wid,Jos,null,null,h,null,null,null,null,null,Tam City,null,null,null
+349,Herbison,Harry,null,null,null,Eliz,wtchmn ,Tam Reclamation Co,h,null,5026,Co,null,null,null,null,Linwood,null
+351,Hermann,Harold,null,null,null,Madeline,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+352,Hermann,Louis,null,null,null,Mary,firemn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+355, Hesse, Martin, null, null, null, Rose, gro , Tam City,h, null, null, null, null, null, Tam City, null, null, null
+357,Hexham,Geo,null,null,null,Abbie,reprmn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+365,Hockstein,Jos,null,null,null,Mary,lab ,Tam Reclamation Co,r,null,null,null,null,null,Tam City,null,null,null
+372,Hohner,Beatrice,null,null,null,null,null,null,r,null,null,null,null,null,Michl Hohner,null,null,null
+373,Hohner,Clement,null,null,null,null,student,null,r,null,null,null,null,null,Michl Hohner,null,null,null
+374,Hohner,Michl,null,null,null,Mary,eng ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+375,Hohner,Mildred,null,null,null,null,sten,null,r,null,null,null,null,null,Michl Hohner,null,null,null
+378,Hollow,Danl,null,null,null,Margt,valvemn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+397,Jeannotte,Jos,null,null,null,Cordelia,firemn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+400,Jenks,Edgar,null,null,null,Harriet,null,null,h,null,null,null,null,null,Tam City,null,null,null
+402,Jewell,Jas,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+410,Joliciouer,Wm,null,null,null,Alma,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+412,Jollie,Wm,null,null,null,Corrine,runner ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+422,Kamula,Matt,null,null,null,Minnie,null,null,h,null,null,null,null,null,Tam City,null,null,null
+429,Kempainen,John,null,null,null,Mayme,feeder ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+434,King,Chas,null,null,null,Marion,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+436,King,Geo,E ,null,null,Marie,feeder ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+441,Kirshway,Vincent,null,null,null,Sybil,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+444,Klein,Albert,null,null,null,Mary,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+446,Klein,Edith,null,null,wid,Wm,null,null,h,null,null,null,null,null,Tam City,null,null,null
+453,Kline,Anna,null,null,wid,Chas,null,null,h,null,null,null,null,null,Tam City,null,null,null
+454,Knowles,John,null,null,null,Jennie,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+457,Kramer,Jacob,null,null,null,Agnes,reprmn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+465,LaFave,Alphonse,null,null,null,Emma,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+472, LaMire, Arth, null, null, null, Mae, gro , Tam City,h, null, null, null, null, null, Tam City, null, null, null
+479,LaMothe,Inza,null,null,null,null,null,null,r,null,null,null,null,null,Tam City,null,null,null
+480,LaMothe,Jos,null,null,null,Vitaline,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+484,LaMotte,Eug,null,null,null,Agnes,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+486,Lanctot,Arth,null,null,null,Fabiola,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+488,Lapine,Eug,null,null,null,Mary,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+497,LaSage,T,A ,null,null,Louise,firemn,null,h,null,null,null,null,null,Tam City,null,null,null
+517,Lehto,Toivo,null,null,null,Anna,null,null,h,null,null,null,null,null,Tam City,null,null,null
+540,Lewis,Jos,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+547,Lizenby,Garnet,null,null,null,Elma,electn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+549,Lizenby,Wm,null,null,null,Hazel,reprmn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+576,Mattson,Albert,null,null,null,null,lab ,Tam Reclamation Co,r,null,null,null,Constance Mattson,null,null,null,null,null
+577,Mattson,Constance,null,null,null,Sandra,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+578,Mattson,Edw,null,null,null,null,lab ,Tam Reclamation Co,r,null,null,null,Constance Mattson,null,null,null,null,null
+579,Mattson,Ethel,null,null,null,null,null,null,r,null,null,null,Constance Mattson,null,null,null,null,null
+580,Mattson,Lillian,null,null,null,null,bkpr,null,r,null,null,null,Constance Mattson,null,null,null,null,null
+582,Mattson,Wilfred,null,null,null,null,null,null,r,null,null,null,Constance Mattson,null,null,null,null,null
+588,Mayworm,Mary,null,null,wid,Jos,null,null,h,null,null,null,null,null,Tam City,null,null,null
+589,McClements,John,null,null,null,Cath,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+590,McDonald,Angus,null,null,null,McDonald Bros,null,null,r,null,null,null,null,null,Chicago Ill,null,null,null
+597,Mellon,Albert,W ,Mrs,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+604,Messner,Fred,null,null,null,null,feeder ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+605,Messner,John,null,null,null,Dora,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+606,Messner,John,null,jr,null,Helen,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+609,Michel,Goudias,null,null,null,Lucy,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+619,Monette,Modeste,null,null,null,null,feeder ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+623,Mongeau,Napoleon,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+626,Monville,Ernest,null,null,null,null,driver ,LeBlanc Bros,r,null,null,null,null,null,Tam City,null,null,null
+632,Morville,Fred,null,null,null,Selina,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+637,Nelson,Andrew,J ,null,null,Anna,formn,null,h,null,null,null,null,null,Tam City,null,null,null
+644,Nordstrom,Louis,null,null,null,Mamie,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+647,Nye,Carl,null,null,null,Cecilia,firemn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+660,Opie,Francis,E ,null,null,Lois,runner ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+668,Parent,Dolphus,null,null,null,Rose,mason ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+671,Pascoe,Wm,H ,null,null,Winifred,eng ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+677,Peltier,David,null,null,null,Ernestine,sampler ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+679,Peltier,Victor,null,null,null,Agnes,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+680,Perrault,John,null,null,null,Anna,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+683,Perreault,Delore,null,null,null,Bertha,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+689,Pete,Henry,null,null,null,null,null,null,h,null,null,null,Linwood,null,null,null,Hubbell,null
+691,Peters,Thos,null,null,null,Eliz,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+695,Picard,Alf,null,null,null,Josephine,firemn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+697,Pini,Eug,null,null,null,Amelia,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+707,Poissant,Louis,null,null,null,Cora,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+715,Poisson,Patk,null,null,null,null,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+722,Power,Kath,null,null,null,null,tchr,null,h,null,null,null,null,null,Tam City,null,null,null
+728,Provost,Henry,E ,null,null,Anna,pntr ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+729,Provost,Henry,J ,null,null,Kate,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+732,Provost,Wm,null,null,null,Evelyn,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+733,Quick,Wm,null,null,null,null,feeder ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+736,Radler,John,null,null,null,Mary,null,null,r,null,null,null,Geo Conley,null,null,null,null,null
+745,Remillard,Chester,W ,null,null,null,soft drinks,null,r,null,null,null,null,null,Lake Linden,null,null,null
+747,Remillard,Robt,H ,null,null,null,elk ,Chester W Remillard,r,null,null,null,null,null,Lake Linden,null,null,null
+760,Riopelle,Jos,null,null,null,Lottie,opr ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+764,Rivet,Ovila,null,null,null,Rosanna,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+767,Rock,Alphonse,null,null,null,Marion,runner ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+771,Rose,Adolph,null,null,null,Mary,carp ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+773,Rowe,Josiah,null,null,null,Eliz,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+777,Rowe,Richd,null,null,null,null,lab,null,r,null,null,null,null,null,Tam City,null,null,null
+782,StAmour,Peter,null,null,null,Mary,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+789,StGermain,Henry,null,null,null,Luella,runner ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+798,Satterley,Jas,null,null,null,Rosanna,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+806,Schneller,Mary,null,null,null,null,maid ,Jos Ethier,h,null,null,null,null,null,Dollar Bay,null,null,null
+836,Smith,Timothy,null,null,null,Mary,null,null,h,null,null,null,null,null,Tam City,null,null,null
+841, Spahn, Eliz, null, null, null, null, shoes , Tam City,h, null, null, null, null, null, Tam City, null, null, null
+846,Stephens,John,Henry ,null,null,Eliz,eng ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+851,Sullivan,Bridget,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+857,Sunberg,Wesley,E ,null,null,Margt,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+871,Tousignant,Fred,null,null,null,null,feeder ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+878,Trevillyan,John,null,null,null,Helen,formn,null,h,null,null,null,null,null,Tam City,null,null,null
+879,Trowbridge,Evelyn,P ,null,null,null,tchr ,Lincoln School,r,null,null,null,null,null,Houghton,null,null,null
+881,Turcotte,Raoul,null,null,null,Orzelia,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+884,Vairo,Peter,null,null,null,Adeline,reprmn ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+889,Voff,Jos,null,null,null,Eliz,null,null,h,null,null,null,null,null,Tam City,null,null,null
+890,Vollmer,Jos,null,null,null,Theresa,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+891,Vollmer,Rudolph,null,null,null,Mary,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+896,Wareham,Wm,null,null,null,Arline,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+898,Warren,Wm,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+913,Wilzius,John,null,null,null,null,null,null,r,null,null,null,Linwood,null,null,null,null,null
+917,Zietz,Matt,null,null,null,Pearl,lab,null,r,null,null,null,John Connors,null,null,null,null,null
+46,Beilman,Dorothy,null,null,null,null,student jr,null,h,null,null,null,null,null,Tam City,null,null,null
+47,Beilman,Edw,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+48,Beilman,Jos, H,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+57,Bickle,Edna,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+58,Bickle,Harold,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+74,Bohrer,Albert,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+76,Bohrer,Margt,null,null,null,null,student,null,h,null,null,null,null,null,Tam City,null,null,null
+125,Cheput,Georgiana,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+140,Coons,Walter,null,null,null,Martha,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+157,Davis,Eleanor, D,null,null,null,bkpr,null,h,null,null,null,null,null,Tam City,null,null,null
+167,Delisle,Elsed,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+171,Destrempes,Felix,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+180,Dostaler,Cecil,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+181,Dostaler,Leo,null,null,null,null,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+188,Downey,Mary,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+192,Drouin,Dorothy,null,null,null,null,null,null,h,null,null,null,Linwood,null,null,null,Hubbell,null
+193,Drouin,Eleanor,null,null,null,null,maid,null,h,null,null,null,Linwood,null,null,null,Hubbell,null
+196,Duby,Clarence,null,null,null,null,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+209,Dupres,Henry,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+246,Forgette,Henry,null,null,null,null,dredge hd ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+258,Fretter,Albert,null,null,null,null,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+260,Fretter,Anton,null,null,null,null,jr,null,h,null,null,null,null,null,Tam City,null,null,null
+261,Fretter,Edw,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+262,Fretter,Eliz,null,null,null,null,slswn ,Stern Field,h,null,null,null,null,null,Tam City,null,null,null
+263,Fretter,Emily,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+264,Fretter,Emma,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+266,Fretter,Lawrence,null,null,null,null,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+267,Fretter,Leo,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+273,Gaffney,Danl,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+281,Gagnon,Weldon,null,null,null,null,lab wkr ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+284,Gamache,Leona,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+285,Gardner,Wallace,null,null,null,Eva,null,null,h,null,null,null,null,null,Tam City,null,null,null
+307,Greb,Helen,null,null,null,Tam City,student ,null,h,null,null,null,null,null,Tam City,null,null,null
+308,Greb,May,null,null,null,Tam City,null,null,h,null,null,null,null,null,Tam City,null,null,null
+314,Hagman,Fred,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+339,Hebert,Wm,null,null,null,null,elk,null,h,null,null,null,null,null,Tam City,null,null,null
+345,Hemicks,Gertrude,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+348,Herbison,Bruce,null,null,null,null,crane opr ,Tam Reclamation Co,h,null,5026,Co,null,null,null,null,Linwood,null
+353,Hermann,Rudolph,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+356, Hesse, Martin, null, null, null, null, jr lab, null,h, null, null, null, null, null, Tam City, null, null, null
+366,Hockstein,Jos,null,null,null,null,jr lab ,Tam Reclamation Co,r,null,null,null,null,null,Tam City,null,null,null
+367,Hockstein,Monica,null,null,null,null,elk ,PO,r,null,null,null,null,null,Tam City,null,null,null
+368,Hockstein,Robt,null,null,null,null,null,null,r,null,null,null,null,null,Tam City,null,null,null
+395,Jeannotte,Arth,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+396,Jeannotte,Emil,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+398,Jeannotte,Julia,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+399,Jeannotte,Marie,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+401,Jenks,Nettie,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+411,Jollie,Raymond,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+420,Kamula,Edw,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+421,Kamula,Henry,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+437,King,Hubert,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+438,King,Nelson,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+439,King,Raymond,null,null,null,null,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+445,Klein,Clement,null,null,null,null,blrmkr ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+447,Klein,Edith, Rose,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+448,Klein,Hubert,null,null,null,null,chem ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+449,Klein,Leo,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+450,Klein,Martin,null,null,null,null,lab ,Quincy,h,null,null,null,null,null,Tam City,null,null,null
+451,Klein,Raymond,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+466,LaFave,Ethel,null,null,null,null,elk,null,h,null,null,null,null,null,Tam City,null,null,null
+475,LaMothe,David,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+478,LaMothe,Gerard,null,null,null,null,student,null,h,null,null,null,null,null,Tam City,null,null,null
+516,Lehto,Gladys,null,null,null,null,student,null,h,null,null,null,null,null,Tam City,null,null,null
+535,Lewis,Anna,null,null,null,null,nurse,null,h,null,null,null,null,null,Tam City,null,null,null
+537,Lewis,Dorothy,null,null,null,null,student,null,h,null,null,null,null,null,Tam City,null,null,null
+538,Lewis,Edw,null,null,null,null,student,null,h,null,null,null,null,null,Tam City,null,null,null
+539,Lewis,Jas,null,null,null,null,driver ,Jos Lewis jr,h,null,null,null,null,null,Tam City,null,null,null
+542,Lewis,Jos, B,null,null,null,driver ,Jos Lewis jr,h,null,null,null,null,null,Tam City,null,null,null
+543,Lewis,Lillian,null,null,null,null,student,null,h,null,null,null,null,null,Tam City,null,null,null
+586,Mayworm,Bernadine,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+587,Mayworm,Jos,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+599,Messner,Alf,null,null,null,null,lab ,Tam Reclamation Co jr,h,null,null,null,null,null,Tam City,null,null,null
+599,Messner,Alf,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+601,Messner,Clyde,null,null,null,null,student jr,null,h,null,null,null,null,null,Tam City,null,null,null
+601,Messner,Clyde,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+602,Messner,Edna,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+607,Messner,Wilbert,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+622,Mongeau,Arth,null,null,null,Alvina,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+638,Nelson,Dorothy, I,null,null,null,student,null,h,null,null,null,null,null,Tam City,null,null,null
+639,Neveau,Calix,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+640,Neveau,Jos,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+676,Peltier,Bernard,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+678,Peltier,Priscilla,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+690,Peters,Gladys,null,null,null,null,maid,null,h,null,null,null,null,null,Tam City,null,null,null
+698,Pini,Eug,null,null,null,null,jr lab,null,h,null,null,null,null,null,Tam City,null,null,null
+699,Pini,Geo,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+705,Poissant,Hubert,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+706,Poissant,Lawrence,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+708,Poissant,Mercedes,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+720,Power,Bridget,null,null,wid,John,null,null,h,null,null,null,null,null,Tam City,null,null,null
+721,Power,John,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+725,Price,Matthew,null,null,null,null,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+726,Prisk,Susan,null,null,wid,Jas,null,null,h,null,null,null,null,null,Tam City,null,null,null
+730,Provost,Marion,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+731,Provost,Walter,null,null,null,null,elk,null,h,null,null,null,null,null,Tam City,null,null,null
+759,Riopelle,Francis,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+761,Riopelle,Robt, J,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+763,Rivet,Laura,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+768,Rock,Beatrice,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+769,Rock,Ernest,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+772,Rowe,Eliz,null,null,null,null,null,null,r,null,null,null,null,null,Tam City,null,null,null
+774,Rowe,Josiah,null,null,null,null,jr lab,null,h,null,null,null,null,null,Tam City,null,null,null
+776,Rowe,Philip,null,null,null,null,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+781,StAmour,Lucile,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+783,StAmour,Winifred,null,null,null,null,tchr,null,h,null,null,null,null,null,Tam City,null,null,null
+787,StGermain,Alice,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+788,StGermain,Gertrude,null,null,null,null,student,null,h,null,null,null,null,null,Tam City,null,null,null
+797,Satterley,Arbutus,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+799,Satterley,Lloyd,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+824,Smith,Agnes,null,null,null,null,nurse,null,h,null,null,null,null,null,Tam City,null,null,null
+825,Smith,Carol,null,null,null,null,tchr,null,h,null,null,null,null,null,Tam City,null,null,null
+826,Smith,Elsie,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+829,Smith,Ida,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+847,Stephens,Ruth, Eliz,null,null,null,student,null,h,null,null,null,null,null,Tam City,null,null,null
+854,Sullivan,John,null,null,null,null,lab ,Tam Reclamation Co,h,null,null,null,null,null,Tam City,null,null,null
+858, Sunstie, Cath, null, null, wid, Seven, jr, null,h, null, null, null, null, null, Tam City, null, null, null
+870,Tousignant,Argena,null,null,null,null,null,null,h,null,null,null,null,null,Tam City,null,null,null
+897,Warner,Fred,null,null,null,null,mason,null,h,null,null,null,null,null,Tam City,null,null,null
+918,Zietz,Matthew,null,null,null,null,lab,null,h,null,null,null,null,null,Tam City,null,null,null
+1,Abramson,Abr,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+2,Aho,Andrew,null,null,null,null,dredge hd ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+3,Alio,Arth,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+5,Aho,Riehd,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+6,Ahonen,Toivo,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+8,Amoe,Albert,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+9,Amoe,Eug,null,null,null,null,electn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+10,Anderson,Peter,E ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+11,Anderson,Wm,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+12,Anttila,Jennie,null,null,null,null,elk ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+13,Anttila,Otto,null,null,null,Jennie,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+15,Armstrong,Thielman,Lumber ,null,null,null,mgr,null,null,null,null,null,null,null,null,null,null,null
+18,Aubin,Jos,H ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+19,Audett,Eustace,null,null,null,Anna,eng ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+23,Ayotte,Alphonse,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+26,Bach,John,null,null,null,Eliz,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+28,Bach,Jos,null,null,null,null,brkmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+33,Baiocchi,Natale,null,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+34,Barbeau,Leonard,null,null,null,null,elk ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+35,Barbeau,Levi,null,null,null,Mary,wtchmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+37,Baril,Henry,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+41,Beard,Josiah,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+42,Beauchamp,Homer,P ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+45,Beaudoin,Placid,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+49,Beilman,Peter,null,null,null,Margt,formn,null,null,null,null,null,null,null,null,null,null,null
+51,Benson,Arth,null,null,null,Mary,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+52,Benson,M,R ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+54,Bentfield,Cornelius,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+56,Bertolini,Amerigo,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+60,Bilgen,Eunice,null,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null
+61,Bilgen,Henry,J ,null,null,Albertine,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+70,Boatman,Chas,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+71,Boatman,Norman,null,null,null,null,elk ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+72,Bodi,Geo,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+73,Boher,Jos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+79,Bonanni,Ermalao,null,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+80,Bonen,Henry,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+81,Bonneau,Edw,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+82,Bourdeau,Jos,F ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+83,Braun,Gustave,A ,null,null,Minnie,elk ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+84,Bree,Richd,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+85,Brice,Matt,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+86,Brinkman,Anton,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+87,Brinkman,Edw,null,null,null,null,eng ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+88,Brinkman,Roy,Co ,null,null,null,blksmith ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+94,Burbank,Maurice,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+96,Burgen,A,L ,null,null,null,pres ,First Natl Bank of Hubbell,null,null,null,null,null,null,null,null,null,null
+97,Burns,Jas,null,null,null,Susie,boiler tndr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+100,Cameron,W,N ,null,null,null,wtchmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+103,Cantin,Napoleon,null,null,null,Evelyn,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+107,Cashell,John,P ,null,null,Anna,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+110,Champeaux,Alex,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+111,Chandonais,Archie,null,null,null,Henrietta,janitor ,Lincoln Sch,null,null,null,null,null,null,null,null,null,null
+114,Chapman,Everett,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+115,Chapman,Geo,null,null,null,null,runner ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+116,Chapman,Jas,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+117,Chapman,Jos,null,null,null,null,runner ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+119,Chapman,Leslie,null,null,null,null,wtchmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+120,Chapman,Wm,E ,null,null,Gertrude,lab,null,null,null,null,null,null,null,null,null,null,null
+121,Chaput,Arth,null,null,null,Mamie,lab,null,null,null,null,null,null,null,null,null,null,null
+129,Collins,Arth,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+130,Collins,Wm,H ,null,null,null,wtchmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+133,Conley,Robt,E ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+134,Conley,Wm,null,null,null,Anna,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+135,Conners,Raymond,null,null,null,Mary,driver ,Slatterys Livery,null,null,null,null,null,null,null,null,null,null
+136,Connors,John,null,null,null,Henrietta,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+138,Connors,Jos,null,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null
+141,Couvion,Wm,null,null,null,null,boiler tndr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+143,Crough,Clark,null,null,null,null,emp ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+145,Cundy,Ransom,null,null,null,Lucille,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+146,Cundy,Raymond,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+149,Dahlstrom,Albert,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+151,Darcy,Bert,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+152,Dault,Ovila,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+153,Davey,Clarence,null,null,null,null,electn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+155,Davey,Schuyler,null,null,null,Sana,dredge hd ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+156,Davidson,Jas,null,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+158,Davis,Elmer,null,null,null,null,bkpr,null,null,null,null,null,null,null,null,null,null,null
+162,DeLangis,Antonia,null,null,null,null,slswn ,Arth J DeLangis,null,null,null,null,null,null,null,null,null,null
+165,Delcourt,Albert,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+166,Delfs,Chas,V ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+168,Demers,Jos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+169,Desillier,Arth,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+170,Dessellier,Henry,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+173,Dionne,Geo,null,null,null,null,blrmkr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+175,Domonthier,Agnes,null,null,null,null,slswn ,Felix Domonthier,null,null,null,null,null,null,null,null,null,null
+176,Domonthier,Bernard,null,null,null,null,elk ,Felix Domonthier,null,null,null,null,null,null,null,null,null,null
+184,Dostaler,Philip,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+185,Doucette,Jarvis,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+186,Dower,John,H ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+189,Driscoll,Jos,null,null,null,null,runner ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+190,Dronskoski,Benj,J ,null,null,Lucy,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+194,Dube,Clarence,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+198,Duby,Willard,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+199,Ducette,Jarvis,null,null,null,Margt,lab,null,null,null,null,null,null,null,null,null,null,null
+201,Dulong,Clarence,null,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null
+202,Dulong,Eldred,null,null,null,LaNelda,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+203,Dulong,Jos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+204,Dumonthier,Felix,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+205,Dunstan,Gordon,B ,null,null,Lillie,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+206,Dunstone,H,T ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+207,Dunstone,Silas,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+208,Dunstone,Wm,null,null,null,Esther,elk ,McDonald Bros,null,null,null,null,null,null,null,null,null,null
+211,Dupuis,Elmer,null,null,null,null,eng ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+212,Dusseault,Ray,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+213,DuTemple,Octave,null,null,null,Margt,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+214,Dutemple,Ovide,null,null,null,null,blrmkr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+215,Edwards,Adrian,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+217,Edwards,Thos,null,null,null,null,wtchmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+218,Ekdahl,John,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+219,Erickson,Aug,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+220,Erickson,Elmer,null,null,null,Effie I,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+221,Estenberg,Aino,null,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+222,Estenberg,John,null,Mrs,null,null,tmstr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+223,Estenberg,Wm,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+231,Falardeau,Gideou,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+232,Faller,Eldred,null,null,null,null,brkmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+233,Faller,Robt,H ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+234,Faull,Lois,null,null,null,null,tchr ,Lincoln School r Tunnell,null,null,null,null,null,null,null,null,null,null
+235,Filip,John,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+238,Fillion,Isaac,null,null,null,Agnes,barber ,Tam City,null,null,null,null,null,null,null,null,null,null
+244,Forget,Ovila,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+250,Freiberg,Nicholas,null,null,null,Marian,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+251,Frenette,Bros,null,null,null,Danl and Leo,gro and meats ,Duncan av 4 n Ry Tracks,null,null,null,null,null,null,null,null,null,null
+271,Frost,Oscar,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+274,Gaffney,Michl,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+276,Gagnon,Arth,null,null,null,null,blksmith ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+277,Gagnon,Benj,null,null,null,Minnie,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+278,Gagnon,Clyde,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+282,Gamache,Ames,null,null,null,null,oiler ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+290,Gariepy,Arth,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+291,Gariepy,Felix,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+297,Gertz,Wm,null,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null
+298,Gertz,Wm,null,jr,null,null,student,null,null,null,null,null,null,null,null,null,null,null
+299,Gillet,Geo,null,null,null,Henrietta,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+301,Giroux,Reme,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+302,Glanville,Percy,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+303,Glanville,Preston,B ,null,null,Ina,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+304,Godin,Israel,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+305,Golden,Alex,null,null,null,Frances,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+306,Goudge,Geo,H ,null,null,Ellen,mgr ,Stern Field,null,null,null,null,null,null,null,null,null,null
+310,Gregory,Rudolph,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+311,Greif,Arth,W ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+313,Haanela,Eino,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+317,Hakkala,Edw,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+318,Hakkala,John,null,null,null,null,blrmkr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+319,Halkola,Geo,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+320,Haller,Herman,null,null,null,null,brkmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+323,Hanner,Chas,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+324,Hanner,Frank,null,jr,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+327,Hanner,Walter,J ,null,null,Mabel C,meat ctr ,John B Hodges,null,null,null,null,null,null,null,null,null,null
+328,Hanner,Wm,null,null,null,Mary,opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+329,Harbour,Henry,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+331,Harrington,John,J ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+332,Harris,Arth,null,null,null,null,runner ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+333,Harry,Jessie,null,null,null,null,tchr,null,null,null,null,null,null,null,null,null,null,null
+335,Hart,Jos,null,jr,null,Clara,lab,null,null,null,null,null,null,null,null,null,null,null
+336,Hebert,Cecil,null,null,null,null,bkpr ,Frenette Bros,null,null,null,null,null,null,null,null,null,null
+338,Hebert,Jos,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+341,Heilman,Eric,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+342,Heilman,John,O ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+343,Hendrickson,Nick,null,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+344,Hendrickson,Wm,null,null,null,null,dredge opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+347,Herbert,Edw,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+350,Herman,Alf,L ,null,null,null,valvemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+354,Hess,Eliz,null,null,null,null,hskpr,null,null,null,null,null,null,null,null,null,null,null
+358,Hietala,Arth,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+359,Hietala,Wm,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+360,Hill,Steph,null,null,null,null,carp ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+363,Hillenbrand,Wm,null,null,null,Veronica,chem ,5031 Co Linwood,null,null,null,null,null,null,null,null,null,null
+364,Hivela,Aug,null,null,null,null,blrmkr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+370,Hodges,John,B ,null,null,Minnie,gro and meats,null,null,null,null,null,null,null,null,null,null,null
+371,Hodges,Marvin,J ,null,null,Ruth,meat ctr ,John B Hodges,null,null,null,null,null,null,null,null,null,null
+376,Holley,Carlos,E ,null,null,Jessie,elec eng ,Smelter,null,null,null,null,null,null,null,null,null,null
+379,Holme,Carl,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+380,Holme,Edw,null,null,null,null,oiler ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+381,Holonen,Hugo,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+382,Hosang,Lawrence,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+383,Howard,Jas,F ,null,null,Bridget,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+384,Hubbell,Congregational,Church ,null,null,null,pastor ,Sunday services 700 p m Sunday school 10 a m Grand av,null,null,null,null,null,null,null,null,null,null
+387,Huhtelin,Paul,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+388,Jackonen,Victor,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+389,Jakela,Adolph,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+390,Jarvela,Arth,null,null,null,null,blksmith ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+391,Jarvi,Arth,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+392,Jarvi,Emil,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+393,Jarvi,John,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+394,Jarvi,Wallace,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+403,Jilbert,Chas,null,null,null,Florence,asst formn ,Smelter,null,null,null,null,null,null,null,null,null,null
+404,Johns,Lawrence,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+406,Johnson,Geo,null,null,null,null,eng ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+407,Johnson,Henry,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+409,Joliciouer,Jos,C ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+413,Judnich,Jos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+414,Juntinen,Louis,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+415,Junttila,Albert,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+416,Jutila,Waino,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+417,Kahler,Adolph,null,null,null,null,cook,null,null,null,null,null,null,null,null,null,null,null
+419,Kahler,John,A ,null,null,Eliz,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+423,Karjala,Isaac,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+425,Kaurala,Alf,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+426,Keary,Edna,null,null,null,null,maid,null,null,null,null,null,null,null,null,null,null,null
+427,Kelly,Danl,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+428,Kempainen,Aug,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+433,Kimball,Truman,null,null,null,Pearl,driver ,Frenette Bros,null,null,null,null,null,null,null,null,null,null
+435,King,Clifford,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+440,Kingston,Clyde,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+443,Klapperich,Arzalia,null,null,null,null,bkpr ,Stern Field,null,null,null,null,null,null,null,null,null,null
+452,Klein,Valentine,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+455,Koskela,Isaac,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+456,Koski,Herman,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+458,Kratt,Adolph,null,null,null,null,blrmkr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+459,Krsul,Paul,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+460,Krug,Carl,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+461,Kuttila,Toivo,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+462,Labeault,Alf,null,null,null,Emma,lab,null,null,null,null,null,null,null,null,null,null,null
+464,LaChance,Geo,null,null,null,Eva,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+469,Lahti,Alex,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+470,LaLiff,Vasil,T ,null,null,null,chemist ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+471,LaMire,Adolph,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+473,LaMitot,Inza,null,null,null,null,slswn ,Riteway Stores Inc,null,null,null,null,null,null,null,null,null,null
+474,LaMothe,Adilard,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+476,LaMothe,Delore,null,null,null,Delia M,lab ,Quincy Mining Co,null,null,null,null,null,null,null,null,null,null
+477,LaMothe,Edw,J ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+481,LaMothe,Raymond,null,null,null,null,blksmith ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+483,LaMothe,Wallace,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+485,Lampsa,John,H ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+487,Lantto,Albert,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+489,LaRose,Henry,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+490,Laroux,Alex,null,null,null,Agnes B,barber and soft drinks ,Duncan av 2 n ry tracks,null,null,null,null,null,null,null,null,null,null
+495,Larson,Chas,J ,null,null,null,blrmkr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+496,Larson,W,O ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+498,LaSalle,Wm,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+500,LaTour,Edgar,null,null,null,Lena,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+501,Learmont,Alex,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+502,Learmont,Harvey,null,null,null,Lumina,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+503,Learmont,Oliver,null,null,null,null,classifier ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+504,LeBeault,Alf,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+505,LeBlanc,Bros,null,null,null,Jos P and David E,gro and meats,null,null,null,null,null,null,null,null,null,null,null
+513,Leddy,John,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+514,LeFave,Alphonse,null,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+518,LeMere,Earl,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+519,LeMothe,Earl,null,null,null,null,driver ,Arth LeMire r Mellonsville,null,null,null,null,null,null,null,null,null,null
+520,Lenci,John,null,null,null,null,blksmith ,Tam Reclamation Co r Gregory,null,null,null,null,null,null,null,null,null,null
+522,Lenz,Henry,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+523,Lenz,John,null,null,null,Theresa,plmbr,null,null,null,null,null,null,null,null,null,null,null
+527,Leonard,Frank,null,null,null,Frances,postmstr ,Hubbell,null,null,null,null,null,null,null,null,null,null
+529,Lepine,Eug,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+530,Leppanen,John,null,null,null,Elsie,lab,null,null,null,null,null,null,null,null,null,null,null
+531,LeSage,Allen,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+534,Lewis,Allan,null,null,null,null,meat ctr ,Jos Lewis jr,null,null,null,null,null,null,null,null,null,null
+536,Lewis,Bernard,null,null,null,Agnes,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+541,Lewis,Jos,null,jr,null,Nellie,gro and meats,null,null,null,null,null,null,null,null,null,null,null
+545,Lindgren,Wayne,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+546,Link,Fred,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+548,Lizenby,Geo,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+550,Lockwood,Frank,null,null,null,Frances,lab,null,null,null,null,null,null,null,null,null,null,null
+551,Lord,Ambrose,null,null,null,null,driver ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+552,Lord,Geo,null,null,null,Ruth,dredge hd ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+553,Lord,Russell,null,null,null,Marie,lab,null,null,null,null,null,null,null,null,null,null,null
+554,Love,Geo,null,null,null,Marian,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+555,Lovell,Endicott,R ,null,null,Martha,asst supt ,Smelts,null,null,null,null,null,null,null,null,null,null
+556,Lyytikaine,Tauno,null,null,null,null,lab ,Tam Recration Co,null,null,null,null,null,null,null,null,null,null
+557,MacDonald,John,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+558,MacDougall,Alex,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+560,Mailhot,Dolph,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+566,Maki,Aug,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+567,Male,Wm,H ,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+568,Manzette,Lawrence,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+569,Marchand,Paul,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+570,Marcotte,Arth,null,null,null,Irene,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+572,Marcotte,Leo,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+575,Marcotte,Sam,null,null,null,Adelaide,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+581,Mattson,Thos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+585,Mayworm,Aug,null,null,null,null,mgr ,Armstrong Thielman Lmbr Co,null,null,null,null,null,null,null,null,null,null
+592,McGann,Clarence,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+593,McKinstry,Louis,null,null,null,Agnes,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+594,McLaughlin,Chas,null,null,null,Flora,formn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+596,McNickle,Geo,null,null,null,null,formn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+598,Merke,Chris,null,null,null,Margt,lab,null,null,null,null,null,null,null,null,null,null,null
+600,Messner,Casper,null,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null
+608,Michand,Geo,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+610,Michel,Lawrence,null,null,null,null,dredge hd ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+611,Miller,Clement,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+612,Miller,Clyde,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+613,Miller,Frank,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+614,Miller,Peter,J ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+615,Moberg,Henry,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+616,Moehrke,Chas,F ,null,null,Minnie,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+617,Moehrke,Wm,null,null,null,null,mach ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+618,Monette,Jos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+620,Monette,Napoleon,null,null,null,null,blksmith ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+624,Montambeau,Roland,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+625,Monticello,Laurence,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+627,Monville,Frank,O ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+628,Monville,Fred,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+629,Monville,Geo,R ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+630,Monville,Henry,J ,null,null,null,chemist ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+631,Morency,Dona,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+633,Mullin,John,null,null,null,null,blksmith ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+634,Myers,Jeffrey,null,null,null,Celia,eng ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+635,Narhi,Arvid,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+636,Neimark,Philip,null,null,null,Lettie,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+641,Ninnis,Jas,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+642,Noall,John,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+645,Normand,Douglas,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+646,Nye,Alf,null,null,null,Hanna,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+648,Nye,Frank,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+649,Odgers,Edw,null,null,null,Eleanor,cash,null,null,null,null,null,null,null,null,null,null,null
+650,Odgers,Eleanore,null,null,null,null,student,null,null,null,null,null,null,null,null,null,null,null
+655,Olive,Dolph,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+656,Olli,Jacob,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+657,Olson,Wm,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+661,Osiewacz,Jos,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+662,Ostenzi,Hubert,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+663,Ouellette,Alvin,null,null,null,null,classifier ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+664,Ouellette,Edw,null,null,null,null,classified ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+665,Pahjola,Danl,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+666,Paquette,Frank,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+667,Paquette,Leo,F ,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+672,Paulson,Yalmes,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+673,Pearce,Raymond,P ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+674,Pearce,Wm,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+675,Pelland,Alex,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+681,Perreault,Alf,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+685,Perreault,Henry,null,null,null,Rose,gro,null,null,null,null,null,null,null,null,null,null,null
+686,Perreault,Homer,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+692,Petlewski,Alex,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+693,Pflugi,Edw,W ,null,null,null,electn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+694,Pflugi,Leo,null,null,null,null,valvemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+696,Pine,Peter,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+700,Pitre,Henry,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+701,Plante,Emil,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+702,Pleau,Clement,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+703,Pleau,Telles,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+704,Poissant,Eldridge,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+709,Poissant,Stanislaus,null,null,null,null,blksmith ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+712,Poisson,Geo,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+713,Poisson,Geo,null,jr,null,null,driver ,John B Hodges,null,null,null,null,null,null,null,null,null,null
+716,Poisson,Wilfred,null,null,null,Veronica,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+717,Polosarri,John,null,null,null,null,emp ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+718,Polysson,Denari,null,null,null,Jane,lab,null,null,null,null,null,null,null,null,null,null,null
+719,Post,Office,Frank ,null,null,null,postmstr,null,null,null,null,null,null,null,null,null,null,null
+723,Powers,Martin,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+724,Powers,Martin,null,jr,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+727,Provost,Chas,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+734,Racine,Albert,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+735,Radichodk,John,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+737,Ranta,Wm,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+739,Reding,Benedict,J ,Mrs,null,Helen,elk ,Adelaide Reding,null,null,null,null,null,null,null,null,null,null
+742,Reding,John,N ,Mrs,null,Minnie,elk ,Adelaide Reding,null,null,null,null,null,null,null,null,null,null
+744,Reiderich,Edw,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+746,Remillard,Felix,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+748,Ressman,Clayton,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+749,Rheault,Henry,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+751,Rheaume,Eug,null,jr,null,Josephine,gro,null,null,null,null,null,null,null,null,null,null,null
+754,Richards,John,N ,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+755,Richards,Preston,null,null,null,Frances,oiler,null,null,null,null,null,null,null,null,null,null,null
+758,Rillston,Jos,null,null,null,Pearl,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+762,Riteway,Stores,Inc ,null,null,null,mgr,null,null,null,null,null,null,null,null,null,null,null
+765,Roberts,Elmer,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+766,Robinson,John,null,null,null,null,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+770,Ronkainen,John,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+775,Rowe,Percy,null,null,null,null,chemist ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+778,Roy,Jos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+779,Ruonavarra,Richd,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+780,Rydingi,Chas,null,null,null,null,carp ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+784,StCecelia,Church,Rev ,null,null,null,pastor,null,null,null,null,null,null,null,null,null,null,null
+786,StGeorge,Edw,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+791,StGermaine,Geo,J ,null,null,null,asst cash ,First Natl Bank of Hubbell r,null,null,null,null,null,null,null,null,null,null
+794,StPeter,Louis,null,null,null,Margt,janitor,null,null,null,null,null,null,null,null,null,null,null
+795,Salsini,Louis,null,null,null,Josephine,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+796,Salsini,Salvotore,null,null,null,Anita,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+802,Schenk,Paul,null,null,null,null,formn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+803,Schick,Leo,A ,null,null,null,eng ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+804,Schick,Nicholas,null,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+805,Schneller,Frank,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+808,Schnotala,Henry,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+810,Schon,Jacob,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+812,Senglaub,Frank,null,null,null,null,police ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+813,Senne,Chas,null,null,null,Pearl,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+814,Slattery,Agnes,null,null,null,null,sec treas ,Slatterys Livery,null,null,null,null,null,null,null,null,null,null
+815,Slattery,Edw,null,null,null,null,driver ,Slatterys Livery,null,null,null,null,null,null,null,null,null,null
+816,Slattery,Emmett,null,null,null,null,driver ,Slatterys Livery,null,null,null,null,null,null,null,null,null,null
+817,Slattery,Jas,null,null,null,null,driver ,Slatterys Livery,null,null,null,null,null,null,null,null,null,null
+818,Slattery,Jerry,null,null,null,Virginia,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+819,Slattery,John,null,null,null,null,driver ,Slatterys Livery,null,null,null,null,null,null,null,null,null,null
+820,Slattery,Jos,null,null,null,null,pres ,Slatterys Livery,null,null,null,null,null,null,null,null,null,null
+821,Slattery,Thos,null,null,null,Alfreda,driver ,Slatterys Livery,null,null,null,null,null,null,null,null,null,null
+822,Slattery,Wm,null,null,null,null,formn ,Slatterys Livery,null,null,null,null,null,null,null,null,null,null
+823,Slatterys,Livery,Jos ,null,null,null,pres ,Agnes Slattery sec treas coal,null,null,null,null,null,null,null,null,null,null
+828,Smith,Henry,null,null,null,Mary,lab,null,null,null,null,null,null,null,null,null,null,null
+830,Smith,John,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+832,Smith,Martin,B ,null,null,Bessie,blksmith ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+834,Smith,Stuart,J ,null,null,Mabel,opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+837,Smith,Walton,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+839,Sominsky,Frank,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+842,Spehar,Rudolph,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+843,Statuchek,John,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+844,Steele,L,C ,null,null,null,eng ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+845,Stehlin,Jos,null,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+849,Stetter,Jos,null,null,null,null,elk ,McDonald Bros,null,null,null,null,null,null,null,null,null,null
+850,Stevens,Geo,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+852,Sullivan,Danl,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+856,Sullivan,Patk,null,null,null,Julia,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+859,Sweet,Stewart,null,null,null,null,crane opr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+860,Tamarack,Mills,Methodist ,null,null,null,pastor ,Sunday services 1115 a m and 630 p m Tamarack,null,null,null,null,null,null,null,null,null,null
+868,Toniff,Ila,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+869,Torro,Otto,A ,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+872,Toyra,Henry,null,null,null,null,feeder ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+873,Toyra,Wilbert,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+874,Tresidder,Martin,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+877,Trevillyan,Alf,null,null,null,Stella,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+880,Trudell,Felix,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+882,Turnoff,Wentell,null,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null
+883,Tyvela,Danl,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+885,Vasiloff,Evan,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+886,Vincent,Chas,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+887,Viohokala,Lauri,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+888,Viokkola,Alf,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+892,Voss,Jos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+893,Walley,John,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+894,Walley,Rudolph,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+895,Waltanen,John,null,null,null,null,reprmn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+899,Waters,Harvey,null,null,null,Gladys,asst cash ,First Natl Bank of Hubbell,null,null,null,null,null,null,null,null,null,null
+900,Wearn,Thos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+901,Webb,Jos,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+902,Werner,Geo,null,null,null,null,electn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+903,Widenhoefer,Herman,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+904,Widenhoefer,Walter,null,null,null,Wilhelmina,firemn ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+905,Wiitanen,Wilmer,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+906,Wilkowski,Adam,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+909,Williams,Wm,null,null,null,null,oiler ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+910,Willmer,Albert,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+911,Wilmi,Jacob,null,null,null,null,tmstr ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+912,Wiltzius,Peter,J ,null,null,Nellie,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+915,Yates,Wm,null,null,null,null,dredge hd ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+916,Ziems,Eric,null,null,null,null,lab ,Tam Reclamation Co,null,null,null,null,null,null,null,null,null,null
+919,Zimmerman,Henry,null,null,null,null,lab,null,null,null,null,null,null,null,null,null,null,null
+920,Zimmerman,Hubert,Rev ,null,null,null,pastor ,StCecelia Church,null,null,null,null,null,null,null,null,null,null

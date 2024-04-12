@@ -1,0 +1,503 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outSpouse, outJob, outJobLocation, outT, outStreetSide, outCor, outStNum,outStName,outRelNum,outRelDirection,outOfAnd,outRelStreet,outCity,outBuilding
+1,Aho,Peter,null,null,Bertha,miner,null,res,null,null,null,5th,null,null,null,null,null,null
+3,Aimometto,Anton,null,null,Theresa,trammer,null,res,null,null,null,5th,null,null,null,null,null,null
+5,Aimometto,Peter,null,null,null,timberman,null,bds,null,null,142,3d,null,null,null,null,null,null
+6,Alatalo,Herman,null,null,Jennie,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+8,Andrews,James,H,null,Mary,driver,null,res,null,null,210,2d,null,null,null,null,null,null
+10,Andrina,Antonio,null,null,Mary,baker,null,res,null,null,null,2d,null,null,null,null,null,null
+11,Andrina,Joseph,null,null,Angelina,confr,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+12,Anjala,Wm,null,null,Hilda,miner,null,res,null,null,226,3d,null,null,null,null,null,null
+13,Arvola,Leonard,null,null,Anna,lab,null,res,null,null,243,3d,null,null,null,null,null,null
+14,Asiala,Joseph,null,null,Hannah Finnish American Bakery,null,null,res,null,null,null,3d,null,null,null,null,null,null
+15,Asiala,Joshua,null,null,Hannah,baker,null,res,null,null,null,2d,null,null,null,null,null,null
+17,Auno,Carl,null,null,Jana,miner,null,res,null,null,null,5th,null,null,null,null,null,null
+20,Balagna,Michael,null,null,Angelina,miner,null,res,null,null,142,3d,null,null,null,null,null,null
+22,BARICH,JOHN,null,null,Margaret Barich Braun,null,null,res,null,null,null,1st,null,null,null,null,null,null
+27,BARTANEN,CHARLES,A,null,M Elizabeth Bartanen Jolly,null,null,res,null,null,null,1st,null,null,null,null,null,null
+30,Basso,Louis,null,null,Nellie,dry goods,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+32,Battistom,Paul,null,null,Rosina,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+33,Bear,Peter,null,null,null,lab,null,bds,null,null,109,1st,null,null,null,null,null,null
+35,Beckman,Werner,null,null,Hilda,miner,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+37,Belyan,Frank,null,null,Catherine,bartndr ,Santori Toscana,res,null,null,null,1st,null,null,null,null,null,null
+40,Berg,Nels,null,null,Eveline,section hd,null,res,null,null,null,5th,null,null,null,null,null,null
+41,Bergman,John,E,null,Hilda,miner,null,res,null,null,234,3d,null,null,null,null,null,null
+42,Bernaldi,Flora,M,null,null,null,null,bds,null,null,133,1st,null,null,null,null,null,null
+43,Bernaldi,John,null,null,Quinta M,timberman,null,res,null,null,133,1st,null,null,null,null,null,null
+44,Bernaldi,Rose,C,null,null,null,null,bds,null,null,133,1st,null,null,null,null,null,null
+45,Bertalozzi,Tillio,null,null,Zita,pdlr,null,res,null,null,null,2d,null,null,null,null,null,null
+47,Bianchi,Abram,null,null,Maria,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+51,Birch,Thomas,J,null,null,trammer boss,null,bds,null,null,136,3d,null,null,null,null,null,null
+52,Blacher,Bessie,null,null,wid Moses L,mlnr,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+59,Bourbonais,Henry,null,null,Rose,blksmith,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+61,Branstrom,Axel,null,null,null,lab,null,bds,null,null,110,2d,null,null,null,null,null,null
+62,Branvel,Everett,null,null,Hilda,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+63,BRAUN,LOUIS,J,null,Helen C Barich Braun,null,null,res,null,null,null,1st,null,null,null,null,null,null
+65,Burman,Victor,M,null,Anna,editor,null,res,null,null,null,3d,null,null,null,null,null,null
+68,Bussio,Gitina,null,Mrs,null,null,null,res,null,null,null,2d,null,null,null,null,null,null
+69,Butkevic,Isadore,null,null,Mary,lab,null,res,null,null,129,1st,null,null,null,null,null,null
+70,Buzzo,Thomas,C,null,Birdie,shoes ,Trimountain av,res,null,null,null,null,null,null,null,null,Baltic,null
+73,Castano,Dominick,null,null,Theresa,miner,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+79,Cerutti,James,null,null,Catalina Cerutti Bros,null,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+80,Cerutti,John,null,null,Annie Cerutti Bros,null,null,res,null,null,null,1051st,null,null,null,null,null,null
+81,Cerutti,Mary,null,null,wid Antonio,null,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+89,Colombu,Julius,null,null,Mary,timberman,null,res,null,null,null,5th,null,null,null,null,null,null
+91,Cornwall,Stephen,null,null,null,trammer,null,res,null,null,119,3d,null,null,null,null,null,null
+92,Corsi,Ugo,null,null,01ga,laborer,null,res,ws,null,null,null,1,s,null,t,null,null
+93,Datto,John,M,null,Marie,laborer,null,res,null,null,null,1091st,null,null,null,null,null,null
+94,Demaria,Frank,null,null,Tracy,trammer,null,res,null,null,117,1st,null,null,null,null,null,null
+95,Dick,Wm,null,null,null,dentist,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+97,apeau,Albert,null,Dr,May,fireman,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+100,Dyer,John,null,null,Sarah,lander,null,res,null,null,null,1st,null,null,null,null,null,null
+101,Eloisick,Matt,null,null,Margaret,lab,null,res,null,null,243,2d,null,null,null,null,null,null
+102,Edwards,Adelbert,D,null,null,vicepres ,South Range Bank,res,null,null,null,null,null,null,null,null,Atlantic Mine,null
+103,Edwards,George,C,null,null,cashier ,South Range Bank,res,null,null,null,null,null,null,null,null,Houghton,null
+105,Eskola,August,null,null,null,lab,null,res,null,null,null,1st,null,null,null,null,null,null
+106,Eskola,Carlo,null,null,null,student,null,bds,null,null,143,3d,null,null,null,null,null,null
+108,Eskola,Henry,null,null,Adeline Finnish American Bakery,null,null,res,null,null,null,1st,null,null,null,null,null,null
+110,Feira,Martin,null,null,null,livery ,Trimountain av,res,null,null,null,2d,null,null,null,null,null,null
+116,Forsliin,Thomas,null,null,Elizabeth,lab,null,res,null,null,309,2d,null,null,null,null,null,null
+117,Foshey,Joseph,null,null,Dulvina,elk,null,res,null,null,null,2d,null,null,null,null,null,null
+118,Fritz,Peter,null,null,null,driver ,A Haas Brg Co,bds,null,null,109,1st,null,null,null,null,null,null
+120,Galetti,Michael,null,null,Ceaserina,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+122,Giachino,Michael,null,null,Mary A,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+123,Gioga,Charles,null,null,Tracy,lab,null,res,es,null,null,null,2,null,null,d,null,null
+127,Gitzen,Albert,J,null,Mary,lab,null,res,null,null,207,3d,null,null,null,null,null,null
+128,Givens,Charlotte,null,null,wid Wm,null,null,res,null,null,235,2d,null,null,null,null,null,null
+129,Givens,Edwin,null,null,null,lab,null,bds,null,null,235,2d,null,null,null,null,null,null
+130,Givens,George,null,null,null,engine runner,null,bds,null,null,235,2d,null,null,null,null,null,null
+131,Givens,Herbert,null,null,Ellen,fireman,null,res,null,null,239,2d,null,null,null,null,null,null
+132,Givens,Howard,null,null,null,blksmith,null,bds,null,null,235,2d,null,null,null,null,null,null
+135,Glass,Samuel,null,null,Glass Bros,null,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+141,Goodfellow,Wm,null,null,Louisa,lab,null,res,null,null,null,1st,null,null,null,null,null,null
+143,Gregurich,Tony,null,null,Rose,driver ,Wm Long,res,null,null,null,null,null,null,null,null,Trimountain av,null
+144,Grigg,Charles,null,null,null,miner,null,bds,null,null,136,3d,null,null,null,null,null,null
+147,Haapanen,Henry,null,null,Anna,billiards,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+151,Hakala,Charles,null,null,Mary,miner,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+154,Halonen,Michael,null,null,Anna,tailor,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+155,Hamalainen,Job,null,null,null,pdlr,null,res,null,null,118,3d,null,null,null,null,null,null
+157,Hanley,John,null,null,Margaret,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+158,Hannula,Hemming,null,null,null,tailor ,Michael Halonen,res,null,null,null,1st,null,null,null,null,null,null
+159,Harju,Elmer,null,null,Fannie,miner,null,res,null,null,318,2d,null,null,null,null,null,null
+160,Harju,Everett,null,null,Sophia,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+161,Harju,Sakris,null,null,Anna,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+165,Hassinen,Isaac,null,null,null,miner,null,bds,null,null,238,3d,null,null,null,null,null,null
+167,Haynes,Charles,null,null,Agnes,frt agt,null,res,null,null,null,3d,null,null,null,null,null,null
+168,Heikkila,Matti,null,null,Nannie,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+169,Heikkinen,Anna,null,null,wid Erick,null,null,res,null,null,null,5th,null,null,null,null,null,null
+172,Heikkinen,Jacob,null,null,01ia,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+173,Heikkinen,John,null,null,null,lab,null,res,null,null,null,1st,null,null,null,null,null,null
+175,Heikkinen,John,null,null,Ida,lab,null,res,null,null,null,4th,null,null,null,null,null,null
+176,Heinonen,Andrew,null,null,Helen,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+178,Hendrickson,Adolph,null,null,null,trammer,null,bds,null,null,110,2d,null,null,null,null,null,null
+179,Hendrickson,Emil,null,null,Jennie,elk ,J P Nelson,res,null,null,null,2d,null,null,null,null,null,null
+180,Hendrickson,Herman,R,null,Hannah,miner,null,res,null,null,110,2d,null,null,null,null,null,null
+183,Hendrickson,Wm,null,null,Catherine,null,null,res,ws,null,null,null,3,null,null,d nr R R tracks,null,null
+184,Henninon,Elias,null,null,Ida,lab,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+185,Hietala,Charles,H,null,Ida S,miner,null,res,null,null,127,3d,null,null,null,null,null,null
+187,Hirvela,Jacob,null,null,Marie,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+188,aninan,Enoch,null,Hon,null,trammer,null,res,es,null,null,null,3,null,null,d nr Atlantic rd,null,null
+190,Hook,Charles,null,null,Anna,plasterer,null,res,null,null,233,2d,null,null,null,null,null,null
+191,Hubbard,Lucius,L,null,null,pres ,South Range Bank,res,null,null,null,null,null,null,null,null,Houghton,null
+193,Hukkala,Gabriel,null,null,Margaret,tailor ,Michael Halonen,res,null,null,null,5th,null,null,null,null,null,null
+195,Huotari,Henry,null,null,Annie,miner,null,res,null,null,null,5th,null,null,null,null,null,null
+197,Huotari,Siljus,null,null,Effie,agent,null,res,null,null,null,4th,null,null,null,null,null,null
+199,Hurska,John,null,null,Amelia,miner,null,res,null,null,309,2d,null,null,null,null,null,null
+202,Jarvenpaa,John,null,null,Annie,pres ,M Kivi Co,res,null,null,null,3d,null,null,null,null,null,null
+204,Jarvey,August,null,null,Alma,propr ,Travelers Home,res,null,null,null,null,null,null,null,null,Baltic av,null
+207,Jarvis,Andrew,null,null,Matilda,lab,null,res,null,null,null,null,null,null,null,null,Champion,null
+209,Javello,John,null,null,Margaret,laborer,null,res,null,null,null,1st,null,null,null,null,null,null
+210,Jiacoletto,Victor,null,null,Katherine,timber boss,null,res,es,null,null,null,3,null,null,d ,null,null
+212,Johnson,Herman,null,null,Amanda,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+213,Johnson,Wm,N,null,null,barber,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+214,Jokela,Mose,null,null,Aina M,trammer,null,res,null,null,123,3d,null,null,null,null,null,null
+215,JOLLY,CARLOS,J,null,Bartanen Jolly,null,null,res,null,null,null,null,null,null,null,null,Painesdale,null
+216,Jukkala,Hjalmer,null,null,Hannah,lab,null,res,null,null,105,1st,null,null,null,null,null,null
+217,Junkkari,Matthew,null,null,Helena,shoemkr,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+219,Juntennen,Charles,null,null,null,driver ,Uitti Bros,res,null,null,null,null,null,null,null,null,Atlantic Mine,null
+220,Juntikka,Carl,null,null,Ericka,tailor,null,res,null,null,null,2d,null,null,null,null,null,null
+223,Kakkela,Hans,null,null,01ivia,miner,null,res,null,null,318,2d,null,null,null,null,null,null
+224,Kallio,Andrew,null,null,Sophie,billiards,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+225,Kallioniemi,Amelia,null,Mrs,null,null,null,res,null,null,null,2d,null,null,null,null,null,null
+226,Kallioniemi,August,null,null,Catherine,blksmith,null,res,null,null,null,4th,null,null,null,null,null,null
+227,Kamarainen,Peter,null,null,Hilma,miner,null,res,null,null,null,null,null,null,null,null,Globe av,null
+228,Kangas,Louis,null,null,Ina L Kangas Co,null,null,res,null,null,null,6th,null,null,null,null,null,null
+231,Kangas,Oscar,null,null,null,miner,null,bds,null,null,110,2d,null,null,null,null,null,null
+232,Karhula,Jacob,null,null,Eelyar,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+237,Kauppila,Herman,null,null,Josephihe,pdlr,null,res,null,null,null,1st,null,null,null,null,null,null
+238,Keihta,August,null,null,Sara,lab,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+240,Kekko,Andrew,null,null,null,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+241,Kellow,Herbert,A,null,null,asst ,Cashier South Range Bank,rms,null,null,A,M Santori,null,null,null,null,null,null
+242,Kemppainen,Andrew,null,null,Anna,lab,null,res,null,null,null,1st,null,null,null,null,null,null
+243,Keranen,Eli,null,null,Hilma C,trammer,null,res,ws,null,null,null,1,s,null,t nr railroad,null,null
+244,Kerriainen,Matt,null,null,null,lab,null,bds,null,null,110,2d,null,null,null,null,null,null
+247,Kilpela,Henry,null,null,Kreta W,livery ,Baltic av,res,null,null,139,3d,null,null,null,null,null,null
+248,Kilpela,Walfrid,S,null,null,lab,null,bds,null,null,139,3d,null,null,null,null,null,null
+250,Kirnnunen,Charles,null,null,Anna,lab,null,res,null,null,242,3d,null,null,null,null,null,null
+251,Kinnunen,Charles,P,null,Amelia,miner,null,res,null,null,null,3d,null,null,null,null,null,null
+253,Kinnunen,Oscar,null,null,Annie,carp,null,res,null,null,null,6th,null,null,null,null,null,null
+254,Kinnunen,Peter,null,null,Hannah,lab,null,res,null,null,238,3d,null,null,null,null,null,null
+255,Kinnunen,Peter,null,null,Hilda,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+256,Kivi,Matt,null,null,Aliina,sectreas and mgr ,M Kivi Co,res,null,null,null,4th,null,null,null,null,null,null
+258,Kivikangas,August,null,null,Greta,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+259,Klemetti,Uno,null,null,null,tailor ,Michael Halonen,res,null,null,null,null,null,null,null,null,Atlantic Mine,null
+260,Klindt,Henry,null,null,null,miner,null,res,null,null,null,null,null,null,null,null,Globe av,null
+262,Klobucar,John,null,null,null,driver ,Stimac Bros,res,null,null,null,null,null,null,null,null,Baltic,null
+263,Klobucher,Joseph,M,null,Frances G,driver ,Uitti Bros,res,ws,null,null,null,1,s,null,t,null,null
+269,Knodt,Margaret,null,null,wid John,null,null,res,null,null,null,4th,null,null,null,null,null,null
+270,Koburim,Tony,null,null,Mary,trammer,null,res,null,null,119,3d,null,null,null,null,null,null
+272,Koivunen,John,null,null,Jennie Riiski Koivunen,null,null,res,null,null,214,2d,null,null,null,null,null,null
+274,Kokko,Henry,null,null,Elizabeth,lab,null,res,null,null,null,2d,null,null,null,null,null,null
+275,Kokko,Matt,null,null,Hilda,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+276,Kblehmaiiien,Heminki,null,null,Anna,carp,null,res,null,null,null,1st,null,null,null,null,null,null
+277,Kortemaa,Onni,null,null,Anna,trammer,null,res,null,null,123,3d,null,null,null,null,null,null
+279,Koski,Nestor,null,null,Anna,miner,null,res,null,null,320,2d,null,null,null,null,null,null
+280,Koski,Otto,null,null,Carrie,section hd,null,res,null,null,null,6th,null,null,null,null,null,null
+281,Kostamo,Abraham,null,null,Anna,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+283,Kostamo,Matti,null,null,Ida,miner,null,res,null,null,234,3d,null,null,null,null,null,null
+284,Kouppi,Otto,null,null,Helga L Kangas Co,null,null,res,null,null,null,2d,null,null,null,null,null,null
+285,Kovala,Edward,null,null,Hilda,lab,null,res,ws,null,null,null,3,null,null,d,null,null
+286,Kovalegky,John,null,null,Mina,trammer,null,res,null,null,119,3d,null,null,null,null,null,null
+288,Kugansuu,Frank,null,null,Lampi,miner,null,res,null,null,null,null,null,null,null,null,Globe av,null
+289,Kujala,Jacob,null,null,Amelia,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+290,Kukko,Alexander,null,null,Hannah M,lab,null,res,null,null,123,3d,null,null,null,null,null,null
+291,Kuona,Daniel,null,null,Alexandria,teamster,null,res,null,null,null,2d,null,null,null,null,null,null
+292,Kuusi,Maunu,I,Rev,Martha,pastor ,Finnish Evangelical Lutheran Church of Baltic,res,null,null,null,2d,null,null,null,null,null,null
+293,Laakso,Charles,null,null,null,trammer,null,bds,null,null,114,2d,null,null,null,null,null,null
+294,Laakso,John,null,null,Aina,miner,null,res,null,null,114,2d,null,null,null,null,null,null
+295,Laakso,Nestor,null,null,Hilda,lab,null,res,null,null,null,4th,null,null,null,null,null,null
+298,Laity,Richard,null,null,Antoinette,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+299,Lakkala,Frank,null,null,null,miner,null,bds,null,null,110,2d,null,null,null,null,null,null
+300,Lambach,Andrew,null,null,null,shoemkr ,Martti Wayrynen,res,null,null,null,1st,null,null,null,null,null,null
+301,Lampi,Charles,null,null,Lena,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+302,Langdon,John,null,null,Effie,driver,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+304,Lasich,Joseph,null,null,Mary,lab,null,res,es,null,null,null,2,null,null,d nr Atlantic rd,null,null
+305,Lawry,Charlotte,H,null,wid Joseph,null,null,bds,null,null,136,3d,null,null,null,null,null,null
+306,Lehto,Hjalmar,null,null,Margaret,miner,null,res,null,null,null,6th,null,null,null,null,null,null
+307,Lehto,Matt,null,null,Marie,lab,null,res,null,null,null,5th,null,null,null,null,null,null
+308,Lehto,Matt,null,null,Impi,miner,null,res,null,null,null,3d,null,null,null,null,null,null
+313,Lemeis,Frank,null,null,Lillie,trammer,null,res,ws,null,null,null,1,s,null,t,null,null
+315,Liimatainen,Emil,L,null,Aline S,driver ,M Kivi Co,res,ws,null,null,null,3,null,null,d,null,null
+316,Likovich,Matt,null,null,Margaret,elk,null,res,null,null,null,1st,null,null,null,null,null,null
+317,Limburger,Gustaf,null,null,Annie,lab,null,res,null,null,null,1st,null,null,null,null,null,null
+318,Lohela,John,null,null,Hilma,driver ,M Kivi Co,res,null,null,null,1st,null,null,null,null,null,null
+323,Lukonich,Paul,null,null,Agnes,driver,null,res,null,null,117,3d,null,null,null,null,null,null
+325,Lumpus,Josephine,null,null,wid Emil,null,null,res,ss,null,null,Atlantic nr ,1,s,null,t,null,null
+328,Lundahl,Walter,null,null,Theresa Nikander Lundahl,null,null,res,null,null,null,4th,null,null,null,null,null,null
+330,Maacari,Frank,null,null,Annette,lab,null,res,null,null,117- 1/2,1st,null,null,null,null,null,null
+332,Magnino,Giacomo,null,null,Anna,farmer,null,res,null,null,null,1st,null,null,null,null,null,null
+334,Maki,John,null,null,Fena,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+335,Makikangas,Frank,null,null,Jane,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+336,Malko,Stephen,null,null,Catherine,miner,null,res,null,null,239,2d,null,null,null,null,null,null
+339,Malmstrom,Leevi,null,null,Elizabeth,lab,null,res,ws,null,null,null,3,null,null,d,null,null
+341,Mantyla,Henry,null,null,null,lab,null,res,null,null,241,3d,null,null,null,null,null,null
+342,Margherio,Peter,null,null,Catherine,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+344,Marjetta,Mary,null,null,wid Isaac,null,null,res,null,null,null,4th,null,null,null,null,null,null
+345,Mario,John,null,null,Thersa,baker ,South Range Bakery,res,es,null,null,null,2,null,null,d,null,null
+347,Martti,J,August,null,L Emelia,fireman,null,res,null,null,108,2d,null,null,null,null,null,null
+348,Massa,Anthony,null,null,Mary,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+350,Matero,Charles,null,null,Sophie,tailor ,Trimountain av,res,null,null,283,2d,null,null,null,null,null,null
+352,Mattson,Matt,null,null,Elizabeth,driver ,FinnishAmerican Bakery,res,null,null,240,2d,null,null,null,null,null,null
+353,May,Thomas,B,null,null,miner,null,bds,null,null,136,3d,null,null,null,null,null,null
+354,Merile,John,null,null,Mary,lab,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+359,Miglio,Joseph,null,null,null,miner,null,res,ws,null,null,null,1,s,null,t,null,null
+361,Miilu,John,null,null,Ida,saloon,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+362,Miller,Matt,null,null,Rose,driver ,Uitti Bros,res,null,null,null,4th,null,null,null,null,null,null
+363,Mitchell,Fred,H,null,Jennie,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+364,Moilanen,August,null,null,Hilda L Kangas Co,null,null,res,null,null,null,6th,null,null,null,null,null,null
+365,Monkaski,John,null,null,Mary,meat ctr ,Uitti Bros,res,null,null,222,2d,null,null,null,null,null,null
+367,Morin,Hilaire,null,null,Philomena,confr ,Trimountain av,res,es,null,null,null,2,null,null,d,null,null
+371,Mortti,Isaac,null,null,Sophie,lab,null,res,null,null,null,2d,null,null,null,null,null,null
+374,Nakkula,Senja,null,null,wid Arvid,null,null,res,null,null,3376,1st,null,null,null,null,null,null
+380,Niederist,Martin,null,null,null,miner,null,res,ws,null,null,null,1,s,null,t,null,null
+381,Niemi,Abram,null,null,Tillie,bartndr ,John Miilu,res,null,null,null,1st,null,null,null,null,null,null
+382,Nikander,Werner,null,null,Nikander Lundahl,null,null,res,null,null,null,null,null,null,null,null,Hancock,null
+384,Nikkinen,Alexander,null,null,null,trammer,null,bds,null,null,110,2d,null,null,null,null,null,null
+385,Nikkinen,Andrew,null,null,Selma,miner,null,res,null,null,230,2d,null,null,null,null,null,null
+387,Niva,Edward,J,null,Mary O,lab,null,res,ss,null,null,Atlantic av nr ,1,s,null,t,null,null
+388,Noble,Frances,null,null,null,null,null,bds,null,null,136,3d,null,null,null,null,null,null
+389,Noble,Lylie,null,null,null,null,null,bds,null,null,136,3d,null,null,null,null,null,null
+390,Noble,Wm,T,null,Annie,dray line,null,res,null,null,136,3d,null,null,null,null,null,null
+391,Noble,Wm,T,jr,null,lab,null,bds,null,null,136,3d,null,null,null,null,null,null
+392,Nurminen,Karl,null,null,Lydia,tailor,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+393,ODonnell,Giordino,null,null,Annie,miner,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+394,Oja,Charles,null,null,Elsie,miner,null,res,null,null,null,5th,null,null,null,null,null,null
+395,Ojala,Charles,null,null,Margaret,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+396,Ojala,John,null,null,Anna,lab,null,res,null,null,null,4th,null,null,null,null,null,null
+397,01gren,Albert,null,null,Mary,blksmith ,Trimountain av,res,null,null,226,2d,null,null,null,null,null,null
+398,01gren,Victor,null,null,Hilda,marshal,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+399,01konen,Sakari,null,null,Sophie,hardware ,Trimountain av,res,null,null,null,2d,null,null,null,null,null,null
+400,011ila,John,L,null,Rose,null,null,res,null,null,null,4th,null,null,null,null,null,null
+402,Osterman,George,null,null,Mary,agt ,A Haas Brg Co,res,null,null,109,1st,null,null,null,null,null,null
+403,Osterman,Katherine,null,null,wid George,null,null,bds,null,null,109,1st,null,null,null,null,null,null
+405,Ozenich,Anton,null,null,Mary,null,null,res,null,null,null,2d,null,null,null,null,null,null
+406,Ozenich,Joseph,null,null,Mary,confr and billiards,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+408,Ozenich,Paul,null,null,Mary,driver,null,res,null,null,null,2d,null,null,null,null,null,null
+409,Paali,John,null,null,null,lab,null,res,null,null,null,4th,null,null,null,null,null,null
+410,Paoli,Louis,null,null,null,grocer,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+413,Pahti,Jonas,null,null,Mary,mgr ,Star Theatre,res,null,null,null,2d,null,null,null,null,null,null
+415,Palokangas,Jacob,null,null,Mary,driver ,Finnish American Bakery,res,null,null,null,4th,null,null,null,null,null,null
+416,Palso,Otto,null,null,Deena,tailor,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+417,Paltonus,Gustav,null,null,Walborg,lab,null,res,null,null,null,1st,null,null,null,null,null,null
+418,Panian,Joseph,null,null,Kate Rosenbaum Panian,null,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+420,Panion,John,null,null,Antonia,bartndr,null,res,es,null,null,null,2,null,null,d,null,null
+421,Parolino,Elmo4,null,Mrs,null,confr,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+422,Pastora,George,null,null,Mary,cigars,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+423,Pastora,George,null,jr,Pauline,slsmn ,Wm Long,res,null,null,null,null,null,null,null,null,Trimountain av,null
+425,Pearce,Samuel,J,null,null,miner,null,bds,null,null,136,3d,null,null,null,null,null,null
+426,Pekkala,Gustav,null,null,Hilma,lab,null,res,null,null,null,4th,null,null,null,null,null,null
+427,Pekkala,Isaac,null,null,Anna,lab,null,res,es,null,null,null,3,null,null,d nr Atlantic rd,null,null
+428,Peretti,Umberto,null,null,null,miner,null,bds,null,null,142,3d,null,null,null,null,null,null
+430,Perkiamiki,John,null,null,Margaret,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+431,Pesonen,Setti,null,null,null,driver ,M Kivi Co,res,null,null,null,null,null,null,null,null,Baltic,null
+432,Peterson,Anna,null,null,wid Abram,null,null,res,null,null,null,3d,null,null,null,null,null,null
+433,Petrini,Charles,null,null,Mary,lab,null,res,es,null,null,null,2,null,null,d,null,null
+438,Pocucic,Andrew,null,null,Trapila,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+441,Prebelich,John,null,null,Mary,tmstr,null,res,ws,null,null,null,1,s,null,t,null,null
+442,Pryor,Reginald,C,null,null,agt ,South Range Tpwnsite Co,res,null,null,null,null,null,null,null,null,Houghton,null
+446,Pyykkonen,Elmer,null,null,Hannah L Kangas Co,null,null,res,null,null,null,2d,null,null,null,null,null,null
+447,Raappana,Lauri,null,null,Sarah,miner,null,res,null,null,136,3d,null,null,null,null,null,null
+450,Raffaelli,Ralph,null,null,Catherine,lab,null,res,null,null,null,null,null,null,null,null,Champion,null
+455,Renaldi,Peter,null,null,Annie,baker ,South Range Bakery,res,null,null,114,2d,null,null,null,null,null,null
+456,Renniyio,Poderino,null,null,Anna,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+457,Repo,Samuel,null,null,Marie E,lab,null,res,ws,null,null,null,3,null,null,d,null,null
+458,Retili,Hilda,R,null,null,elk,null,bds,null,null,108,3d,null,null,null,null,null,null
+459,Retili,Reta,M,null,null,null,null,bds,null,null,108,3d,null,null,null,null,null,null
+461,Ricca,Mary,null,Mrs,null,null,null,res,null,null,null,2d,null,null,null,null,null,null
+463,Riiski,Sacris,null,null,Hilda Riiski Koivunen,null,null,res,null,null,null,2d,null,null,null,null,null,null
+466,Roiko,John,null,null,Julia,miner,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+469,Romano,Peter,null,null,Mary,miner,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+472,Rosenbaum,Saul,null,null,Rosenbaum Panian,null,null,res,null,null,null,null,null,null,null,null,Calumet,null
+474,Ruikka,Arvid,null,null,Sophia,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+475,Ruikka,August,null,null,Catherine,lab,null,res,null,null,239,3d,null,null,null,null,null,null
+476,Ruikka,Hilya,null,null,null,null,null,bds,null,null,239,3d,null,null,null,null,null,null
+477,Ruikka,Wm,null,null,null,elk ,Uitti Bros,res,null,null,239,3d,null,null,null,null,null,null
+478,Saaranen,Henry,null,null,Matilda,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+481,Sam,Lee,null,null,null,laundry,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+482,Samuli,Alex,null,null,Fena,miner,null,res,null,null,241,3d,null,null,null,null,null,null
+483,Sandbank,John,H,null,Elizabeth,photogr ,Trimountain av,res,null,null,243,3d,null,null,null,null,null,null
+484,Sandbank,Lillian,null,null,null,null,null,bds,null,null,243,3d,null,null,null,null,null,null
+485,Sandbank,Minnie,null,null,null,null,null,bds,null,null,243,3d,null,null,null,null,null,null
+487,Sansue,Joseph,null,null,Mary,lab,null,res,es,null,null,null,2,null,null,d,null,null
+489,Santo,Anthony,null,null,Theresa,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+490,Santori,Amerigo,null,null,Perina Santori Toscana Santori Co,null,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+492,Santori,Oresti,null,null,Rosalia Santori Co,null,null,res,es,null,null,null,2,null,null,d nr Atlantic,null,null
+495,Sedick,James,S,null,01ive,elk ,Bartanen Jolly,res,null,null,null,null,null,null,null,null,Atlantic Mine,null
+496,Seidenfeld,Julius,null,null,Rose,clothing ,Trimountain av,res,ss,null,null,Atlantic av nr ,2,null,null,d,null,null
+500,Seppola,Sakri,null,null,Emma,carp,null,res,null,null,null,null,null,null,null,null,Champion,null
+503,Servia,John,null,null,Caroline,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+507,Shea,Michael,null,null,Julia,flagman ,C R R R,res,ws,null,null,null,3,null,null,d nr Atlantic rd,null,null
+509,Shegalski,Rudolph,null,null,null,trammer,null,bds,null,null,119,3d,null,null,null,null,null,null
+510,Sildala,Victor,null,null,Hannah,section foreman,null,res,null,null,null,3d,null,null,null,null,null,null
+511,Simonon,Emil,null,null,Matilda,bartndr ,Travellers Home,res,null,null,null,2d,null,null,null,null,null,null
+512,Sipola,Hjalmar,null,null,011ie,bkpr ,Uitti Bros,res,null,null,null,1st,null,null,null,null,null,null
+513,Sipola,John,E,null,Kate G,farmer,null,res,null,null,123,2d,null,null,null,null,null,null
+514,Sipola,J,George,null,null,baker,null,bds,null,null,123,2d,null,null,null,null,null,null
+515,Sipola,Wendla,E,null,null,null,null,bds,null,null,123,2d,null,null,null,null,null,null
+516,Sipola,Werner,E,null,null,null,null,bds,null,null,123,2d,null,null,null,null,null,null
+517,Solminen,Gust,null,null,Winnie,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+518,Solsky,James,null,null,Molsky,pdlr,null,res,es,null,null,null,3,null,null,d nr Atlantic rd,null,null
+524,Stimac,Anton,null,null,Angelina Stimac Bros,null,null,res,null,null,null,1st,null,null,null,null,null,null
+525,Stimac,Blash,null,null,Annie Stimac Bros,null,null,res,null,null,null,null,null,null,null,null,Globe av,null
+528,Stimac,Philip,null,null,Paulina Stimac Bros,null,null,res,null,null,null,null,null,null,null,null,Globe av,null
+529,Strank,Gust,null,null,Marie,miner,null,res,null,null,207,3d,null,null,null,null,null,null
+530,Styrk,Emil,null,null,Hilma,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+534,Tamberlin,Stephen,null,null,Mary,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+535,Tapani,Fred,null,null,null,lab,null,bds,null,null,320,2d,null,null,null,null,null,null
+536,Tappero,George,null,null,null,trammer,null,bds,null,null,117,1st,null,null,null,null,null,null
+537,Tarki,Wm,null,null,Sanna,carp,null,res,null,null,214,2d,null,null,null,null,null,null
+539,Tauriainen,Catherine,null,null,wid Matt,null,null,res,null,null,null,5th,null,null,null,null,null,null
+541,Taylor,John,H,null,Florence,photo,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+545,Tervo,Matt,null,null,Selma,elk,null,res,null,null,null,5th,null,null,null,null,null,null
+547,Tiimonen,Arvid,M,null,Aina M,baker ,FinnishAmerican Bakery,res,null,null,108,3d,null,null,null,null,null,null
+550,Tormala,Andrew,null,null,Minnie,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+551,Toscana,Antonio,null,null,Mary Santori Co Santori Toscana,null,null,res,null,null,null,2d,null,null,null,null,null,null
+553,Townsend,W,George,null,Mary A,lander,null,res,ws,null,null,null,1,s,null,t,null,null
+555,Trezona,Esther,null,Mrs,null,null,null,res,null,null,null,2d,null,null,null,null,null,null
+556,Tumberg,Charles,null,null,Minnie,lab,null,res,null,null,null,2d,null,null,null,null,null,null
+557,Tuomela,Charles,null,null,Hilda,vicepres ,M Kivi Co,res,null,null,null,2d,null,null,null,null,null,null
+561,Uitti,Jacob,null,null,Anna Uitti Bros,null,null,res,null,null,null,2d,null,null,null,null,null,null
+562,Uitti,Samuel,null,null,Marie Uitti JBros,null,null,res,null,null,null,2d,null,null,null,null,null,null
+564,Virtanen,Loree,null,null,FinnishAmerican Bakery,null,null,res,null,null,null,3d,null,null,null,null,null,null
+565,Vogonis,Stanley,null,null,Anna,miner,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+566,Volpi,John,null,null,null,null,null,res,null,null,null,1st,null,null,null,null,null,null
+568,Waltanen,Henry,null,null,Elizabeth,lab,null,res,null,null,null,null,null,null,null,null,Champion,null
+571,Wayrynen,Matti,null,null,Matilda,slsmn ,M Kivi Co,res,null,null,null,4th,null,null,null,null,null,null
+573,Ylitalo,John,null,null,Sophia,miner,null,res,null,null,230,3d,null,null,null,null,null,null
+574,Ylitalo,Kaija,null,Mrs,null,null,null,bds,null,null,230,3d,null,null,null,null,null,null
+576,Zana,Dominick,null,null,Mary,agent,null,res,null,null,null,1st,null,null,null,null,null,null
+577,Zanotti,Antonio,null,null,Annie,lab,null,res,ws,null,null,null,1,s,null,t,null,null
+583,Zilinsky,John,null,null,Anna,lab,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+16,Asiala,Leimo,null,null,null,baker,Finnish American Bakery,null,null,null,null,null,null,null,null,null,null,null
+19,Bahti,Eino,null,null,null,bkpr,South Range Bank,null,null,null,null,null,null,null,null,null,null,null
+36,Bellrose,John,null,null,null,barber,Wm N Johnson,null,null,null,null,null,null,null,null,null,null,null
+46,Besonen,Emil,null,null,null,driver,M Kivi Co,null,null,null,null,null,null,null,null,null,null,null
+53,Blacher,Golden,null,null,null,elk,Mrs Bessie Blacher,null,null,null,null,null,null,null,null,null,null,null
+96,Dihnen,Eda,null,null,null,dom,Walter Lundahl,null,null,null,null,null,null,null,null,null,null,null
+121,Garbolino,Pauline,null,null,null,elk,George Pastora,null,null,null,null,null,null,null,null,null,null,null
+200,Immonen,Selma,null,null,null,dom,Rev M I Kuusi,null,null,null,null,null,null,null,null,null,null,null
+211,Johnson,Alma,null,null,null,dom,Heminki Kolehmainen,null,null,null,null,null,null,null,null,null,null,null
+222,Junttila,John,null,null,null,elk,Sakari 01konen,null,null,null,null,null,null,null,null,null,null,null
+249,Kinnunen,Aino,null,null,null,hlpr,Finnish American Bakery,null,null,null,null,null,null,null,null,null,null,null
+273,Kokka,Hulda,null,null,null,hlpr,Finnish American Bakery,null,null,null,null,null,null,null,null,null,null,null
+278,Koski,Emil,null,null,null,lab,hd 320 2d,null,null,null,null,null,null,null,null,null,null,null
+321,Luechesse,Adorno,null,null,null,driver,Cesare Luechesse,null,null,null,null,null,null,null,null,null,null,null
+331,Maggi,Charles,null,null,null,dr,bartn John Miilu,null,null,null,null,null,null,null,null,null,null,null
+357,Mets,Eva,null,null,null,dom,Heminki Kolehnainen,null,null,null,null,null,null,null,null,null,null,null
+368,Morin,Mary,null,null,null,elk,Hilaire Morin,null,null,null,null,null,null,null,null,null,null,null
+437,Piira,John,null,null,null,jeweler,Abraham Piira,null,null,null,null,null,null,null,null,null,null,null
+443,Puranen,Ellen,null,null,null,dom,Otto Kauppi,null,null,null,null,null,null,null,null,null,null,null
+444,Pyykkonen,Anna,null,null,null,dom,Mrs Mary Keskitala,null,null,null,null,null,null,null,null,null,null,null
+454,Rautio,Sophie,null,null,null,dom,C A Bartanen,null,null,null,null,null,null,null,null,null,null,null
+462,Riddell,Hilda,null,null,null,hlpr,Finnish American Bakery,null,null,null,null,null,null,null,null,null,null,null
+464,Riiski,Koivunen,null,null,Sacris Riiski, John Koivunen,lumber,Champion av,null,null,null,null,null,null,null,null,null,null,null
+465,Rinkinen,Ida,null,null,null,dr,dom Anew Heinonen,null,null,null,null,null,null,null,null,null,null,null
+498,Seppola,George,null,null,null,baker,Finnish American Bakery,null,null,null,null,null,null,null,null,null,null,null
+548,Tikkanen,011i,null,null,Aina,lab,r s 6th,null,null,null,null,null,null,null,null,null,null,null
+2,Ahola,Matti,null,null,null,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+4,Aimometto,Edith,null,null,null,null,null,res,null,null,null,5th,null,null,null,null,null,null
+7,Andalin,Matt,null,null,null,tailor,null,res,ss,null,null,Atlantic av nr ,1,s,null,t,null,null
+9,Andrews,Joseph,H,null,null,null,null,res,null,null,210,2d,null,null,null,null,null,null
+18,Avikainen,Albin,null,null,null,lab,null,res,null,null,null,1st,null,null,null,null,null,null
+29,Basso,Joseph,null,null,null,elk,South Range Bank,res,null,null,null,null,null,null,null,null,Trimountain av,null
+31,Basso,Margaret,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+34,Beckman,Ebba,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+38,Berg,Eliza,null,null,null,null,null,res,null,null,null,5th,null,null,null,null,null,null
+39,Berg,John,null,null,null,lab,null,res,null,null,null,5th,null,null,null,null,null,null
+48,Bianchi,Paul,null,null,null,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+49,Bianchi,Stuart,null,null,null,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+50,Bianchi,Vieri,null,null,null,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+54,Blacher,Samuel,null,null,null,student,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+55,Boggio,Dominick,null,null,null,timberman,null,res,null,null,null,2d,null,null,null,null,null,null
+57,Bolanen,Frank,null,null,null,miner,null,res,null,null,238,3d,null,null,null,null,null,null
+58,Bolatto,Joseph,null,null,null,trammer,null,res,null,null,null,2d,null,null,null,null,null,null
+64,Burman,Alma,null,null,null,null,null,res,null,null,null,3d,null,null,null,null,null,null
+66,Bussio,Antonio,null,null,null,lab,null,res,null,null,null,2d,null,null,null,null,null,null
+67,Bussio,Giacoma,null,null,null,lab,null,res,null,null,null,2d,null,null,null,null,null,null
+71,Carlson,Charles,null,null,null,null,null,res,null,null,238,3d,null,null,null,null,null,null
+72,Carter,Blanche,null,null,null,null,null,res,null,null,null,2d,null,null,null,null,null,null
+75,Cerutti,Anton,null,null,null,dr,bartn Travellers Home,res,null,null,null,null,null,null,null,null,Baltic av,null
+76,Cerutti,Antonio,null,null,Cerutti Bros,null,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+78,Cerutti,George,null,null,Cerutti Bros,null,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+82,Chaput,Dennis,null,null,null,meat ctr,Stimac Bros,res,null,null,null,1st,null,null,null,null,null,null
+85,Cinetti,James,null,null,null,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+98,Dyer,Arthur,null,null,null,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+99,Dyer,Gertrude,null,null,null,null,null,res,null,null,null,1st,null,null,null,null,null,null
+111,Finn,Lena,null,null,null,null,null,res,null,null,null,5th,null,null,null,null,null,null
+119,Galetti,Joseph,null,null,null,lab,null,res,null,null,null,2d,null,null,null,null,null,null
+124,Giovanine,Charles,null,null,null,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+125,Giovanine,Frank,null,null,null,lab,null,res,null,null,null,2d,null,null,null,null,null,null
+126,Giovanine,John,null,null,null,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+138,Goodfellow,Elizabeth,E,null,null,null,null,res,null,null,null,1st,null,null,null,null,null,null
+139,Goodfellow,James,A,null,Goodfellow Bros,null,null,res,null,null,null,1st,null,null,null,null,null,null
+140,Goodfellow,Sidney,M,null,Goodfellow Bros,null,null,res,null,null,null,1st,null,null,null,null,null,null
+145,Haapanen,Eva,null,null,null,student,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+146,Haapanen,Frank,null,null,null,student,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+148,Haapanen,Norman,null,null,null,elk,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+149,Haapanen,Walter,null,null,null,student,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+152,Hall,Edward,null,null,null,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+153,Halmetoja,Wm,null,null,null,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+162,Harju,Matt,null,null,null,slsmn,Uitti Bros,res,null,null,null,3d,null,null,null,null,null,null
+163,Harju,Walter,null,null,null,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+164,Harkinen,Frank,null,null,null,miner,null,res,null,null,238,3d,null,null,null,null,null,null
+170,Heikkinen,Edward,null,null,null,lab,null,res,ws,null,null,null,1,s,null,t nr railroad,null,null
+174,Heikkinen,John,null,null,null,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+177,Hemming,John,null,null,null,carp,Riiski Koivunen,res,null,null,214,2d,null,null,null,null,null,null
+181,Hendrickson,Hilia,J,null,null,elk,null,res,ws,null,null,null,3,null,null,d nr R R tracks,null,null
+182,Hendrickson,Martin,W,null,null,student,null,res,ws,null,null,null,3,null,null,d nr R R tracks,null,null
+192,Huddy,Edward,null,null,null,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+194,Hukkala,Russell,null,null,null,elk,null,res,null,null,null,5th,null,null,null,null,null,null
+196,Huotari,Hjalmar,null,null,null,null,null,res,null,null,null,4th,null,null,null,null,null,null
+198,Huovinen,Paavola,null,null,null,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+201,Jarvenpaa,Ida,null,null,null,null,null,res,null,null,null,3d,null,null,null,null,null,null
+203,Jarvenpaa,Marie,null,null,null,null,null,res,null,null,null,3d,null,null,null,null,null,null
+205,Jarvey,Lottie,null,null,null,tchr,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+208,Javelli,Joseph,null,null,null,trammer,null,res,null,null,null,2d,null,null,null,null,null,null
+218,Junninen,Andrew,null,null,null,miner,null,res,null,null,238,3d,null,null,null,null,null,null
+221,Juntinnen,Andrew,null,null,null,miner,null,res,null,null,null,4th,null,null,null,null,null,null
+235,Karvakko,August,null,null,null,bkpr,M Kivi Co,res,ss,null,null,Atlantic nr ,1,s,null,t,null,null
+236,Kauppila,Helmi,null,null,null,null,null,res,null,null,null,1st,null,null,null,null,null,null
+239,Keihta,Hannes,null,null,null,student,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+246,Kilipps,Frank,null,null,null,trammer,null,res,ws,null,null,null,1,s,null,t,null,null
+252,Kinnunen,Johanna,null,null,null,null,null,res,null,null,null,6th,null,null,null,null,null,null
+261,Klindt,Sima,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Globe av,null
+265,Knechtlin,Anton,null,null,null,bkpr,null,res,null,null,null,1st,null,null,null,null,null,null
+266,Knodt,Elmer,null,null,null,meat ctr,null,res,null,null,null,4th,null,null,null,null,null,null
+268,Knodt,Florence,null,null,null,null,null,res,null,null,null,4th,null,null,null,null,null,null
+282,Kostamo,Hilma,null,null,null,null,null,res,null,null,null,1st,null,null,null,null,null,null
+287,Krail,Charles,null,null,null,miner,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+296,Laazo,Uno,null,null,null,elk,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+297,Lahikainen,Albin,null,null,null,slsmn,M Kivi Co,res,ss,null,null,Atlantic nr ,1,s,null,t,null,null
+303,Lantto,Eino,null,null,null,driver,Uitti Bros,res,ws,null,null,null,3,null,null,d,null,null
+310,Leinonen,John,null,null,null,lab,null,res,null,null,null,2d,null,null,null,null,null,null
+311,Leinonen,John,null,null,null,lab,null,res,ss,null,null,Atlantic nr ,1,s,null,t,null,null
+312,Leinonen,Joseph,null,null,null,lab,null,res,ss,null,null,Atlantic nr ,1,s,null,t,null,null
+314,Leppinen,Henry,null,null,null,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+319,Long,Wm,null,null,null,brewer,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+320,Lovrine,Joseph,null,null,null,opr,film  Star Theatre,res,null,null,null,1st,null,null,null,null,null,null
+324,Lumpus,Impi,null,null,null,elk,M Kivi Co,res,ss,null,null,Atlantic nr ,1,s,null,t,null,null
+326,Lumpus,Lempi,J,null,null,elk,FinnishAmerican Bakery,res,ss,null,null,Atlantic nr ,1,s,null,t,null,null
+327,Lumpus,Mary,F,null,null,elk,M Kivi Co,res,ss,null,null,Atlantic nr ,1,s,null,t,null,null
+333,Maki,Edward,null,null,null,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+337,Malmstrom,A,Arthur,null,null,lab,null,res,ws,null,null,null,3,null,null,d,null,null
+338,Malmstrom,John,E,null,null,driver,Uitti Bros,res,ws,null,null,null,3,null,null,d,null,null
+340,Malmstrom,Milma,null,null,null,student,null,res,ws,null,null,null,3,null,null,d,null,null
+343,Marjetta,Hjalmar,null,null,null,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+349,Massimo,Paglia,null,null,null,miner,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+351,Matta,John,null,null,null,baker,South Range Bakery,res,null,null,null,null,null,null,null,null,Baltic av,null
+358,Miglio,John,null,null,null,lab,null,res,ws,null,null,null,1,s,null,t,null,null
+360,Miglio,Peter,null,null,null,lab,null,res,ws,null,null,null,1,s,null,t,null,null
+366,Morin,Clara,P,null,null,sten,null,res,es,null,null,null,2,null,null,d,null,null
+369,Morin,Mary,E,null,null,elk,null,res,es,null,null,null,2,null,null,d,null,null
+370,Morin,Matilda,null,null,null,null,null,res,es,null,null,null,2,null,null,d,null,null
+372,Mrvos,Mirko,null,null,null,elk,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+373,Mustonen,Reino,null,null,null,miner,null,res,null,null,null,1st,null,null,null,null,null,null
+375,Nappa,John,null,null,null,lab,null,res,ss,null,null,Atlantic av nr ,1,s,null,t,null,null
+377,Niederist,Anna,R,null,null,null,null,res,ws,null,null,null,1,s,null,t,null,null
+378,Niederist,Herman,null,null,null,fireman,null,res,ws,null,null,null,1,s,null,t,null,null
+379,Niederist,Marie,M,null,null,null,null,res,ws,null,null,null,1,s,null,t,null,null
+386,Niva,Arvid,null,null,null,miner,null,res,ss,null,null,Atlantic av nr ,1,s,null,t,null,null
+401,01son,Alfred,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+412,Pahti,Eino,null,null,null,bkpr,null,res,null,null,null,2d,null,null,null,null,null,null
+414,Pahti,Mamie,null,null,null,student,null,res,null,null,null,2d,null,null,null,null,null,null
+419,Panion,Franes,null,null,null,student,null,res,es,null,null,null,2,null,null,d,null,null
+424,Pastora,John,null,null,null,barber,Trimountain av,res,null,null,null,null,null,null,null,null,Trimountain av,null
+429,Peretti,Peter,null,null,null,trammer,null,res,null,null,null,2d,null,null,null,null,null,null
+439,Pollinelli,Albert,null,null,null,mason,null,res,null,null,null,2d,null,null,null,null,null,null
+445,Pyykkonen,Carrie,null,null,null,elk,L Kangas Co,res,null,null,null,2d,null,null,null,null,null,null
+448,Raffaelli,Amelia,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Champion,null
+449,Raffaelli,Italo,null,null,null,lab,null,res,null,null,null,null,null,null,null,null,Champion,null
+451,Rankinen,Isaac,null,null,null,null,null,res,null,null,null,5th,null,null,null,null,null,null
+452,Rankinen,Sakari,null,null,null,lab,null,res,null,null,null,5th,null,null,null,null,null,null
+453,Rapps,Paul,null,null,null,trammer,null,res,ws,null,null,null,1,s,null,t,null,null
+460,Ricca,Antonio,null,null,null,mason,null,res,null,null,null,2d,null,null,null,null,null,null
+468,Romano,Josephine,null,null,null,null,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+470,Romano,Wm,null,null,null,miner,null,res,null,null,null,null,null,null,null,null,Trimountain av,null
+471,Roscot,Emil,null,null,null,lab,null,res,null,null,null,3d,null,null,null,null,null,null
+480,Sajen,Lawrence,null,null,null,miner,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+486,Sandbank,Ralph,null,null,null,elk,Uitti Bros,res,null,null,null,2d,null,null,null,null,null,null
+488,Santo,Anna,null,null,null,null,null,res,null,null,null,4th,null,null,null,null,null,null
+491,Santori,Joseph,null,null,null,baker,null,res,null,null,null,2d,null,null,null,null,null,null
+497,Seppola,Eli,null,null,null,elk,null,res,null,null,null,null,null,null,null,null,Champion,null
+499,Seppola,Mamie,null,null,null,elk,Uitti Bros,res,null,null,null,null,null,null,null,null,Champion,null
+501,Servia,Andrew,null,null,null,lab,null,res,null,null,null,1st,null,null,null,null,null,null
+502,Servia,Charles,null,null,null,lab,null,res,null,null,null,1st,null,null,null,null,null,null
+504,Shea,James,null,null,null,lab,null,res,ws,null,null,null,3,null,null,d nr Atlantic rd,null,null
+505,Shea,Margaret,E,null,null,student,null,res,ws,null,null,null,3,null,null,d nr Atlantic rd,null,null
+506,Shea,Mayne,K,null,null,student,null,res,ws,null,null,null,3,null,null,d nr Atlantic rd,null,null
+508,Shea,Michael,null,jr,null,null,null,res,ws,null,null,null,3,null,null,d nr Atlantic rd,null,null
+533,Sweet,Stanley,null,null,null,miner,null,res,null,null,null,2d,null,null,null,null,null,null
+538,Tauriainen,Anna,null,null,null,elk,Uitti Bros,res,null,null,null,5th,null,null,null,null,null,null
+540,Tauriainen,John,null,null,null,bkpr,Riiski Koivunen,res,null,null,null,5th,null,null,null,null,null,null
+542,Taylor,Lloyd,null,null,null,student,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+543,Taylor,Raymond,null,null,null,elk,null,res,null,null,null,null,null,null,null,null,Baltic av,null
+546,Tervo,Uno,M,null,null,null,null,res,null,null,null,5th,null,null,null,null,null,null
+552,Toscana,Minnie,null,null,null,null,null,res,null,null,null,2d,null,null,null,null,null,null
+559,Turnquist,Leonard,null,null,null,depot,agt,res,null,null,null,1st,null,null,null,null,null,null
+570,Wayrynen,Martti,null,null,null,shoemkr,Trimountain av,res,null,null,null,1st,null,null,null,null,null,null
+572,Wirtonen,Lauri,null,null,null,baker,null,res,ss,null,null,Atlantic nr ,1,s,null,t,null,null
+575,Zana,Antoinette,null,null,null,null,null,res,null,null,null,1st,null,null,null,null,null,null
+578,Zanotti,Dominic,null,null,null,lab,null,res,ws,null,null,null,1,s,null,t,null,null
+579,Zanotti,Ella,null,null,null,student,null,res,ws,null,null,null,1,s,null,t,null,null
+580,Zanotti,Katherine,null,null,null,null,null,res,ws,null,null,null,1,s,null,t,null,null
+581,Zanotti,Minnie,null,null,null,null,null,res,ws,null,null,null,1,s,null,t,null,null
+582,Zanotti,Peter,null,null,null,null,null,res,ws,null,null,null,1,s,null,t,null,null

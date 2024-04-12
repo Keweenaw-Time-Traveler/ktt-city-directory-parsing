@@ -1,0 +1,17 @@
+37 ADD, JOB NOT FOUND: Baltic Bath House, Trimountain rd
+38 ADD, JOB NOT FOUND: Baltic Boarding House, Andrew Lombardini propr, 121 14th av
+39 ADD, JOB NOT FOUND: Baltic Mine Dispensary, Dr Roy Hodge in charge, 301 13th av
+40 NAME: BALTIC MINING CO, W A Paine (Boston, Mass), Pres, Frederick Stanwoocl (Boston, Mass) sec and Treas, F W Denton Genl Mgr, W C Cole Chief Clerk, Tel 473M
+41 ADD, JOB NOT FOUND: Baltic Public School, Mary E Trethewey prin, 3d bet 12th and 13th avs
+110 ADD, JOB NOT FOUND: Buzzo Thomas C (Birdie V), res 11th av nr 3d
+220 NAME, PERSON NOT FOUND: Eustice Laura O V, student, bds 124 13th av
+233 ADD, JOB NOT FOUND: Fire Hall, 302 13th av
+338 ADD, JOB NOT FOUND: Hendrickson Kate (wid Henry), res 11th av nr 3d
+345 NAME: Hill, see Maki
+376 ADD, JOB LOCATION NOT FOUND: Juleff Richard (Sophia), driver South Range Mercantile Co, res 11th av nr 3d
+377 ADD, JOB NOT FOUND, PERSON NOT FOUND: Juleff Ruth L, bds Richard Juleff
+403 ADD, JOB LOCATION NOT FOUND: Kasparoff Ardas, trammer, res ,123 14th av
+551 ADD, JOB NOT FOUND, PERSON NOT FOUND: McKie C James, min eng Baltic M Co, rms Office bldg
+850 NAME: South Range Mercantile Co, Wm Whittle mgr, gen store 12th av and 3d
+868 NAME, PERSON NOT FOUND: Sty pi Eva A, bds 508 15th av
+980 ADD, JOB NOT FOUND: Yanatuinen Antti

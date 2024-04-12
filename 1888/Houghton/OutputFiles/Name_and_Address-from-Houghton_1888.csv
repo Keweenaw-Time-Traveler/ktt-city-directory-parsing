@@ -1,0 +1,429 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMr, outJob, outJobLocation, outT, outStNum, outStName, outCity, outBuilding
+1,Acton,Norman,null,null,book agt,null,bds,302 ,Isle Royal,null,null
+2,Alford,John,null,null,lab,null,res,411 ,Montezuma,null,null
+4, ALT, JACOB, W, null, wholesale dealer and jobber in fresh and cured meats provisions fruits produce etc , Refrigerator and office foot of Huron st Lake front, bds,512-514-516,null,Shelden,null
+6,Anderson,Swan,null,null,painter,null,bds,406 ,Shelden,null,null
+7,Arthur,John,null,null,bartender,null,wks and bds,413 ,Shelden,null,null
+8,Arcond,Watache,null,null,calker,null,bds,721 ,Shelden,null,null
+9,Afcfield,Father,null,Rev,null,null,res,407 ,Portage,null,null
+11,Auger,Chas,null,null,prop ,Isle Royal House,res,710 ,Shelden,null,null
+14,Bath,Wm,null,null,book keeper ,Smelting,wks and bds,303 ,Isle Royal,null,null
+15,Baudon,A,E,null,messenger the ,National Bank of Houghton,res,100 ,Isle Royal,null,null
+16,Beasley,George,null,null,surveyor,null,bds,301 ,Quincy,null,null
+17,Beasley,Harry,null,null,surveyor,null,res,301 ,Quincy,null,null
+18,Bedard,Louis,null,null,lab,null,bds,721 723 ,Shelden,null,null
+19,Bellehumer,Peter,null,null,barber,null,res null,013,null,null,null
+21,Berktold,Edwd,J,null,bartender ,M J Dillon,res,107 ,Albion st,null,null
+22,Beruien,Edmund,null,null,laundryman,null,res,606 ,Albion,null,null
+23,Beruien,Peter,null,null,laborer,null,res,null,null,E Houghton,null
+24,Bertrand,Joseph,null,null,lab,null,res rear of,206 ,Riplev,null,null
+26,Bigelow,W,E,Rev,pastor ,M E Church,res,304 ,Isle Royal,null,null
+27,Blandy,James,H,null,null,null,res,307 ,Shelden,null,null
+28,Barn,Louis,null,null,lab,null,res,102 ,Ripley,null,null
+29,Boudin,Albert,null,null,messenger ,National Bank of Houghton,bds,402 ,Portage,null,null
+30,Boudin,Chas,null,null,teamster,null,res,402 ,Portage,null,null
+31,Boudin,Wm,null,null,of ,DeForge Baudin meat market,bds,402 ,Portage,null,null
+32,Boutie,Chas,null,null,moulder,null,res,206 ,Ripley,null,null
+34,Boxer,S,H,Mrs,widow,null,res,201 ,Albion,null,null
+35,Brady,T,M,null,attorney ,502 Shelden,res,304 ,Albion,null,null
+36,Brand,Anthony,null,null,lab,null,bds,406 ,Shelden,null,null
+37,Brand,Caspar,null,null,grocer,null,res null,405,null,null,null
+38,Brand,Geo,null,null,blacksmith ,210 Shelden,res,204 ,Pewabic,null,null
+43,BROWN,B,E,null,of ,Brown Gray,res,110 ,Shelden,null,null
+48,Buck,Ferdinand,null,null,brewer,null,bds,304 ,Shelden,null,null
+49,Burke,Dennis,E,null,bookkeeper for ,Geo P Hahn brewing agency,res,null,Lake st,null,null
+50,null,Burrows,null,Mrs,widow,null,res,null,null,W Houghton,null
+52,Butterfield,W,W,null,null,null,res,704 ,Shelden,null,null
+54,Calhoun,Tom,null,null,coachman ,Mrs T M Shelden,res,607 ,Montezuma,null,null
+55,Cameron,John,A,null,land looker,null,res,718 ,Shelden,null,null
+57,Capel,Edward,null,null,carpenter,null,bds,413 ,Shelden,null,null
+58,Carpenter,Mr,null,null,marine engineer,null,res,null,null,E Houghton,null
+59,Cavan,David,null,null,manager ,Atlantic Mine store,res,null,null,Atlantic Mine,null
+61,Champaidne,Jos,null,null,blacksmith,null,bds,413 ,Shelden,null,null
+62,Chappell,Jas,null,null,coachman ,J A Hubbell,bds,307 ,Isle Royal,null,null
+63,Charbeneau,E,null,null,saloon keepr ,711 Shelden,res,709 ,Shelden,null,null
+66,Chynoweth,John,null,Capt,mine agent,null,res,null,null,W Houghton,null
+69,Coon,Aug,null,null,smelter,null,res,null,null,W Houghton,null
+70,Corrie,Joseph,null,null,carpenter,null,res,null,null,W Houghton,null
+72,Croze,C,null,null,sailor,null,res,717 ,Shelden,null,null
+73,CROZE,JOSEPH,null,null,dry dock and ship repairing mangr ,Portage Lake Towing Co office nr D S S A depot,res,null,null,E Houghton,null
+74,CROZE,LUDGER,null,null,bookkeeper ,Joseph Croze,res,null,null,E Houghton,null
+75,Croze,Norway,null,null,laborer,null,res,null,null,E Houghton,null
+76,Cudlip,Wm,null,null,laborer,null,res,106 ,Albion,null,null
+77,Cundy,Jabez,null,null,contractor and builder,null,res,null,null,E Houghton,null
+78,CULLYEORD,WM,null,null,null,null,res,512 ,Shelden,null,null
+79,Curnow,John,null,null,smelter,null,res,204 ,Ripley,null,null
+80,Curry,Edward,null,null,marine engineer,null,res,301 ,Montezuma,null,null
+82,Dallmeyer,A,null,Mrs,wid,null,res,312 ,Montezuma,null,null
+83,Dandurand,Jean,null,null,lab,null,bds,710 ,Isle Royal,null,null
+84,Davey,Thos,null,null,null,null,res,null,null,E Houghton,null
+85,David,Alfred,null,null,physician and surgeon,null,res,null,null,Atlantic mine,null
+86,Davey,T,H,null,merchant,null,bds,null,null,E Houghton,null
+87,Davis,Thos,null,null,lab,null,wks,607 ,Shelden,null,null
+88, DEE, JAMES, R, null, null, null, bds,512-514-516,null,Shelden,null
+92,DEE,W,H,null,telegraph operator and dealer in ,Mineral Specimens and Curiosities Telegraph bldg 103 Isle Royal,res,400 ,Dakota st,null,null
+94,DeForge,Joseph,null,null,of ,DeForge Boudin,res,407 ,Sheldon,null,null
+95,DeGraff,Chas,null,null,contracting for painting etc,null,res,401 ,Isle Royal,null,null
+96,Deidier,John,W,null,manager ,Houghton Roller Rink,bds,null,null,E Houghton,null
+98,Delcourt,Archie,null,null,carpenter,null,bds,406 ,Sheldon,null,null
+99,DES ROCHES EDWD C,EDWD,C,null,null,null,res,20,S Montezuma,null,null
+100,DesRoches,Francis,null,null,null,null,res,208 ,Montezuma,null,null
+101,DesRoches,George,null,null,clerk,null,res,106 ,Montezuma,null,null
+102,Des Roches J W,J,W,null,toll collector,null,bds,208 ,Montezuma,null,null
+103,DeVilaine,Paul,null,null,null,null,rooms over,313 ,Shelden,null,null
+104,DeZera,Provo,null,null,lab,null,bds,710 ,Shelden,null,null
+105,Dickens,M,null,Miss,elk county clerks office,null,bds over,508 ,Shelden,null,null
+106,Deidier,Peter,null,null,tug capt,null,res,null,null,E Houghton,null
+107,DILLON,M,J,null,liquor merchant ,503 Shelden,res,null,null,E Houghton,null
+108,ake,T,null,Dr,null,null,bds,304 ,Isle Royal,null,null
+110,DOUGLASS,EDWD,F,null,with ,Douglass Insurance agency,res,null,null,E Houghton,null
+111,DOUGLASS,C,C,null,oh ,Shelden Douglass estate,res,null,null,Houghton Mich,null
+112,DOUGLASS,Mas,null,null,wid,null,res,303 ,Isle Royal,null,null
+113,DOUGLASS,HOUSE,null,null,null,null,res,null,null,E Houghton,null
+116,Dwyer,Michael,null,null,with ,M M McConnell,res,null,null,Hancock,null
+118,Edwards,A,D,null,principal ,Ripley schools,bds,604 ,Shelden,null,null
+120,EDWARDS,JAMES,P,null,pres ,Portage Lake Bridge Co civil engineer 301 Shelden,res,null,Montezuma st W Houghton,null,null
+121,Edwards,R,M,null,mining engineer ,202 Pewabic,bds,300 ,Shelden st,null,null
+122,Edwards,T,W,null,office ,301 Shelden,res,300 ,Shelden st,null,null
+123,Ehler,Andrew,null,null,shoemaker,null,res null,615,null,null,null
+125,Endrich,Geo,null,null,saloon,null,res null,304,null,null,null
+126,Englert,Adolph,null,null,brewer,null,res,203 ,Pewabic,null,null
+127,null,Ettinger,null,Mrs,wid,null,res,null,null,West Houghton,null
+128,Everett,John,null,null,teamster,null,wks,403 ,Shelden,null,null
+129,Everett,Nic,null,null,teamster,null,wks,403 ,Shelden,null,null
+130,Evans,Wm,J,null,supt of mill ,Atlantic mine,res,null,null,Atlantic Mine,null
+131,Feisette,Wm,null,null,lab,null,bds,700 ,Shelden,null,null
+132,Feissnig,Fred,null,null,drayman,null,res,205 ,Affiion,null,null
+135,Foley,John,null,null,cook on tug,null,bds,407 ,Shelden,null,null
+136,Foley,Michael,null,null,baggageman ,D S S A RY,bds,407 ,Shelden st,null,null
+137,Flovd,Peter,null,null,mining eapt ,Atlantic mine,res,null,null,Atlantic Mine,null
+138,FOX,CHRISTOF,null,null,secy ,A Haas Brewing Co,res,409 ,Pewabic,null,null
+139,Foley,M,null,Mrs,wid,null,res,407 ,Shelden,null,null
+140,Funk,Antone,null,null,brewer wks ,403 Shelden,res,407 ,Montezuma,null,null
+143,Gilbault,Henry,null,null,bartender,null,res,203 ,Quincy,null,null
+144,Goldberg,Henry,null,null,liquor dealer ,501 Shelden,res,205 ,Shelden,null,null
+145,Goodell,R,R,null,real estate agt agt ,St Marys Canal Mineral Land Co,res,306 ,Pewabic,null,null
+147,Gottstein,R,R,null,null,null,res,null,null,W Houghton,null
+149,Gray,A,R,null,of ,Stone Gray,res,null,null,E Houghton,null
+150,Greenwood,A,null,null,carpenter,null,res,713 ,Shelden,null,null
+151,Greenwood,G,null,null,lab,null,bds,700 ,Shelden,null,null
+152,Gutheil,C,H,null,tailor,null,res null,208,null,null,null
+153,HAAS,ADOLF,null,null,null,null,res,null,null,E Houghton,null
+155,HAAS,DAYID,null,null,of ,D Haas Co,res,201 ,Shelden,null,null
+156,HAAS,EDWD,null,null,of ,Ed Haas Co,res,201 ,Shelden,null,null
+158,HAAS,HERMAN,null,null,with ,Ed Haas Co,bds,201 ,Shelden,null,null
+159,HAAS,JOSEPH,null,null,treas ,A Haas Brewing Co,res,305 ,Dodge,null,null
+160,HAFENREFFER,ADOLF,null,null,druggist with ,Chas H Hafenreffer,res,503 ,Montezuma,null,null
+161,HAEENREFEER,CHAS,H,null,null,null,res,503 ,Montezuma,null,null
+162,HAHN,FRANZ,null,null,bottler ,Ph Best Brewing Co cor Pewabic and Albion,res,302 ,Albion,null,null
+163,HAHN,GEORGE,P,null,agt ,Ph Best Brewing Co office and res cor Pewabic aud Albion,res,302 ,Albion,null,null
+164,Hahn,Joseph,null,null,lab,null,res,204 ,Pewabic,null,null
+165,Hall,Chas,T,null,lumberman,null,res,112 ,Montezuma,null,null
+166,Hambitzer,J,T,null,county treasurer,null,res,509 ,Huron,null,null
+169,Harris,J,T,null,powder agt,null,bds,300 ,Isle Royal,null,null
+172,Hartman,Gotleib,null,null,ice dealer,null,res,205 ,Dodge,null,null
+173,Harrington,Dan,S,null,dredge employe,null,bds,202 ,Huron,null,null
+174,Harrington,John,S,null,salesman ,R M Hoar,bds,202 ,Huron,null,null
+175,Harrington,Jerry,S,null,moulder,null,bds,202 ,Huron,null,null
+176,Harrington,M,null,Mrs,wid,null,res,202 ,Huron,null,null
+178,Haug,Matt,null,null,null,null,res,210 ,Quincy,null,null
+179,Haug,Michael,null,null,repairer for ,M Haug,res,210 ,Quincy,null,null
+180,HEAL,Y,JAMES,null,president of the village,null,res,106 ,Shelden,null,null
+182,Hennes,Joseph,null,null,of ,L Hennes and Co,res,412 ,Montezuma,null,null
+184,Hickey,Jas,null,null,contractor,null,res,402 ,Isle Royal,null,null
+185,Hilenbrand,Jacob,null,null,shoemaker,null,res,400 ,Isle Royal,null,null
+186,Hirsch,Matt,null,null,beer bottler,null,bds,304 ,Shelden,null,null
+187,null,Hitchings,null,Mrs,wid,null,res,405 ,Isle Royal,null,null
+188,Hoar,T,M,null,elk ,MERE Co Hancock,bds,500 ,Montezuma,null,null
+190,Hoar,Capt,John,Mrs,wid,null,res,null,null,E Houghton,null
+192,Hoar,Wm,B,null,station agt ,D S S A R Y Co,res,null,null,E Houghton,null
+193,Hobba,James,null,null,prop ,Tremont house,res,506 ,Shelden,null,null
+194,Hodgson,J,G,Capt,null,null,res,null,null,E Houghton,null
+196,null,Holsman,null,Mrs,wid,null,res,null,Lake st,null,null
+197,Hooper,Harry,null,null,lab,null,res,712 ,Shelden,null,null
+200,null,Hosking,null,Mrs,wid,null,res,null,Lake st,null,null
+201,Hoskiug,M,null,Mrs,wid,null,res,null,null,E Houghton,null
+202,Hosking,Richard,E,null,engineer,null,res,null,null,E Houghton,null
+203,Hoskiug,Will,E,null,engineer,null,res,null,null,E Houghton,null
+209,HUBBELL,JAY,A,Hon,null,null,res,null,null,E Houghton,null
+210,Hummel,John,null,null,lab,null,res,716 ,Sheldon,null,null
+211,Hunt,John,P,null,bookkeeper,null,res,206 ,Montezuma,null,null
+212,Huss,A,null,null,saloon,null,res null,511,null,null,null
+214,James,Benjamin,null,null,teamster,null,bds,null,Lake St,null,null
+216,Jenkins,B,F,null,null,null,bds over,508 ,Skelden,null,null
+217,Junker,J,null,null,wagon mkr,null,res null,210,null,null,null
+218,Kasper,Gabriel,null,null,lab,null,bds,400 ,Shelden,null,null
+219,Kasper,John,null,null,saloon,null,res null,400,null,null,null
+220,Kasper,Joseph,M,null,bartender,null,bds,400 ,Shelden,null,null
+222,Kehl,Chas,F,null,of ,Kehl Bros,res,101 ,Shelden,null,null
+223,Kehl,Wm,null,null,of ,Kehl Bros,res,108 ,Shelden,null,null
+224,Kelly,Chas,B,null,null,null,bds,406 ,Shelden,null,null
+225,Kibbee,E,P,null,editor,null,res,205 ,Shelden,null,null
+226,Klinkhammer,Jcihn,null,null,painter,null,res,null,null,west Houghton,null
+227,Krelwitz,Aug,null,null,bookkeeper,null,res,413 ,Montezuma,null,null
+228,Krelwitz,Aug,L,null,mgr ,E Siller Co furniture store wks 100 Huron,res,null,null,Portage Tp,null
+230,Krelwitz,Lewis,null,null,clerk,null,res,717 ,Shelden upstairs,null,null
+232,Kruch,Albert,null,null,lab,null,res,null,null,west Houghton,null
+235,KROLL,FRANK,null,null,null,null,res,null,null,Hurontown,null
+236,KROLL,F,W,null,of ,F W Kroll Co,res,307 ,Isle Royal st,null,null
+238,KROLL,JOHN,null,null,clerk,null,res,null,null,Hurontown,null
+239,Kuhlman,Wm,null,null,wheelwright,null,bds,406 ,Shelden,null,null
+241,LaForture,Louis,null,null,car wiper ,D S S A,res,null,null,E Houghton,null
+242,Lahon,John,null,null,moulder,null,res,202 ,Huron,null,null
+245,Lang,It,B,null,elk,null,res,311 ,Isle Royal,null,null
+246,Lange,Theo,null,null,furniture etc ,507 Shelden,res over,301 ,Montezuma,null,null
+248,La,Rue,Dominick,null,laborer,null,res,400 ,Portage,null,null
+249,LaSalle,John,null,null,confectionery etc,null,res null,715,null,null,null
+250,Laubsehea,John,null,null,machinist and plumber,null,res,400 ,Shelden,null,null
+252,Laux,John,null,null,shoemaker ,306 Shelden,res,102 ,Albion,null,null
+253,Lawrence,Chas,null,null,lab,null,res,310 ,Shelden,null,null
+254,Leary,Dennis,null,null,laborer,null,res,114 ,South,null,null
+255, LEWIS, JOHN, null, null, null, null, bds,512-514-516,null,Shelden,null
+257,LIEBETRAU,ERNEST,null,null,of ,G Liebetrau Bro,res,null,null,Hurontown,null
+260,Liebetrau,Bro,null,null,null,null,res,211 ,Shelden,null,null
+261,LIEBETRAU,GUSTAV,null,null,of ,G Liebetrau Bro,res,410 ,Pewabic,null,null
+262,Looney,R,T,null,stenographer wks ,Stone Gray,bds,null,null,Hancock,null
+263,Loranger,Alex,null,null,bookkeeper ,Huron mine,res,null,null,W Houghton,null
+264,Lorash,John,null,null,brewer,null,wks,403 ,Shelden,null,null
+265,Lyon,L,C,null,null,null,res,null,null,west Houghton,null
+266,Maasman,Richard,null,null,null,null,res,803 ,Montezuma,null,null
+270,null,Major,null,Mrs,wid,null,res,302 ,Shelden,null,null
+275, MASON, J, P, null, physician and surgeon pharmaceutist and dealer in druggists sundries , 410 Shelden st, bds,512-514-516,null,Shelden,null
+276,Matthews,John,null,null,printer,null,bds,404 ,Sheldon upstairs,null,null
+277,Matthews,Mr,null,null,lab,null,res,null,null,E Houghton,null
+278,Maulette,Alfonzo,null,null,lab,null,res,708 ,Sheldon,null,null
+280,McCONNELL,W,null,null,liquor merchant and tobacconist ,513 Shelden st,res,206 ,Shelden st,null,null
+281,McCarthy,Peter,null,null,cooper,null,res,null,null,West Houghton,null
+283,McCurdy,John,null,null,of ,McCurdy Bros,res,null,null,West Houghton,null
+284,McCurdy,Wm,null,null,of ,McCurdy Bros,res,406 ,Dakota,null,null
+285,McDONALD,R,null,null,city marshal office over ,507 Shelden,res,100 ,Shelden,null,null
+286,McGrath,Wm,null,null,salesman ,R M Hoar,res,null,null,Hancock,null
+287,McIntosh,Al,null,null,saloon,null,res null,725,null,null,null
+288,Meads,T,D,null,real estate agt over ,507 Shelden,res,null,null,Hancock,null
+289,Meisch,Matt,null,null,brewer,null,wks,403 ,Sheldon,null,null
+290,Michaels,Michael,null,null,carpenter,null,wks,403 ,Sheldon,null,null
+294,Miller,Anton,null,null,teamster,null,res,null,Lake st,null,null
+297,Miller,Nicholas,null,null,cigarmanufacturer ,605 Shelden,res,409 ,Montezuma,null,null
+298,Miller,Wm,null,null,null,null,res over,410 ,Shelden,null,null
+300,Mills,Alfred,null,null,of ,A Mills Bro,res,204 ,Montezuma,null,null
+301,Mills,Chas,null,null,of ,A Mills Bro,bds,406 ,Shelden,null,null
+302,Mitchel,Wm,null,null,lab,null,res,410 ,Portage,null,null
+304,Mouette,Frank,null,null,saloon ,731 Shelden,res,723 ,Shelden,null,null
+305,Morel,Archie,null,null,carpenter,null,res,null,null,E Houghton,null
+306,Moyle,Richard,null,null,miner,null,res,null,null,W Houghton,null
+309,MURPHY,JOSEPH,R,null,null,null,bds,406 ,Shelden,null,null
+310,Murphy,Patrick,null,null,lab,null,bds,null,null,W Houghton,null
+311,Murphy,Timothy,null,null,lab,null,res,null,null,W Houghton,null
+314,Nancarrow,Jas,null,null,painter,null,bds,401 ,Isle Royal,null,null
+316,Nelson,John,null,null,null,null,bds,406 ,Shelden,null,null
+317,Noetzel,Chas,null,null,lab,null,bds,406 ,Shelden,null,null
+319,Northy,Matt,null,null,manufacturer of mineral water etc ,309 Dodge,bds,606 ,Shelden,null,null
+320,OGrady,James,null,null,aeccmntanfc ,Van Orden Bros,res,null,null,east Houghton,null
+321,null,OGrady,null,Mrs,wid,null,res,null,null,E Houghton,null
+322,Orth,C,R,null,bookkeeper ,F A Douglas,bds,303 ,Isle Royale,null,null
+323,Osborne,David,null,null,elk ,Hancock Bank ,bds,506 ,Albion,null,null
+324,null,Osborne,null,Mrs,wid,null,res,506 ,Albion,null,null
+325,Oshinsky,Abraham,null,null,null,null,res,312 ,Shelden,null,null
+326,Overfield,A,null,null,null,null,res over, 601,null,null,null
+327,Packard,R,L,null,null,null,bds,512 ,Douglas,null,null
+328,Pallerwitz,Chas,null,null,lab,null,bds,304 ,Shelden,null,null
+329,Parnell,Saml,null,null,student ,Midi Mining School,bds over,508 ,Shelden,null,null
+330,Parnell,Wm,E,null,student ,Mich Mining School,bds over,508 ,Shelden,null,null
+331,Paton,J,C,null,null,null,res,104 ,Shelden,null,null
+332,Pauli,Harry,T,null,with ,Josiah Pauli,bds,107 ,Shelden,null,null
+333,Pauli,Joseph,null,null,elk,null,bds,406 ,Shelden,null,null
+334,Pauli,Josiah,null,null,hardware merchant ,515 Shelden,res,107 ,Shelden,null,null
+336,Pelletier,Fred,null,null,bartender,null,wks and bds,700 ,Shelden,null,null
+337,Penberthv,E,ft,null,null,null,res,null,null,west Houghton,null
+340,Perrault,G,L,null,clothes cleaning etc,null,res null,103,null,null,null
+341,PFEIFFER,GEO,P,null,elk ,Millers Hotel,bds,406 ,Shelden,null,null
+342,PFEIFFER,JOHN,B,null,prop ,Millers Hotel and Public Hall,res null,406,null,null,null
+346,Pope,Graham,null,null,null,null,res,null,null,E Houghton,null
+352,PRIMEAU,PETER,null,null,elk ,Houghton Co off court house,res,502 ,Albion,null,null
+354,Prior,John,null,null,millinery etc,null,res null,505,null,null,null
+355,Prior,Joseph,null,null,dredge engineer,null,res,208 ,Ripley,null,null
+356,Prior,Jas,null,null,agt ,L S Ship Canal Co,res,null,null,E Houghton,null
+357,Pullen,C,M,Rev,rector ,Trinity Church,res,null,null,E Houghton,null
+359,Quirk,George,W,null,watch maker jeweler ,106 Isle Royal,res,104 ,Shelden,null,null
+360,Rashley,Joseph,null,null,carpenter,null,bds,null,null,E Houghton,null
+361,Rashley,Edgar,null,null,carpenter,null,bds,null,null,E Houghton,null
+362,Rashley,I,null,Mrs,wid,null,res,null,null,E Houghton,null
+363,Reed,Wm,null,null,student ,Mich Mining school,bds,304 ,Isle Royal,null,null
+364,Reapelle,Alfred,null,null,elk,null,res,308 ,Portage,null,null
+365,Rees,Allan,F,null,attorney,null,res,null,null,E Houghton,null
+366,Rees,Geo,M,null,elk,null,bds,null,null,East Houghton,null
+369,Rice,John,H,null,null,null,bds,604 ,Shelden,null,null
+370,Rice,J,H,Mrs,widow,null,res,604 ,Sheldon,null,null
+371,Rieff,Matt,I,null,agt,null,bds,406 ,Shelden,null,null
+372,Richie,A,R,null,barber ,603 Shelden,res,727 ,Shelden,null,null
+373,Riess,Chas,null,null,lab wks ,Lime Kiln,bds,406 ,Shelden,null,null
+375,Ruelle,Eli,null,null,liveryman ,Charles Ruelle,res,304 ,Portage st,null,null
+376,Ruelle,Peter,null,null,lab,null,res,729 ,Shelden,null,null
+377,Rumpf,J,null,Mrs,wid,null,res,108 ,Shelden,null,null
+378,Runkel,Jacob,null,null,porter ,R R Goodell,res,100 ,Albion,null,null
+380,Savoy,Geo,null,null,null,null,res,null,null,E Houghton,null
+382,null,Schlichting,null,Mrs,wid,null,res,308 ,Albion,null,null
+384,Schubert,Michael,null,null,carpenter,null,res,null,null,W Houghton,null
+385,Schulte,Antone,null,null,elk,null,wks,null,Lake st,null,null
+386,Schulte,Casper,null,null,lab,null,res,404 ,Montezuma,null,null
+389,Schulte,Joseph,null,null,mgr ,Hennes warehouse,wks,null,Lake st,null,null
+390,Schumacher,Paul,null,null,salesman ,R M Hoar,rooms over,501 ,Shelden,null,null
+391,Schumacher,P,G,null,elk,null,bds,404 ,Shelden,null,null
+392,Schurman,J,L,null,stone quarry,null,bds,302 ,Isle Royal,null,null
+393,Schwonekampe,Henry,null,null,lab,null,res,302 ,Portage,null,null
+395,Siefert,Jos,null,null,lab,null,res,405 ,Montezuma,null,null
+397,Senter,John,null,null,null,null,res,null,null,E Houghton,null
+398,Sewell,Joseph,null,null,tinsmith,null,bds,306 ,Montezuma,null,null
+399,SHELDEN,EB,null,null,accountant ,R Shelden estate,res,203 ,Isle Royale st,null,null
+400,SHELDEN,C,D,null,null,null,rooms,101 ,Isle Royal st,null,null
+404,Siefert,Geo,J,null,harness maker ,105 Isle Royale,res,205 ,Quincy,null,null
+405,Sibelske,Emil,null,null,teamster,null,wks,null,Lake st,null,null
+409,Slauson,H,M,null,null,null,bds,512 ,Shelden,null,null
+410,Sleep,Samuel,null,null,lab,null,res,108 ,Albion,null,null
+411,Sloch,Jas,null,null,lab,null,res,null,Lake st,null,null
+412,SLOCRETT,JOHN,null,null,special agent ,Washington Life Ins Co supt water works over 510 Shelden st,res,308 ,Quincy st,null,null
+414,Switzer,Jas,null,null,clerk,null,res,104 ,Albion,null,null
+415,Spring,John,null,null,painter,null,bds,304 ,Montezuma,null,null
+416,Spring,Michael,null,null,teamster,null,res,300 ,Montezuma,null,null
+417,Spring,Morris,null,null,watchman,null,res,304 ,Montezuma,null,null
+418,Spring,T,L,null,clerk ,E Ryan Haucock,bds,300 ,Montezuma,null,null
+419,St,John,Chas,null,bartender,null,bds,710 ,Sheldon,null,null
+421,STAATS,WILL,E,null,liquor merchant,null,res null,200,null,null,null
+423,Stone,J,W,null,of ,Stone Gray,bds,512 ,Shelden,null,null
+425,Stoyle,Albert,null,null,plasterer,null,bds,303 ,Albion,null,null
+427,STROBEL,CHARLES,null,null,with ,Jos Strobel,bds,101 ,Huron,null,null
+428,STROBEL,JOSEPH,null,null,liquor merchant,null,res null,101,null,null,null
+429,STURGIS,JAMES,B,null,cashier ,National Bank of Houghton Sec and Treas Pensula Electric Light and Power Co,res,null,null,E Houghton,null
+433,Sunderland,Thos,null,null,restaurant,null,res over, 401,null,null,null
+434,Sweeney,Ellen,null,Mrs,wid,null,res,611 ,Shelden,null,null
+436,Taylor,E,C,null,bookkeeper,null,res,null,null,E Houghton,null
+439,Thomas,Jas,null,null,null,null,res,309 ,Albion,null,null
+440,Thomas,Jas,null,null,carpenter,null,bds,302 ,Isle Roy ale,null,null
+441,Thomas,A,P,Capt,traveler,null,res,null,null,E Houghton,null
+442,Thomson,J,C,null,null,null,bds,512 ,Sheldon,null,null
+443,Tonkin,Wm,null,Capt,null,null,res,null,null,Atlantic Mine,null
+444,Tonnman,Jacob,null,null,lab,null,bds,304 ,Sbelden,null,null
+445,Torangeau,Frank,null,null,carpenter,null,res,604 ,Montezuma,null,null
+447,Trevathan,Albert,null,null,clerk,null,bds,406 ,Shelden,null,null
+448,null,Trewartha,null,Mrs,wid,null,res,306 ,Isle Royal,null,null
+449,Trewartha,Saml,null,null,lab,null,bds,306 ,Isle Royal,null,null
+450,Trevathan,Thomas,null,null,farmer,null,res,503 ,Albion,null,null
+451,Trewartha,Wm,null,null,lab,null,bds,306 ,Isle Royal,null,null
+452,Trim,Chas,null,null,blacksmith ,Lake st,res,720 ,Shelden,null,null
+454,Urfels,Girard,null,null,lab,null,res,209 ,Dodge,null,null
+455,VanMourick,P,G,null,salesman,null,res,502 ,Albion,null,null
+457,VAN,ORDEN,MATTHEW,null,coal merchant dir in lime cement stucco plaster hair etc of ,VanOrden Bios off 509 Shelden,res,null,null,E Houghton,null
+458,VAN,ORDEN,WM,null,of ,VanOrden Bros,res,null,null,E Houghton,null
+459,VanTasseel,H,A,null,elk ,Atlantic Mining Co,res,null,null,Atlantic Mine,null
+460,Vaudrin,Wm,null,null,contractor,null,res,714 ,SliCldem,null,null
+461,Voetch,Henry,null,null,laborer,null,res,null,Lake st,null,null
+462,Voetch,Jacob,null,null,lab,null,bds,102 ,Shelden,null,null
+463,Voetch,Louis,null,null,null,null,bds,102 ,Shelden,null,null
+466,Wadsworth,M,E,null,null,null,bds,512 ,Shelden,null,null
+467,null,Waldron,null,Mrs,wid,null,res,209 ,Shelden,null,null
+468,Wakefield,A,A,null,student ,Mich Mining School,bds,512 ,Shelden,null,null
+470,Wallace,George,null,null,sailor,null,bds,113 ,Shelden,null,null
+471,Wallace,John,null,null,carpenter,null,bds,113 ,Shelden,null,null
+472,Wallace,Joseph,null,null,contractor and builder,null,res,113 ,Shelden,null,null
+473,Wallace,Lewis,null,null,carpenter,null,bds,113 ,Shelden,null,null
+474,Wegner,Henry,null,null,bookkeeper ,L Hennes Co,res,null,null,E Hancock,null
+475,Wegner,Wm,null,null,electrician,null,res,null,null,E Hancock,null
+476,WEBER,FRANK,J,null,of ,Weber Washburn,bds,406 ,Shelden,null,null
+477,Wendell,A,null,null,elk,null,wks,null,Lake st,null,null
+478,Werner,Samuel,null,null,tailor,null,res,211 ,Montezuma,null,null
+479,West,Frank,null,null,book keeper ,R M Hoar,res,201 ,Albion,null,null
+481,Williams,Samuel,null,null,carpenter,null,bds,404 ,Shelden up stairs,null,null
+482,Wilson,Chas,null,null,carpenter,null,bds,406 ,Shelden,null,null
+484,Wissing,Joseph,null,null,foreman news dept ,P L Mining Gazette,res,716 ,Shelden up stairs,null,null
+486,Wivell,James,null,null,teamster,null,res,204 ,Huron,null,null
+488,Whitelam,Thos,null,null,coachman ,G C Sheldon,bds,null,null,Montezuma W Houghton,null
+491,York,Chas,null,null,tug captain,null,res,null,null,E Houghton,null
+492,Young,Jacob,null,null,null,null,res,602 ,Shelden,null,null
+493,Zerbst,Louis,null,null,lab,null,wks,null,null,lime kiln West Houghton,null
+494,Zerbst,Theo,null,null,lab,null,res,208 ,Shelden,null,null
+495,Zerbst,Win,null,null,lab,null,bds,304 ,Shelden,null,null
+3,Allen,Win,null,null,saloon and boarding house,413 Sheldon,null,null,null,null,null
+12,Baird,I,null,null,book binder,705 Shelden,null,null,null,null,null
+13,Barrett,F,L,null,Line Foreman,Peninsula Electric Light Co 103 Isle Royal,null,null,null,null,null
+39,Brand,Tony,null,null,salesman,R M Hoar,null,null,null,null,null
+40,Brassean,Joseph,null,null,tug captures,200 Huron,null,null,null,null,null
+41,BRIMACOMBE,WILL,null,null,with,Wm Brimacombe,null,null,null,null,null
+44,Brown,G,T,null,electrician,Peninsula Elect Light and Power Co 103 Isle Royal,null,null,null,null,null
+45,BROWN,GRAY,null,null,general blacksmiths wagon and carriage manfrs horseshoes etc,202 Quincy,null,null,null,null,null
+46,BRUNEAU,CHAS,null,null,lumberman,dealer in hard and soft wood hay straw etc office 515 Shelden st,null,null,null,null,null
+53,Buzzier,Edward,null,null,tug captain,306 Portage,null,null,null,null,null
+56,Cannon,Harry,null,null,news boy on train,107 Ablin up stairs,null,null,null,null,null
+60,Chadbonrne,T,L,null,attorney,509 Shelden E Houghton,null,null,null,null,null
+64,Chosse,Dennis,null,null,lab,701 Shelden,null,null,null,null,null
+65,Chaussee,Jas,null,null,carpenter,719 Shelden,null,null,null,null,null
+67,Class,Ezra,null,null,lab,701 Shelden,null,null,null,null,null
+71,Calombe,Mr,null,null,laborer,604 Albion,null,null,null,null,null
+81,Daley,John,null,null,laborer,108 South,null,null,null,null,null
+89,DEE,JOHN,B,null,bookkeeper,103 Isle Royal,null,null,null,null,null
+90,DEE,MARTIN,null,null,Telegraph operator,103 Shelden,null,null,null,null,null
+91,DEE,THOS,S,null,Telegraph operator,bds W H Dee,null,null,null,null,null
+93,DeForge,Boudin,null,null,meat market,407 Shelden,null,null,null,null,null
+97,Deider,Peter,null,null,laborer,E Houghton,null,null,null,null,null
+115,DUNN,W,A,CAPT,agt,Hercules Powder Co dir in iron lands and options 100 Montezuma,null,null,null,null,null
+117,Eberly,John,null,null,lab,Albion st West Houghton,null,null,null,null,null
+119,EDWARDS,I,H,null,toll collector,P L Biidge Co 307 Pewabic,null,null,null,null,null
+124,Ellis,Joseph,null,null,teamster,R M Hoar,null,null,null,null,null
+133,FINNEGAN,J,T,null,attorney,at la v over 507 Shelden,null,null,null,null,null
+134,Flemming,John,null,null,lab,407 Pewabic,null,null,null,null,null
+141,Funston,Frank,null,null,moulder,bds 404 Shelden upstairs,null,null,null,null,null
+142,Getzen,Jos,null,null,beer peddler,308 Portage,null,null,null,null,null
+146,Gorham,John,null,null,drayman,Lake st,null,null,null,null,null
+148,GRAY,WM,J,null,of,Brown Gray bds 404 Shelden,null,null,null,null,null
+167,Hanley,Michael,null,null,lab,122 South,null,null,null,null,null
+168,Harris,A,null,Mrs,wid,prop RR Boarding houseE Houghton,null,null,null,null,null
+170,Harris,Wm,null,Mrs,wid,res 300 Isle Royal,null,null,null,null,null
+171,Hartman,Ernest,null,null,butcher,Kehl Bros,null,null,null,null,null
+177,Harrington,Philip,null,null,lab,126 South,null,null,null,null,null
+189,Hoar,J,null,Mrs,boarding house,over 508 Shelden,null,null,null,null,null
+195,Hoffenbacker,Wm,null,null,baker,res y and confections 411 Shelden,null,null,null,null,null
+198,Hooper,Saml,null,null,lab,309 Montezuma,null,null,null,null,null
+221,Kehl,Brothers,null,null,meat market,500 Shelden,null,null,null,null,null
+229,Krelwitz,Henry,null,null,bookbinder,705 Shelden,null,null,null,null,null
+231,Krelwitz,Otto,null,null,bookbinder,705 Shelden,null,null,null,null,null
+234,Kruger,A,O,Capt,machinist,202 Shelden res same,null,null,null,null,null
+244,Larnpert,M,null,Miss,milliner,303 Shelden,null,null,null,null,null
+251,Laurish,John,null,null,brewer,res 300 Shelden upstairs,null,null,null,null,null
+267,Mahan,James,null,null,lab,102 Isle Royal upstairs,null,null,null,null,null
+268,Mahling,James,null,null,mason,Albion st West Houghton,null,null,null,null,null
+269,Major,Harry,null,null,printer,705 Shelden,null,null,null,null,null
+272,Martin,An,tone,null,lab,West Houghton,null,null,null,null,null
+273,Martin,Jas,null,null,lab,605 Albion,null,null,null,null,null
+279,McAuliff,Dennis,null,null,lab,110 South,null,null,null,null,null
+303,Monetto,Aug,null,null,boarding house,721 and 723 Shelden,null,null,null,null,null
+313,Nancarrow,Geo,null,null,clerk,604 Montezuma,null,null,null,null,null
+335,Pelkey,Adam,null,null,lab,102 South,null,null,null,null,null
+344,Pope,William,null,null,lab,Jacob W Alt,null,null,null,null,null
+345,Poisson,David,null,null,saloon and boarding house,700 Sheldon,null,null,null,null,null
+353,Prince,Joseph,null,null,lab,W Houghton,null,null,null,null,null
+358,PUMERYILLE,F,null,null,manager,Butterfield House 802 Isle Royal,null,null,null,null,null
+367,Rees,John,L,null,bookkeeper,National Bank of Houghton bds A Rees,null,null,null,null,null
+379,Ryan,W,J,null,Sheriff,Houghton Co 402 Albion,null,null,null,null,null
+381,Schaft,John,null,null,lab,124 South,null,null,null,null,null
+387,Schulte,John,null,null,baggageman,DSS A depot E Houghton,null,null,null,null,null
+388,Schulte,Jno,C,null,lab,411 Pewabic,null,null,null,null,null
+396,Seifert,John,null,null,saloon,401 Shelden,null,null,null,null,null
+408,Simmons,Wm,null,null,lab,106 South,null,null,null,null,null
+413,Smith,Thos,null,null,lab,109 Albion,null,null,null,null,null
+422,Stone,Gray,null,null,attorney,s and insurance agents over 507 Shelden st,null,null,null,null,null
+424,Stall,Jos,null,null,cooper,302 Portage upstairs,null,null,null,null,null
+426,Stoyle,Jolin,null,null,plasterer,res 303 Albion,null,null,null,null,null
+430,Sullivan,Daniel,null,null,lab,116 South,null,null,null,null,null
+431,Sullivan,Jerry,null,null,lab,132 South,null,null,null,null,null
+432,Sullivan,John,null,null,plasterer,120 South,null,null,null,null,null
+435,Sylvest,01iver,null,null,lab,304 Portage upstairs,null,null,null,null,null
+437,Tumby,Edwin,null,null,teamster,307 Quincy,null,null,null,null,null
+446,Toedray,Wm,null,null,lab,106 Albion upstairs,null,null,null,null,null
+453,Uren,Catherine,null,Mrs,wid,128 South,null,null,null,null,null
+464,Vogbt,Joseph,null,null,lab,wks lime kiln W Houghton,null,null,null,null,null
+465,Voss,Frank,null,null,harness mkf,G Siefert,null,null,null,null,null
+469,Wallace,A,H,null,station agt,M EE R Co depot Lake Front res up stairs,null,null,null,null,null
+480,Williams,James,null,null,boarding bouse,404 Shelden,null,null,null,null,null
+483,Winkler,Fred,null,null,mason,Albion st West Houghton,null,null,null,null,null
+485,Witte,Albert,null,null,engineer,Peninsula Elect Light Co 103 Isle Royal,null,null,null,null,null
+487,WHEELER,A,M,null,physician and surgeon,off Huron mine,null,null,null,null,null
+489,Wolf,Mr,null,null,laborer,130 South,null,null,null,null,null

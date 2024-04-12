@@ -1,0 +1,338 @@
+1 ADD: Adams Herman (Nelida)
+2 RESIDING WITH PERSON NOT FOUND: Altalo John r Zackry Altalo
+3 NAME: Altalo Zackry
+4 ADD: Anderson Adam (Sophie)
+5 NAME: Anderson Andrew
+6 RESIDING WITH PERSON NOT FOUND: Anderson Chas r Andrew Anderson
+8 RESIDING WITH PERSON NOT FOUND: Anderson Sophie r Adam Anderson
+9 RESIDING WITH PERSON NOT FOUND: Anderson Waino r Andrew Anderson
+10 RESIDING WITH PERSON NOT FOUND: Anderson Wm r Adam Anderson
+12 RESIDING WITH PERSON NOT FOUND: Austin Gerald r Wm Austin
+13 ADD: Austin Wm (Flora)
+14 ADD: Bachmaan Mary (wid John)
+15 ADD: Beauchine Ludger (Clara)
+16 RESIDING WITH PERSON NOT FOUND: Beauchine Marie student r Ludger Beauchine
+17 ADD: Bergdahl Axel (Mary) farmer
+18 RESIDING WITH PERSON NOT FOUND: Bianucci Alf mech r Mrs Cloraine Bianucci
+19 RESIDING WITH PERSON NOT FOUND: Bianucci Arth mech r Mrs Cloraine Bianucci
+20 ADD: Bianucci Cloraine (wid Eug)
+21 ADD: Bianucci Guido (Natalie)
+22 ADD: Bianucci Jos (Esther)
+23 ADD: Biettie Erick (Emma)
+24 RESIDING WITH PERSON NOT FOUND: Bonneau Henry r Onesime Bonneau
+25 ADD: Bonneau Onesime (Sophie)
+26 ADD: Bonneau Onesime jr (Alpha)
+27 ADD: Chapeaut Exelda (wid Geo)
+28 ADD: Chimino John jr (Amelia)
+29 ADD: Ciucci Nicholas (Mary)
+30 RESIDING WITH PERSON NOT FOUND: Ciucci Paul r Nicholas Ciucci
+31 ADD: Cole Chas postmstr
+32 ADD: Copper Range Co Store Geo A Matson mgr genl mdse gro and meats
+34 ADD: Doivanen John (Kate)
+37 ADD: Ericson Anna (wid Peter)
+38 ADD: Ericson Edw barber and billiards County rd
+39 ADD: Ericson Leonard (Hilda)
+40 ADD: Erikkila Mary (wid Andrew)
+41 RESIDING WITH PERSON NOT FOUND: Folk Axel woodsmn r Chas Folk
+42 NAME: Folk Chas
+43 RESIDING WITH PERSON NOT FOUND: Folk Eli r Chas Folk
+44 RESIDING WITH PERSON NOT FOUND: Folk Yngue r Chas Folk
+45 ADD: Forsman Chas (Fannie)
+46 ADD: Garrity Edw (Maude)
+47 ADD: Gemignani Angelo (Emma)
+48 ADD: Guizzetti Antonio (Marie)
+49 ADD: Haapanieni Nick (Alma)
+51 ADD: Hakka Herman (Hilda)
+52 RESIDING WITH PERSON NOT FOUND: Hakka Reino r Herman Hakka
+53 RESIDING WITH PERSON NOT FOUND: Halappa Carl r John Halappa
+54 ADD: Halappa John (Amelia)
+55 ADD: Hamilon Geo W (Jane A)
+56 ADD: Harkonen Herman (Manda)
+57 ADD: Harma Carl (Anna)
+58 ADD: Harma Isaac (Helena)
+59 NAME: Harma John
+60 ADD: Heikka Peter (Mary)
+61 RESIDING WITH PERSON NOT FOUND: Heikka Peter jr r Peter Heikka
+62 RESIDING WITH PERSON NOT FOUND: Heikka Waino r Peter Heikka
+63 RESIDING WITH PERSON NOT FOUND: Heikkenen Anna r Thos Heikenen
+64 RESIDING WITH PERSON NOT FOUND: Heikkenen Emil r Thos Heikkenen
+65 RESIDING WITH PERSON NOT FOUND: Heikkenen Anna r Thos Heikkenen
+66 RESIDING WITH PERSON NOT FOUND: Heikkenen Selma student r Thos Heikkenen
+67 ADD: Heikkenen Thos (Anna) farmer
+68 RESIDING WITH PERSON NOT FOUND: Heikkinen Hubert r Louis Heikkinen
+69 ADD: Heikkinen John (Mayme)
+70 RESIDING WITH PERSON NOT FOUND: Heikkinen Lillian r Louis Heikkinen
+71 ADD: Heikkinen Louis (Margt)
+72 ADD: Heikkinen Wm (Lilly)
+73 ADD: Hieatala Hans (Lizzie)
+74 ADD: Hischer Gottlieb (Grace)
+75 NAME: Holappa Matt
+76 NAME: Holappa Paul
+77 ADD: Hospenthal Frank (Anna)
+78 RESIDING WITH PERSON NOT FOUND: Hospenthal Frank jr student r Frank Hospenthal
+79 NAME: Huitula John
+80 RESIDING WITH PERSON NOT FOUND: Huitula Otto r John Huitula
+81 RESIDING WITH PERSON NOT FOUND: Immonen John r Victor Immonen
+82 ADD: Immonen Victor (Lizzie)
+83 RESIDING WITH PERSON NOT FOUND: Jacobs Ardell r Frank Jacobs
+84 ADD: Jacobs Frank (Mary)
+85 ADD: Jacobs Paul (Anna)
+86 ADD: Jarvis Chas (Emma)
+87 RESIDING WITH PERSON NOT FOUND: Jarvis Helen r Chas Jarvis
+88 ADD: Jauch Christ (Eliza)
+89 RESIDING WITH PERSON NOT FOUND: Jauch Christian r Christ Jauch
+90 RESIDING WITH PERSON NOT FOUND: Jontinen Andrew r Chas Jontinen
+91 ADD: Jontinen Chas (Alexandria)
+92 RESIDING WITH PERSON NOT FOUND: Jontinen Geo student r Chas Jontinen
+93 RESIDING WITH PERSON NOT FOUND: Jontinen Herbert r Chas Jontinen
+95 ADD: Juntunen Adam (Jana)
+96 RESIDING WITH PERSON NOT FOUND: Juntunen Anna tchr r Adam Juntunen
+98 RESIDING WITH PERSON NOT FOUND: Juntunen Mayme student r Adam Juntunen
+99 RESIDING WITH PERSON NOT FOUND: Kaario Andrew r Jacob Kaario
+100 RESIDING WITH PERSON NOT FOUND: Kaario Arvid r Jacob Kaario
+101 RESIDING WITH PERSON NOT FOUND: Kaario Henry r Jacob Kaario
+102 ADD: Kaario Jacob (Margt)
+103 RESIDING WITH PERSON NOT FOUND: Kaario Matt r Wm J Symons
+104 RESIDING WITH PERSON NOT FOUND: Kaiponen Arth r Henry Kaiponen
+105 RESIDING WITH PERSON NOT FOUND: Kaiponen Eino r Henry Kaiponen
+106 RESIDING WITH PERSON NOT FOUND: Kaiponen Helen r Henry Kaiponen
+107 ADD: Kaiponen Henry (Margt)
+108 RESIDING WITH PERSON NOT FOUND: Kaiponen Urho r Henry Kaiponen
+110 NAME: Karpi Matt
+112 ADD: Karpinen Louis (Sophie)
+113 RESIDING WITH PERSON NOT FOUND: Karpinen Louis jr woodsmn r Louis Karpinen
+114 RESIDING WITH PERSON NOT FOUND: Kartinen Eino r Herman Kartinen
+115 NAME: Kartinen Herman
+116 ADD: Kauppenen Anna (wid Matt)
+117 ADD: Keiski Carl (Cath)
+118 RESIDING WITH PERSON NOT FOUND: Keiski John A r Carl Keiski
+119 ADD: Kempainen Matt (Bridget) farmer
+120 NAME: Kemppinen Eric
+121 RESIDING WITH PERSON NOT FOUND: Keranen Alf r John L Keranen
+122 ADD: Keranen John L (Wilpur) farmer
+123 ADD: Keranen Jonas (Valboa)
+124 RESIDING WITH PERSON NOT FOUND: Keranen Leonard r John L Keranen
+125 RESIDING WITH PERSON NOT FOUND: Keranen Yalmer J r John L Keranen
+126 ADD: Keratto Louis (Minnie)
+127 RESIDING WITH PERSON NOT FOUND: Kerrato Carl r Louis Kerrato
+128 RESIDING WITH PERSON NOT FOUND: Kerrato Elmer r Louis Kerrato
+129 RESIDING WITH PERSON NOT FOUND: Kerrato Emil r Louis Kerrato
+130 RESIDING WITH PERSON NOT FOUND: Kerrato Erick r Louis Kerrato
+131 RESIDING WITH PERSON NOT FOUND: Kerrato John student r Louis Kerrato
+132 NAME: Kietila Jacob
+133 RESIDING WITH PERSON NOT FOUND: Kinnunen Adam r Matt Kinnunen
+135 RESIDING WITH PERSON NOT FOUND: Kinnunen Helen r Chas Kinnunen
+136 RESIDING WITH PERSON NOT FOUND: Kinnunen Herman r Matt Kinnunen
+137 RESIDING WITH PERSON NOT FOUND: Kinnunen Lauri woodsmn r Chas Kinnunen
+138 NAME: Kinnunen Matt
+139 RESIDING WITH PERSON NOT FOUND: Kinnunen Minnie r Matt Kinnunen
+140 RESIDING WITH PERSON NOT FOUND: Kinnunen Wilho woodsmn r Chas Kinnunen
+141 ADD: Klee Wm (Clara)
+142 ADD: Kolaski Louis (Mary)
+143 NAME: Korpi Sax
+144 NAME: Koskela Peter
+145 ADD: Koskela Richd (Ellen)
+146 ADD: Koski John (Josephine)
+147 ADD: Koski Matt (Kate)
+148 NAME: Lahti Henry
+149 ADD: Lahti Peter (Bertha)
+150 ADD: Laity Richd (Antoinette)
+151 ADD: Lampinen Arth (Mary)
+152 ADD: Lampinen Werner (Mayme)
+153 ADD: Lampinen Wm (Kate) farmer
+154 RESIDING WITH PERSON NOT FOUND: Leiviska Geo r Henry Leiviska
+155 ADD: Leiviska Henry (Josephine)
+156 RESIDING WITH PERSON NOT FOUND: Leiviska John r Henry Leiviska
+157 RESIDING WITH PERSON NOT FOUND: Lindberg Alf r Uno Lindberg
+158 ADD: Lindberg Uno (Sophie)
+159 RESIDING WITH PERSON NOT FOUND: Lindberg Wilfred r Uno Lindberg
+160 ADD: Link John (Sophia)
+161 ADD: Luoto Arvid (Lempi)
+162 ADD: Mailanen Weiu (Eliz)
+163 ADD: Majurin Robt (Mary)
+164 ADD: Maki Andrew (Matilda) farmer
+165 ADD: Maki Anna (wid Frank)
+167 RESIDING WITH PERSON NOT FOUND: Maki Florence r Andrew Maki
+168 ADD: Maki Henry (Hilma)
+169 RESIDING WITH PERSON NOT FOUND: Maki Ilmar r Andrew Maki
+170 ADD: Maki Isaac (Amanda)
+171 ADD: Maki Matt (Ida)
+172 RESIDING WITH PERSON NOT FOUND: Maki Rachael slswn Copper Range Co Store r Andrew Maki
+173 RESIDING WITH PERSON NOT FOUND: Maki Wm r Henry Maki
+174 NAME: Makinen Gust
+175 RESIDING WITH PERSON NOT FOUND: Makinen Helga r Gust Makinen
+176 ADD: Mason Albert (Eva M)
+178 ADD: Matero Eli (Hilda)
+179 RESIDING WITH PERSON NOT FOUND: Matero Elmer r Eli Matero
+180 RESIDING WITH PERSON NOT FOUND: Matero Ensio r Eli Matero
+181 RESIDING WITH PERSON NOT FOUND: Matero Helen r Chas Matero
+183 RESIDING WITH PERSON NOT FOUND: Mattila Carl r Sami Mattila
+184 ADD: Mattila Sami (Hannah)
+185 RESIDING WITH PERSON NOT FOUND: Mattila Tyne r Sami Mattila
+186 RESIDING WITH PERSON NOT FOUND: Mattila Walter r Sami Mattila
+187 RESIDING WITH PERSON NOT FOUND: McMahon Helen (wid John) r Robt McMahon
+188 NAME: McMahon Robt
+189 ADD: McMahon Wm (Louise)
+190 RESIDING WITH PERSON NOT FOUND: Merila Hilda hskpr r Jacob Merila
+191 ADD: Merila Jacob (Hilda)
+192 ADD: Messner John (Anna) gdnr
+193 NAME: Messner Wallace
+194 RESIDING WITH PERSON NOT FOUND: Mikkola Hannah r Richd Mikkola
+195 RESIDING WITH PERSON NOT FOUND: Mikkola John r Richd Mikkola
+196 RESIDING WITH PERSON NOT FOUND: Mikkola Martha student r Richd Mikkola
+198 ADD: Miller Thos (Marie)
+199 NAME: Moilinen Sami
+200 ADD: Moinenen Ida (wid Henry)
+202 RESIDING WITH PERSON NOT FOUND: Monkoski Jos driver r John Monkoski
+204 RESIDING WITH PERSON NOT FOUND: Monkoski Leo driver r John Monkoski
+205 RESIDING WITH PERSON NOT FOUND: Morin Helen student r Jos Morin
+206 RESIDING WITH PERSON NOT FOUND: Morin Henry r Jos Morin
+207 ADD: Morin Jos (Alphonsine)
+208 RESIDING WITH PERSON NOT FOUND: Morin Lucille tchr r Jos Morin
+209 RESIDING WITH PERSON NOT FOUND: Morin Mae sten r Jos Morin
+210 ADD: Moris Maundy (Ina)
+211 RESIDING WITH PERSON NOT FOUND: Murisoja Johannah r Matt Murisoja
+212 ADD: Murisoja Matt (Hilda)
+213 RESIDING WITH PERSON NOT FOUND: Murisoja Walter bkpr r Matt Murisoja
+214 RESIDING WITH PERSON NOT FOUND: Murisoja Wm r Matt Murisoja
+215 NAME: Nelson Adolph
+216 RESIDING WITH PERSON NOT FOUND: Nelson Arth r Aug Nelson
+217 ADD: Nelson Aug (Hulda)
+218 RESIDING WITH PERSON NOT FOUND: Nelson Eleanor r Aug Nelson
+219 RESIDING WITH PERSON NOT FOUND: Nelson Florence r Adolph Nelson
+220 RESIDING WITH PERSON NOT FOUND: Nelson Gunard r Aug Nelson
+221 ADD: Nelson John farmer
+223 ADD: Niskanen Hilda (wid Casper)
+224 RESIDING WITH PERSON NOT FOUND: Niskanen John r Mrs Hilda Niskanen
+225 RESIDING WITH PERSON NOT FOUND: Niskanen Wm r Mrs Hilda Niskanen
+226 RESIDING WITH PERSON NOT FOUND: Niskey Edna tchr r Fred Niskey
+227 RESIDING WITH PERSON NOT FOUND: Niskey Edwin r Fred Niskey
+228 RESIDING WITH PERSON NOT FOUND: Niskey Ellen student r Fred Niskey
+229 ADD: Niskey Fred (Alina)
+230 ADD: Niskey Kate (wid Erick)
+231 RESIDING WITH PERSON NOT FOUND: Niskey Raymond r Mrs Kate Niskey
+232 RESIDING WITH PERSON NOT FOUND: Niskey Ruben r Mrs Kate Niskey
+233 RESIDING WITH PERSON NOT FOUND: Niskey Wm r Mrs Kate Niskey
+234 ADD: Northey Henry (Eliza)
+235 RESIDING WITH PERSON NOT FOUND: Northey Phyllis elk PO r Henry Northey
+236 ADD: Ojala Chas (Lydia)
+237 RESIDING WITH PERSON NOT FOUND: Ojala Chas jr r Chas Ojala
+238 RESIDING WITH PERSON NOT FOUND: Ojalo Wilho r Chas Ojalo
+239 RESIDING WITH PERSON NOT FOUND: Paalo Emil r John Paalo
+240 ADD: Paalo John (Kate)
+241 ADD: Partanen Ole (Mina) farmer
+242 RESIDING WITH PERSON NOT FOUND: Peckala Ainard r Mrs Laura Peckala
+243 RESIDING WITH PERSON NOT FOUND: Peckala Aino r Mrs Laura Peckala
+244 ADD: Peckala Laura (wid Edw)
+245 RESIDING WITH PERSON NOT FOUND: Peckala Martha r Mrs Laura Peckala
+246 ADD: Peramaa Frank (Hilia)
+247 RESIDING WITH PERSON NOT FOUND: Phillips Mary (wid Jas) r Chas Cole
+248 ADD: Pietila Ellen (wid Matt)
+249 RESIDING WITH PERSON NOT FOUND: Pietila Sigrid r Mrs Ellen Pietila
+250 ADD: Post Office Chas M Cole postmstr
+252 NAME: Raisanen Paavo
+253 RESIDING WITH PERSON NOT FOUND: Rautio Edw student r Jos Rautio
+254 RESIDING WITH PERSON NOT FOUND: Rautio Helia r Jos Rautio
+255 NAME: Rautio Jos
+256 RESIDING WITH PERSON NOT FOUND: Rautio Matt hlpr r Jos Rautio
+257 RESIDING WITH PERSON NOT FOUND: Rawland Howard (Augusta) r Wm Stephens
+258 ADD: Richard Glenn (Lottie)
+259 ADD: Richards Jos H (Mary)
+261 ADD: Riella John (Ida)
+262 RESIDING WITH PERSON NOT FOUND: Riippi Arth r John Riippi
+263 RESIDING WITH PERSON NOT FOUND: Riippi Hannah bkpr Copper Range Co Store r John Riippi
+264 NAME: Riippi John
+265 NAME: Ritola John
+266 RESIDING WITH PERSON NOT FOUND: Ritola Lempi r John Ritola
+267 RESIDING WITH PERSON NOT FOUND: Ritola Lillian tchr r John Ritola
+268 ADD: Robarge Jos (Mary)
+269 NAME: Ruito John
+270 RESIDING WITH PERSON NOT FOUND: Rytty Chas woodsmn r Isaac Maki
+271 RESIDING WITH PERSON NOT FOUND: Rytty Rudolph woodsmn r Isaac Maki
+272 RESIDING WITH PERSON NOT FOUND: Ryty Alena r John Ryty
+273 RESIDING WITH PERSON NOT FOUND: Ryty Geo bkpr r John Ryty
+274 ADD: Ryty John (Mary)
+275 RESIDING WITH PERSON NOT FOUND: Saarala Herman r Louis Karpinen
+277 NAME: Seppanen Henry
+278 ADD: Seppanen Lars (Annie)
+279 RESIDING WITH PERSON NOT FOUND: Simmoneau Jos r Mrs Margt Simmoneau
+280 ADD: Simmoneau Margt (wid John)
+281 ADD: Simpson Sami B (Pauline) msngr PO
+284 ADD: Soumis Eug (Ida)
+285 RESIDING WITH PERSON NOT FOUND: Strom Ada Mrs maid E A Hamar r Edw A Hamar
+287 RESIDING WITH PERSON NOT FOUND: Stromer Edith maid E A Hamar r Aug Stromer
+288 RESIDING WITH PERSON NOT FOUND: Smith Hubert student r John Stone
+289 RESIDING WITH PERSON NOT FOUND: Smith Mary r Mrs Victoria Smith
+290 RESIDING WITH PERSON NOT FOUND: Smith Steve r Mrs Victoria Smith
+291 ADD: Smith Victoria (wid Max)
+292 ADD: Steimle Cath (wid Jacob)
+293 RESIDING WITH PERSON NOT FOUND: Steimle John M tchr r Mrs Cath Steimle
+294 RESIDING WITH PERSON NOT FOUND: Stephens Nicholas farmer r Wm Stephens
+295 ADD: Stephens Wm farmer
+296 RESIDING WITH PERSON NOT FOUND: Stiemac Anna r Mrs Victoria Stiemac
+297 RESIDING WITH PERSON NOT FOUND: Stiemac Blanche r Frank Stiemac
+298 ADD: Stiemac Frank (Julia)
+299 RESIDING WITH PERSON NOT FOUND: Stiemac Gabriel r Mrs Victoria Stiemac
+300 RESIDING WITH PERSON NOT FOUND: Stiemac Jos r Frank Stiemac
+301 RESIDING WITH PERSON NOT FOUND: Stiemac Peter r Frank Stiemac
+302 RESIDING WITH PERSON NOT FOUND: Stiemac Thos meat ctr r Frank Stiemac
+303 ADD: Stiemac Victoria (wid Florian)
+304 RESIDING WITH PERSON NOT FOUND: Stone Cyril bus driver r John Stone
+305 ADD: Stone John (Mary)
+306 ADD: Straton D A (Alice)
+307 ADD: Strom Ernest (Hannah)
+308 ADD: Strom Ida (wid Chas)
+309 RESIDING WITH PERSON NOT FOUND: Strom Rana r Mrs Ida Strom
+310 RESIDING WITH PERSON NOT FOUND: Strom Uno sta agt r Mrs Ida Strom
+311 ADD: Symons Wm J
+312 RESIDING WITH PERSON NOT FOUND: Taavola Helen r Peter Taavola
+313 NAME: Taavola Peter
+314 RESIDING WITH PERSON NOT FOUND: Taavola Reynold r Peter Taavola
+315 ADD: Takkinen Chas (Ida)
+316 RESIDING WITH PERSON NOT FOUND: Takkinen Martha hskpr r Chas Takkinen
+317 ADD: Tamblyn Grace (wid Thos)
+318 ADD: Tapani Albert (Erika)
+319 RESIDING WITH PERSON NOT FOUND: Tapani Arni hlpr r Albert Tapani
+320 ADD: Tapani Elmer (Sigrid)
+321 RESIDING WITH PERSON NOT FOUND: Tapani Jeanette r Albert Tapani
+322 ADD: Thomas Arnold (Lena)
+323 RESIDING WITH PERSON NOT FOUND: Tolonen Albert student r Chas Tolonen
+324 ADD: Tolonen Chas (Amanda)
+325 RESIDING WITH PERSON NOT FOUND: Tolonen Linda r Chas Tolonen
+326 RESIDING WITH PERSON NOT FOUND: Tomberg Eliz r Peter Tomberg
+327 RESIDING WITH PERSON NOT FOUND: Tomberg John r Peter Tomberg
+328 RESIDING WITH PERSON NOT FOUND: Tomberg Margt tchr r Peter Tomberg
+329 RESIDING WITH PERSON NOT FOUND: Tomberg Paul r Peter Tomberg
+330 ADD: Tomberg Peter (Hannah)
+331 RESIDING WITH PERSON NOT FOUND: Tomberg Wm r Peter Tomberg
+332 ADD: Tormala Fred (Helen)
+333 ADD: Tormala Henry (Ida)
+334 RESIDING WITH PERSON NOT FOUND: Tormala Orville r Henry Tormala
+335 RESIDING WITH PERSON NOT FOUND: Tormala Simon r Henry Tormala
+336 RESIDING WITH PERSON NOT FOUND: Tormala Wilbert r Henry Tormala
+337 ADD: Torvinen John jr (Matilda)
+338 RESIDING WITH PERSON NOT FOUND: Toy Ruth student r Mrs Grace Tamblyn
+339 RESIDING WITH PERSON NOT FOUND: Toy Wm (Annie) r Mrs Grace Tamblyn
+340 RESIDING WITH PERSON NOT FOUND: Takala Ailie r John Takala
+341 RESIDING WITH PERSON NOT FOUND: Takala Ellie student r John Takala
+342 ADD: Takala John (Kath)
+343 RESIDING WITH PERSON NOT FOUND: Takala Reino student r John Takala
+344 RESIDING WITH PERSON NOT FOUND: Takala Toivo student r John Takala
+346 RESIDING WITH PERSON NOT FOUND: Tepsa Lempi r Isaac Tepsa
+347 RESIDING WITH PERSON NOT FOUND: Tepsa Onnie lab S L Boutin Son r Isaac Tepsa
+348 RESIDING WITH PERSON NOT FOUND: Tepsa Sophie r Isaac Tepsa
+350 ADD: Umont Francis (Lucille)
+351 RESIDING WITH PERSON NOT FOUND: Wanhatalo Ellen student r Jacob Wanhatalo
+352 RESIDING WITH PERSON NOT FOUND: Wanhatalo Esther hskpr r Jacob Wanhatalo
+353 ADD: Wanhatalo Jacob (Agnes)
+354 RESIDING WITH PERSON NOT FOUND: Wanhatalo Lydia student r Jacob Wanhatalo
+355 RESIDING WITH PERSON NOT FOUND: Wanhatalo Martha student r Jacob Wanhatalo
+357 RESIDING WITH PERSON NOT FOUND: Vassa Albert woodsmn r Jos Vassa
+361 ADD: Warner Edwin E (Amelia Warner Garage Co)
+362 ADD: Warner Garage Co (Edwin E Warner) Calumet
+364 ADD: Wayrynen Bertha (wid Eli)
+365 RESIDING WITH PERSON NOT FOUND: Wayrynen Walter r Bertha Wayrynen
+367 RESIDING WITH PERSON NOT FOUND: White Chester r Fred Leitzky
+368 ADD: Wilkinson Edw (Mary)
+369 RESIDING WITH PERSON NOT FOUND: Willson Howard student r Dr P H Willson
+371 RESIDING WITH PERSON NOT FOUND: Willson Robt student r Dr P H Willson

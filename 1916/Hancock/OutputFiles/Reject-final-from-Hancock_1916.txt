@@ -1,0 +1,609 @@
+3 NAME, PERSON NOT FOUND: Abramson Uno J student, bds 850 Pine
+6 ADD, JOB NOT FOUND: Acme Garage (Albert Seppi, Alfred Nelson), 817 Quincy
+20 ADD, JOB LOCATION NOT FOUND: Aho Ida, confr Frenchtown Station, res same
+54 ADD, JOB NOT FOUND: Amerikan Suometar (triweekly), Finnish Lutheran Book Concern publrs, 541 Quincy
+68 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Anderson Charles, lab, bds 325Franklin
+74 ADD, JOB LOCATION NOT FOUND: Anderson Frank O (Ida), driver, res ft of Dacotah
+91 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Angell Robert, tchr High School, bds Schnieder blk
+94 ADD, JOB NOT FOUND: Anstess Jessie (wid Wm R), res Uperr Pewabic loc
+104 ADD, JOB NOT FOUND: AntiTuberculosis Society (branch), 21 Wright blk
+108 NAME, PERSON NOT FOUND: Anttila Hilia waitress Cafe Du Nord, rms Northwestern Hotel
+120 NAME: Assn, phys Epstein bldg, res 526 Franklin
+121 NAME: Armour Co, George Dabold mgr, whol meats cor Railroad av and Elevation
+124 NAME: ARMSTRONGTHIELMAN LUMBER CO, Albert M Quandt Mgr, Lumber Manufacturers and Dealers Portage Lake ft of Mesnard, Tel 186, Mills at Hubbell, Yards Calumet, Hancock and Hubbell (See front edge)
+132 ADD, JOB NOT FOUND: Asiala Kaarto (Charles F Asiala, John Kaarto), ins 6 Kauth blk
+153 ADD, JOB NOT FOUND: Automatic Base Ball, Frank Condon and Wm Madigan proprs, 319 Quincy
+156 ADD, JOB LOCATION NOT FOUND: Baakonin Matti (Mary), miner, res Quincy, Hillside
+161 ADD, JOB NOT FOUND: Baer Bertha Mrs (Baer Bros), res Milwaukee, Wis
+162 NAME: BAER BROS (Henry L, Mrs Bertha and Estate of Jacob Baer), Wholesale and Retail Meats 200 Quincy cor Tezcuco, Tel 24
+164 NAME: Baer Jacob Estate of (Baer Bros), 200202 Quincy
+168 NAME: Bair F Way land (Emma), engr, res 803 Lake av
+171 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bajari John E, lab, bds O A Isaacson
+174 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bakka Andrew, driver, bds Herman Bakka
+178 ADD, JOB LOCATION NOT FOUND: Bakko Herman (Christina), driver, res Franklin Mine loc
+191 ADD, JOB LOCATION NOT FOUND: Ballard John I (Fannie G), engr Quincy M Co, res e of 01d Hospital, Quincy loc
+193 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bano Alto, lab, bds Charles Natelle
+205 NAME: Barkhausen Oil Co, G S Runyan mgr, Ripley
+219 ADD, JOB NOT FOUND: Barrett Wallace, motor boy Han Con M Co
+222 ADD, JOB LOCATION NOT FOUND: Barry Alfred (Aurephise), lab, res Quincy Hillside
+252 ADD, JOB NOT FOUND: Beaudette John, tracklayer Han Con M Co
+261 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bedini Emanuele, lab, bds Amerigo Monticello
+287 NAME: Belling Frederick W G (Margaret), meats 312 Quincy, res same
+322 ADD, JOB LOCATION NOT FOUND: Bertram Martin (Clara), hlpr H C Gas Coke Co, res Arcadian cor 2d, Ripley
+325 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Betinna Louis, lab, bds Charles Notelle
+330 ADD, JOB LOCATION NOT FOUND: Biagi Germano (Ida), lab, res opp car station, Franklin loc
+339 ADD, JOB LOCATION NOT FOUND: Bice Richard G (Emma), mach, res County rd, Upper Pewabic loc
+350 NAME: Blatz Val Brewing Co, Michael Holland mgr, 807 Quincy
+370 ADD, JOB NOT FOUND: BOARD OF EDUCATION, John H Hicok Pres, John M Wagner Sec, George H Roberts, Wm Reid, Peter E Steinbach, Henry L Baer Trustees, Harry D Lee Supt, High School Bldg, Tel 464
+371 NAME: Board of Public Works, Edward Henwood chairman, Wm J Hoffenbacher sec, City Hall
+422 NAME: BORRESEN OTTO A L (Caroline), Jeweler, Watches, Diamonds, Clocks, Etc, 127 Quincy, Tel 675J res 208 Church, Tel 577M
+427 NAME: BOSCH BREWING CO, Wm A Braun Agt, 206 Dacotah, Tel 143
+459 NAME: Braun, see also Brown
+476 ADD, JOB NOT FOUND: BRIDGEMANRUSSELL COMPANY, I N Chellew Mgr, Wholesale Dairy Products, Mnfrs of Primus Creamery Butter and Velvet Ice Cream, ne cor Hancock and Scott, Tels South 341 and 342
+507 ADD, JOB LOCATION NOT FOUND: Brousseau Edgar (Salome), carp, res Quincy, Hillside
+508 NAME: Brown, see also Braun
+524 ADD, JOB NOT FOUND: Brown Peterman, Josephine Boivin mgr, cloaks and suits 112 Quincy
+539 NAME, PERSON NOT FOUND: Burritt Barney H T (Burritt Burritt), city attorney, bds 707 Quincy
+541 ADD, JOB NOT FOUND: BURRITT BURRITT (Wm A and Barney H T), Lawyers, Scott Blk, Tel 325
+554 ADD, JOB NOT FOUND: Cafe Du Nord, Mandelin Bros proprs, 211 Quincy
+560 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Calligan John C, bkpr E M Lieblein, rms Exley Flats
+568 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Campbell Charlotte, student, bds Fred Campbell
+569 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Campbell Elizabeth, student, bds Fred Campbell
+570 ADD, JOB LOCATION NOT FOUND: Campbell Fred (Mary), carp, res N Quincy loc w of 01d Hospital
+572 ADD, JOB NOT FOUND, PERSON NOT FOUND: Campbell Isabel, bds Fred Campbell
+573 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Campbell John A, student, bds Fred Campbell
+574 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Campbell M Margaret, sten Han Con M Co, bds Fred Campbell
+575 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Campbell Winifred, student, bds Fred Campbell
+580 NAME: Carey, see Karey
+586 ADD, JOB NOT FOUND: Carlson Charles (aged 53), died July 7, 1915
+633 NAME, PERSON NOT FOUND: Carroll Wm watchman Han Con M Co, bds 709 Ryan
+634 NAME: Carroll Wm J (Theresa) barber 324 Quincy, res 319 White
+641 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cashion Edward, miner, bds Mrs Mary Cashion
+642 ADD, JOB LOCATION NOT FOUND: Cashion Mary (wid Patrick), res Hills of Ethel av
+644 ADD, JOB NOT FOUND: Catholic Cemetery, sw cor Elevation and Quincy
+683 ADD, JOB LOCATION NOT FOUND: Christina Louis (Anna), lab, res Cleaves, Ripley
+689 ADD, JOB NOT FOUND: Chynoweth Lester E, removed to Detroit, Mich
+699 ADD, JOB NOT FOUND: CITY CLERKS OFFICE, Wm J Hoffenbacher Clerk, City Hall
+700 ADD, JOB NOT FOUND: CITY DRUG STORE, Werner Nikander Propr, Drugs, Toilet Articles, Books and Stationery, Cigars, Tobaccos and Confectionery, 205 Quincy, Tel 204F2
+701 ADD, JOB NOT FOUND: City Engineers Office, Clarence G Mason engr, City Hall
+702 ADD, JOB NOT FOUND: CITY HALL, ns Quincy opp Montezuma Park
+703 ADD, JOB NOT FOUND: City Jail, Wm J Rentenbach chief, City Hall
+704 ADD, JOB NOT FOUND: City Treasurers Office, Norman D Starrett treas, City Haff
+729 ADD, JOB NOT FOUND: Close Hodgson (James A Close, Wm A Hodgson), bldg material and flour 101 Tezcuco
+758 ADD, JOB NOT FOUND: Conway T Francis, removed to Milwaukee, Wis
+777 ADD, JOB NOT FOUND: Copper Range Railroad, John T Rentenbach agt, pass and frt station, ft of County Bridge
+803 ADD, JOB NOT FOUND: COUGHLIN THOMAS AGENCY (Thomas Coughlin, Albert L Levy), General Insurance, Real Estate, Loans, Etc, 217 Quincy, Tel 359
+813 ADD, JOB NOT FOUND: Cox Henry, removed to Laurium, Mich
+814 ADD, JOB NOT FOUND: Cox James, removed to Duluth, Minn
+820 ADD, JOB LOCATION NOT FOUND: Craig John A (Louise), elk E F Slattery Co, res Front 2 e of Pewabic rd, Ripley
+824 ADD, JOB NOT FOUND: CRAWFORD JOHN D (Frances), Licensed Embalmer and Funeral Director 300 Hancock, Tel 149F1 res 210 Ravine, Tel 149F2
+840 ADD, JOB NOT FOUND: Crowley Jeremiah P, removed to Honolulu, H I
+848 ADD, JOB NOT FOUND: CROWLEYS GROCERY, Daniel Crowley Propr, Groceries, Fruits and Vegetables, 422 Quincy, Tel 485
+850 ADD, JOB NOT FOUND: Crown Berlowitz (A Benjamin Crown, Abraham Berlowitz), 51025c store, 116 Quincy
+854 ADD, JOB NOT FOUND: Cubs Billiard Parlor, Edward Ryan mgr, 125 Quincy
+858 ADD, JOB NOT FOUND: CUFF EDWARD D (Margaret), Electrical Contractor, Electric Fixtures and Supplies, Automobile Wiring and Electrical Work, 514 Quincy, Tel 986J, res same (See opp page 486)
+870 NAME: Dakota Heights Co, Henry Baer pres, Thomas Coughlin vicepres, C D Hanchette sec and treas, real estate, Hotel Scott bldg
+884 ADD, JOB LOCATION NOT FOUND: Davey Thomas H (Hortensia), molder, res Ripley nr Front, Ripley
+898 ADD, JOB LOCATION NOT FOUND: Delbridge Norman, student bds 939 4th
+899 ADD, JOB LOCATION NOT FOUND: Delbridge Richard, engr bds 939 4th
+903 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Delbridge Raymond, lab Han Consd Mining Co, bds 939
+909 NAME, PERSON NOT FOUND: Dennis Bessie G A, bds 328 Harris av
+912 NAME, PERSON NOT FOUND: Dennis Mary E M, bds 127 Water
+926 ADD, JOB NOT FOUND: Detention Hospital, Franklin loc
+927 NAME: DETROIT NORTHERN MICHIGAN BUILDING Loan Assn, Samuel B Harris Pres, Henry L Baer VicePres, Charles D Hanchette SecTreas and Attorney, Frederick M Penniston Cashr, Hotel Scott Bldg
+964 ADD, JOB NOT FOUND, PERSON NOT FOUND: DOVER HALVORSON (Charles Dover, Halvor Halvorson), Pianos, Electric Pianos, Player Pianos, Organs, Musical Goods and Sewing Machines and Repairs, 436 Quincy, Tel 423R (See opp page 486) Dowd Carrie, bds D W Dowd
+965 ADD, JOB NOT FOUND, PERSON NOT FOUND: Dowd Daniel J, stoker H C Gas Coke Co, bds D W Dowd
+966 ADD, JOB LOCATION NOT FOUND: Dowd Daniel W (Agnes), tmstr, res Front 1 e of Pewabic rd, Ripley
+967 ADD, JOB NOT FOUND, PERSON NOT FOUND: Dowd Emma, bds D W Dowd
+968 ADD, JOB LOCATION NOT FOUND: Dowd Grover (Maude), lab, res Pewabic rd, Ripley
+969 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dowd Thomas, lab, bds D W Dowd
+970 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Dowd Wm J, elk E F Slattery Co, bds D W Dowd
+973 ADD, JOB NOT FOUND: Doyle Catherine (wid John), removed to Houghton, Mich
+988 ADD, JOB NOT FOUND: Drittler Block, 204206 Quincy
+991 ADD, JOB NOT FOUND: Driving Park, ws Railroad av nr Ingot
+995 ADD, JOB NOT FOUND: Drouin Joseph J, removed to Marquette, Mich
+1002 ADD, JOB NOT FOUND: Dugdale Hannah (wid Wm aged 66), died Sept 28, 1912
+1010 NAME: Duluth South Shore Atlantic Ry Depot, C S Jones agt, ft of Mesnard
+1019 ADD, JOB NOT FOUND: Dunn Thomas (aged 72), died Jan 25, 1915
+1057 ADD, JOB NOT FOUND: Edward Ryan School, nw cor Michigan and Minnesota
+1071 NAME: Ehler Jacob Co (Jacob and Carrie Ehler), proprs Ehlers Shoe Store, 209 Quincy
+1072 ADD, JOB NOT FOUND: EHLERS SHOE STORE (Jacob Ehler Co), 209 Quincy, Tel 635M
+1073 ADD, JOB NOT FOUND: EICHKERN JOHN J (Delia), General Insurance, Real
+1074 NAME: Estate, Loans and Collections 116 Quincy, Tel 493 res 1011 Railroad av, Tel 393W
+1083 ADD, JOB NOT FOUND: Eilola Frank (Clara Frank Eilola Co), res Oscar, Mich, Tel 938R
+1084 NAME: EILOLA FRANK CO (Frank Eilola), Groceries, Meats and Provisions cor Quincy and Lake, Tel 56
+1090 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Eilola Otto, lab Han Con M Co, bds O A Isaacson
+1094 ADD, JOB NOT FOUND: Elks Temple Blk, se cor Front and Reservation
+1095 ADD, JOB NOT FOUND: Elks Temple, Hancock lodge B P O E No 381, se cor Front and Reservation
+1101 NAME: E L Wright School, cor Reservation and Oak
+1106 ADD, JOB NOT FOUND: Epstein Building, 116 Quincy
+1132 NAME: Eskelin Bros (Alexander and Charles), coal and wood 606 1/2 Hancock
+1147 ADD, JOB NOT FOUND: Evangelical Lutheran Church, Rev Gottlieb J Traub pastor, ne cor Hancock and Montezuma
+1148 ADD, JOB NOT FOUND: Evangelical Lutheran School, Rev Gottlieb J Traub prin, ns Hancock 2 e of Montezuma
+1149 ADD, JOB NOT FOUND: EVENING COPPER JOURNAL (Daily), Hancock Journal Co Publrs, 107 Quincy, Business Office, Tel 193, Editorial Office 21F1
+1156 ADD, JOB NOT FOUND: Exley Building, ss Front, 2 e of Reservation
+1176 NAME: FARMERS C00PERATIVE TRADING CO, John Nummivuori Mgr, Groceries, Farm Implements, A
+1177 NAME: Full Line of General Merchandise, 201205 Franklin, Tel 982J
+1216 NAME: Finnish Apostolic Lutheran Church, Rev Arthur L Heideman pastor, 618 Franklin
+1217 NAME: Finnish Evangelical Lutheran Church, Rev Matt Pesonen pastor, ne cor Reservation and Franklin
+1218 NAME: Finnish Evangelical Lutheran College, see Suomi Callege and Theological Seminary
+1219 ADD, JOB NOT FOUND: Finnish Hall, Franklin Mine
+1220 NAME: FINNISH LUTHERAN B00K CONCERN, Finnish Evangelical Lutheran Church of America Proprs, Mathias Kangas Mngr, Printers, Booksellers, Publishers and Bookbinders, 541 Quincy, Tel South 394
+1221 ADD, JOB NOT FOUND: Fire Department Headquarters, City Hall
+1222 NAME: Fire Hall and Engine House, ns Quincy opp Montezuma
+1223 ADD, JOB NOT FOUND: First Congregational Church, Rev Ulysses G Rich pastor, sw cor Hancock and Tezcuco
+1224 NAME: First M E Church, Rev Ralph M Pierce pastor, ns Quincy 2 w of City Hall
+1225 NAME: FIRST NATIONAL BANK OF HANCOCK, W R Thompson Pres, George H Nichols VicePres, John C Condon Cashier, Michael M Shea Asst Cashier, 240 Quincy, Tel 1000 (See front cover)
+1226 NAME: First National Bank Bldg, 240 Quincy
+1227 ADD, JOB NOT FOUND: Fischer Arthur F (Mary), chief phys Quincy Dispensary, res County rd, Quincy loc
+1244 NAME: Foundry Machinery Co, res 54 Front, Ripley
+1251 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Flynn Edward, lab Isle Royale Copper Co, bds Mrs Hannah Ryan
+1282 ADD, JOB NOT FOUND: Fourneris Angelo (Mary), boarding 231 Hancock
+1316 ADD, JOB NOT FOUND: Franklin Car Station, Franklin loc
+1317 ADD, JOB NOT FOUND: Franklin Location, see Franklin Mine
+1318 NAME: Franklin Mine Post Office, Wm T Hale postmaster County rd, Franklin Mine
+1319 ADD, JOB NOT FOUND: Franklin School (District No 5), Frank X Clifford supt, Franklin Mine
+1324 ADD, JOB NOT FOUND: Franson F C, buttermkr BridgemanRussell Co
+1329 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Fredericks Austin J, collr First National Bank, bds 914
+1330 NAME: Summit
+1333 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Frederighi Albert, lab, bds John Peroni
+1346 ADD, JOB NOT FOUND: Funkey Block, 238 Quincy
+1351 NAME: FUNKEY HARDWARE CO, John Funkey Pres, Fred
+1352 ADD, JOB NOT FOUND: Funkey VicePres, Gertrude Funkey SecTreas, 236 Quincy, Tel 118F1 (See left bottom lines)
+1360 ADD, JOB NOT FOUND: FUNKEY WILLIAM M (Mary E), Plumbing and Heating Contractor, Gas and Steam Fitting, 308 Ravine, Tel 630J res 702 Lake, Tel 587W (See right top lines)
+1403 NAME: Gartner Furniture Co, Jacob Gartner Dept Store propr, 102104 Quincy
+1404 ADD, JOB LOCATION NOT FOUND: Gartner Isidore (Aroma), propr Jacob Gartner Dept Store, res Lake and Hancock, Tel 561R
+1405 NAME: GARTNER JACOB DEPARTMENT STORE, Isidore
+1406 ADD, JOB NOT FOUND: Gartner Propr, 102104 Quincy, Tel 370
+1407 ADD, JOB NOT FOUND: Gartner Millinery Dept (Jacob Gartner Dept Store), L
+1408 ADD, JOB NOT FOUND: Grace Granius propr, 102104 Quincy
+1414 ADD, JOB NOT FOUND: GAUTHIER AUGUST, General Contractor and Builder, Estimates Furnished, 125 Quincy, Tel 882M, res same (See left bottom lines)
+1424 NAME: Gekas Bros, James Gekas mgr, confrs 212 Quincy
+1428 ADD, JOB NOT FOUND, PERSON NOT FOUND: Gemigniami Aladin R, bds Frank Gemigniami
+1429 ADD, JOB LOCATION NOT FOUND: Gemigniami Frank, confr Franklin Car Station, res same
+1447 NAME: German Evangelical Lutheran School, ns Hancock 2 e of Montezuma
+1448 ADD, JOB NOT FOUND: Germania Hall, 311313 Quincy
+1456 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gidley Louis, lab, bds D W Dowd
+1471 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Giuliani Alfred, lab, bds Germano Biagi
+1474 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Giusti Giovanni, lab, bds Telemaw Maraccini
+1476 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Givera Ugodel, lab, bds Telemaw Maraccini
+1483 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Gobetti Charles, miner, bds Jerry Maroni
+1485 NAME: GODFREY E R SONS CO, J H Lucas Mgr, Hancock, Milwaukee, Calumet, Wholesale Groceries, Fruits and Vegetables, Distributors for Cremo Cerasota and Occident Flour, Our Gold Buckle Products are Absolutely Reliable, 436 Hancock, Tels 301 and 872
+1513 NAME: Grand Union Tea Co, Charles Lewis mgr, 502 Quincy
+1514 ADD, JOB LOCATION NOT FOUND: Granius L Grace (wid Cyrus W), propr Jacob Gartner Millinery Dept Store, res Wright bldg
+1519 NAME: Great Atlantic and Pacific Tea Co, Matti Immonen agt, 939 Ethel av
+1521 ADD, JOB LOCATION NOT FOUND: Green Bertha Mrs, vicepres Lake Superior I and M Co, res Detroit
+1541 NAME: GRINNELL BROS MUSIC HOUSE (Upper Peninsula Branch), John W Cliffe Mgr, 309 Quincy, Tel 678
+1546 NAME: Grosnick Wm A D (Minnie), mach, res 313 Arcadian, Ripley
+1547 ADD, JOB LOCATION NOT FOUND: Gross Calvin R (Rena), watchman, res Front 2 e of Pewabic rd, Ripley
+1557 NAME: Guibault A Co (Mrs Alice Guibault), millinery and needlework 223 Quincy
+1567 ADD, JOB LOCATION NOT FOUND: Gutmann Joseph (Mary), eng, res 811Railroad av
+1578 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Haapala Charles, lab, bds Mrs Alma Sorvala
+1581 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Haaponiemi John, lab, bds O A Isaacson
+1603 ADD, JOB LOCATION NOT FOUND: Hakkinen Fannie, tailor Kansankoti Hall, res same
+1632 ADD, JOB NOT FOUND, PERSON NOT FOUND: Hammes Agnes, bds 607y Hancock
+1640 ADD, JOB NOT FOUND: HANCHETTE LAWTON (Charles D Hanchette, Swaby L Lawton), Lawyers 101 Quincy, Tel 1100
+1641 ADD, JOB NOT FOUND: HANCOCK CITY HALL, ns Quincy opp Montezuma Park
+1643 NAME: Hancock City Water Works, Portage Lake 1 mile w of City Hall
+1644 NAME: HANCOCK CONSOLIDATED MINING CO, John D Cuddihy (Calumet, Mich), Pres, Thomas Hoatson (Larium, Mich) VicePres, John H Hicok SecTreas, John L Harris Genl Mgr, 101 Quincy, Tel 387
+1645 NAME: Hancock Consolidated Mining Co Mining Capts office, 930 Ingot
+1647 NAME: Hancock Dry Goods Co, Mrs Jane C MacLean propr, 129 Quincy
+1648 ADD, JOB NOT FOUND: Hancock Evening Journal, see Evening Copper Journal
+1649 ADD, JOB NOT FOUND: Hancock Fire Department, ns Quincy opp Montezuma Park
+1650 NAME: HANCOCK FURNITURE CO, Angus M MacDonald Prop, Household Goods 121123 Quincy, Tel 16 (See opp page 486)
+1651 NAME: HANCOCK GARAGE AUTO LIVERY, Wm Eldred Jr Prop, Work Guaranteed, Day and Night Calls, 201 Hancock, Tel 802M (See right side lines)
+1653 ADD, JOB NOT FOUND: Hancock House, Frank Ouelette prop, 108 Hancock
+1654 ADD, JOB NOT FOUND: HANCOCK IMPROVEMENT CLUB, Hugo Field Pres, Charles S Mason Treas, Albert S Ley Sec, 107 Quincy (See opp page 487)
+1655 NAME: HANCOCK JOURNAL CO, A S Ley SecTreas and Genl Mgr, Publishers Evening Copper Journal, 107 Quincy, Tels 193 and 21
+1656 NAME: HANCOCK LUMBER CO, Edward Ulseth Pres, Rhino Fichtel VicePres, W Frank James Sec, Harvey Johnson Treas and Genl Mgr, Lumber, Lath, Shingles and Moulding, Dressed Lumber and Turned Work a Specialty, Office 434 Quincy, Tel 122F1 Yards sw cor Roberts and D S S A R R tracks, Tel 122F2 (See left side lines)
+1657 ADD, JOB NOT FOUND: Hancock Protestant Cemetery, sw cor Quincy and Michigan
+1658 NAME: Hancock Roman Catholic Cemetery, sw cor Quincy and Elevation
+1659 NAME: Hancock Sandstone Land Co, S B Harris pres, George Ruppe vicepres, C D Hanchette sec and treas, 101 Quincy
+1660 ADD, JOB NOT FOUND: Hancock Star Bakery (A Nelson estate), N B Ongie mgr, 205 Hancock
+1661 NAME: Hancock Calumet R R, see Mineral Range R R
+1670 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hanley Margaret, maid Scott Hotel, bds same
+1672 ADD, JOB LOCATION NOT FOUND: Hanley Michael (Nora), miner, res Quincy Hillside
+1763 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Harvey Hortense, student, bds James Gardner
+1796 ADD, JOB LOCATION NOT FOUND: Heather Wm (Catherine), miner, res County rd, Mesnard location
+1819 ADD, JOB LOCATION NOT FOUND: Heikkila Henry (Mary), lab, res Pewabic rd, Ripley
+1825 ADD, JOB LOCATION NOT FOUND: Heikkinen Hannes (Mary), lab, res 735Elm
+1843 ADD, JOB LOCATION NOT FOUND: Henders Harry, switchman, rms 22 Front, Ripley
+1844 ADD, JOB LOCATION NOT FOUND: Henderson James W (Ella), barber, res 416 (405) Cooper avenue
+1886 ADD, JOB NOT FOUND: High School, ns Quincy bet Montezuma and Mesnard
+1924 ADD, JOB LOCATION NOT FOUND: Hogan Martin (Emily), prop Scott Hotel, res same
+1938 NAME: HOLLAND FURNACE CO, Axel A Johnson Agt, 934 Ethel av, Tel 843 M (See back cover)
+1944 ADD, JOB NOT FOUND, PERSON NOT FOUND: Holland Margaret, bdsvMichael Holland
+1954 ADD, JOB NOT FOUND: Holler Harold, bellboy Scott Hotel
+1956 ADD, JOB NOT FOUND: Holman Block, 224226 Quincy
+1960 ADD, JOB LOCATION NOT FOUND: Holmstein Carl (Emily), bartndr, res 416 (405) Cooper avenue
+1976 ADD, JOB LOCATION NOT FOUND: Hosking John H, elk BridgemanRussell Co bds 809 Railroad av
+1993 ADD, JOB NOT FOUND: HOTEL SCOTT, Martin Hogan Prop, cor Reservation and Quincy, Tel 800
+1994 NAME: Houghton County Advertising Agency (F W Wagner), 833 Lake av
+1995 NAME: Houghton County Loan and Investment Assn (branch), Napoleon J Brodeur asst sec, 418 Quincy
+1996 NAME: HOUGHTON COUNTY GAS AND COKE COMPANY, John L West Mgr, Exley Bldg
+1997 NAME: Houghton County Macaroni Mfg Co (Joseph Rock pres, Antonio Federighio sec, Arvasio Lend treas, Guido Camponi mgr, 1002 Minnesota
+1998 NAME: HOUGHTON COUNTY P00R FUND, R M Morrison Supt, First National Bank Bldg
+1999 NAME: Houghton County Traction Co, car barns, ws Ethel av s of Ingot
+2000 NAME: Houghton County Traction Co, power station, ss Quincy ft Ethel av
+2001 NAME: Houghton Lumber Co, R C Pryor pres, John C Pryor vpres and mgr, C H Lang sec and treas, Ripley
+2010 ADD, JOB NOT FOUND: Howard James L (aged 75), died June 7, 1915
+2064 ADD, JOB LOCATION NOT FOUND: Ilmonen Solomon Rev, mgr Suomi College and Theological Seminary, res Hill nr Summit
+2071 NAME: Ingram M R LeRoy (Mary), collr Grinnell Bros, res 1025 Summit
+2089 ADD, JOB NOT FOUND: JAASKO C EMIL, Painter and Decorator, Dealer in Paints, Wall Paper and Decorative Novelties, Contractor of All Kinds of Painting and Decorating, 404 Quincy, res same Tel 745W (See left side lines)
+2094 ADD, JOB NOT FOUND: Jacobs George, mining capt Quincy M Co
+2103 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jacobson Joel, lab, bds Mrs Josie Jacobson
+2104 ADD, JOB NOT FOUND: Jacobson Josie (wid Gabriel), res 3d nr Ripley, Ripley
+2112 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Jago Wm, miner, bds Absalom Peters
+2113 ADD, JOB LOCATION NOT FOUND: Jahfetson Aaro (Tyne), lab, res 741Elm
+2123 NAME: JAMES W FRANK AGENCY (W Frank James, General Insurance and Real Estate 317 Quincy, Tel 11F2
+2163 ADD, JOB NOT FOUND: JENNINGS SISTERS (Minnie and Edith), Millinery, Fancy Goods, Art Needlework and Hair Goods, Childrens Dresses and Boys Suits Up to Six Years 108 Quincy, Tel 328R
+2164 NAME: Jewel Tea Co, August Hoppelman mgr, 704 3d, Ripley
+2177 ADD, JOB NOT FOUND: JOHNSON ANDREW ESTATE, Mining Timber, Saw Logs, Cord Wood, Coal, Heavy Teaming and Dynamite and Blasting Supplies, Pewabic Loc near Quincy Shaft No 2, Tel South 806 (See left top lines)
+2242 ADD, JOB LOCATION NOT FOUND: JOHNSON WM (Elizabeth), Mgr Andrew Johnson Estate res Pewabic loc nr Quincy Shaft No 2, Tel South 806, Hancock P O
+2267 ADD, JOB NOT FOUND: Jousi Society (Finnish), Kansankoti Hall
+2279 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Juntunen Albin, lab, bds Joseph Juntunen
+2285 ADD, JOB LOCATION NOT FOUND: Juntunen Joseph (Hilda), farmer, res Quincy Hillside
+2286 ADD, JOB NOT FOUND, PERSON NOT FOUND: Juntunen Leonard, feeder, bds Joseph Juntunen
+2288 ADD, JOB NOT FOUND, PERSON NOT FOUND: Juntunen Nancy, bds Joseph Juntunen
+2298 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Juusola John, lab, bds O A Isaacson
+2316 ADD, JOB NOT FOUND: Kallio Hannah, pantry girl Scott Hotel
+2317 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kallio Herman, trammer Isle Royale Copper Co, bds Alexander Mankihen
+2339 ADD, JOB LOCATION NOT FOUND: Kangas John (Anna), lab Isle Royale Copper Co, res Pewabic rd, Ripley
+2367 ADD, JOB NOT FOUND: Kansankoti Hall, Herman Louko mgr, 506 Tezcuco
+2387 ADD, JOB NOT FOUND, PERSON NOT FOUND: Karling Anna, bds Matt Karling
+2389 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Karling John, lab, bds Matt Karling
+2390 ADD, JOB LOCATION NOT FOUND: Karling Matt (Elizabeth), lab, res n of 502 Portage, Ripley
+2393 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Karpakka Arvid, lab, bds Matt Karpakka
+2394 ADD, JOB LOCATION NOT FOUND: Karpakka Matt (Mary), lab, res Pewabic rd, Ripley
+2417 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Karsikka John, lab, bds Peter Malari
+2447 ADD, JOB NOT FOUND: Kauth Block, 220 Quincy
+2469 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kelley Anna, elk Jacob Gartner, bds Mrs Honora Kelley
+2473 ADD, JOB NOT FOUND, PERSON NOT FOUND: Kelley Maggie, bds Mrs Honora Kelley
+2646 ADD, JOB LOCATION NOT FOUND: Koivipala Edward H (Elizabeth), phys 116 Quincy, res Portage Entry
+2660 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kooper Edith, student, bds Matti Kooper
+2661 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kooper George, student, bds Matti Kooper
+2662 ADD, JOB LOCATION NOT FOUND: Kooper Matti (Walpuri), carp, res head Reservation
+2663 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kooper Nelma, tchr, bds Matti Kooper
+2664 ADD, JOB NOT FOUND: Kopana Wm, res Elevation and Liberty
+2668 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kopp C Wilford, hlpr, bds Mrs Theresa Kopp
+2669 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kopp Florence T, elk, bds Mrs Theresa Kopp
+2670 ADD, JOB NOT FOUND: Kopp George (aged 51), died May 19, 1915
+2671 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Kopp John G, miner, bds Mrs Theresa Kopp
+2682 NAME: Koppelman John G C, lino opr, bds 226 Arcadian, Ripley
+2685 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Korhonen John, miner, bds Henry Kohkonen
+2787 ADD, JOB NOT FOUND: KUKKONEN CHARLES A, Art Store and Photo Studio 318 Quincy, Tel 240M res 209 Sampson, Tel 937J
+2811 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Laamanen Hilda, student, rms 825Warren
+2818 NAME: Lady of Mt Carmel Church, Rev Henry Kron pastor, County rd Quincy loc
+2833 ADD, JOB LOCATION NOT FOUND: Laitinen Edward (Ida), lab, res 2d, Ripley
+2841 NAME: Lake Superior Iron and Metal Co, Jacob H Green pres, Mrs Bertha Green (Detroit, Mich) vicepres, J E ONeill treas, Abraham Albion sec, Front, Ripley
+2842 NAME: Lake Superior Stone Brick Co,, Front, Ripley
+2843 ADD, JOB NOT FOUND: Lakeside Cemetery Assn, Wm H Mason pres, Charles D Hanchette vicepres, Thomas Coughlin sec, Wm W Stockley treas, John D Crawford supt, office 217 Quincy
+2844 ADD, JOB NOT FOUND: LAKEVIEW HOTEL (European), Arvo J Vitali Propr, Rates 050 Per Day and Up, Weekly Rates on Application, cor Hancock and Tezcuco, Tel 802M (See left bottom lines)
+2919 ADD, JOB NOT FOUND: Larsen Flats, 509511 Hancock
+2920 ADD, JOB NOT FOUND: LARSEN HENRY (Hilda), Bottler of Soft Drinks, Carbonated, Aeriated and Mineral Waters, Ginger Ale, Soda Water, Etc, 511 Hancock, res, same Tel 287F1
+3008 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lehne Albert, lab, bds Joseph Wasniak
+3012 NAME, PERSON NOT FOUND: Lehto Ellen M K, bds 854 Pine
+3013 ADD, JOB LOCATION NOT FOUND: Lehto Gabriel, carp, res curve of New rd n of Shafter
+3014 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Lehto Helvie, student, bds Gabriel Lehto
+3017 ADD, JOB NOT FOUND: LEHTO ISAAC SONS (Isaac, Oscar A and Wm I Lehto), Dealers in Groceries, Meats and General Merchandise, 910 Pine, Tel 299
+3022 ADD, JOB LOCATION NOT FOUND: Lehtola Andrew (Lempi), miner, res Pontiac, Franklin PO
+3032 ADD, JOB NOT FOUND, PERSON NOT FOUND: LeMaier Emma, bds Scott Hotel
+3045 NAME: Lencioni Bros (Joseph and Louis), grocers 1035 Ethel av
+3055 NAME: Lepisto N Co, Nester Lepisto mgr, groceries and meats 229 Franklin
+3065 ADD, JOB NOT FOUND: Leveille Edmund (aged 50), died June 2, 1914
+3072 ADD, JOB LOCATION NOT FOUND: Lewis Edgar, watchman bds 640 Front, Ripley
+3094 ADD, JOB NOT FOUND: Limerick Car Station, Limerick loc
+3119 ADD, JOB LOCATION NOT FOUND: Line John (Amie), shoemkr Emil Pulkinen, res Tezcuco nr Quincy
+3174 NAME: Lumber Co, res 803 Elm
+3181 ADD, JOB NOT FOUND: Luokaimen Charles (aged 45), died Dec 26, 1915
+3182 ADD, JOB LOCATION NOT FOUND: Luoma John (Selma), lab, res Pewabic rd, Ripley
+3191 NAME: Luusua Bros (Emil and Anton T), grocers 856 Pine
+3200 ADD, JOB NOT FOUND: Lynch Dennis, removed to Springfield, 111
+3211 ADD, JOB NOT FOUND, PERSON NOT FOUND: Lynch Timothy, bds St Josephs Hospital
+3248 NAME: McDonald, see also MacDonald
+3282 NAME: McLean, see also MacLean
+3294 NAME: McLOGAN PEARCE MUSIC CO (James C McLogan, Irving G Pearce), Pianos, Organs, Talking Machines and Diamond Disc Phonographs, Piano and Pipe Organ Tuning and Repairing, 337339 5th, Calumet, Tel North 234 (See front cover)
+3304 ADD, JOB NOT FOUND: McMillan Robert, removed to Detroit, Mich
+3308 ADD, JOB NOT FOUND: McVeigh David G (aged 71), died Dec 9, 1915
+3317 NAME: MacDonald, see also McDonald
+3319 NAME: MAC DONALD ANGUS W (Elizabeth), Propr Hancock Furniture Co, res Houghton, Mich
+3325 ADD, JOB NOT FOUND: MacDonald Neil S, removed to Mohawk, Minn
+3328 NAME: MacLean, see also McLean
+3403 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Manaschi Julius, lab, bds John Peroni
+3404 NAME: Mandelin Bros (Edward and Thurston), proprs Cafe Du Nord, 211 Quincy
+3418 ADD, JOB LOCATION NOT FOUND: Maninen Clemes (Sigri), lab, res 745p2 Elm
+3438 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Marco Lucille, student, bds John Marko
+3441 ADD, JOB NOT FOUND: Maris Edward L, removed to Milwaukee, Wis
+3444 NAME: Marks, see also Marx
+3479 NAME: Martin, see also Martyn
+3516 NAME: Marx, see also Marks
+3520 ADD, JOB NOT FOUND: Mason Building, 416418 Quincy
+3522 ADD, JOB NOT FOUND: MASON CHARLES S (Nellie B), Wholesale and Retail Coal and Wood, Lime, Cement, Stone, Brick, Tile, Hay, Grain and Mill Stuff, Office, Yards and Warehouse 608610612 Hancock, Tel 518F1 res 621 Lake av, Tel 518F2
+3529 NAME: Masonic Building and Hall, 226232 Hancock
+3532 NAME: Maternity Home and Hospital, Aina Lundbeck matron, 803 Elm
+3542 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Matson Edwin, driver Western Express Co, bds Charles Matson
+3543 ADD, JOB NOT FOUND, PERSON NOT FOUND: Matson Ellen, bds Charles Matson
+3544 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Matson George, stockkpr, bds Charles Matson
+3546 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Matson Helen, student, bds Charles Matson
+3549 ADD, JOB NOT FOUND, PERSON NOT FOUND: Matson Robert, mail elk, bds Charles Matson
+3552 ADD, JOB NOT FOUND: Matt Flats, 820 Quincy
+3559 NAME: Mich Bldg Loan Assn, res 302 Mason av
+3605 NAME: May, see also Mey
+3607 ADD, JOB NOT FOUND: MAYORS OFFICE, Abram Ojala Mayor, City Hall
+3615 ADD, JOB NOT FOUND, PERSON NOT FOUND: Mayotte Frank, internal rev coir, rms Wright bldg
+3632 NAME: May worm Frank C (Elizabeth), jeweler 224 Quincy, res 524 Hancock
+3652 NAME: Merke, see Moehrke
+3668 NAME: Metropolitan Life Ins Co, F J Milford dep supt, 31 Wright bldg
+3671 ADD, JOB NOT FOUND: Mette August (aged 65), died July 2, 1914
+3674 ADD, JOB NOT FOUND: Mette Edward J, removed to Detroit, Mich
+3684 ADD, JOB NOT FOUND: Mettner Wm J (aged 34), died Feb 11, 1915
+3686 NAME: Mey, see also May
+3699 ADD, JOB NOT FOUND: Michaelson Oscar, removed to Lake Linden, Mich
+3706 NAME: Michels OverAll Mfg Co, Samuel A Michels propr, Elks Temple bldg
+3707 ADD, JOB LOCATION NOT FOUND: Michels Samuel A (Linda), propr Michels OverAll Mfg Co, res 823 (822) Hancock
+3708 NAME: Michigan Bed Spring Co, John B Wirkku propr, 118 Franklin
+3720 ADD, JOB LOCATION NOT FOUND: Milford James H (Christina), janitor Franklin School, res County rd, Franklin loc
+3736 ADD, JOB NOT FOUND: Milwaukee Hotel, Mrs Cornelia Stephenson propr, 301 Tezcuco
+3737 NAME: Mineral Range R R, C S Jones agt, depot ft of Mesnard
+3744 ADD, JOB NOT FOUND: Mitchell Eldred J, removed to Detroit, Mich
+3756 ADD, JOB NOT FOUND: Moehrke August F, removed to Kenosha, Wis
+3762 ADD, JOB NOT FOUND: Moehrke Wm C jr, removed to Dollar Bay
+3782 ADD, JOB NOT FOUND: Montezuma Park, Montezuma bet Quincy and Water
+3786 ADD, JOB NOT FOUND, PERSON NOT FOUND: Monticelli Lawrence, bds Oresta Monticelli
+3794 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Moore Emil, elk Scott Hotel, bds same
+3812 ADD, JOB NOT FOUND: Morrison George C, removed to Calumet, Mich
+3815 ADD, JOB NOT FOUND: MORRISON RODERICK C (Marion), Dentist, Office Hours 9 to 12 a m, 130 to 5 and 7 to 8 p m, Sundays by Appointment, 112 Quincy, Tel 73J res 431 Scott, Tel 788J
+3838 ADD, JOB LOCATION NOT FOUND: Mudge Wm (Edith), porter E R Godfrey Sons Co, res Emma av nr DSSARR
+3860 ADD, JOB LOCATION NOT FOUND: Murphy Patrick H, driver Standard Oil Co, res 2d nr Ripley, Ripley
+3863 ADD, JOB NOT FOUND: Murphy Wm F (aged 24), died Dec 20, 1915
+3867 ADD, JOB NOT FOUND: Mustonen Adaline (wid Oscar), res 841Summit
+3878 NAME: Mutual Transit Co, dock Portage Lake ft of Reservation, Fred J LeMere gen agt
+3899 ADD, JOB NOT FOUND: NATIONAL BOTTLING WORKS, Ruona Mattson Proprs, Mnfrs and Dealers in All Kinds of Carbonated Beverages, nw cor Scott and Hancock, Tel 271W
+3901 ADD, JOB NOT FOUND: Naval Reserve Armory, 2d fl 311315 Quincy
+3915 ADD, JOB NOT FOUND, PERSON NOT FOUND: Nelson Anna, bds J B Wirkku
+3922 ADD, JOB LOCATION NOT FOUND: Nelson Edward (Lenore), lineman H C T Co, res 420 (407) Cooper av
+3932 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nestor Jacob, bottler Park Brewing Co, bds 4th Pine
+3933 ADD, JOB NOT FOUND: Neville Alice (wid Frank), res 605Hancock
+3939 NAME: New York Life Insurance Co, J B Wirkku genl agt, 210 Quincy
+3940 ADD, JOB LOCATION NOT FOUND: Ney Peter, fireman, res 619Quincy
+3945 ADD, JOB NOT FOUND: NICHOLS GEORGE H, The Rexall Store, Drugs, Toilet Goods, Books, Stationery, Etc, 220 Quincy, Tel 116, VicePres First Natl Bank of Hancock res 609 Quincy, Tel 775J
+3966 ADD, JOB LOCATION NOT FOUND: Niemi Peter (Jennie M), lab, res 743J3 Elm
+3989 ADD, JOB LOCATION NOT FOUND: Nissala Andrew, miner, res 3d Mesnard loc
+3990 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nissala Edith, bds Andrew Nissala
+3993 ADD, JOB NOT FOUND: NISSILA MAKELA (Edward Nissila, Carl Makela), Proprs Scott Street Livery, Scott bet Quincy and Franklin, Tel 622 (See opp page 487)
+4024 ADD, JOB NOT FOUND: NORTH STAR CAFE, Hakala Moilanen Proprs, Gymnasium, Turkish Baths and Swimming Pool, 306 Reservation, Tel 616M
+4025 NAME: North Star Temperance Hall, 308 Reservation
+4026 NAME: North S D Son (George S North), proprs Quincy Store,
+4027 ADD, JOB NOT FOUND: Northey Block, 205 Quincy
+4029 ADD, JOB NOT FOUND: NORTHWESTERN HOTEL (Maki Lohipaenen), European Plan, 213 Quincy, Tel 38M
+4030 ADD, JOB LOCATION NOT FOUND: Norton Dennis J, pres Park Brewing Co, res Ontonagon, County rd, Quincy loc
+4031 NAME: Norwegian Evangelical Lutheran Church, Quincy loc
+4032 NAME: Norwegian Lutheran Free Church, ns White opp 444 same
+4033 ADD, JOB NOT FOUND: Norwegian Temperance Hall, Quincy loc
+4034 ADD, JOB LOCATION NOT FOUND: Notelle Charles (Mary), lab, res 3d, Mesnard loc
+4035 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Nousiainen 011i, lab, bds O A Isaacson
+4065 ADD, JOB NOT FOUND: OBrien John (aged 60), died March 12, 1915
+4068 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: OBrien John, lab, bds Phillip OBrien
+4072 ADD, JOB LOCATION NOT FOUND: OBrien Patrick J (Anna), blksmith, res Quincy Hillside
+4073 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: OBrien Peter, pressman Copper Journal, bds P J OBrien
+4082 ADD, JOB NOT FOUND: Odd Fellows Hall, Masonic bldg
+4103 NAME: OJALA BROS (Abram and Jacob), Grocers, Meats and Provisions 718720 Quincy, Tel 388
+4115 NAME: 01cen, see 01eson, 01sen and 01son
+4116 NAME: 01d First National Bank Building, 101 Quincy
+4124 NAME: 01eson, see also 01son
+4136 ADD, JOB NOT FOUND: 01ivier Building, nw cor Quincy and Ravine
+4146 NAME: 01son, see also 01eson
+4189 NAME: ONeill Agnes M4 bds 906 Pine
+4190 ADD, JOB NOT FOUND, PERSON NOT FOUND: ONeill Anna, bds Jeremiah ONeil
+4232 ADD, JOB NOT FOUND: Opie Elizabeth (wid Abraham), res Opie loc
+4250 ADD, JOB LOCATION NOT FOUND: Orella Dominick R (Theresa), bkpr Superior Natl Bank res 1035 Minnesota
+4254 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: ORourke Michael, bartndr Henry Carlson, rms Lakeview Hotel
+4255 NAME: ORourke 01ive/appr Copper Journal, res 1024 Minnesota
+4257 ADD, JOB NOT FOUND: Orpheum Theatre, Benjamin D Nooman mgr, 428 Quincy
+4286 NAME: OWL DRUG STORE THE, Charles L Reed Mgr, Drugs, Candy, Cigars and Toilet Articles, Cameras, Kodaks and Supplies, Nyals and Finnish Remedies, Ice Cream in Season 416 Quincy, Tel 9
+4302 ADD, JOB NOT FOUND: Paimen Sanomia (Finnish Church Weekly), Rev Maunu I Kuusi editor, 541 Quincy
+4312 NAME, PERSON NOT FOUND: Pantti 01ga E A, sten BridgmanRussell Co, bds 829 Warren
+4316 NAME: PARK BREWING CO, Dennis J Norton Pres, James Vignetto VicePres, James P Healy Sec and Treas, sw cor Ethel and Railroad avs, Tel 381
+4330 ADD, JOB NOT FOUND: Pascoe James Rev, removed to Tacoma, Mich
+4344 NAME: Paul Wm A O, sec and treas Quincy Mining Co, res New York City
+4353 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pauli Wm, blksmith, bds Absalom Peters
+4359 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pavlich Matt, timberman, bds Fred Spehai
+4370 NAME: Pearce, see also Pierce
+4386 NAME, PERSON NOT FOUND: Pedelty Ellen E M, bds 76 Hard Scrabble
+4425 NAME, PERSON NOT FOUND: Pelto Lillian O E, student, bds 639 1/2 Finn
+4444 NAME: PEOPLES FUEL CO THE, G R Campbell Pres, J P Petermann VicePres, W B Anderson Treas, Richard Vincent Sec and Genl Mngr, W J Richards Local Mngr, Agents for the Celebrated Scranton Coal Also Best Grade of Bituminous, Smithing Coal and Coke, 225 Quincy, Tel South 507
+4445 NAME: Peoples Fuel Co (docks and yards) Portage Lake, below bridge
+4452 ADD, JOB LOCATION NOT FOUND: Peroni John (Annie), boarding es Ethel av 2 s of Ingot res same
+4467 ADD, JOB NOT FOUND: PETAJA ANDREW (Maria), Furniture and Undertaking 630 Quincy, Tel 250F1, res same
+4470 ADD, JOB LOCATION NOT FOUND: Peters Absalom (Caroline), miner, res County rd Upper Pewabic loc
+4481 ADD, JOB NOT FOUND: Peterson Christina (wid Peter), res n of 502 Portage, Ripley
+4491 ADD, JOB LOCATION NOT FOUND: Peterson Hjalmer, lab bds 83 Pine
+4504 ADD, JOB LOCATION NOT FOUND: Peterson Minnie, elk Schulte Bros, bds Ryan, Quincy loc
+4508 ADD, JOB NOT FOUND: Peterson Peter (aged 64), died Nov 14, 1915
+4509 ADD, JOB LOCATION NOT FOUND: Peterson Peter (Augusta), lab res 729 Elm
+4510 ADD, JOB NOT FOUND, PERSON NOT FOUND: Peterson Peter, bds E E Jarvis
+4515 ADD, JOB LOCATION NOT FOUND: Petit Henry, lab bds Paul Petit
+4521 NAME: Pewabic Methodist Episcopal Church, Rev Lewis Keast pastor, County rd, N Quincy loc
+4522 NAME: Pewabic School Jeremiah Bettens prin, Pewabic loc
+4526 ADD, JOB LOCATION NOT FOUND: Philpot Douglas, lab bds 518 Ethel av
+4537 NAME: Pierce, see also Pearce
+4553 ADD, JOB LOCATION NOT FOUND: Piklaja Nestor (Amanda), lab, res Pewabic rd, Ripley
+4568 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pisani Jaako, lab, bds Amerigo Monticello
+4569 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Pisani Vincent, lab, bds Amerigo Monticello
+4591 ADD, JOB NOT FOUND: Police Department Headquarters, City Hall, Wm J Rentenbach chief of police
+4614 NAME: Portage Coal and Dock Co, J H Hicok genl mgr, whol and ret coal 207 Quincy, Dock Ripley Lake
+4615 NAME: Portage Lake Baptist Church, nw cor Front and Dunstan
+4616 NAME: Portage Lake Boiler Works (John Beckman, Henry OLeary), sheet iron workers, Ripley on Portage
+4617 NAME: PORTAGE LAKE FOUNDRY MACHINERY CO, L A Cleaves Pres, L M Cleaves Treas and Gen Mgr, Mnfrs of Mine and Milling Machinery, Steam Stamps, Jigs and Rock Crushers, Stamp Shoes and Other Chilled Castings a Specialty, Lake Front, Ripley, Tel South 6 (See left side lines)
+4618 ADD, JOB NOT FOUND: POST OFFICE, Daniel A Holland Postmaster, 222 Quincy
+4621 ADD, JOB NOT FOUND: POWER LAMAR M, City Health Officer, Physician and Surgeon, Suite 5 Kauth Block, Office Hours 24 and 78 p m, Tel 203F2 L Pewabic loc
+4631 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Priest Harold, plumber, bds A21y2 Hancock
+4643 NAME: Prudential Insurance Co, A F Menzel supt, 101 Quincy
+4649 ADD, JOB NOT FOUND: Public School Library, High School bldg
+4651 ADD, JOB LOCATION NOT FOUND: Pucci Dominic (Celia), miner, res County rd, Mesnard loc
+4686 ADD, JOB NOT FOUND: Quincy Band, Frederick Pascoe leader, Quincy loc
+4688 ADD, JOB NOT FOUND: Quincy Dispensary, Arthur F Fischer chief physician, Roy den E Woodhull, Amos Richard asst physician, Asquith Thomas pharmacist, 146 Quincy loc
+4690 NAME: Quincy Garage Supply Co, L M Fallon propr, cor Hancock and Mesnard
+4691 ADD, JOB NOT FOUND: Quincy Hall, n Quincy loc
+4692 ADD, JOB NOT FOUND: Quincy Hillside, bet White and Quincy loc
+4698 NAME: Quincy Mine Assay Office, John A McDonald assayer, Quincy loc
+4699 NAME: Quincy Mine Captains Office (north), George Jacobs capt, Quincy loc
+4700 NAME: Quincy Mine Captains Office (south), Charles Kendall capt, Quincy loc
+4701 NAME: Quincy Mine Fire Department, A C Butler chief, Quincy rd, Quincy loc
+4702 NAME: Quincy Mining Co, Wm R Todd (N Y City) pres, W Parsons Todd (N Y City) vicepres, W A O Paul (N Y City) sec and treas, Charles L Lawton genl mgr, County rd, Quincy loc
+4703 NAME: Quincy Mining Cos Supply Office, John C Carney supply elk, Quincy loc
+4704 ADD, JOB NOT FOUND: Quincy School, Dist No 1, James G Johnston supt, Quincy loc
+4705 ADD, JOB NOT FOUND: Quincy Smelting Wks, Alexander Laist supt, on Portage Lake, Ripley
+4706 ADD, JOB NOT FOUND: Quincy Stamp Mills, James W Shields supt, at Mason on Torch Lake rd nr Hubbell
+4707 ADD, JOB NOT FOUND: Quincy Store, S D North Son proprs, County rd, Quincy loc
+4708 ADD, JOB NOT FOUND: Quincy Township Library, Helen G Hathaway librarian, Quincy Mining Cos office
+4709 NAME: Quincy Torch Lake R R, Charles L Lawton vicepres and genl mgr, Frederick J McLain sec and treas, Quincy Mining Cos office
+4711 ADD, JOB LOCATION NOT FOUND: Raak John jr (Esther), miner, res Franklin Mine loc
+4738 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Raisanen Henry, timberman, bds O A Isaacson
+4744 ADD, JOB LOCATION NOT FOUND: Ralph John jr (Ethel), supt H C T Co, res 930 (1100) Ethel av
+4817 ADD, JOB NOT FOUND: Ressette Edward, removed to Ft Dodge, la
+4833 NAME: Reynolds Lewis brkmn Isle Royale Copper Co
+4864 ADD, JOB NOT FOUND: Richards Lucy Mrs, boarding 305 Water, res sajme
+4887 ADD, JOB NOT FOUND: Ripley Park, Portage Lake w of Quincy Smelting wks, Ripley
+4888 ADD, JOB NOT FOUND: Ripley School (Dist No 2), Franklin twp, Leo F Duggan prin, ns Front 1 mile e of County Bridge
+4895 ADD, JOB LOCATION NOT FOUND: Riutta Wm (Hilma), lab res 912 Elm
+4917 NAME: ROCK BROS (John and Joseph Rock), Fancy Groceries and Hardware 811 Warren, Tel 625W
+4959 ADD, JOB LOCATION NOT FOUND: Ross Rosario, elk A J Drouin bds 1013 Ethel av
+4962 ADD, JOB NOT FOUND: Rouleau Block, 307 Quincy
+4963 ADD, JOB NOT FOUND: ROULEAU CHARLES E (Mary D), Justice of the Peace, 307 Quincy, Tel 385M res 955 Railroad av, Tel 760R
+4970 ADD, JOB NOT FOUND: Rourke Building, 112114 Quincy
+4979 ADD, JOB NOT FOUND: ROURKE RICHARD JR (Elizabeth), Electrical Contractor and Selling Agent for Electrical Appliances 304 Reservation, Tel 289J res 9 Front, Ripley, Tel 565J (See opp page 487)
+4993 ADD, JOB LOCATION NOT FOUND: Rowe Mary J, elk bds 413 Mine
+4999 ADD, JOB NOT FOUND: Royce George A (aged 59), died Nov 7, 1915
+5014 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Rule Lillian, student, bds Wm Rule
+5029 ADD, JOB NOT FOUND: Ruona August (Ruona Mattson), res Ishpeming
+5038 ADD, JOB NOT FOUND: RUPPE P SONS (George and Joseph C), General Merchandise 128 Quincy, Tel 25
+5053 NAME: Ryan John L (Catherine) watchman Han Consd M Co, res 1209 Park
+5056 ADD, JOB NOT FOUND: Ryan Kate Mrs, res 118Hancock
+5085 ADD, JOB LOCATION NOT FOUND: Saastamoinen Emil (Hilma), editor Finnish Lutheran Book Concern, res 503Finn
+5087 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Saastamoinen Paul, trammer, bds O A Isaacson
+5091 NAME: SAHLSTEIN WAISANEN (John Sahlstein, John Waisanen, Mens Outfitters, Hats, Caps, Boots, Shoes and Clothing 305 Quincy, Tel 876J
+5094 NAME, PERSON NOT FOUND: St Amour Wm K, bds 900 Pine
+5097 ADD, JOB NOT FOUND: St Georges Chapel, Rev Oreste Salcini pastor, se cor Michigan and Elm
+5098 NAME, PERSON NOT FOUND: St John Joseph H, lab, bds 306 Hancock
+5100 ADD, JOB NOT FOUND: St Josephs Hospital, under charge ofSisters of St Joseph, Mother Liguori Superioress, Water opp Catholic cemetery
+5101 NAME: ST JOSEPHS R C CHURCH (German and French), Rev Fred Glaser Pastor, Rev Caspar Douenburg Asst Pastor, ns Quincy opp Mesnard
+5102 NAME: St Josephs R C School, in charge Sisters of St Joseph, ns Quincy, opp Mesnard
+5103 NAME: St Patricks R C Church, Rev T J Atfield pastor, ns Quincy 2 e of Ravine
+5104 NAME: St Patricks School and Convent, Sisters of St Joseph in charge, se cor Ravine and Franklin
+5105 NAME: St Peter and St Paul Evangelical Lutheran Church, ne cor Hancock and Montezuma
+5120 ADD, JOB LOCATION NOT FOUND: Salminen Arthur (Hannah), lab res Quincy loc
+5121 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Salminen Emil, trammer Han Consd M Co, bds Mrs Mary Salminen
+5123 ADD, JOB NOT FOUND, PERSON NOT FOUND: Salminen John, bds Mrs Mary Salminen
+5124 ADD, JOB NOT FOUND: Salminen Mary (wid Matt), res Pewabic rd, Ripley
+5125 ADD, JOB NOT FOUND, PERSON NOT FOUND: Salminen Saima, bds Arthur Salminen
+5126 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Salminen Towo, blksmith, bds Mrs Mary Salminen
+5127 ADD, JOB NOT FOUND, PERSON NOT FOUND: Salminen Wm, bds Mrs Mary Salminen
+5133 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Salo Kusti, lab, bds O A Isaacson
+5163 ADD, JOB LOCATION NOT FOUND: Sarvisto Gust, printer Copper Journal, res Trap Rock Valley
+5164 ADD, JOB NOT FOUND: SATURDAY POST, John G Turia Co Publishers, 404 Ravine (See opp page 487)
+5179 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Savolainen Sixtus, lab, bds O A Isaacson
+5184 ADD, JOB NOT FOUND: Savoy Theatre, Benjamin Gettelmann mgr, 317 Quincy
+5185 ADD, JOB NOT FOUND: SAXBY CHARLES B (Elma), Sales Stable 419 Michigan, Tel 530F1 res 413 same, Tel 530F2 (See right top lines)
+5191 ADD, JOB NOT FOUND: Scanlon Ellen (aged 68), died Mar 25, 1914
+5197 ADD, JOB NOT FOUND: SCHABACH JOHN (Susannah), Buffet, Best Brands of Wines and Liquors Always on Hand, 234 Quincy, Tel 630M res 615 Lake av, Tel 609W
+5198 ADD, JOB NOT FOUND: Schabach Joseph (aged 27), died Apr 28, 1915
+5216 ADD, JOB NOT FOUND: Scheuermann Josephine (aged 43), died June 4, 1915
+5227 NAME: Schmidt, see also Smith
+5240 ADD, JOB NOT FOUND: Schneider Block, 319321 Quincy
+5249 ADD, JOB NOT FOUND: Schoepper John, removed to Detroit, Mich
+5272 NAME: Schulte Bros (Antoine M and Joseph), genl store 400 Quincy
+5276 ADD, JOB LOCATION NOT FOUND: Schultz Mamie, elk F C Mayworm bds 1031 2d
+5290 ADD, JOB NOT FOUND: Scott Block, 208210 Quincy
+5291 ADD, JOB NOT FOUND: SCOTT HOTEL, Martin Hogan Propr, cor Reservation and Quincy, Tel 800
+5295 ADD, JOB NOT FOUND: SCOTT STREET LIVERY (Nissila Makela), Livery and Dray Line, Scott bet Quincy and Franklin, Tel 662 (See opp page 487)
+5297 NAME: Seager James H (James H Seager Co, res Lansing
+5298 NAME: Seager James H Co (James H Seager, Frank H Roger Wm T Hale), genl store, Franklin Mine
+5303 NAME: Seideman Sign Co (Frederick C Seideman), 225 Quincy
+5317 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Setterland Emma, waitress Scott Hotel, bds same
+5318 NAME: Seventh Day Adventist Church Rev George Wikander pastor, Temperance Hall, Hancock
+5328 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Shea Howard W, waiter Scott Hotel, bds same
+5354 NAME, PERSON NOT FOUND: Sibilsky Annette L student, bds 743 Water
+5363 ADD, JOB NOT FOUND: Sicard Leonce (aged 26), died April 26, 1915
+5383 ADD, JOB NOT FOUND: SILFVEN CARL A (Elizabeth), Shelf and Heavy Hardware, Stoves and Ranges, Builders Supplies, Etc, 110 Quincy, Tel 552J res 612 Water, Tel 469J
+5385 NAME: SILFVEN C A CO (C Albert Silfven), Photos of Quality 308 Reservation, Tel 328J
+5386 ADD, JOB LOCATION NOT FOUND: Silfven Emma, asst P E Steinback bds 612 Water
+5395 ADD, JOB NOT FOUND, PERSON NOT FOUND: Silver Margaret, bds Mrs Caroline Silver
+5418 NAME: Singer Sewing Machine Co, Axel Immo mgr, 320 Quincy
+5421 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Siponen August, trammer, bds O A Isaacson
+5437 NAME: Skog John (Hilma) painter, res 922 Elevation
+5441 NAME: Slattery E F Co (Edward F and John H Slattery), genl mdse 321 Front, Ripley
+5462 NAME: Smith, see also Schmidt
+5521 NAME: Standard Oil Co, W J Bussiere agt, ss Front on Portage Lake, Ripley
+5523 ADD, JOB NOT FOUND: Star Laundry, John Henry propr, 412 Quincy
+5525 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stark Carl, miner, bds Mrs Theresa Kopp
+5531 ADD, JOB NOT FOUND: STARRETT PRINT SHOP, Norman D Starrett Mgr, Elks Temple, Tel South 75SJ (See page opp)
+5547 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stein Allie M, helper Hancock Star Bakery, bds Michael Stein
+5548 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stein Arnold W, chauffeur, bds Michael Stein
+5549 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Stein Hilia, elk Hancock Dry Goods Co, bds Michael Stein
+5550 ADD, JOB LOCATION NOT FOUND: Stein Michael (Anna E), lab Han Consd M Co, res Curve of New rd n of Shatter
+5563 ADD, JOB NOT FOUND: Stern Field (Jacob Gartner Clothing Dept), Hugo M Field propr, 104 Quincy
+5614 NAME: Sullivan Catherine (wid Philip C) res 623 Quincy
+5619 ADD, JOB NOT FOUND, PERSON NOT FOUND: Sullivan Ella, bds 86vHard Scrabble
+5620 ADD, JOB NOT FOUND, PERSON NOT FOUND: Sullivan Ellen, bds 531vHancock
+5677 NAME: SUOMI FINNISH EVANGELICAL LUTHERAN COLLEGE AND THEOLOGICAL SEMINARY, Rev John K Nikander Pres, Isaac Wargelin Treas, Rev Solomon Ilmonen Mgr, 541 Quincy, Tel 394
+5678 ADD, JOB NOT FOUND: SuomiOpicton Juhlijulkaisut (Finnish College Publrs), 541 Quincy
+5681 ADD, JOB NOT FOUND: Superior Bottling Works (Jacob Wendell, John Luoma), 10381040 Minnesota
+5682 NAME: Superior Box and Novelty Co (Henry Z Brock, Henry E Brock, and E Zenophil Myre), 706 Hancock
+5683 NAME: SUPERIOR NATIONAL BANK OF HANCOCK THE George Ruppe Pres, H L Baer VicePres, Charles L Lawton VicePres, J C Jeffery Cashier, W S Hendricksen Asst Cashier, sw cor Quincy and Reservation
+5684 NAME: Superior Trust Co, George Ruppe pres, C L Lawton and H L Baer vicepres, J C Jeffery sec and treas, J M Borlace asst sec and treas, sw cor Quincy and Reservation
+5694 ADD, JOB NOT FOUND: Swedish Lutheran Church, nw cor Railroad and Michigan av
+5727 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tamhio Kate, dom Scott Hotel, bds same
+5735 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Taponen Wm, trammer Han Con M Co, bds O A Isaacson
+5747 ADD, JOB NOT FOUND: Temple of Jacob, Isadore Koplowitz rabbi, ne cor East and Front
+5752 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tervo Silas, lab, bds Matt Karpakka
+5770 ADD, JOB LOCATION NOT FOUND: Thomas James A (May), miner, res County rd U Pewabic loc
+5791 NAME: Tillman A A Co (Arthur A and Mrs Rena Tillman), furniture 301 Ravine
+5809 ADD, JOB LOCATION NOT FOUND: Todd Wm R, pres Quincy Mining Co, res New York City
+5810 ADD, JOB LOCATION NOT FOUND: Todd W Parsons, vicepres Quincy Mining Co, res New York City
+5817 ADD, JOB LOCATION NOT FOUND: Tolonen Einard, lab bds 178 Newtown
+5832 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tonneau Albert, miner, bds Mrs Alma Wuppio
+5839 ADD, JOB LOCATION NOT FOUND: Toupin Leah D, sten Lake Superior I and M Co, res Mills station
+5849 ADD, JOB LOCATION NOT FOUND: Toutant Arthur, lab Isle Royale C Co, res Elevation and Ingot
+5856 ADD, JOB NOT FOUND: Toutant Flats, 309 Franklin
+5862 ADD, JOB NOT FOUND: Town Hall, see City Hall
+5863 ADD, JOB LOCATION NOT FOUND: Townsend F James (Caroline), lander, res Opie loc
+5875 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Travers Richard E, chef Scott Hotel, bds same
+5882 NAME: Tremont Devon Mining Co, Henry L Baer pres, W M Gibson (Calumet, Mich), vicepres, C D Hanchett sec and treas, office Hotel Scott bldg
+5915 NAME: Tuira Co, res 909 3d
+5916 NAME: TUIRA JOHN G CO, P E Hurley Pres, John G Tuira SecTreas and Mgr, Printers and Publishers of Saturday Post 404 Ravine, Tel 234R (See opp page 487)
+5918 ADD, JOB LOCATION NOT FOUND: Tuomaala John, musician, res 841Warren
+5931 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Turo Alfred, lab, bds Isaac Turo
+5933 ADD, JOB NOT FOUND, PERSON NOT FOUND: Turo Helen, bds Isaac Turo
+5937 NAME: TWIN CITY COMMERCIAL COLLEGE, A J Holden Mgr, M A Beiswanger Prin, Day and Evening Classes in Bookkeeping, Penmanship, Shorthand, Typewriting and Other Commercial Subjects, First National Bank Bldg, Tel 234M (See top and bottom edges)
+5947 NAME: UNION CARBIDE SALES CO, M R Goldsworthy
+5948 NAME: Representative, First National Bank Bldg, Tel 651M
+6015 ADD, JOB NOT FOUND: VITALI ARVO J (Mary E), Propr Lakeview Hotel and Real Estate, Dealer in Lands and City Property, res same
+6100 ADD, JOB LOCATION NOT FOUND: Warne Edward, fireman Park Brewing Co, res Ginnette bldg, Railroad av and Elevation
+6110 NAME: WashburnCrosby Co, Martin F Melvin local mgr, cor Elevation and Railroad av
+6111 ADD, JOB LOCATION NOT FOUND: Wasniak Joseph (Emma), miner, res 3d, Mesnard loc
+6148 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Welandi Jacob, miner, bds Alexander ManKinen
+6152 NAME: Wells, Fargo Co, F F Stinn agt, 225 Quincy
+6174 ADD, JOB NOT FOUND: West Hancock Bakery (Henry Lindquist), 1031 Minnesota
+6179 NAME: WESTERN EXPRESS CO, F F Stinn Agt, 225 Quincy Tel 174
+6180 NAME: WESTERN UNION TELEGRAPH CO, Scott Hotel Bldg, Tel 17
+6195 ADD, JOB LOCATION NOT FOUND: White Samuel J, engr Quincy M Co, rms 140 County rd, Quincy loc
+6206 NAME, PERSON NOT FOUND: Wiedenhoefer Carl J H, auxilliary carrier P O, bds 801 Franklin
+6249 NAME: WILLIAMS DRY CLEANING WORKS, Isaac J Williams Propr, Custom Tailoring, Dyeing, Cleaning, Pressing and Repairing, 518 Quincy, Tel 869 (See right bottom lines)
+6267 ADD, JOB LOCATION NOT FOUND: Williams Martin, mach bds 106 Pewabic loc
+6307 ADD, JOB NOT FOUND: WIRKKU JOHN B (Lydia Michigan Bed Springs Co), Also General Agent New York Life Insurance Co, Scott Block, 210 Quincy, Tel 455J res 814 Ash, Tel 816R
+6322 ADD, JOB NOT FOUND, PERSON NOT FOUND: Witting Joseph, ferryman, bds Albert Witting
+6327 NAME: Wivell Richard (Susan) drayman 613 Hancock, res same
+6343 ADD, JOB NOT FOUND: Wright Building, sw cor Quincy and Reservation
+6344 NAME: Wright E L School, John Harma prin, ns Oak 1 e of Elevation
+6352 ADD, JOB LOCATION NOT FOUND: Wuebben Caret (Margaret), farmer, res 01d Canal rd, city limits
+6356 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wuebben John, farmer, bds Caret Wuebben
+6365 ADD, JOB LOCATION NOT FOUND: Wuopio F Wm (F Sophia), carp res 830 Franklin
+6380 ADD, JOB NOT FOUND: Yagel Carl, removed to Calumet
+6399 ADD, JOB NOT FOUND: Yokie Edward, removed to Minneapolis, Minn
+6403 NAME: Yokie Wm H (Annie) hostler, res 604 Oak
+6405 NAME: York A M Estate of, Mrs Elmina R York administrator, florist 105 Quincy
+6406 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: York Bertram J, elk est A M York, bds Mrs E R York
+6407 ADD, JOB NOT FOUND, PERSON NOT FOUND: York Eliza J, bds Mrs E R York
+6408 ADD, JOB NOT FOUND: York Elmina R (wid Andrew M), administrator est of A M York, res Highland Park, Ripley
+6409 ADD, JOB LOCATION NOT FOUND: Zerbel Emil W (Mary), confr 414 Quincy res same

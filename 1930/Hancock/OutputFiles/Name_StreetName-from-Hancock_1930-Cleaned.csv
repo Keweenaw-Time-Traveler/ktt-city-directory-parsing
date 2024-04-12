@@ -1,0 +1,2561 @@
+outLineNum,outFirstName, outLastName, outMI, outJrMrs, outSt
+2,Abel,Jos,null,null,Ravine
+4,Abrahams,Harold,null,null,Emery
+5,Abrahams,Morris,null,null,Emery
+6,Abramson,A,W ,null,Ash
+7,Abramson,Jacob,null,null,Pine
+8,Abramson,Uno,null,null,Pine
+9,Ackley,Alton,E ,null,Lake
+11,Aho,Alma,null,null,Pine
+12,Aho,Edw,A ,null,Garden
+14,Aho,Matt,null,null,Ingot
+17,Ahola,Edw,J ,null,Oak
+18,Ahola,Emil,E ,null,Franklin
+19,Ahola,Fred,W ,null,Franklin
+20,Ahola,Ida,null,null,Franklin
+21,Ahola,Jennie,S ,null,Franklin
+22,Ahola,John,null,null,Franklin
+23,Ahola,Miriam,A ,null,Franklin
+24,Akran,John,null,null,Minnesota
+25,Ala,Alii,M ,null,Franklin
+28,Ala,Sylvia,null,null,Franklin
+29,Alfsen,John,C ,null,Railroad av
+30,Alfsen,Martha,null,null,Railroad av
+39,Anderson,Andrew,A ,null,Pine
+40,Anderson,Chas,J ,null,Summit
+41,Anderson,Chas,L ,null,Hancock av
+42,Anderson,Christine,null,null,Summit
+43,Anderson,Edw,null,null,Franklin
+44,Anderson,Edwin,E ,null,Cedar
+45,Anderson,Ella,M ,null,Center
+47,Anderson,Elsa,L ,null,Cedar
+49,Anderson,Enard,null,null,Birch
+50,Anderson,Francis,null,null,Front 
+51,Anderson,Frank,null,null,Front 
+52,Anderson,Hjalmar,F ,null,3d
+53,Anderson,Isaac,null,null,Cedar
+55,Anderson,Julia,null,null,Center
+56,Anderson,Mabel,null,null,Summit
+57,Anderson,Ole,null,null,Center
+59,Anderson,Walter,null,null,Front 
+60,Anderson,Wayne,null,null,Finn
+62,Andreotti,Jean,null,null,Ingot
+63,Andreotti,Jos,null,null,Ingot
+64,Andreotti,Louis,null,null,Ingot
+65,Andrew,Fred,null,null,4th
+67,Andrew,Jas,null,null,4th
+68,Andrew,Wm,R ,null,4th
+69,Angone,Mary,null,null,Prospect
+72,Antilla,Ellen,I ,null,Tezcuco
+78,Armstrong,Emma,Mrs ,null,Hancock av
+79,Armstrong,Emma,null,null,Center
+80,Armstrong,Geo,S ,null,Water
+85,Audet,Peter,null,null,Ryan
+86,Auger,Albert,null,null,3d 
+87,Auger,Chas,null,null,Front 
+88,Autio,Adolph,C ,null,Liberty
+89,Autio,Arvid,null,null,Prospect
+90,Autio,Edw,null,null,Liberty
+91,Autio,Helen,F ,null,Liberty
+97,Backonens,Arth,null,null,Cooper av
+98,Backonens,Elmer,null,null,Cooper av
+99,Backonens,Matt,null,null,Cooper av
+101,Baer,Hattie,null,null,Cooper av
+103,Baker,Wm,A ,null,Birch
+104,Baker,Wm,A ,jr,Birch
+105,Bakka,Matt,null,null,Tezcuco
+106,Bakkla,Adolph,null,null,White
+107,Balconi,Chas,null,null,Pewabic rd 
+109,Balconi,Mary,L ,null,Elm
+110,Balconi,Michl,M ,null,Elm
+114,Bantly,John,null,null,Burt 
+115,Barber,Marguerite,null,null,Ryan
+116,Barclay,Mary,J ,null,Water
+117,Baril,Albert,null,null,Ryan
+118,Baril,Angeline,null,null,Ryan
+119,Baril,Archille,null,null,Ryan
+120,Baril,Arth,null,null,Ryan
+121,Barkell,Emma,null,null,Water
+122,Barkell,Grace,null,null,Water
+123,Barkell,Jas,H ,null,Lake
+124,Barkkila,Edw,null,null,Hancock
+125,Barkkila,Ellen,I ,null,Hancock
+126,Barkkila,Geo,null,null,Hancock
+127,Barkkila,Rudolph,null,null,Hancock
+128,Barnes,Ralph,null,null,Sigsbee
+129,Baroni,Michl,null,null,Anthony
+130,Barry,Goldie,null,null,Hancock av
+131,Barta,Jas,null,null,Hancock av
+132,Barth,Elsie,null,null,White
+133,Barth,Wm,null,null,White
+134,Barth,Wm,A ,null,Water
+135,Bartonen,Emil,E ,null,Summit
+136,Battistoni,Cora,null,null,Ingot
+137,Beauchamp,Chas,null,null,Reservation
+138,Beauchamp,Jos,null,null,Ingot
+139,Beauchamp,Peter,F ,null,Arcadian 
+140,Beauchamp,Wm,null,null,Reservation
+141,Beck,Richd,null,null,Hancock av
+142,Beckman,John,null,null,3d 
+143,Beckman,Sette,null,null,Franklin
+144,Beiring,Andrew,W ,null,Franklin
+145,Beiring,Anthony,null,null,Franklin
+146,Beiring,Cecelia,null,null,Franklin
+147,Beiring,Francis,null,null,Franklin
+148,Beiring,Harold,null,null,Franklin
+149,Beiring,Jos,H ,null,Ethel av
+150,Beiring,Norbett,null,null,Franklin
+152,Belfry,Hermes,null,null,White
+153,Belfry,Josephine,M ,null,White
+154,Bell,Alf,W ,null,2d
+155,Bell,Alice,null,null,Hancock av
+156,Bell,Andrew,null,null,Wright
+157,Bell,Christina,E ,null,Wright
+158,Bell,Emil,null,null,Elm
+160,Bell,Margt,null,null,Wright
+161,Bell,Warren,M ,null,Hancock av
+162,Bell,Wm,null,null,2d
+163,Belling,Jas,H ,null,Water
+164,Bendry,Jas,H ,null,Front 
+165,Bendry,Wm,H ,null,Front 
+168,Bergman,Mary,Mrs ,null,Quincy
+169,Berkola,Eliz,null,null,Oak
+170,Berkola,Jacob,J ,null,Oak
+171,Berkola,Lina,null,null,Oak
+172,Bernier,Anna,null,null,Franklin
+173,Bernier,Wm,A ,null,Pine
+175,Berry,Jas,W ,null,Ash
+176,Berryman,Benj,null,null,Garden
+178,Bettens,Effie,C ,null,Lake av
+179,Bettens,Glenn,A ,null,Water
+180,Bettens,Jeremiah,null,null,Lake av
+181,Bettinson,Chas,null,null,Elm
+182,Bettinson,Ida,null,null,Elm
+183,Bettinson,Roy,null,null,Elm
+184,Beyer,Rose,E ,null,Hancock av
+185,Bianchi,John,null,null,Ethel av
+186,Bice,Alice,null,null,2d
+187,Bice,Clyde,null,null,2d
+188,Bignetto,Angelo,null,null,Ravine
+191,Bissenger,Adolf,null,null,Hancock
+196,Blodgett,Edna,A ,null,Summit
+197,Blom,Carl,null,null,Summit
+198,Blom,Enard,null,null,Summit
+199,Blom,Gunard,null,null,Summit
+200,Blom,John,null,null,Summit
+201,Blue,Jerome,J ,null,Montezuma
+202,Blue,Kath,null,null,Montezuma
+203,Blue,Virginia,null,null,Montezuma
+204,Bluff,John,null,null,Summit
+205,Blum,I,null,null,Hancock
+206,Blum,Isador,null,null,Hancock av
+207,Blythe,Blanche,E ,null,Lake av
+209,Blythe,Frank,null,null,Lake av
+210,Blythe,Ruth,E ,null,Lake av
+211,Blythe,Verna,null,null,Lake av
+215,Bogan,Margt,null,null,Vivian
+216,Bogg,John,null,null,Franklin
+217,Boivin,Alphonse,J ,null,Hancock
+220,Bolley,Thos,null,null,Roberts
+223,Bonds,Lloyd,N ,null,Cedar
+225,Bonga,Eino,I ,null,White
+226,Bonga,Leo,W ,null,White
+229,Bonini,Ruth,null,null,Reservation
+231,Bonsall,Edw,W ,null,Hancock apt 5
+232,Borlace,Thos,null,null,Lake
+233,Borlaze,Jos,M ,null,Railroad av
+234,Borlaze,Mary,M ,Mrs,Railroad av
+236,Bostian,Wm,null,null,Harris av
+237,Bougan,Hannah,null,null,Vivian
+239,Bousu,Arth,null,null,Emma av
+240,Bousu,Geo,null,null,Emma av
+241,Bousu,John,null,null,Emma av
+242,Bousu,John,null,jr,Emma av
+243,Bousu,Walfred,null,null,Emma av
+244,Bousu,Wm,null,null,Emma av
+247,Boxer,Herbert,A ,null,Hancock
+248,Boyle,Anne,null,null,Quincy
+249,Boyle,Kath,null,null,Quincy
+251,Bram,Andrew,null,null,Michigan
+252,Brandenstein,Elsie,null,null,Ohio
+253,Brandenstein,John,null,null,Ohio
+257,Bree,Lorenzo,null,null,Water
+258,Brehm,Wm,E ,null,Harris av
+259,Brewer,Ernest,W ,null,Ethel av
+260,Brewer,Harold,J ,null,Ethel av
+261,Brewer,John,null,null,Ethel av
+262,Brey,Earl,null,null,Front 
+263,Brey,John,null,null,do
+264,Brey,John,null,jr,Front 
+266,Brisson,Gerald,null,null,White
+267,Brisson,Louis,null,null,White
+268,Brisson,Nicholas,null,null,White
+269,Brock,Kenneth,K ,null,Mill
+270,Brodeur,Alvin,null,null,Harris av
+272,Brodeur,Napoleon,J ,null,Harris av
+274,Brosman,Lewis,J ,null,Summit
+276,Brotherton,Del,null,null,Quincy
+277,Brousseau,Edgar,null,null,Elm
+278,Brousseau,Peter,C ,null,Elm
+280,Brown,Agnes,null,null,White
+284,Brown,Chas,R ,null,Hancock
+285,Brown,Chas,S ,null,Hancock
+287,Brown,Jas,null,null,Ethel av
+288,Brown,John,null,null,White
+289,Brown,Melvin,null,null,Ethel av
+292,Browning,Seth,null,null,Summit
+293,Brule,Edw,J ,null,Lake av
+294,Bruneau,Fred,J ,null,Prospect
+295,Brunet,Alice,null,null,E 7th 
+296,Budwey,Hans,null,null,Ingot
+297,Bukema,Oscar,E ,null,Prospect
+298,Burgbacher,Carl,C ,null,Anthony av
+299,Burgbacher,John,U ,null,Anthony av
+300,Burkman,Harry,null,null,Quincy
+301,Burman,Alma,null,null,3d
+302,Burman,Victor,null,null,3d
+304,Burritt,Ella,J ,null,Quincy
+305,Burt,Jas,null,null,Front 
+306,Burt,Margt,null,null,Front 
+310,Byers,Bernard,null,null,Front 
+312,Calus,Angela,L ,null,Water
+313,Cameron,Celina,Mrs ,null,Quincy
+314,Cameron,Donald,A ,null,Quincy
+321,Carlson,Agnes,null,null,Vivian
+322,Carlson,Agnes,null,null,Minnesota
+324,Carlson,Arth,B ,null,Summit
+326,Carlson,Chas,null,null,Tezcuco
+327,Carlson,Frank,D ,null,Roberts
+330,Carlson,Juiia,null,null,Minnesota
+331,Carlson,Oscar,null,null,Emery
+332,Carlson,Oscar,null,null,Ethel av
+333,Carlson,R,Waldo ,null,Roberts
+335,Carlson,Richd,G ,null,Roberts
+336,Carney,Alice,B ,null,Ryan
+338,Carney,Jos,null,null,Michigan
+339,Carney,Nellie,G ,null,Ryan
+340,Carney,Wm,L ,null,Ryan
+342,Carroll,Agnes,null,null,Ryan
+343,Carroll,Evelyn,A ,null,Quincy
+344,Carroll,Genevieve,V ,null,Quincy
+345,Carroll,Gerald,E ,null,Quincy
+346,Carroll,Thos,null,null,Ryan
+348,Carter,Grace,null,null,Ryan
+349,Carter,Mamie,L ,null,Ryan
+350,Cartucci,Jos,null,null,Ethel av
+351,Cary,Irving,null,null,Reservation
+352,Case,David,null,null,Quincy
+353,Cashell,Carrie,null,null,Hancock av
+354,Cashion,Edw,null,null,Ryan
+355,Cashion,Margt,null,null,Summit
+356,Cashion,Wm,null,null,Summit
+357,Catelli,Guido,null,null,Hancock av
+358,Cavis,Chas,null,null,Quincy
+359,Cavis,Emma,null,null,Quincy
+360,Cavis,Thos,null,null,Quincy
+366,Chamberlain,Wm,null,null,Quincy
+367,Chapman,John,null,null,Ohio
+368,Chapman,John,H ,null,Ohio
+369,Chegwidden,Wm,E ,null,Pine
+370,Chegwidden,Wm,N ,null,Pine
+371,Chegwin,Eliz,null,null,Cedar
+372,Cheney,Alphonse,C ,null,Elm
+373,Cheney,Hector,null,null,Elm
+374,Cheney,Walter,null,null,Elm
+375,Chin,Bert,null,null,Tezcuco
+376,Christenson,Ole,null,null,Railroad av
+377,Church,Niles,A ,null,Edwards 
+384,Cliff,Ann,null,null,Ohio
+385,Cliff,Ernest,P ,null,Ohio
+387,Cliff,Wm,J ,null,Roberts
+392,Clish,John,W ,null,Quincy
+393,Close,Jas,A ,null,Center
+394,Close,Jas,A ,null,Center
+395,Close,John,H ,null,Center
+396,Close,Wm,A ,null,Center
+401,Cohodas,Arnold,M ,null,Mason av
+402,Cohodas,Harry,R ,null,Mason av
+407,Condon,Anna,null,null,Michigan
+408,Condon,Blanche,A ,null,Michigan
+409,Condon,Cath,null,null,Michigan
+410,Condon,Frank,C ,null,Quincy
+411,Condon,Helen,null,null,Michigan
+412,Condon,Marr,null,null,Quincy
+413,Condon,Veronica,null,null,Michigan
+415,Congdon,Ardell,J ,null,Hancock av
+417,Congdon,Howard,null,null,Scott
+418,Congdon,John,null,null,Scott
+419,Conway,Cath,null,null,Hancock
+420,Conway,Edw,null,null,Railroad av
+421,Conway,Edwin,null,null,Railroad av
+422,Conway,Foley,P ,null,Hancock av
+423,Conway,Mae,Mrs ,null,Lake
+424,Conway,Martin,J ,null,Hancock
+425,Conway,Russell,J ,null,Lake
+428,Coon,Chas,M ,null,Summit
+430,Coon,J,Frank ,null,Summit
+432,Coon,Thos,A ,null,Lake av
+435,Cooney,Alice,R ,null,Water
+436,Cooney,Danl,R ,null,Water
+437,Cooney,Danl,R ,jr,Water
+438,Cooney,Hester,null,null,Water
+445,Cossette,Peter,null,null,Summit
+446,Coughlin,Annie,null,null,Mason av
+450,Coutoure,Francis,null,null,3d
+451,Coutoure,Peter,null,null,3d
+452,Cox,Jas,V ,null,Ryan
+457,Crawford,Donald,J ,null,Quincy
+459,Crawford,John,D ,null,Hancock av
+460,Crawford,Ranson,E ,null,Hancock av
+461,Crocker,Dorothy,null,null,Elm
+462,Crocker,Jas,H ,null,Elm
+463,Crocker,Warren,J ,null,Elm
+464,Crofoot,Anna,null,null,Vivian
+465,Croteau,John,E ,null,Pine
+466,Croteau,Jos,D ,null,Hancock av
+467,Croteau,Norine,V ,null,Pine
+469,Croteau,Zepherin,null,null,Pine
+470,Croteau,Zepherin,null,jr,Pine
+471,Crowley,Michl,null,null,Pine
+472,Croze,Delphine,C ,null,Memorial 
+474,Cuff,Edw,J ,null,Quincy
+475,Cuff,Francis,A ,null,Quincy
+476,Cuff,Thos,D ,null,Hancock
+477,Cuicci,Cecelia,null,null,Hancock av
+478,Cuicci,Esther,null,null,Hancock av
+479,Cuicci,Italia,null,null,Hancock av
+480,Cuicci,Mathilda,null,null,Hancock av
+481,Cuicci,Russell,null,null,Hancock av
+482,Curtis,Carlos,null,null,Ohio
+483,Curtis,Estelle,null,null,Ohio
+484,Curtis,Gertrude,null,null,Ohio
+485,Curtis,Thos,J ,null,Ohio
+488,Daavettila,Lillian,S ,null,Franklin
+489,Dahlback,Elsie,Mrs ,null,Hancock av
+490,Dahlback,Hjaimer,H ,null,Hancock av
+495,Dale,Sydney,null,null,Front
+496,Daniele,Antoinette,null,null,Quincy
+498,Daniele,Kath,M ,null,Quincy
+499,Davey,Llewellyn,null,null,Ripley 
+500,Davey,Thos,H ,null,Ripley 
+501,Davis,Alf,null,null,Emery
+502,Davis,Wm,null,null,Emery
+503,Dee,Bridget,null,null,Front 
+505,Dee,John,null,null,Front 
+507,Dee,Thos,null,null,Front 
+508,Dee,Thos,null,jr,Sigsbee
+509,Deges,Frances,null,null,Water
+510,Deges,Jos,null,null,Water
+511,Deges,Lawrence,null,null,Water
+513,Delbridge,Clarence,null,null,Hancock av
+514,Delbridge,Edwin,S ,null,4th
+515,Delbridge,Estelle,null,null,4th
+516,Dennis,Benj,null,null,Emery
+517,Dennis,Bessie,G ,null,Quincy
+518,Dennis,Bruce,null,null,Emery
+519,Dennis,David,null,null,Emery
+520,Dennis,Matt,M ,null,Quincy
+521,Dennis,Paul,null,null,Emery
+522,Dennis,Ruth,null,null,Emery
+523,Dennis,Thos,null,null,Emery
+524,Dennis,Thos,null,jr,Emery
+527,Despins,Arth,G ,null,Lake av
+528,DesRochers,Mildred,null,null,Lake av
+529,DesRochers,Raymond,null,null,Lake av
+530,DesRochers,Thos,null,null,Lake av
+531,DesRochers,Violet,M ,null,Lake av
+533,DesRosiers,Edw,J ,null,Quincy
+534,DesRosiers,Edw,K ,null,Hancock av
+535,DesRosiers,Lucille,I ,null,Quincy
+536,DesRosiers,Mary,M ,null,Quincy
+538,Devere,Steph,null,null,Quincy
+539,Dianda,Angelina,null,null,Quincy
+540,Dianda,Angelo,null,null,Quincy
+541,Dianda,Cath,null,null,Quincy
+543,Dineen,John,null,null,Atlantic
+544,Dineen,Jos,null,null,Atlantic
+545,Dineen,Louise,null,null,Atlantic
+549,Dionne,Geo,null,null,2d 
+550,Dipiuccio,Vergilio,null,null,do
+551,Dixon,Simon,null,null,Summit
+552,Dock,Mathilda,null,null,Water
+554,Dodge,Miriam,C ,null,Harris av
+556,Dodge,Wm,H ,null,Harris av
+557,Dolan,Edw,J ,null,do
+558,Donahue,Ruth,E ,null,Montezuma
+559,Donati,Albert,L ,null,Ingot
+560,Dooley,John,null,null,Hancock
+561,Dooley,Margt,null,null,Hancock
+562,Dooley,P,P ,null,Hancock
+566,Dover,Chas,E ,jr,Minnesota
+567,Dover,Paul,null,null,Minnesota
+569,Dowd,Danl,null,null,Front 
+571,Doyle,Albion,N ,null,Franklin
+572,Doyle,Grant,E ,null,Dacotah
+574,Doyle,John,null,null,Quincy
+575,Doyle,Leah,null,null,Quincy
+577,Doyle,Richd,null,null,Quincy
+578,Driscoll,Michl,F ,null,Lake av
+579,Driscoll,Ruth,A ,null,Lake av
+580,Drittler,Clara,null,null,Harris av
+581,Drittler,Henry,null,null,Harris av
+582,Drittler,Philip,W ,null,Harris av
+583,Drouin,Jos,J ,null,Michigan
+585,Dugdale,Mary,L ,null,Hancock
+587,Dugdale,Warren,E ,null,Hancock
+588,Duggan,Bridget,null,null,Dakota
+589,Duggan,Michl,null,null,Dakota
+591,Dunn,Helen,C ,null,Franklin
+592,Dunn,Jas,E ,null,Franklin
+593,Dunn,Margt,A ,null,Franklin
+594,Dunn,Mary,B ,null,Franklin
+595,Dunn,Rose,null,null,Front 
+596,Dunn,Wm,J ,null,Front 
+599,Durchman,Lillie,null,null,3d
+602,Dwyer,John,T ,null,Hancock av
+603,Dwyer,Julia,A ,null,Franklin
+604,Dwyer,Mary,null,null,Ravine
+605,Dwyer,May,R ,null,Ravine
+606,Dwyer,Richd,null,null,Hancock av
+607,Dwyer,Robt,M ,null,Franklin
+608,Dwyer,Timothy,F ,null,Franklin
+609,Dwyer,Wm,A ,null,Ravine
+610,Dyni,Alf,null,null,Minnesota
+611,Dyni,Matt,null,null,Quincy
+612,Dyni,Norman,null,null,Minnesota
+613,Dyni,Winifred,null,null,Quincy
+616,Ebertoski,Leo,null,null,Quincy
+618,Eckerea,Chas,null,null,Pine
+620,Eddy,Albert,null,null,Summit
+621,Edgerton,Columbus,C ,null,Cooper av
+622,Edgerton,Leone,null,null,Cooper av
+626,Ehler,Albert,L ,null,Lake av
+627,Ehler,Carrie,null,null,Quincy
+633,Eilola,Matt,null,null,Sherman 
+634,Eilola,Wm,A ,null,Summit
+637,Elliott,Leroy,M ,null,Elm
+641,Elsila,John,A ,null,Wright
+642,Elwood,Natalie,M ,null,Vivian
+643,Elwood,Sarah,null,null,Vivian
+644,Emanuelson,Chester,null,null,Quincy
+645,Endean,Edwin,null,null,Prospect
+646,Englund,Walter,null,null,Emery
+650,Erickson,Arth,null,null,Summit
+651,Erickson,Charold,E ,null,Pine
+652,Erickson,Edith,null,null,Summit
+653,Erickson,Edith,Mrs ,null,2d 
+654,Erickson,Edw,J ,null,Ingot
+655,Erickson,Eric,null,null,Summit
+656,Erickson,John,null,null,Ingot
+657,Erickson,Lloyd,null,null,Summit
+658,Erickson,Olaf,A ,null,Pine
+659,Erickson,Pearl,M ,null,Holland
+664,Erkkila,Flora,null,null,Roberts
+667,Ervast,Andrew,null,null,do
+668,Ervasti,Inice,null,null,Pine
+669,Ervasti,John,null,null,Pine
+670,Eskola,Edwin,R ,null,Oak
+671,Eskola,Estelle,R ,null,Oak
+672,Eskola,Irene,A ,null,Oak
+673,Eskola,Oscar,null,null,Oak
+674,Eskola,Sylvia,J ,null,Oak
+676,Este,Helvi,null,null,Quincy
+677,Evert,Helen,null,null,Vivian
+678,Evert,John,null,null,Tezcuco
+679,Evert,Nicklas,null,null,Summit
+680,Evert,Nicklas,null,jr,Summit
+684,Exley,Walter,G ,null,Reservation
+685,Falkenthal,Wm,null,null,White
+687,Fallon,Howard,null,null,Hancock av
+688,Fallon,L,M ,null,Hancock av
+689,Fallon,Raymond,null,null,Hancock av
+690,Fallon,Wm,null,null,Hancock av
+692,Farley,Grace,M ,null,Cedar
+693,Farley,Jas,null,null,Cedar
+694,Farley,Havard,J ,null,Cedar
+696,Fasana,Cath,null,null,Elm
+697,Fasana,Clara,J ,null,Elm
+698,Fasana,Johanna,null,null,Elm
+699,Fasana,Mary,M ,null,Elm
+700,Fasana,Theresa,null,null,Elm
+702,Federighi,John,null,null,Summit
+703,Federighi,Sebastian,null,null,Summit
+704,Feldscher,E,Walter ,null,Montezuma
+705,Fend,Cath,null,null,Ryan
+706,Fend,Ettinger,M ,null,Ryan
+707,Fend,John,B ,null,Ryan
+709,Fend,Wm,J ,null,Ryan
+710,Fenili,Jos,J ,null,Hancock av
+711,Fernette,Clarence,null,null,Summit
+712,Fernette,Raymond,null,null,Summit
+714,Field,Anna,I ,null,Tezcuco
+715,Field,Isaac,null,null,Tezcuco
+717,Fien,Fred,null,null,Front 
+718,Fietler,Max,null,null,Ravine
+719,Finch,Addison,null,null,Mason av
+720,Finch,Wm,W ,null,Lake av
+721,Finil,Geo,W ,null,Summit
+734,Fisher,Cath,null,null,Water
+736,Fisher,Clement,null,null,Water
+740,Fisher,Jos,A ,null,Mason av
+741,Fisher,Lena,null,null,Quincy
+742,Fisher,Max,J ,null,Quincy
+744,Fisher,Minnie,Mrs ,null,Quincy
+746,Fisher,Vera,null,null,Hancock av
+749,Fluur,John,null,null,Tezcuco
+752,Flynn,Bridget,null,null,Mesnard
+753,Flynn,Geraldine,R ,null,Exley Apts
+754,Flynn,Sarah,null,null,Mesnard
+755,Flynn,Thos,E ,null,Mesnard
+757,Forsell,Everett,null,null,Emery
+758,Forsell,Otto,null,null,Emery
+759,Forseth,Ole,A ,null,Anthony av
+764,Fountain,Henry,null,null,Douglass 
+766,Fountain,Olga,Mrs ,null,Tuzcuco
+768,Fournier,Agnes,null,null,Hancock av
+769,Fournier,Arth,P ,null,Hancock av
+770,Fournier,Cecelia,null,null,Hancock av
+771,Fournier,Eleanor,B ,null,Emma av
+772,Fournier,Helen,null,null,Hancock av
+773,Fournier,Leslie,F ,null,Elevation
+774,Fournier,N,Paul ,null,Emma av
+775,Fournier,Willard,J ,null,Hancock av
+776,Fox,John,J ,null,Prospect
+778,Franke,Gust,C ,null,Finn
+779,Frake,Mildred,null,null,Finn
+780,Fraki,Johanna,M ,null,Oak
+781,Fraki,Viola,J ,null,Oak
+782,Fraki,Wayne,I ,null,Oak
+783,Fraki,Wino,null,null,Oak
+785,Francis,Carl,null,null,Harris av
+786,Francis,Evert,N ,null,Vivian
+787,Francis,Frank,null,null,Harris av
+789,Francis,Jos,null,null,Harris av
+790,Francis,Stanley,G ,null,Roberts
+791,Francis,Theresa,null,null,Harris av
+797,Fredd,Oscar,M ,null,Summit
+798,Fredd,Victor,A ,null,Railroad av
+800,Frederickson,Edna,null,null,2d 
+801,Frederickson,Eleanore,null,null,Cooper av
+802,Fredianelli,Alf,null,null,Summit
+803,Fredianelli,Jos,null,null,Summit
+804,Fredianelli,Louis,null,null,Summit
+807,Freeman,Harold,A ,null,Quincy
+813,Funkey,Clarence,F ,null,Vivian
+814,Funkey,Francis,C ,null,Quincy
+815,Funkey,Geo,null,null,Quincy
+816,Funkey,John,null,null,Cooper av
+817,Funkey,John,H ,null,Ravine
+818,Funkey,Michl,J ,null,do
+819,Funkey,Robt,null,null,Quincy
+823,Gaffney,John,null,null,Summit
+824,Gagnon,Earl,null,null,Front 
+825,Gagnon,Edw,null,null,Franklin
+826,Gagnon,Ora,D ,null,Holland
+827,Gale,Albert,B ,null,Harris av
+832,Gardner,Jas,A ,null,Quincy
+833,Garske,John,null,null,Cedar
+834,Garske,Julia,null,null,Franklin
+835,Garske,Sofia,null,null,Cedar
+837,Gartner,Jane,R ,null,Harris av
+840,Gastor,Albert,null,null,Summit
+841,Gastor,Wilbert,null,null,Summit
+842,Gatien,Jos,A ,null,Scott
+843,Gauthier,Aug,null,null,Reservation
+844,Geary,Bridget,null,null,Vivian
+846,Gedda,Madeline,null,null,Pine
+847,Gedda,Victor,null,null,Pine
+852,Gekas,John,C ,null,Harris av
+854,Gemignani,Anthony,null,null,Ingot
+857,George,Liza,null,null,Quincy
+858,Gerard,John,null,null,Water
+862,Gettleman,Lottie,F ,null,Quincy
+863,Getzsche,Herman,null,null,Michigan
+864,Gibson,Elmer,E ,null,Lynn
+865,Gibson,Rupert,null,null,Lynn
+866,Gill,Jas,H ,null,Holland
+867,Gillespie,Jas,H ,null,Church
+869,Gilmore,Gerald,D ,null,Montezuma
+870,Gilmore,Ruth,V ,null,Montezuma
+871,Gilmour,Robt,A ,null,Quincy
+872,Ginsbach,Leora,U ,null,Harris av
+874,Giulio,Anton,null,null,Hancock av
+875,Glass,Mandel,null,null,Cooper av
+879,Glasson,Douglas,H ,null,Lake
+880,Glasson,Jos,null,null,Cottage Row
+881,Glasson,Jos,J ,null,Lake
+882,Goggin,John,E ,null,White
+883,Goggin,Kath,C ,null,White
+884,Goggin,Nellie,null,null,White
+885,Goldman,Lillian,null,null,Water
+886,Goldman,Morris,null,null,Water
+887,Goldsworthy,Martin,R ,null,Hancock av
+888,Good,Eli,null,null,Roberts
+896,Goodreau,Maria,null,null,Elm
+898,Goodreau,Willard,null,null,Elm
+899,Goodsole,Maude,null,null,Harris av
+906,Grandchamp,Earl,null,null,Roberts
+907,Grandchamp,Geo,null,null,Roberts
+908,Grandchamp,Henry,null,null,Roberts
+910,Gray,Fred,J ,null,Summit
+911,Gray,Marion,E ,null,Summit
+913,Green,John,J ,null,Quincy
+914,Greene,Jos,E ,null,Railroad av
+916,Grekila,Matt,null,null,Prospect
+917,Greuter,Emily,null,null,Franklin
+918,Grimstad,Nels,null,null,Roberts
+919,Grosky,Martin,null,null,Summit
+920,Gross,Thos,null,null,Pine
+921,Gross,Wm,null,null,Pine
+923,Grove,Robt,P ,null,Cedar
+924,Grovier,Oscar,L ,null,Cedar
+925,Guibord,Eleanor,null,null,Franklin
+929,Gustafson,Alice,H ,null,Liberty
+930,Gustafson,Ellis,M ,null,Elm
+933,Gustafson,Walter,null,null,Liberty
+934,Gutch,Albert,null,null,Quincy
+935,Gutmann,Aug,null,null,Minnesota
+936,Gutmann,Chas,null,null,Minnesota
+937,Gutmann,John,null,null,Minnesota
+938,Gutmann,Jos,null,null,Spruce
+939,Gutmann,Mary,null,null,Spruce
+945,Haapanen,Alfred,Rev ,null,Cooper av
+946,Haapanen,Miriam,null,null,Cooper av
+947,Haappapours,Henry,null,null,Minnesota
+948,Haase,Barbara,null,null,3d
+949,Hackman,Otto,null,null,Emma av
+950,Haddock,Mabel,null,null,Hancock av
+951,Hagert,Wm,null,null,Summit
+952,Haikkinen,Jacob,null,null,Franklin
+953,Hakala,Alex,null,null,Ryan
+954,Hakala,Alex,null,jr,Ryan
+955,Hakala,Frank,null,null,3d 
+956,Hakala,John,null,null,2d 
+957,Hakala,Lulu,S ,null,Dacotah
+958,Hakala,Lydia,null,null,Ryan
+959,Haley,Geo,H ,null,Cottage Row
+962,Hall,Fred,C ,null,Sigsbee
+963,Hall,Mabel,null,null,Minnesota
+965,Haller,Casper,null,null,3d 
+966,Halls,Robt,H ,null,Quincy
+968,Halmekangas,Marcus,null,null,Roberts
+970,Hambitzer,Emma,Mrs ,null,Quincy
+972,Hamina,Carl,G ,null,Prospect
+986,Hanke,Augusta,H ,null,Quincy
+987,Hanke,Carl,W ,null,Quincy
+988,Hanke,Carl,W ,jr,Quincy
+989,Hanley,Alice,null,null,Summit
+990,Hanley,Geraldine,A ,null,Summit
+991,Hanley,May,null,null,Summit
+992,Hanley,Michl,J ,null,Summit
+993,Hansen,Hilda,L ,null,Montezuma
+995,Hansen,Verner,null,null,Minnesota
+996,Hanson,Richd,null,null,2d
+997,Harju,Jacob,null,null,Quincy
+998,Harju,Melba,I ,null,Quincy
+999,Harker,Helen,null,null,Dakota
+1008,Harrington,Nellie,G ,null,Railroad av
+1010,Harrington,Ryan,C ,null,Vivian
+1011,Harris,Arth,E ,null,3d
+1012,Harris,Gordon,null,null,3d
+1013,Harris,Harold,A ,null,3d
+1014,Harris,Lawrence,null,null,Franklin
+1015,Harris,Richd,null,null,Franklin
+1016,Harry,Delia,null,null,Cooper av
+1017,Harry,Edwin,null,null,Summit
+1018,Harry,Wm,null,null,Cooper av
+1019,Hart,Frank,null,null,Water
+1020,Harvey,Russell,null,null,White
+1021,Harvey,W,J ,null,Tezuco
+1022,Haschey,Arth,null,null,Summit
+1023,Hasler,Jos,C ,null,Quincy
+1029,Hasti,Henry,null,null,Tezuco
+1031,Haule,Henry,null,null,Lake
+1032,Hauswirth,Anton,F ,null,Hill
+1033,Hauswirth,Arth,null,null,Elm
+1034,Hauswirth,Edw,null,null,Elm
+1035,Hauswirth,Edw,W ,null,Hill
+1036,Hauswirth,Emma,L ,null,Hill
+1037,Hauswirth,Grover,null,null,Elm
+1041,Hawkins,Ernest,null,null,Hancock av
+1042,Hay,Erie,C ,null,Lake av
+1044,Hazen,Henry,null,null,Reservation
+1047,Hecker,Fred,null,null,Franklin
+1048,Hecker,Herbert,A ,null,Water
+1049,Hecker,Ralph,W ,null,Water
+1050,Hecker,Wm,H ,null,Water
+1051,Hedberg,Albin,L ,null,Cedar
+1052,Hedberg,Evard,W ,null,Cedar
+1053,Hedberg,Aug,O ,null,Cedar
+1054,Heide,Chas,C ,null,Roberts
+1055,Heide,Chas,H ,null,Roberts
+1056,Heide,Chas,H ,jr,Roberts
+1057,Heide,Randall,W ,null,Roberts
+1058,Heikka,Alf,null,null,Scott
+1059,Heikka,Arth,E ,null,Scott
+1061,Heikkanen,Mary,Mrs ,null,Franklin
+1065,Heikkila,Wayne,A ,null,Holland
+1066,Heikkinen,Ada,null,null,Finn
+1067,Heikkinen,Hannes,null,null,Elevation
+1068,Heikkonen,Eileen,null,null,Harris av
+1069,Hekkanen,Silas,null,null,Scott
+1070,Helbacka,Naino,E ,null,Summet
+1071,Helin,Saina,null,null,Lake av
+1072,Henanen,Christ,null,null,Elm
+1073,Hendricks,Arth,null,null,Hancock av
+1074,Hendricks,Gertrude,null,null,Hancock av
+1076,Hendrickson,Alex,N ,null,Ryan
+1078,Hendrickson,Chas,null,null,Quincy
+1079,Hendrickson,Helma,null,null,Wright
+1081,Hendrickson,Howard,null,null,Minnesota
+1083,Hendrickson,Lidia,null,null,Ryan
+1086,Hendrickson,Louise,null,null,Emma av
+1088,Hendrickson,Paul,null,null,Emma av
+1090,Hendrickson,Walfrid,S ,null,Emma av
+1092,Hendrickson,Willis,null,null,White
+1093,Herath,Lena,null,null,Summit
+1094,Hermanson,Douglas,null,null,2d
+1095,Hermanson,Ellen,null,null,2d
+1096,Hermanson,Gordon,null,null,2d
+1097,Hermanson,Greeta,null,null,Prospect
+1098,Hermanson,Henry,null,null,Prospect
+1099,Hermanson,Herman,null,null,Prospect
+1100,Hermanson,Ida,null,null,2d
+1101,Hermanson,Kath,null,null,Prospect
+1102,Herton,Bridget,null,null,Tezcuco
+1103,Herton,Edw,R ,null,Ethel av
+1104,Hiekkenen,Peter,null,null,White
+1106,Hiik,Kila,Danl ,null,Railroad av
+1107,Hiipula,John,null,null,2d 
+1108,Hiiskanen,John,null,null,Tezcuco
+1110,Hill,Chas,null,null,do
+1111,Hill,Geo,null,null,Quincy
+1112,Hill,Helm,null,null,Quincy
+1113,Hill,John,null,null,Quincy
+1114,Hill,John,null,jr,Quincy
+1115,Hill,Mamie,null,null,Quincy
+1117,Hill,Walter,H ,null,Quincy
+1118,Hill,Wm,null,null,Franklin
+1122,Hiltunen,Anna,null,null,Roberts
+1125,Hiltunen,Isaac,null,null,Roberts
+1129,Hittunen,Ida,null,null,Franklin
+1132,Hocking,Edna,null,null,Hancock av
+1133,Hocking,Geo,H ,null,Hancock av
+1134,Hocking,Wm,J ,null,Quincy
+1140,Hoffenbacher,Florence,H ,null,Harris
+1142,Hoffman,Lenard,null,null,e 1210 Park
+1143,Hogg,Francis,null,null,Water
+1144,Hogg,Jas,A ,null,Water
+1145,Hogg,John,null,null,Water
+1146,Holappa,Esther,null,null,Elm
+1147,Holappa,Florrie,null,null,Elm
+1149,Holland,Alice,null,null,White
+1150,Holland,Danl,A ,null,Franklin
+1153,Holland,Mary,A ,null,Hancock av
+1154,Holm,Annabel,null,null,Center
+1155,Holm,Annie,null,null,Center
+1156,Holm,Henry,null,jr,Center
+1157,Holman,Emma,null,null,Cooper av
+1160,Homer,Arth,null,null,Minnesota
+1161,Homer,Dorothy,null,null,Minnesota
+1162,Honga,John,null,null,Birch
+1163,Honka,Alf,A ,null,Finn
+1165,Honkla,Emil,null,null,Scott
+1166,Homgren,Signe,null,null,Ethel av
+1167,Hosang,Raymond,E ,null,Hubbell
+1169,Hosking,Bert,null,null,Roberts
+1170,Hosking,John,H ,null,Roberts
+1171,Hosking,Wallis,D ,null,Roberts
+1179,Houle,Ann,M ,null,North
+1180,Houle,John,J ,null,North
+1181,Houle,Wilfred,null,null,North
+1182,Houser,Alf,B ,null,Sigbee
+1183,Hovinen,Douglass,C ,null,Roberts
+1184,Hovinen,Victor,null,null,Roberts
+1187,Hoyer,Chas,null,null,Summit
+1188,Hoyer,Edw,null,null,Michigan
+1189,Hoyer,Edw,null,null,Summit
+1190,Hoyer,Fred,null,null,Ethel av
+1191,Hoyer,John,null,null,Ethel av
+1192,Hoyer,Richd,null,null,Summit
+1193,Hoyer,Russell,null,null,Summit
+1195,Hungala,Anna,null,null,Pewabic rd 
+1196,Hungala,Nestor,null,null,Pewabic rd 
+1200,Hurla,Chas,null,null,Oak
+1201,Hurla,Irene,null,null,Oak
+1202,Hurley,Carl,E ,null,Franklin
+1203,Huron,Jas,H ,null,Garden
+1204,Hurula,Arth,C ,null,Scott
+1207,Huss,Daisy,null,null,Vivian
+1208,Huuska,Ivar,null,null,Sampson
+1209,Huuska,Louis,null,null,Sampson
+1210,Hyvarinen,C,E ,null,4th
+1211,Hyvarinen,John,null,null,Tezcuco
+1213,Ikonen,Albert,null,null,Elevation
+1214,Ikonen,Impi,M ,null,Elevation
+1215,Ikonen,Vilho,A ,null,Elevation
+1216,Immonen,Andrew,null,null,Finn
+1217,Immonen,Eino,R ,null,Pine
+1218,Immonen,Matt,null,null,Ethel av
+1219,Ingram,Clara,A ,null,Church
+1220,Ingram,LeRoy,null,null,Summit
+1221,Ingston,Jas,null,null,Hancock av
+1222,Isaacson,Engred,E ,null,Elevation
+1223,Isaacson,Helmer,T ,null,Elevation
+1224,Isaacson,Hilding,H ,null,Elevation
+1225,ISaacson,Norma,null,null,Elevation
+1226,Isaacson,Walfred,C ,null,Elevation
+1227,Isolampi,Aili,null,null,Hancock av
+1228,Isolampi,Aune,null,null,Hancock av
+1229,Isolampi,Lili,null,null,Hancock av
+1230,Isolampi,Sanna,null,null,Hancock av
+1231,Isolampi,Sulho,E ,null,Hancock av
+1232,Isolampi,Uljas,null,null,Hancock av
+1233,Isto,Elsie,null,null,Hancock av
+1234,Isto,Hannah,Mrs ,null,Hancock av
+1235,Isto,Wally,null,null,Hancock av
+1236,Jaasko,Chas,E ,null,Emma av
+1237,Jaasko,Theo,null,null,Minnesota
+1238,Jackson,Blanche,Mrs ,null,Quincy
+1239,Jackson,Hattie,null,null,Hancock av
+1241,Jacobson,Carl,null,null,Ethel av
+1242,Jacobson,Carl,D ,null,Anthony
+1244,Jacobson,Edw,L ,null,Pine
+1245,Jacobson,Eric,null,null,Ethel av
+1246,Jacobson,Ernest,M ,null,Anthony av
+1248,Jacobson,Jacob,null,null,Ethel av
+1249,Jacobson,Jacob,W ,null,3d 
+1250,Jacobson,John,R ,null,Pine
+1251,Jacobson,Nellie,J ,Mrs,Anthony av
+1252,Jacobson,Otto,W ,null,Pine
+1253,Jacobson,Raymond,A ,null,Anthony av
+1255,Jaehnig,Benj,null,null,3d 
+1257,James,Florence,null,null,Quincy
+1258,James,Raymond,null,null,Quincy
+1259,James,Susan,null,null,Quincy
+1260,James,Wm,B ,null,Quincy
+1261,Jarvela,Jonas,null,null,Hancock av
+1262,Jarvela,Wayne,null,null,Minnesota
+1263,Jarvi,Chas,null,null,Summit
+1264,Jarvi,Otto,null,null,Douglass 
+1265,Jarvi,Sophie,null,null,Summit
+1266,Jarvinen,Ode,null,null,Tezcuco
+1267,Jarvinen,Wm,null,null,Tezcuco
+1268,Jarvis,Chas,null,null,Elevation
+1273,Jasberg,Paul,null,null,Finn
+1274,Jasberg,U,G ,null,Finn
+1275,Jauhiainen,Nestor,null,null,2d
+1276,Jeffery,Jas,null,null,Ohio
+1277,Jeffery,John,C ,null,Mason av
+1278,Jennings,Edith,E ,null,Ethel av
+1279,Jennings,Mary,null,null,Ethel av
+1281,Jestila,Elmer,J ,null,Dakota
+1283,Joffee,Ethel,null,null,Quincy
+1284,Joffee,Harry,E ,null,Quincy
+1286,Joffee,Milton,I ,null,Quincy
+1288,Johnson,Alf,null,null,Elm
+1289,Johnson,Alma,null,null,Emma av
+1290,Johnson,Arvid,null,null,Emma av
+1292,Johnson,Brynolf,E ,null,Oak
+1293,Johnson,Bud,null,null,Water
+1294,Johnson,Chas,null,null,Ethel av
+1296,Johnson,Dorothy,null,null,Franklin
+1297,Johnson,Edw,null,null,Oak
+1300,Johnson,Eino,null,null,Tezcuco
+1301,Johnson,Elias,null,null,Pewabic rd 
+1302,Johnson,Elias,H ,null,Elevation
+1303,Johnson,Elmer,null,null,Elevation
+1305,Johnson,Eric,null,null,Warren
+1306,Johnson,Eric,W ,null,Elm
+1307,Johnson,Esther,null,null,Quincy
+1308,Johnson,Hannah,Mrs ,null,Emma av
+1309,Johnson,Henry,null,null,Elevation
+1311,Johnson,Lawrence,null,null,Ethel av
+1312,Johnson,Melvin,null,null,Ethel av
+1313,Johnson,Paul,null,null,Oak
+1314,Johnson,Pearl,null,null,Oak
+1315,Johnson,Ralph,null,null,3d
+1316,Johnson,Rico,null,null,Pewabic rd 
+1317,Johnson,Sophia,null,null,Holland
+1318,Johnson,Theo,A ,null,Ethel av
+1319,Johnson,Wendell,J ,null,Elm
+1320,Johnson,Wm,null,null,Tezcuco
+1321,Johnson,Wm,H ,null,Holland
+1324,Johnston,Lucy,null,null,Hancock
+1325,Johnston,Ruth,null,null,Hancock
+1326,Jones,Bernard,W ,null,Hancock av
+1327,Jones,J,D ,null,Hancock av
+1328,Juntenen,Emil,null,null,Holland
+1329,Jentenen,Matt,null,null,Anthony av
+1330,Juntti,Leslie,P ,null,4th
+1331,Junttl,Peter,null,null,4th
+1332,Juntti,Walter,E ,null,4th
+1333,Juntenen,Matt,null,null,Anthony av
+1336,Juntunen,Arne,null,null,Franklin
+1340,Juntunen,Hilda,null,null,Summit
+1345,Juntunen,Rose,null,null,Minnesota
+1347,Jurva,Aug,A ,null,Summit
+1349,Jutula,Matt,null,null,rear 1106 Front 
+1351,Juvkinen,Jos,null,null,Oak
+1353,Kaarre,Elma,M ,null,Quincy
+1354,Kaartinen,Arvo,null,null,Holland
+1355,Kaarto,Arth,R ,null,Pine
+1356,Kaarto,Carlund,null,null,Pine
+1357,Kaarto,Einard,null,null,Elm
+1358,Kaarto,Jacob,null,null,Pine
+1360,Kahler,Delbert,J ,null,Anthony av
+1361,Kahler,Floyd,null,null,Summit
+1362,Kahler,Herbert,E ,null,Anthony av
+1363,Kahler,Herman,J ,null,Anthony av
+1364,Kahn,Norbert,null,null,Vivian
+1365,Kaiser,Roman,null,null,Anthony av
+1367,Kalinosky,Mary,null,null,Emery
+1368,Kalinosky,Rose,null,null,Emery
+1369,Kalinosky,Rose,null,null,Emery
+1372,Kampschafer,Bertha,null,null,Summit
+1373,Kampschafer,Elmer,null,null,Summit
+1374,Kananen,Elsie,G ,null,Scott
+1379,Kangas,Alf,null,null,Pewabic rd 
+1380,Kangas,Anna,null,null,White
+1382,Kangas,Chas,null,null,Elevation
+1383,Kangas,Chas,null,jr,Elevation
+1387,Kangas,Helen,null,null,Cottage row
+1388,Kangas,Ina,null,null,Oak
+1389,Kangas,Jacob,null,null,Cottage row
+1392,Kangas,Josephine,null,null,Elm
+1393,Kangas,Lawrence,null,null,Elevation
+1394,Kangas,Matt,null,null,Elm
+1395,Kangas,Matt,null,null,Ingot
+1396,Kangas,Michl,null,null,Lake
+1397,Kangas,Mayme,null,null,Elevation
+1398,Kangas,Olga,S ,null,White
+1399,Kangas,Oscar,null,null,Oak
+1400,Kangas,Ronald,M ,null,Lake
+1402,Kangas,Sulo,H ,null,White
+1403,Kangas,Susana,null,null,Pewabic rd 
+1404,Kangas,Wm,null,null,Elevation
+1405,Kanniainen,Alida,null,null,Quincy
+1408,Kantola,Walfred,T ,null,Oak
+1409,Kappi,Louis,null,null,Franklin
+1411,Kari,Lempi,null,null,Hancock av
+1412,Kari,Lillian,null,null,Hancock av
+1413,Kari,Louis,null,null,Hancock av
+1414,Kari,Lucy,null,null,Hancock av
+1415,Kari,Wallace,null,null,Hancock av
+1416,Kari,Walter,null,null,Hancock av
+1417,Kari,Wm,J ,null,Hancock av
+1418,Karinen,Jacob,null,null,Warren
+1420,Karki,Fred,null,null,Minnesota
+1422,Karpaka,Matt,null,null,Pewabic rd 
+1429,Karpinen,Ellen,null,null,Quincy
+1431,Karpinen,Jacob,null,null,Quincy
+1435,Karpinen,Wesley,null,null,Quincy
+1436,Karppinen,Andrew,null,null,Warren
+1440,Karra,Anna,null,null,Elm
+1441,Karrlo,Edw,R ,null,Ethel av
+1442,Karry,John,null,null,Prospect
+1443,Karry,John,P ,jr,Holland
+1445,Karvola,Leander,null,null,Holland
+1446,Karvola,Mary,null,null,Quincy
+1447,Karvola,Raino,null,null,Holland
+1451,Kaspala,Ida,null,null,White
+1452,Kasuri,Anna,Mrs ,null,Holland
+1453,Kasuri,John,null,null,Holland
+1454,Kasuri,Oliver,null,null,Holland
+1455,Kasuri,Waino,null,null,Holland
+1456,Kauffman,Michl,null,null,Summit
+1457,Kauppi,Lauri,null,null,Franklin
+1458,Kauppi,Leo,null,null,Franklin
+1459,Kauppi,Marien,J ,null,Elevation
+1460,Kauppi,Wm,null,null,Elevation
+1461,Kauppila,Fred,null,null,3d
+1463,Kausie,Martin,null,null,Pewabic rd 
+1464,Kauth,Annie,M ,null,Cooper av
+1466,Kauth,Wm,C ,null,Cooper av
+1471,Kearney,Alice,C ,null,Finn
+1472,Kearney,Ann,E ,null,Ryan
+1473,Kearney,Cath,null,null,Ryan
+1474,Kearney,Jane,null,null,Ryan
+1475,Kearney,John,null,null,Finn
+1476,Kearney,John,M ,null,Finn
+1477,Kearney,Kate,null,null,Ryan
+1478,Kearney,Mary,B ,null,Finn
+1479,Kearney,Ted,null,null,Finn
+1480,Keary,Louis,A ,null,Summit
+1481,Keillor,Ruby,null,null,Summit
+1482,Kellan,Henry,null,null,Summit
+1483,Kellan,Louis,H ,null,Summit
+1492,Kelly,Clarence,null,null,Water
+1493,Kelly,Elsie,null,null,Water
+1494,Kelly,Geo,null,null,Water
+1495,Kelly,John,null,null,Water
+1496,Kelly,Mary,null,null,Water
+1497,Kelly,Walter,null,null,Franklin
+1498,Kelpie,Walter,null,null,Ingot
+1499,Kemelti,Maude,null,null,Franklin
+1501,Kemppainen,Abel,null,null,Ryan
+1503,Kemppainen,Delphine,null,null,Holland
+1505,Kemppainen,Emil,null,null,Oak
+1507,Kemppainen,Kreeto,null,null,Roosevelt
+1509,Kemppainen,Matt,null,null,Holland
+1511,Kemppainen,Wilho,A ,null,Oak
+1512,Kemppanen,Iver,null,null,Emma av
+1513,Kendall,Roy,null,null,Summit
+1514,Kennedy,Anna,null,null,Front 
+1515,Keough,Dorothy,null,null,Hancock av
+1516,Keough,Lenore,M ,null,Hancock av
+1517,Keranen,Abel,null,null,2d
+1519,Kerbin,Geo,null,null,Franklin
+1520,Kerbin,Michl,null,null,Franklin
+1521,Kerlund,Annie,O ,null,Holland
+1522,Kerlund,Herman,null,null,Holland
+1523,Kero,John,null,null,Franklin
+1524,Kero,Walter,H ,null,Liberty
+1525,Kerredge,Mary,null,null,Quincy
+1529,Kessler,Henrietta,null,null,4th
+1530,Keste,Matt,null,null,Warren
+1531,Kesti,Martha,null,null,Ingot
+1532,Kesti,Matt,null,null,Ethel av
+1533,Kettenbeil,Hannah,null,null,Quincy
+1534,Kettenbeil,Harold,null,null,Front 
+1535,Kettenbeil,Verna,A ,null,Quincy
+1536,Keuler,Ann,M ,null,Water
+1537,Keuler,Jacob,D ,null,Water
+1538,Keuler,Josephine,null,null,Water
+1539,Keuler,Magdeline,M ,null,Water
+1540,Kevern,Garfield,null,null,Front 
+1541,Kevern,Wm,J ,null,Front 
+1545,Killinen,Evelyn,null,null,Summit
+1546,Killinen,John,null,null,Summit
+1548,Killmar,Cooley,M ,null,Quincy
+1549,Killmar,Miles,B ,null,Quincy
+1550,Kilpela,Hannah,null,null,Cedar
+1551,Kilpela,Henry,null,null,Roberts
+1552,Kilpela,Kath,null,null,Cedar
+1553,Kilpela,Theo,null,null,Cedar
+1554,Kimmel,Wm,W ,null,Mason av
+1555,King,Henry,J ,null,Hancock av
+1556,Kinnell,Wm,H ,null,Water
+1557,Kinnunen,Bertha,null,null,Emery
+1558,Kinnunen,Eric,null,null,Emery
+1559,Kinnunen,Ida,null,null,White
+1560,Kinnunen,Urho,null,null,Emery
+1562,Kinsman,Albert,null,null,Ethel av
+1565,Kinsman,Russell,null,null,Pine
+1568,Kinsman,Wm,H ,null,Pine
+1574,Kivela,Irene,null,null,Wright
+1575,Kivela,Lillian,E ,null,Wright
+1576,Kivela,Mathilda,Mrs ,null,Wright
+1577,Kivi,Martin,null,null,Mine
+1578,Kivinniemi,Chas,null,null,Front 
+1579,Kiviranti,Toivo,null,null,4th
+1580,Klemeti,Hugo,null,null,Wright
+1581,Klemetti,Hamming,null,null,White
+1582,Kling,Frank,null,null,Finn
+1583,Klingbeil,Emil,null,null,Water
+1585,Klingbeil,Ernest,R ,null,Water
+1586,Klingbeil,Wm,null,null,Hancock av
+1587,Knapp,Harry,null,null,Tezcuco
+1588,Kneebone,John,null,null,Cedar
+1589,Kneebone,Sam,null,null,Summit
+1593,Knuth,Albert,W ,null,Hancock av
+1594,Knuth,Margt,L ,null,Hancock av
+1595,Knuuttila,Agda,A ,null,Water
+1596,Knuuttila,Isaac,null,null,Water
+1597,Knuuttila,Neil,L ,null,Water
+1598,Kohl,Geo,null,null,3d 
+1599,Kohl,John,null,null,3d 
+1600,Kohlemain,Felix,null,null,Front 
+1602,Kohlman,Jacob,null,null,Oak
+1604,Kolehmain,Ernest,null,null,Front 
+1605,Kolehmain,Reino,null,null,Front 
+1606,Kolehmain,Wm,null,null,Front 
+1607,Kolehmain,Wm,null,jr,Front 
+1608,Kolehmainen,John,null,null,Holland
+1609,Kolemainen,Henry,A ,null,Scott
+1610,Kolka,Jacob,null,null,Water
+1611,Kolka,John,L ,null,Hancock
+1612,Kolka,Louis,H ,null,Hancock
+1613,Kolman,Julius,null,null,2d
+1614,Kolman,Wm,null,null,2d
+1616,Komu,Hilda,Mrs ,null,Elevation
+1617,Kontu,Otto,null,null,Elm
+1618,Kopp,Chas,W ,null,Ingot
+1619,Korpinen,Jacob,null,null,Quincy
+1620,Kosamo,Lyyli,null,null,Quincy
+1621,Kosamo,Mary,null,null,Quincy
+1622,Koskela,Hilma,null,null,Tezcuco
+1623,Koskela,Martha,K ,null,Tezcuco
+1624,Koskela,Richd,null,null,Tezcuco
+1625,Koski,Edna,null,null,Pine
+1626,Koski,Eli,null,null,Ethel av
+1627,Koski,Ellen,null,null,Pine
+1628,Koski,Franc,null,null,Summit
+1629,Koski,Frank,null,null,Pine
+1630,Koski,Frank,null,null,Minnesota
+1633,Koski,Otto,null,null,Pewabic rd 
+1634,Koski,Otto,F ,null,Pine
+1635,Kosti,Erlund,null,null,Summit
+1636,Kotila,Felix,E ,null,Lake av
+1637,Kottila,Anna,null,null,Franklin
+1638,Kovala,Anna,M ,null,White
+1639,Kovala,Ina,E ,null,White
+1640,Kovala,Mathilda,null,null,Quincy
+1641,Kovala,Matilda,A ,null,White
+1642,Kovalainen,Eino,null,null,Tezcuco
+1643,Kozak,John,null,null,Quincy
+1644,Kramer,Fred,O ,null,Ravine
+1645,Krantz,Oscar,null,null,Finn
+1646,Kratt,Arth,M ,null,Water
+1647,Kratt,Elmer,F ,null,Water
+1648,Kratt,Dorothy,A ,null,Water
+1649,Krellwitz,Mildred,Mrs ,null,Franklin
+1650,Kruuka,Kustaava,null,null,Lake
+1651,Krym,Einard,null,null,Liberty
+1652,Krym,Felix,R ,null,Liberty
+1653,Krym,Irene,E ,null,Liberty
+1654,Krym,Maggie,null,null,Liberty
+1655,Krym,Norman,J ,null,Liberty
+1656,Kujanpaa,Alex,null,null,Ryan
+1657,Kujanpaa,Fannie,null,null,Ryan
+1658,Kujanpaa,Tola,null,null,Ryan
+1659,Kukka,Chas,E ,null,Emma av
+1661,Kukkonen,Jacob,N ,null,Hancock av
+1663,Kluju,Ada,F ,null,Poplar
+1664,Kulju,Erick,null,null,Poplar
+1666,Kulju,Sanford,C ,null,Poplar
+1667,Kulju,Segard,R ,null,Poplar
+1668,Kulju,Sweny,E ,null,Poplar
+1671,Kurth,Andrew,null,null,Ingot
+1672,Kuru,Helmer,T ,null,Oak
+1674,Kuukasjarvi,Edw,null,null,Finn
+1675,Kuura,Kath,null,null,White
+1676,Kuura,Linda,null,null,White
+1677,Kuusela,Matt,null,null,Tezcuco
+1678,Kuuva,Albin,null,null,Minnesota
+1679,Kuuva,Eric,null,null,Minnesota
+1680,Kuuva,Mary,null,null,Minnesota
+1681,Kylander,John,null,null,Railroad av
+1683,Laakko,Henry,null,null,Tezcuco
+1686,LaCosse,Lucille,null,null,Ravine
+1687,LaCosse,Napoleon,null,null,Ravine
+1688,LaCosse,Rose,Mrs ,null,Ravine
+1691,LaDrag,Albert,J ,null,Roberts
+1692,LaFortune,Jos,null,null,Franklin
+1693,Laine,John,P ,null,3d
+1694,Laiti,Aug,null,null,Prospect
+1695,Laitinen,Edw,null,null,2d 
+1697,Lajeunesse,Hector,null,null,Front 
+1698,Lambaka,Aro,null,null,Tezcuco
+1700,LaMora,Louis,A ,null,Franklin
+1701,Lampher,Wallace,null,null,Front 
+1702,Lampinen,John,H ,null,4th
+1703,Lanala,Dorothy,F ,null,Ryan
+1704,Lanala,Harold,W ,null,Ryan
+1705,Lanala,Wm,M ,null,Ryan
+1707,Lanctot,Alvina,null,null,Summit
+1708,Lanctot,Frank,null,null,Summit
+1709,Lanctot,Mary,null,null,Summit
+1711,Landstrom,Abr,B ,null,Cedar
+1712,Landstrom,Arnold,B ,null,Cedar
+1713,Landstrom,Axel,H ,null,Cedar
+1714,Landstrom,Kenneth,W ,null,Cedar
+1715,Lang,Fred,null,null,Vivian
+1716,Lang,Margt,null,null,Vivian
+1717,Lang,Robt,null,null,Vivian
+1719,Langdon,Bessie,null,null,Lake av
+1720,Lange,Vernard,null,null,Burt 
+1721,Lange,Wm,null,null,Burt 
+1722,Laninen,Alma,null,null,Anthony av
+1723,Laninen,Henry,null,null,Anthony av
+1724,Laninen,Wilbert,null,null,Anthony av
+1725,Lantto,Eli,J ,null,Cedar
+1726,Lantto,Ethel,null,null,Franklin
+1727,Lantto,Impi,J ,null,Cedar
+1729,Larsen,Henry,null,null,Hancock av
+1734,Larson,John,null,null,Water
+1735,Larson,John,null,null,Franklin
+1737,Larson,Luther,B ,null,Water
+1739,Larson,Victor,null,null,Wright
+1740,Lassey,Edw,null,null,Vivian
+1741,Lassila,Alf,S ,null,4th
+1742,Lassila,Bart,null,null,Elm
+1743,Lassila,Josephine,null,null,Elm
+1744,Lassila,Sylvia,null,null,Elm
+1745,Lassila,Wm,I ,null,4th
+1752,Latva,Edw,null,null,Poplar
+1753,Latva,Henry,F ,null,Poplar
+1754,Latva,Minnie,null,null,Poplar
+1756,Lauette,Louis,null,null,Ryan
+1757,Laughren,Henry,null,null,Holland
+1758,Laukka,Aug,null,null,Tezcuco
+1759,Laukka,Geo,null,null,Tezcuco
+1762,Laurell,Minnie,S ,Mrs,Shelden R21
+1764,Laurin,Fred,null,null,Quincy
+1765,Laurin,Henry,null,null,Quincy
+1766,Laurin,Walter,J ,null,Ryan
+1767,Laurn,Arth,T ,null,Railroad av
+1768,Laurn,Chas,null,null,Railroad av
+1769,Laurn,Edw,C ,null,Railroad av
+1770,Laurn,Ellen,M ,null,Railroad av
+1771,Lavigne,Eug,A ,null,Ravine
+1772,Lavorini,Ferruccio,null,null,Ingot
+1773,Lavorini,Mary,null,null,Ingot
+1774,Lawler,Wm,T ,null,Water
+1776,Lawton,Harriet,L ,null,Cooper av
+1777,Lawton,Robt,A ,null,Cooper av
+1778,Lawton,Swaby,L ,null,Cooper av
+1779,Lazzeri,Alf,null,null,Railroad av
+1780,Lazzeri,Edw,null,null,Railroad av
+1781,Lazzeri,Marie,null,null,Railroad av
+1782,Leary,Hath,null,null,Quincy
+1784,Leary,Michl,J ,null,Quincy
+1789,Lee,Robt,E ,null,Vivian
+1790,Lees,Edith,H ,null,Water
+1791,Lees,John,null,null,Water
+1792,Lees,Margt,E ,null,Water
+1793,LeGault,Albert,null,null,Franklin
+1794,Legault,John,null,null,Quincy
+1795,LeGault,Minnie,null,null,Franklin
+1796,LeGault,Ursula,null,null,Franklin
+1797,Lehndorff,Emma,null,null,Quincy
+1798,Lehto,Alma,E ,null,Pine
+1800,Lehto,Eliz,Mrs ,null,Hancock av
+1801,Lehto,Ellen,M ,null,Pine
+1802,Lehto,Herman,null,null,Franklin
+1804,Lehto,Ilna,null,null,Front 
+1805,Lehto,Isaac,null,null,Pine
+1806,Lehto,Ivar,null,null,Ingot
+1807,Lehto,John,null,null,Front 
+1808,Lehto,John,null,null,Front 
+1809,Lehto,Oscar,A ,null,Ingot
+1810,Lehto,Waino,A ,null,Hancock av
+1811,Lehto,Wayne,null,null,Front 
+1812,Lehto,Wm,null,null,Front 
+1813,Lehto,Wm,I ,null,Scott
+1816,Leiblein,Norman,J ,null,Hancock
+1817,Leinonen,Edw,J ,null,Ryan
+1818,Leinonen,Ellen,A ,null,Ryan
+1820,Leinonen,Hilda,J ,null,Ryan
+1821,Leinonen,Hilia,G ,null,Ryan
+1822,Leinonen,John,null,null,White
+1824,Leinonen,Matt,null,null,Ryan
+1825,Lemke,Albert,null,null,Railroad av
+1826,Lemke,Cecila,null,null,Railroad av
+1827,Lemke,Loretta,null,null,Railroad av
+1828,Lemke,Otto,null,null,Railroad av
+1832,Lenci,Esola,null,null,Summit
+1834,Leo,Louis,S ,null,Cooper av
+1835,Leonard,Wm,null,null,Prospect
+1836,LePage,Agnes,null,null,Quincy
+1837,Lepisto,Antti,Rev ,null,Dakota
+1839,Lepisto,Hannah,null,null,Franklin
+1840,Lepisto,Helmi,null,null,Franklin
+1841,Lepisto,Lillian,Mrs ,null,Elm
+1843,Lepisto,Nestor,L ,null,Franklin
+1844,Lepisto,Toivo,null,null,Franklin
+1845,Lepisto,Wm,null,null,Franklin
+1847,Lescelius,Helmi,null,null,Minnesota
+1849,Leukema,Wm,null,null,Pine
+1851,Ley,Louis,null,null,Tezcuco
+1852,Ley,M,M ,Mrs,Water
+1853,Ley,Mary,M ,null,Water
+1854,Ley,Nina,A ,null,Water
+1855,Lieber,Isabelle,null,null,Water
+1856,Lieber,Otto,null,null,Water
+1857,Lieber,Robt,null,null,Water
+1858,Lieblein,Adeline,Mrs ,null,Hancock av
+1859,Lieblein,Albert,G ,null,Hancock
+1860,Lieblein,Bernadette,null,null,Mine
+1861,Lieblein,Clara,null,null,Mine
+1863,Lieblein,Edw,M ,jr,Quincy
+1864,Lieblein,Emma,null,null,Water
+1865,Lieblein,Virginia,F ,null,Quincy
+1866,Liedes,Edw,null,null,Hill
+1867,Liedes,Geo,null,null,Hill
+1868,Liedes,Lauri,null,null,Hill
+1869,Liedes,Oiva,A ,null,Hill
+1870,Liikala,Sami,null,null,2d 
+1873,Lind,Chas,J ,null,Elevation
+1874,Lind,Mathilda,Mrs ,null,Pine
+1877,Lindgren,Emil,H ,null,Elevation
+1878,Lindgren,John,null,null,Pine
+1879,Lindgren,John,E ,null,Arcadian 
+1880,Lindgren,Melvin,null,null,Arcadian 
+1881,Lindgren,Norma,null,null,Arcadian 
+1883,Linholm,Ernest,null,null,Anthony av
+1884,Linholm,Gus,null,null,Anthony av
+1885,Link,Loraine,null,null,Cooper av
+1886,Linna,Ida,S ,null,Wright
+1888,Lohela,Efriam,null,null,Minnesota
+1889,Lohela,Helen,null,null,Minnesota
+1890,Lohnola,Dorothy,null,null,Ryan
+1891,Lohnola,Harold,W ,null,Ryan
+1892,Lohnola,Wm,M ,null,Ryan
+1893,Long,Edw,null,null,Oak
+1894,Long,Helen,null,null,Oak
+1895,Long,John,null,null,Oak
+1897,Lonkola,Marie,H ,null,White
+1898,Looney,Agnes,null,null,E Water
+1899,Looney,Kath,null,null,E Water
+1900,Looney,Penelope,null,null,E Water
+1901,Looney,Richd,T ,null,E Water
+1902,Lorasch,Toney,F ,null,Scott
+1904,Lorel,Wm,null,null,Water
+1907,Lorenzetti,Juulo,null,null,Summit
+1908,Loukus,Chas,R ,null,Hancock av
+1909,Louma,Waino,null,null,Roberts
+1910,Louman,Wm,null,null,Roberts
+1913,Ludowise,John,E ,null,Hancock av
+1914,Ludowise,Michl,G ,null,Hancock av
+1915,Luhta,John,null,null,Tezcuco
+1916,Lumio,Matt,null,null,Elm
+1917,Lundbeck,Aino,Mrs ,null,Elm
+1918,Lundbeck,Oscar,null,null,Elm
+1919,Lundgren,John,null,null,Elevation
+1920,Lundgren,Louise,null,null,Elevation
+1921,Lundy,Anna,null,null,Sherman 
+1922,Lundy,Edw,null,null,Sherman 
+1923,Lundy,Jacob,null,null,Sherman 
+1924,Lundy,Jacob,null,null,Prospect
+1925,Lundy,Wm,null,null,Sherman 
+1926,Luoma,John,null,null,Roberts
+1930,Luusua,Thos,null,null,2d
+1935,Lyon,Bessie,null,null,Front 
+1936,Lyons,Donald,null,null,Front 
+1937,Lypsinmaa,Bruno,null,null,Anthony av
+1939,MacDonald,Dorothy,null,null,Quincy
+1942,MacDonald,Margt,null,null,Ingot
+1945,Mackela,Senia,null,null,Quincy
+1946,Maclean,Flora,null,null,Vivian
+1948,Mahoney,Jane,null,null,Hancock av
+1949,Maier,Peter,C ,null,Hancock av
+1950,Makela,Chas,null,null,Quincy
+1951,Makela,Chas,R ,null,Lake
+1952,Makela,Geo,W ,null,Pine
+1953,Makela,John,P ,null,Pine
+1954,Makela,Tillie,null,null,Quincy
+1955,Makela,Wm,G ,null,Quincy
+1957,Maki,Auri,A ,null,White
+1959,Maki,Einard,null,null,Liberty
+1963,Make,Hilja,Mrs ,null,Hancock av
+1964,Maki,Jafet,null,null,Summit
+1965,Maki,Jennie,null,null,Summit
+1970,Maki,Mary,null,null,White
+1972,Maki,Rudolph,null,null,Quincy
+1974,Maki,Waino,null,null,Pine
+1975,Maki,Walter,null,null,Liberty
+1976,Maki,Werner,E ,null,do
+1977,Makinen,Aileen,null,null,Front 
+1978,Maklnen,Elle,null,null,Front 
+1979,Makinen,Mary,null,null,Front 
+1980,Makinen,Wm,null,null,Front 
+1981,Malgren,Lempe,S ,null,Ryan
+1982,Malgren,Mary,A ,null,Ryan
+1983,Malgren,Wilburt,N ,null,Ryan
+1984,Malgren,Wm,E ,null,Ryan
+1985,Malmstrom,Arnold,null,null,Summit
+1986,Malmstrom,John,E ,null,Summit
+1987,Maloy,Thos,null,null,Hancock av
+1989,Manderfield,John,S ,null,Summit
+1991,Mandley,Eliz,null,null,Tezcuco
+1992,Mandoli,Aledoni,J ,null,Lake
+1993,Maneaski,Julio,null,null,4th
+1994,Maninnen,Albert,null,null,Franklin
+1996,Manning,Arth,I ,null,Finn
+1997,Manning,Axel,null,null,Finn
+1998,Manning,Herbert,null,null,Pine
+1999,Manning,Martha,null,null,Pine
+2000,Manning,Richd,null,null,Wright
+2002,Mantela,Wm,T ,null,Pine
+2003,Manthy,Lota,null,null,Water
+2004,Mantta,Edw,null,null,2d 
+2006,Manuelson,Waino,A ,null,Oak
+2010,Marianni,Evert,null,null,Quincy
+2012,Marjamaa,Alma,Mrs ,null,Ravine
+2013,Marjamaa,Matt,W ,null,Ravine
+2016,Markus,Geo,B ,null,Railroad av
+2017,Marlor,Wm,null,null,Front 
+2018,Marlowe,Edw,null,null,Front 
+2019,Marlowe,Pauline,null,null,Front 
+2020,Marlowe,Philip,null,null,Front 
+2021,Marlowe,Wm,null,null,Front 
+2022,Marshall,Henry,A ,null,Hancock
+2023,Marshall,John,null,null,Hancock
+2024,Marshall,Raymond,E ,null,Hancock
+2025,Martin,Albert,J ,null,4th
+2026,Martin,Danl,J ,null,Hancock
+2027,Martin,Elinor,null,null,Hancock
+2028,Martin,Frank,C ,null,Hancock
+2029,Martin,Herbert,null,null,Hancock
+2030,Martin,John,A ,null,Hancock
+2031,Martin,Jos,D ,null,Hancock
+2032,Martin,Jos,D ,jr,Hancock
+2033,Martlikala,Jack,null,null,Tezcuco
+2036,Marx,Wm,J ,null,Anthony av
+2037,Maryomaa,Matt,null,null,Anthony av
+2041,Mason,Alden,O ,null,Center
+2042,Mason,Arth,P ,null,Minnesota
+2044,Mason,Byron,H ,null,Sigsbee
+2046,Mason,Clarence,G ,null,Center
+2047,Mason,Clarence,M ,null,Center
+2048,Mason,Henry,B ,null,Summit
+2049,Mason,Mary,null,null,Harris av
+2050,Mason,Walter,B ,null,Summit
+2056,Masters,John,null,null,Cedar
+2058,Matero,Mamie,null,null,Quincy
+2059,Mathy,Bernard,G ,null,Minnesota
+2061,Matson,David,R ,null,Warren
+2062,Matson,Edna,H ,null,Warren
+2063,Matson,Henry,null,null,Warren
+2064,Matson,Hilma,null,null,Summit
+2065,Matson,Rudolph,H ,null,Warren
+2066,Matson,Wm,J ,null,Summit
+2067,Matte,Edw,null,null,Quincy
+2069,Matte,John,null,null,Quincy
+2070,Mattson,Albert,R ,null,Pine
+2072,Mattson,Carl,P ,null,Elm
+2074,Mattson,Christ,W ,null,Oak
+2076,Mattson,Geo,V ,null,Elm
+2078,Mattson,Gust,null,null,2d 
+2080,Mattson,Mamie,M ,null,Water
+2083,Mattson,Walter,null,null,Vivian
+2089,McAskill,Chas,null,null,Summit
+2090,McAskill,Isabel,null,null,Franklin
+2091,McAskill,John,F ,null,Franklin
+2092,McCallum,Jas,J ,null,Quincy
+2093,McCallum,Sadie,A ,null,Quincy
+2099,McCarthy,Agnes,null,null,Quincy
+2100,McCarthy,Alice,A ,null,Quincy
+2101,McCarthy,Anna,B ,null,Quincy
+2102,McCarthy,Cath,J ,null,Water
+2103,McCarthy,Helen,null,null,Summit
+2105,McCarthy,Mary,null,null,Summit
+2106,McCarthy,Timothy,J ,null,Summit
+2108,McCauly,Kath,null,null,Vivian
+2109,McCormick,Geo,W ,null,Quincy
+2110,McCormick,Ruby,null,null,Ingot
+2111,McCorry,Earl,J ,null,Quincy
+2112,McDonald,Donald,null,null,Center
+2113,McDonald,John,A ,null,Summit
+2114,McDonald,Margt,null,null,Ingot
+2115,McDonald,Neil,null,null,Ingot
+2116,McDonald,Willena,null,null,Center
+2118,McGinnis,Mary,null,null,Franklin
+2119,McGinnis,Verner,null,null,Franklin
+2120,McGrath,Geo,B ,null,Hancock
+2121,McGrath,Martin,null,null,Montezuma
+2122,McIntosh,Albert,A ,null,Water
+2123,McIntyre,Mary,null,null,Summit
+2126,McKindles,Frank,E ,null,Water
+2127,McKindles,John,B ,null,Water
+2128,McKindles,Minnie,E ,null,Hancock av
+2129,McKindles,Robt,S ,null,Water
+2131,McLaudy,John,null,null,Pine
+2132,McLean,Eliz,null,null,Ryan
+2133,McLean,Mary,null,null,Ryan
+2141,McMillan,Josephine,null,null,Douglass 
+2143,Medlyn,Arth,O ,null,Montezuma
+2144,Meehan,Patk,S ,null,Elm
+2145,Mehrman,Ford,null,null,2d 
+2146,Mehrman,John,null,null,2d 
+2147,Mehrman,John,null,jr,2d 
+2149,Meinardi,Jos,null,null,Quincy
+2151,Meola,Leonard,null,null,Quincy
+2154,Merila,Helmi,M ,null,Pine
+2155,Merilla,Fannie,null,null,Quincy
+2156,Merrick,Mary,null,null,Mason av
+2157,Mertz,Carl,H ,null,Cedar
+2158,Mertz,Chas,null,null,Cedar
+2159,Messner,Andrew,null,null,Summit
+2160,Messner,Carlos,F ,null,Summit
+2162,Mette,Frank,M ,null,Tezcuco
+2163,Metteri,Paul,E ,null,Scott
+2165,Mettner,Gertrude,null,null,Hancock av
+2168,Miccala,Aug,null,null,3d 
+2169,Michealson,Elma,null,null,Prospect
+2170,Michealson,Freda,null,null,Prospect
+2171,Michealson,Nicholas,null,null,Pine
+2172,Michealson,Oscar,null,null,Prospect
+2175,Miistounen,Kouska,null,null,Franklin
+2176,Mikesch,Frank,E ,null,Lynn
+2177,Mikesch,LuVeme,R ,null,Lynn
+2178,Mikkelson,Lloyd,null,null,Ethel av
+2179,Mikkelson,Victor,null,null,Ethel av
+2180,Mikkelson,Walter,null,null,Ethel av
+2181,Mikkelson,Walter,null,jr,Ethel av
+2182,Mikko,Godfred,W ,null,Liberty
+2183,Mikkola,John,null,null,White
+2188,Miller,Anthony,null,null,Railroad av
+2189,Miller,Esther,null,null,Sigsbee
+2190,Miller,F,Arth ,null,Water
+2191,Miller,Herman,L ,null,Sigsbee
+2192,Miller,Louis,G ,null,Summit
+2193,Miller,Mary,null,null,Ethel av
+2195,Miller,Paul,null,null,Railroad av
+2196,Miller,Rose,L ,null,Vivian
+2198,Miller,Virginia,null,null,Railroad av
+2201,Mitchell,Anna,null,null,Pine
+2202,Mitchell,Eliz,null,null,Franklin
+2203,Mitchell,Garvin,P ,null,Mine
+2204,Mitchell,Geo,null,null,Pine
+2205,Mitchell,John,null,null,Hancock av
+2206,Mitchell,Mildred,A ,null,Pine
+2207,Mitchell,Roy,W ,null,Pine
+2209,Mniece,Marguerite,E ,null,Harris av
+2210,Moehrke,Anna,null,null,Hancock av
+2211,Moehrke,C,Wm ,null,Hancock av
+2213,Moilanen,Andrew,null,null,Oak
+2214,Moilanen,Chas,null,null,Oak
+2215,Moilanen,Henry,null,null,Scott
+2216,Moilanen,Jalmer,null,null,Oak
+2217,Moilanen,Wm,null,null,Oak
+2218,Molignoni,Clement,null,null,Ethel av
+2219,Monahan,Evelyn,M ,Mrs,Franklin
+2221,Monroe,Eug,null,null,Michigan
+2222,Monroe,Florence,null,null,Michigan
+2223,Monroe,Virginia,null,null,Michigan
+2224,Monticello,Albert,null,null,Reservation
+2227,Monticello,Louis,J ,null,Wright
+2229,Monticello,Sam,null,null,Ingot
+2236,Morrison,Jas,null,null,Arcadian 
+2237,Morrisson,Georgina,null,null,Water
+2238,Morrisson,Margt,null,null,Water
+2241,Mottonen,Herman,null,null,Minnesota
+2242,Mountjoy,Leona,D ,null,Quincy
+2243,Mountjoy,Margt,E ,null,Quincy
+2244,Mountjoy,Walter,null,null,Quincy
+2245,Mountjoy,Wm,H ,null,do
+2247,Moyle,Alvin,null,null,Lake
+2248,Moyle,David,null,null,Pine
+2249,Moyle,Gladys,null,null,Pine
+2250,Moyle,May,null,null,Water
+2251,Moyle,Violet,null,null,Pine
+2253,Mudge,Thos,null,null,Anthony
+2254,Mudge,Walter,null,null,Anthony
+2255,Mugniani,Ralph,null,null,Ethel av
+2256,Mulari,Oscar,null,null,Sampson
+2257,Mularl,Peter,null,null,Ryan
+2259,Multila,Edw,R ,null,Tezcuco
+2260,Munch,Lester,H ,null,Ingot
+2261,Munier,Jos,null,null,Lake
+2262,Murphy,Danl,P ,null,Summit
+2263,Murphy,Patk,C ,null,Hancock av
+2264,Murphy,Steph,null,null,Front 
+2265,Murphy,Teresa,null,null,Hancock av
+2266,Murrier,Susan,null,null,Quincy
+2268,Mustonen,Caroline,null,null,Reservation
+2269,Mustonen,Chas,null,null,Pewabic rd 
+2270,Mustonen,Edw,null,null,White
+2272,Mustonen,John,null,null,Wright
+2274,Mustonen,Victor,null,null,Oak
+2275,Mustonen,Wm,null,null,Tezcuco
+2282,Nagle,Edw,J ,null,Hancock
+2284,Nasko,Geo,W ,null,Summit
+2285,Nasko,Hannah,null,null,Summit
+2286,Nasko,Paul,null,null,Summit
+2287,Nayh,John,null,null,Pine
+2288,Nayh,Matt,null,null,Pine
+2290,Neher,Francis,F ,null,Anthony
+2291,Neher,Frank,null,null,Anthony
+2292,Neher,Gertrude,A ,null,Anthony
+2294,Neimi,Ida,null,null,Center
+2295,Niemi,John,P ,null,Elm
+2296,Nekarvis,Dinah,null,null,Minnesota
+2297,Nekarvis,Jean,null,null,Minnesota
+2298,Nekarvis,John,W ,null,Minnesota
+2301,Nelson,Christian,null,null,Railroad av
+2303,Nelson,Dee,A ,null,Mesnard
+2307,Nelson,Harold,R ,null,Harris av
+2308,Nelson,Isaac,null,null,2d 
+2311,Nelson,Lars,null,null,Pine
+2312,Nelson,Maime,null,null,Hancock av
+2314,Nelson,Mayme,B ,null,Mesnard
+2315,Nelson,Nels,A ,null,Shelden
+2317,Nelson,Norman,J ,null,Mesnard
+2318,Nelson,Robt,null,null,Lake av
+2319,Nelson,Verna,null,null,Harris av
+2320,Neva,Edw,null,null,Birch
+2321,Neva,Ernest,null,null,Birch
+2322,Neva,Geo,null,null,Birch
+2323,Neva,Roy,E ,null,Birch
+2326,Newman,Mary,null,null,Franklin
+2327,Newman,Mary,null,null,Quincy
+2332,Nicholls,Cath,null,null,Water
+2333,Nicholls,Michl,null,null,Water
+2339,Niemela,Aug,null,null,Scott
+2340,Niemi,Andrew,null,null,Railroad av
+2341,Niemi,Chas,W ,null,Pine
+2342,Niemi,Fannie,null,null,Tezcuco
+2344,Niemi,Ida,null,null,Elevation
+2345,Niemi,Isaac,null,null,Pine
+2346,Niemi,John,null,null,Elm
+2348,Niemi,John,P ,null,Elm
+2349,Niemi,Peter,null,null,Prospect
+2350,Niemi,Selma,Mrs ,null,Elm
+2351,Niemi,Uuno,null,null,Dacotah
+2353,Niemi,Wm,A ,null,Pine
+2354,Niemi,Wm,I ,null,Prospect
+2355,Niiranen,Condrat,null,null,Tezcuco
+2357,Nikander,Aino,null,null,Finn
+2358,Nikander,Sanna,null,null,Finn
+2359,Nikander,Toiva,null,null,Finn
+2360,Nikkila,C,Fred ,null,Hancock av
+2361,Nikkila,Ernest,F ,null,Hancock
+2362,Nikkila,Harriet,T ,Mrs,Railroad av
+2363,Nikkila,Henry,R ,null,Railroad av
+2364,Nikkila,Henry,W ,null,Water
+2365,Nikkila,Roy,C ,null,Hancock av
+2366,Nikkinen,Lillian,L ,null,Summit
+2369,Nisonen,Mareti,null,null,Hancock av
+2370,Nissila,Edw,null,null,Scott
+2371,Nissila,Waino,null,null,Scott
+2378,Nominelli,Jos,null,null,Ethel av
+2379,Nominelli,Michl,null,null,Ethel av
+2380,Noonan,Bridget,null,null,Ryan
+2381,Nordstrom,Margt,null,null,Water
+2382,Nordstrom,Nels,O ,null,Water
+2383,Nordstrom,Robt,N ,null,Water
+2384,Norkooli,Alvi,E ,null,Holland
+2385,Norkooli,Felix,H ,null,Holland
+2387,Norkooli,Raymond,B ,null,Holland
+2388,Norman,Mary,null,null,Hancock av
+2389,Normand,Loretto,C ,null,Quincy Hill
+2393,Nortsdron,Arth,null,null,Summit
+2394,Nortsdron,Oscar,null,null,Summit
+2395,Nortsdron,Robt,null,null,Summit
+2398,Nowak,Walter,C ,null,Minnesota
+2402,Nozero,Jos,null,null,Ingot
+2403,Nurmi,Albin,null,null,Franklin
+2404,Nutini,Aladino,null,null,Hancock av
+2405,Nutini,Anna,null,null,Hancock av
+2406,Nutini,Peter,J ,null,Hancock av
+2409,Nyman,Albert,null,null,Rob erts
+2410,Nysti,John,null,null,Franklin
+2414,OBrien,Danl,null,null,Franklin
+2415,OBrien,Jerry,null,null,Franklin
+2417,OBrien,John,null,jr,2d
+2420,OBrien,Mary,null,null,2d
+2426,OConnor,Wm,null,null,Summit
+2428,Odgers,Eliz,G ,null,Hancock av
+2431,Oinas,Erma,null,null,Franklin
+2432,Oinonen,Edw,null,null,Tezcuco
+2433,Oja,Selma,null,null,Minnesota
+2434,Qjala,Abr,null,null,Water
+2435,Ojala,Clara,H ,null,Water
+2436,Ojala,Irene,K ,null,Water
+2437,Ojala,Jacob,G ,null,Finn
+2438,Ojala,John,F ,null,Water
+2439,Ojala,Lyle,A ,null,Water
+2440,Okkanen,Arth,null,null,Tezcuco
+2442,OLeary,Henry,null,null,E Mason av
+2443,OLeary,Loyal,D ,null,Summit
+2444,OLeary,Olive,R ,null,Summit
+2445,OLeary,Robt,null,null,Summit
+2446,OLeary,Rose,J ,null,Summit
+2447,OLeary,Rose,P ,null,Summit
+2448,Oleson,Rudolph,W ,null,Prospect
+2449,Olgren,Theo,L ,null,Quincy
+2450,Olive,Dolph,null,null,Front 
+2451,Olivier,Chas,O ,null,Quincy
+2453,Ollida,Anna,null,null,Quincy
+2454,Ollila,Douglas,null,null,Dacotah
+2455,Ollila,Hilda,null,null,Quincy
+2456,Ollila,Ina,null,null,Quincy
+2457,Ollila,John,null,null,Quincy
+2458,Ollila,Mary,Mrs ,null,Wright
+2459,Olm,Gertrude,R ,null,Franklin
+2460,Olm,Jos,A ,null,Franklin
+2461,Olsen,Elva,null,null,Minnesota
+2462,Olsen,Geo,E ,null,Railroad av
+2463,Olsen,Harold,null,null,Minnesota
+2464,Olsen,J,Fred ,null,Pine
+2466,Olsen,John,F ,null,Pine
+2467,Olsen,John,H ,null,Pine
+2468,Olsen,Oscar,H ,null,Minnesota
+2471,Olson,Brynolf,null,null,Elm
+2473,Olson,Edw,null,null,Summit
+2476,Olson,John,null,null,Summit
+2477,Olson,Mary,E ,null,Warren
+2481,ONeill,Danl,null,null,Roosevelt
+2482,ONeill,Edw,null,null,Lake av
+2484,ONeill,J,Holland ,null,Hancock av
+2487,ONeill,John,J ,null,Roosevelt
+2490,ONeill,Mary,null,null,Roosevelt
+2492,ONeill,Timothy,A ,null,Ethel av
+2493,Ongie,Chas,null,null,2d 
+2494,Ongie,Charlotte,null,null,Quincy
+2495,Ongie,Edw,S ,null,Quincy
+2496,Ongie,Fred,null,null,Quincy
+2497,Ongie,Marion,null,null,Quincy
+2498,Ongie,Nettie,null,null,2d 
+2499,Ongie,Oscar,null,null,Quincy
+2500,Ongie,Wm,null,null,2d 
+2503,Opal,Ernest,J ,null,Quincy
+2504,Ope,Anna,K ,null,Railroad av
+2505,Ope,Eliz,A ,null,Railroad av
+2506,Opie,Abram,I ,null,Hill
+2510,Opie,Elza,null,null,Summit
+2511,Opie,Evelyn,E ,null,Franklin
+2512,Opie,Everette,E ,null,Franklin
+2513,Opie,John,null,null,Summit
+2514,Opie,Mae,E ,null,Mine
+2515,Opie,Marvin,J ,null,Mine
+2516,Opie,Thos,W ,null,Mine
+2518,Orella,Agnes,null,null,Minnesota
+2519,Orella,Bernard,null,null,Minnesota
+2520,Orella,Dominick,R ,null,Minnesota
+2521,Orella,Eleanor,null,null,Wright
+2523,Orfei,Gallie,null,null,Ravine
+2527,Orth,Frank,null,null,Quincy
+2528,Oshinsky,Harry,null,null,Ravine
+2529,Oskanen,Veino,S ,null,Emma av
+2531,Osterberg,Aino,null,null,Reservation
+2533,Osterberg,Roy,M ,null,Reservation
+2535,Otto,Henrietta,null,null,Ohio
+2536,Ougie,Arth,J ,null,Holland
+2541,Owens,Wm,J ,null,Front 
+2542,Oxnam,Eliz,null,null,Summit
+2546,Pahikainen,John,H ,null,Finn
+2548,Paimi,John,null,null,Summit
+2549,Pajala,Aino,Mrs ,null,White
+2550,Pajula,Lisle,null,null,Tezcuco
+2552,Palo,Aug,null,null,Birch
+2553,Palo,Inez,null,null,Quincy
+2554,Palosaari,Eli,null,null,Holland
+2557,Paoli,Guilio,null,null,Railroad av
+2561,Parsons,Gladys,E ,null,Sigsbee
+2562,Parsons,Jas,H ,null,Sigsbee
+2563,Pasanen,Aurora,E ,null,Franklin
+2564,Pasanen,Elsie,W ,null,Franklin
+2565,Pasanen,Olga,M ,null,Franklin
+2566,Pasanen,Paul,J ,null,Franklin
+2567,Pasco,Edith,B ,null,Scott
+2568,Pasco,Jas,null,null,Scott
+2569,Pasco,Wm,null,null,Scott
+2570,Pascoe,Annie,null,null,Quincy
+2571,Pascoe,Clarence,null,null,Water
+2573,Pascoe,Kate,A ,null,Quincy
+2574,Pascoe,Thos,C ,null,Cedar
+2575,Pascoe,Wm,J ,null,Cooper av
+2577,Pasma,Alex,null,null,Oak
+2579,Paterni,Angelo,null,null,Scott
+2584,Patton,Cath,null,null,Center
+2585,Patton,May,null,null,Center
+2587,Paulsrud,Bernard,null,null,Center
+2591,Payn,Amelia,null,null,Ohio
+2592,Payn,Frank,null,null,Emma av
+2593,Payn,Geo,null,null,Ohio
+2594,Payn,Jos,R ,null,Ohio
+2595,Payn,Margt,null,null,Ohio
+2596,Payn,Nellie,null,null,Ohio
+2598,Payne,Evan,C ,null,Ryan
+2599,Payne,Kathleen,A ,null,Ryan
+2600,Pearce,Amy,null,null,Cooper av
+2601,Pearce,Jay,R ,null,Summit
+2603,Pearce,Marion,A ,null,Summit
+2604,Pearce,Ralph,null,null,2d 
+2605,Pearce,Rhoda,null,null,Cooper av
+2609,Pekkala,Ellen,null,null,Pine
+2610,Pekkala,Emil,null,null,Pine
+2611,Pekkala,Ernest,null,null,Finn
+2612,Pekkala,Isaac,A ,null,Franklin
+2613,Pekkala,Keiti,null,null,Finn
+2614,Pekkala,Wm,null,null,Finn
+2617,Peltier,Bridget,null,null,Water
+2618,Peltier,Clarence,H ,null,Water
+2619,Peltier,Euclid,J ,null,Quincy
+2620,Peltier,Loraine,null,null,Quincy
+2621,Pelto,Aileen,null,null,Quincy
+2623,Pelto,Eli,null,null,Prospect
+2626,Peltoniemi,Emil,null,null,Quincy
+2627,Peltoniemi,Hilma,null,null,Quincy
+2629,Penaluna,Wm,J ,null,Ethel av
+2630,Penprase,Edw,null,null,Hancock av
+2631,Penprase,Jennie,null,null,Hancock av
+2632,Penten,Francis,null,null,Quincy
+2633,Penten,Jos,null,null,Quincy
+2634,Penten,Peter,null,null,Quincy
+2643,Person,Mauritz,C ,null,Emery
+2644,Person,Olaf,null,null,Emery
+2645,Peryman,Ernest,H ,null,Warren
+2646,Peryman,Margt,null,null,Warren
+2647,Pesonen,Carrie,E ,null,Franklin
+2649,Pesonen,Ingri,S ,null,Franklin
+2650,Pesonen,Kirsti,S ,null,Franklin
+2651,Pesonen,Matt,Rev ,null,Reservation
+2652,Pesonen,Paul,E ,null,Franklin
+2653,Pesonen,Peter,O ,null,Franklin
+2655,Peters,Nicholas,null,null,Lake
+2656,Peterson,Albert,J ,null,Holland
+2657,Peterson,Anna,L ,null,Scott
+2660,Peterson,Carl,null,null,Holland
+2661,Peterson,Chas,null,null,Dacotah
+2664,Peterson,Gust,S ,null,Scott
+2666,Peterson,Henry,null,null,Pine
+2667,Peterson,Ida,E ,null,Scott
+2668,Peterson,John,null,null,Wright
+2669,Peterson,John,A ,null,Scott
+2670,Peterson,Josephine,null,null,Liberty
+2671,Peterson,Josephine,E ,null,Scott
+2673,Peterson,Mary,null,null,Pine
+2674,Peterson,Mary,K ,null,Scott
+2677,Peterson,Oscar,null,null,Finn
+2678,Peterson,Wm,null,null,Liberty
+2679,Peterson,Wm,A ,null,Scott
+2680,Peterson,Yalmer,F ,null,Pine
+2683,Picard,Eleanor,null,null,Water
+2686,Piepenburg,Carl,W ,null,Montezuma
+2689,Piippo,Henry,null,null,Holland
+2691,Piippo,Uuna,A ,null,Summit
+2692,Piner,Greg,null,null,Water
+2693,Pinten,Edw,J ,null,Tezcuco
+2694,Pinten,Margt,null,null,Tezcuco
+2695,Pinton,Francis,null,null,Quincy
+2696,Pirkola,Chas,null,null,rear 1106 Front 
+2702,Pitila,Kath,null,null,Warren
+2703,Pitit,Annabella,null,null,Quincy
+2708,Pizzi,John,null,null,Hancock
+2713,Poisson,Alice,null,null,Cooper av
+2714,Poisson,Bertha,M ,null,Quincy
+2715,Poisson,Peter,null,null,Quincy
+2718,Polkka,Paul,null,null,Tezcuco
+2719,Polky,Hj,null,null,Franklin
+2721,Polmear,Lissetta,null,null,2d
+2723,Polvi,Sophia,null,null,Water
+2724,Polwarth,Jas,null,null,Summit
+2725,Polzin,Frank,null,null,3d
+2726,Polzin,Rose,null,null,Summit
+2730,Posey,David,G ,null,Quincy
+2732,Poyhonen,Oscar,null,null,Elevation
+2735,Price,John,O ,null,White
+2736,Prince,Leroy,L ,null,Park
+2737,Prince,Thos,J ,null,Harris av
+2740,Prout,Ada,null,null,Cedar
+2741,Prout,Harold,T ,null,Franklin
+2742,Prout,John,Wm ,null,Cedar
+2743,Prout,Thos,null,null,Franklin
+2744,Provost,Georgana,null,null,Water
+2747,Pruner,Gordon,null,null,Tezcuco
+2748,Pruner,Nathan,R ,null,Hancock
+2751,Puhakka,Lydia,I ,null,Wright
+2755,Puska,Eino,H ,null,Summit
+2756,Pyhtila,Anna,null,null,Pine
+2757,Pyhtila,Henry,null,null,2d
+2758,Pyhtila,Morris,J ,null,Pine
+2759,Pylkas,Mamie,null,null,2d
+2760,Pylkas,Mary,null,null,2d
+2761,Pylkas,Peter,null,null,2d
+2764,Quammen,N,Hilman ,null,Quincy
+2765,Quandt,Albert,W ,null,Montezuma
+2766,Quasius,Albert,null,null,Front 
+2767,Quasius,Albert,null,jr,Front 
+2768,Quayle,Clara,G ,null,Hancock av
+2771,Quincy,John,B ,jr,Emery
+2778,Raapana,Hannah,null,null,Warren
+2784,Rahkola,Konsto,null,null,Hancock av
+2785,Rahkola,Nels,null,null,Hancock av
+2789,Raiutla,Arne,null,null,Elm
+2790,Rajala,Hilja,null,null,Minnesota
+2791,Rajala,Lars,null,null,Cedar
+2792,Rajala,Matt,null,null,Minnesota
+2794,Rajala,Reino,null,null,Minnesota
+2795,Rajunen,Frank,null,null,Summit
+2797,Ranier,Edw,null,null,Ingot
+2798,Ranier,Marie,L ,null,Ingot
+2799,Ranta,Arth,null,null,3d 
+2800,Ranta,Leslie,null,null,3d 
+2801,Rantamaki,John,E ,null,Finn
+2804,Raymond,Edmund,null,null,Summit
+2805,Raymond,Mathilda,null,null,Summit
+2806,Raymond,Olive,null,null,Summit
+2807,Reagan,Harris,null,null,3d 
+2808,Reagan,Margt,null,null,3d 
+2809,Reagan,Michl,null,null,3d 
+2810,Real,Albert,L ,null,Reservation
+2812,Reed,Henry,R ,null,Shelden Rll
+2815,Reid,Wm,null,null,Hancock av
+2816,Reid,Wm,T ,null,Hancock av
+2822,Reinikainen,Ellen,Mrs ,null,Quincy
+2824,Renaldi,Arth,null,null,Sigsbee
+2825,Renaldi,Genevieve,null,null,Sigsbee
+2826,Renaldi,Jas,null,null,Sigsbee
+2828,Rentenbach,Ann,null,null,Quincy
+2830,Rentenbach,John,T ,null,Franklin
+2831,Rentenbach,Mary,M ,null,Hancock
+2832,Rentenbach,Thos,null,jr,Hancock av
+2833,Rentenbach,Thos,M ,null,Hancock
+2834,Rentenbach,Wm,null,null,Quincy
+2835,Rentmaster,Aug,R ,null,Quincy
+2836,Reoleau,Edw,null,null,Summit
+2837,Repke,Geo,H ,null,Elm
+2840,Reyer,Conrad,null,null,Elm
+2841,Reyer,Danl,null,null,Elm
+2842,Reyer,Geo,null,null,Elm
+2843,Reyer,John,null,null,Elm
+2844,Reyer,Sarah,null,null,Elm
+2845,Reynolds,Peter,null,null,Hancock av
+2846,Riback,Eliz,null,null,Ingot
+2850,Rice,John,W ,null,Shelden R26
+2851,Richards,Adah,M ,null,Front 
+2852,Richards,Albert,S ,null,Lake av
+2853,Richards,Almina,null,null,Lake av
+2854,Richards,Arth,null,null,Front 
+2856,Richards,Dorothy,null,null,Hancock
+2857,Richards,Edgar,null,null,Quincy
+2858,Richards,Edgar,null,jr,Quincy
+2859,Richards,Edwin,null,null,Lake av
+2860,Richards,Eliza,null,null,Emery
+2861,Richards,Elva,M ,null,Mill
+2862,Richards,Francis,null,null,Hancock
+2863,Richards,Frank,null,null,Front 
+2864,Richards,Fred,J ,null,Lake
+2865,Richards,Geo,null,null,Hancock
+2866,Richards,Gus,W ,null,White
+2867,Richards,Harold,E ,null,Mill
+2868,Richards,Irene,E ,null,White
+2869,Richards,John,N ,null,Front 
+2870,Richards,Lawrence,null,null,Hancock av
+2871,Richards,Lawrence,null,jr,Hancock av
+2872,Richards,Margt,null,null,Front 
+2874,Richards,Sami,E ,null,Water
+2875,Richards,Sami,J ,null,Mill
+2877,Richards,T,Albert ,null,Front 
+2878,Richards,Veronica,null,null,Front 
+2879,Rickard,Jos,J ,null,Water
+2880,Riel,Albert,null,null,Reservation
+2881,Ringer,Charlotte,null,null,Hancock av
+2882,Rintala,Aug,E ,null,Finn
+2883,Ripatti,Haralt,null,null,Tezcuco
+2884,Ristell,Mary,J ,null,Summit
+2885,Ristell,Thos,null,null,Summit
+2886,Ristonen,Fred,null,null,Franklin
+2891,Riutta,Einard,L ,null,Elm
+2892,Riutta,Emil,null,null,Elm
+2893,Riutta,Toivio,null,null,Elm
+2894,Riutta,Wilhard,null,null,2d
+2895,Riutta,Wm,null,null,Elm
+2897,Roberts,Hollece,null,null,Ohio
+2898,Roberts,John,R ,null,Harris av
+2899,Roberts,Mary,A ,null,Harris av
+2900,Roberts,Melvin,D ,null,Hancock av
+2901,Roberts,Vernon,W ,null,Water
+2903,Roberts,Zelda,E ,null,Quincy
+2904,Robertson,Chas,null,null,Lake av
+2905,Robertson,Geo,S ,null,Lake av
+2906,Robertson,John,H ,null,Lake av
+2907,Robertson,Wm,A ,null,Lake av
+2915,Rogers,Frank,J ,null,Mason
+2916,Rogers,Fred,C ,null,Mesnard
+2917,Rogers,Horace,B ,null,Center
+2920,Rols,Genevieve,null,null,Minnesota
+2921,Rols,Isaac,null,null,Minnesota
+2922,Rols,Regina,null,null,Minnesota
+2923,Romain,Camille,null,null,Hancock av
+2925,Rompf,Henry,J ,null,Shelden
+2926,Ronquist,Hilma,null,null,Prospect
+2927,Ronquist,John,E ,null,Prospect
+2928,Ronquist,Marcus,C ,null,Prospect
+2929,Ronquist,Matt,null,null,Prospect
+2931,Ross,Dorothy,null,null,Lake av
+2932,Ross,Edw,J ,null,Water
+2933,Ross,Geo,E ,null,Lake av
+2934,Ross,Grant,D ,null,Water
+2935,Ross,Gust,null,null,Summit
+2936,Ross,Jos,F ,null,Ethel av
+2937,Ross,Jos,F ,null,Ethel av
+2938,Ross,Margt,null,null,Water
+2939,Ross,Mary,null,null,Water
+2940,Ross,Mary,null,null,Water
+2941,Rossberg,Andrew,G ,null,Prospect
+2944,Rothengas,Kath,null,null,Water
+2945,Rouleau,Delia,null,null,Summit
+2947,Rourke,Cath,null,null,Quincy
+2949,Rourke,Mary,null,null,Reservation
+2950,Rourke,May,null,null,Quincy
+2951,Rourke,Michl,null,null,Reservation
+2957,Rowe,Richd,null,null,Summit
+2958,Rowland,Jas,null,null,Quincy
+2961,Rued,Thelma,null,null,Copper av
+2962,Ruelle,Blanche,null,null,Summit
+2963,Ruelle,Marie,null,null,Summit
+2964,Ruelle,Narcisse,null,null,Summit
+2965,Ruhl,Kath,null,null,Quincy
+2966,Ruhl,Mary,null,null,Scott
+2967,Ruikka,Jacob,A ,null,Finn
+2969,Rundle,Bessie,null,null,Water
+2970,Rundle,Fred,null,null,Water
+2975,Ruottinen,Adeline,null,null,Sing Sing loc
+2976,Ruottinen,Harold,W ,null,Pine
+2977,Ruppe,Arth,T ,null,Reservation
+2978,Ruppe,Jos,null,null,Reservation
+2979,Ruppe,Jos,P ,jr,Reservation
+2980,Ruppe,Paul,J ,null,Hancock av
+2981,Ruppe,Robt,J ,null,Reservation
+2983,Russeau,Edw,null,null,Emma av
+2989,Ryan,Cath,null,null,Quincy
+2993,Ryan,John,null,null,Park
+2994,Ryan,John,T ,null,Quincy
+2995,Ryan,Kate,null,null,Park
+2997,Ryan,Kath,null,null,Summit
+2998,Ryan,Thos,K ,null,Summit
+3001,Saam,Geo,null,null,Quincy
+3002,Saam,Irene,null,null,Quincy
+3003,Saam,J,Henry ,null,Quincy
+3004,Saam,Louis,null,null,Summit
+3005,Saam,Lucias,null,null,Quincy
+3006,Saari,Albin,null,null,Tezcuco
+3007,Saari,Anna,null,null,Summit
+3008,Saari,Arth,J ,null,Summit
+3009,Saari,Carl,W ,null,White
+3010,Saari,Einar,T ,null,Finn
+3011,Saari,Matt,null,null,Pewabic rd 
+3012,Saari,Matt,null,null,White
+3013,Saari,Walfred,null,null,Pewabic rd 
+3014,Saastamoinen,Emil,null,null,Summit
+3015,Sabatini,Antonio,null,null,Cottage Row
+3016,Sabatini,Josephine,null,null,Cottage row
+3017,Sabatini,Marion,B ,null,Cottage row
+3018,Sabatini,Michl,F ,null,Cottage row
+3019,Saikkonen,Matt,null,null,do
+3020,StArmour,Cath,null,null,Pine
+3021,StArmour,Thos,null,null,Pine
+3022,StArmour,Wm,null,null,Pine
+3033,Sakari,Carl,null,null,Quincy
+3035,Sakari,Hjaimer,null,null,Quincy
+3036,Sakari,Ida,null,null,Quincy
+3037,Sakkinen,Sophie,null,null,Elevation
+3038,Saksberg,Jack,null,null,Tezcuco
+3039,Salani,Alipia,null,null,Ethel av
+3040,Salani,Louis,null,null,Ethel av
+3042,Salmi,Fred,null,null,Elm
+3043,Salmi,Walter,null,null,Quincy
+3044,Salmu,Matt,null,null,Cottage row
+3045,Salo,Emil,null,null,Tezcuco
+3046,Salo,Fannie,null,null,Tezcuco
+3047,Salo,Fred,null,null,Tezcuco
+3048,Salo,Henry,T ,null,Summit
+3050,Salo,Ida,M ,null,Franklin
+3052,Salo,Jos,null,null,2d
+3053,Salo,Kate,Mrs ,null,Tezcuco
+3054,Sando,John,H ,null,4th
+3055,Sandquist,Jas,H ,null,Pine
+3056,Sandretto,Angeline,Mrs ,null,Water
+3060,Santori,Chas,null,null,Ethel av
+3061,Santori,Edw,null,null,Ethel av
+3066,Saunders,Benj,null,null,Hancock av
+3067,Saunders,Bernice,M ,null,Water
+3068,Saunders,Chas,null,null,Hancock av
+3069,Saunders,Dorothy,M ,null,Water
+3070,Saunders,Earl,D ,null,Water
+3071,Saunders,Eliz,J ,null,Hancock av
+3072,Saunders,Gladys,null,null,Water
+3073,Saunders,John,null,null,Hancock av
+3074,Saunders,Kath,Mrs ,null,Reservation
+3075,Saunders,Mae,null,null,Water
+3076,Saunders,Webster,G ,null,Hancock av
+3077,Sautter,Emil,null,null,Exley apts
+3078,Savaloa,Michl,null,null,Hancock av
+3080,Savela,Herman,null,null,Franklin
+3081,Savela,Hulda,null,null,Elm
+3082,Savela,John,null,null,Emma av
+3083,Savela,Viola,L ,null,Elm
+3084,Savela,Waino,null,null,Quincy
+3085,Savela,Wilho,null,null,Elm
+3086,Savela,Wilma,M ,null,Elm
+3087,Saviniemi,Lempi,null,null,Finn
+3089,Savino,Frank,O ,null,Ravine
+3090,Savolainen,Impi,Mrs ,null,Wright
+3091,Savolainen,Sixtus,null,null,Wright
+3092,Savoy,Albina,M ,null,Hancock
+3093,Savoy,Arth,null,null,Hancock
+3094,Savoy,Oliver,D ,null,Hancock
+3095,Savoy,Steven,A ,null,Hancock
+3096,Savoy,Steven,J ,null,Hancock
+3097,Savoy,Theo,null,null,Hancock
+3098,Sawyer,Thos,null,null,Quincy
+3100,Saxby,Chas,B ,null,do
+3101,Scanlon,John,R ,null,Ryan
+3102,Scanlon,Mary,A ,null,Ryan
+3103,Scanlon,Patk,J ,null,Ryan
+3104,Schaafs,John,H ,null,North
+3105,Schabach,Susan,null,null,Quincy
+3106,Schellman,John,null,null,Elm
+3108,Schilke,Juliano,null,null,Vivian
+3109,Schilling,Fred,null,null,Water
+3110,Schilling,Lydia,null,null,Vivian
+3112,Schnaufer,Arth,null,null,3d 
+3113,Schnaufer,Carl,null,null,3d 
+3114,Schnaufer,Carl,null,jr,3d 
+3115,Schnaufer,Dorothy,null,null,3d 
+3117,Schnaufer,Jos,null,null,3d 
+3118,Schnaufer,Lillian,null,null,3d 
+3119,Schnaufer,Mary,null,null,3d 
+3121,Scholar,Ethel,null,null,Hancock av
+3122,Scholar,Raymond,P ,null,Hancock av
+3123,Scholar,Thos,null,null,Hancock av
+3125,Schrier,Clara,null,null,Tezcuco
+3126,Schubert,Barbara,null,null,Front 
+3127,Schubert,Elsie,null,null,Front 
+3129,Schulte,Ida,M ,null,Mason av
+3131,Schulz,Paul,null,null,Quincy
+3132,Schumaker,Christina,null,null,Quincy
+3133,Schumaker,Russell,E ,null,Quincy
+3134,Schurman,Annie,null,null,Harris av
+3137,Schwirse,Paul,null,null,Reservation
+3140,Scott,Sally,null,null,Vivian
+3141,Seamen,Henry,null,null,Cooper av
+3143,Michigan,Bldg,Loan ,null,Cooper av Tel 348
+3144,Sebilskey,Annette,L ,null,Water
+3145,Sebilskey,Burrill,J ,null,Water
+3146,Sebilskey,Gustave,F ,null,Water
+3147,Sebilskey,Mary,G ,null,Water
+3148,Seccombe,Thos,null,null,Tezcuco
+3149,Seeber,Constance,null,null,Hancock av
+3150,Seeber,R,R ,null,Hancock av
+3151,Seeber,R,R ,jr,Hancock av
+3153,Seppala,Eli,J ,null,2d
+3154,Seppala,Eric,null,null,White
+3155,Seppanen,John,J ,null,Summit
+3156,Seppanen,Wm,E ,null,Summit
+3157,Seppi,Wm,J ,null,Quincy
+3159,Servio,Arvo,null,null,Holland
+3160,Servio,Lena,Mrs ,null,Holland
+3164,Shabip,Fred,null,null,Water
+3165,Shabip,Geo,null,null,Water
+3167,Shea,Danl,J ,null,Water
+3168,Shea,John,D ,null,Franklin
+3169,Shea,Margt,null,null,Hancock av
+3170,Shea,Margie,A ,null,Lake av
+3171,Shea,Mary,G ,null,Lake av
+3172,Shea,Michl,null,null,White
+3173,Shea,Michl,null,null,White
+3174,Shea,Michl,C ,null,Water
+3176,Shea,Timothy,B ,null,White
+3177,Shea,Wm,null,null,White
+3178,Shelden,Churchill,null,null,Harris av
+3179,Shelden,Eleanor,null,null,Harris av
+3180,Shelden,Eliz,E ,null,Harris av
+3181,Shetney,Albert,null,null,Ethel av
+3182,Shinsky,Harry,null,null,Ravine
+3183,Shivler,Jas,F ,null,Water
+3184,Sicotte,Elmer,J ,null,Roberts
+3185,Siekas,Arvid,M ,null,2d
+3186,Siekas,John,null,null,Elm
+3187,Sihnvonen,Matt,null,null,Franklin
+3188,Sikanen,Emil,null,null,Franklin
+3192,Siler,Wilhelmia,null,null,Anthony
+3194,Silfven,Chas,A ,null,Summit
+3195,Sifven,Harold,null,null,Water
+3198,Siller,Gertrude,A ,null,Quincy
+3202,Simer,Chas,A ,null,Elm
+3203,Simer,Otto,null,null,Elm
+3204,Simila,Emil,null,null,Wright
+3205,Simmer,Chas,C ,null,Ethel av
+3207,Simmons,John,null,null,3d 
+3210,Simonsen,David,null,null,Summit
+3211,Simonsen,Maggie,null,null,Summit
+3212,Simonsen,Oxil,null,null,Summit
+3213,Simonson,Edwin,null,null,Roberts
+3214,Simonson,Fred,null,null,Roberts
+3215,Simonson,Simon,null,null,Roberts
+3216,Simontaival,Aug,null,null,Prospect
+3217,Sincock,Albert,null,null,Lake
+3218,Sincock,Chas,null,null,Emery
+3219,Sincock,Fay,null,null,Lake
+3220,Sincock,Fred,null,null,Emery
+3221,Slmcock,Ruth,null,null,Emery
+3223,Sinkonan,Henry,null,null,Elm
+3224,Siponen,Anna,null,null,Ryan
+3225,Siponen,Aug,null,null,Ryan
+3227,Siponen,Peter,J ,null,Holland
+3228,Siponen,Toivo,E ,null,Tezcuco
+3229,Sippola,Edw,W ,null,Warren
+3230,Sippola,Isaac,null,null,Warren
+3231,Sippola,Isaac,H ,null,Elm
+3232,Sippola,John,C ,null,Warren
+3233,Sippola,Yalmer,null,null,Warren av
+3235,Sipponen,Anna,null,null,Ryan
+3236,Sipponen,Aug,null,null,Ryan
+3237,Sipponen,Herman,null,null,Holland
+3239,Skoog,John,null,null,Elevation
+3240,Skoog,Lillian,S ,null,Elevation
+3241,Slattery,Edw,F ,null,Front 
+3242,Slattery,John,H ,null,Mason
+3243,Slattery,Julia,null,null,Mason
+3244,Slattery,Margt,null,null,Front
+3245,Slattery,Mary,null,null,Mason
+3246,Slattery,Winifred,null,null,Front
+3247,Slattery,Wm,null,null,Front 
+3248,Sleeman,Edwin,null,null,Elm
+3249,Sleeman,Percy,null,null,3d 
+3251,Smith,Guy,S ,null,Warren
+3252,Smith,John,W ,null,Hancock av
+3255,Sobey,Addie,null,null,Cooper av
+3256,Soddy,Weldo,null,null,Quincy
+3258,Somero,Aug,null,null,Elm
+3259,Somero,Ralph,null,null,Elm
+3260,Sommer,Fred,J ,null,Summit
+3261,Sommers,Albert,J ,null,Scott
+3262,Sommers,Mary,null,null,Scott
+3263,Sorenson,Hans,null,null,Holland
+3265,Spear,Albert,null,null,Roberts
+3267,Spear,Henry,H ,null,Roberts
+3268,Spear,Herbert,null,null,Roberts
+3271,Spear,Thos,A ,null,Roberts
+3272,Spear,Thos,H ,null,Roberts
+3276,Spitz,Chester,L ,null,4th
+3277,Stack,Genevieve,null,null,Ryan
+3278,Stack,Harriet,null,null,Ryan
+3279,Stack,John,B ,null,Ryan
+3280,Stack,Mae,A ,null,Ryan
+3281,Staege,Amo,A ,null,Hancock av
+3282,Stahl,John,null,null,Emery
+3288,Staudaher,Peter,null,null,Quincy
+3289,Steehler,Christ,null,null,3d 
+3290,Steehler,W,Henry ,null,Railroad av
+3292,Stein,Albin,J ,null,4th
+3295,Steinback,Martha,R ,null,Reservation
+3297,Steinback,Peter,E ,jr,Reservation
+3300,Stevens,Arth,F ,null,Hancock av
+3301,Stevens,Eliz,null,null,Front 
+3303,Stevens,Lottie,null,null,Hancock av
+3304,Stevens,Opal,C ,null,Hancock av
+3305,Stevens,Richd,null,null,Front 
+3307,Stewart,Norma,null,null,Mason av
+3315,Stopel,John,null,null,Summit
+3316,Storm,Aaron,C ,null,Elm
+3317,Storm,Alma,G ,null,Elm
+3318,Storm,Arvid,R ,null,Elm
+3319,Storm,Dorothy,null,null,Elm
+3320,Storm,Edw,null,null,Elm
+3321,Storm,Hjalmer,null,null,Elm
+3322,Storm,Lawrence,null,null,Elm
+3323,Storm,Rudolph,null,null,Elm
+3324,Storm,Serapfina,null,null,Elm
+3325,Storm,Walfred,null,null,Elm
+3326,Storvis,Edw,null,null,Pine
+3327,Strang,Fannie,E ,null,Sampson
+3328,Strang,Oscar,null,null,Sampson
+3329,Strang,Roy,F ,null,Holland
+3330,Strike,Jennie,Mrs ,null,Franklin
+3331,Strobel,Wm,null,null,Cooper av
+3332,Strong,Eli,null,null,2d 
+3333,Strong,Irene,null,null,2d 
+3334,Strong,Lizzie,F ,null,Hancock av
+3335,Strong,Mayme,null,null,2d 
+3337,Sturbenz,Marian,null,null,Cooper av
+3341,Sullivan,Anna,null,null,Summit
+3342,Sullivan,Belle,M ,null,Franklin
+3343,Sullivan,Cath,null,null,Quincy
+3344,Sullivan,Cornelius,M ,null,Franklin
+3345,Sullivan,Danl,null,null,Railroad av
+3346,Sullivan,Danl,J ,null,Franklin
+3349,Sullivan,Eug,null,null,Franklin
+3352,Sullivan,John,P ,null,Summit
+3353,Sullivan,Jos,P ,null,4th
+3354,Sullivan,Kate,null,null,Park
+3355,Sullivan,M,Margt ,null,Franklin
+3356,Sullivan,Mary,G ,null,4th
+3358,Sullivan,Patk,G ,null,Franklin
+3360,Sullivan,Stepheny,null,null,Cooper av
+3361,Sullivan,Veronica,M ,null,W 4th
+3362,Sullivan,Walter,null,null,Water
+3363,Sullivan,Walter,E ,null,4th
+3364,Sundberg,Richd,E ,null,Cedar
+3365,Sundquist,Chas,H ,null,Pine
+3366,Sundquist,Ida,A ,null,Pine
+3370,Sundwick,Jeanette,L ,null,Spruce
+3371,Sundwick,Julia,A ,null,Spruce
+3372,Sundwick,Wm,null,null,Spruce
+3377,Surbeck,John,null,null,Quincy h do
+3378,Sutinen,Eliz,J ,null,Quincy
+3379,Sutinen,John,H ,null,Cedar
+3382,Sylvander,Aug,O ,null,Summit
+3383,Sylvander,Harry,null,null,Summit
+3384,Sylvander,Myrtle,null,null,Summit
+3385,Taddeucci,Albert,null,null,Ethel av
+3386,Taddeucci,Amelia,null,null,Ethel av
+3387,Taddeucci,Frank,null,null,Ethel av
+3388,Taddeucci,Jos,null,null,Ethel av
+3389,Taddeucci,Raymond,null,null,Ethel av
+3390,Taddeucci,Theo,J ,null,Ethel av
+3392,Tamblyn,Ellen,null,null,Tezcuco
+3393,Tamblyn,Lillian,null,null,Tezcuco
+3394,Tamblyn,Mary,null,null,Tezcuco
+3395,Tamblyn,Thos,R ,null,Lake av
+3397,Tamminen,Alex,null,null,Summit
+3398,Tapani,Elvi,null,null,Elm
+3399,Tapani,Oscar,null,null,Elm
+3400,Tapani,Raino,null,null,Elm
+3401,Tapio,Alma,null,null,Franklin
+3402,Tapio,Ellen,null,null,Franklin
+3403,Tapio,Henry,null,null,Franklin
+3404,Tarbox,Annastasia,null,null,Lake av
+3405,Tarbox,Crescence,null,null,Lake av
+3406,Tarbox,Wm,T ,null,Lake av
+3407,Tarbox,Wm,T ,jr,Lake av
+3408,Tarkkeli,Aug,null,null,Prospect
+3409,Tarkkeli,Mary,null,null,Prospect
+3410,Tascott,Fred,C ,null,Mine
+3411,Taskila,Albert,null,null,Emma av
+3412,Taube,Carl,null,null,Roberts
+3413,Tervo,Alf,null,null,White
+3414,Tervo,Urho,W ,null,Lake av
+3415,Tesen,Howard,L ,null,Quincy
+3416,Tesen,Peter,W ,null,Quincy
+3418,Thomas,Evabelle,null,null,Front 
+3419,Thomas,Herman,null,null,Vivian
+3422,Thomas,Wm,null,null,Front 
+3427,Thornton,Patk,M ,null,Water
+3429,Tibery,Ralph,D ,null,Hancock
+3430,Tielinen,Anton,null,null,Pine
+3431,Tieva,Fred,S ,null,White
+3432,Tihinen,Eino,null,null,Oak
+3433,Tihinen,Helmie,null,null,Oak
+3434,Tihinen,John,null,null,Oak
+3435,Tiistola,Edw,null,null,2d
+3438,Tillman,David,M ,null,Ravine
+3439,Tillman,J,Fount ,null,Hancock av
+3441,Toivonen,Aurora,null,null,Hancock av
+3442,Toivonen,Geo,A ,null,Hancock av
+3443,Toivonen,John,null,null,Tezcuco
+3444,Toivonen,John,T ,null,Hancock av
+3445,Tolonen,Chas,null,null,Shatter
+3446,Tolonen,Elsa,null,null,Wright
+3449,Tossava,Eric,null,null,Oak
+3450,Tossava,Fred,A ,null,Oak
+3451,Tourville,Anna,null,null,3d
+3452,Tourville,Dolphus,null,null,Summit
+3453,Tourville,Harriet,null,null,3d
+3454,Tourville,Louis,null,null,Quincy
+3455,Tourville,Louis,null,jr,Quincy
+3456,Toutant,Arth,null,null,Railroad av
+3457,Toutant,Diana,null,null,Railroad av
+3458,Toutant,Ernest,null,null,Franklin
+3459,Towsey,John,R ,null,Emery
+3460,Towsey,Wm,J ,null,Emery
+3462,Traub,Anna,M ,null,Vivian
+3463,Traub,Anna,R ,null,Vivian
+3464,Traub,Arth,C ,null,Vivian
+3465,Traub,Clara,B ,null,Vivian
+3466,Traub,Edna,L ,null,Vivian
+3467,Traub,Gottlieb,G ,null,Vivian
+3468,Traub,Lydia,H ,null,Vivian
+3469,Traub,Wm,A ,null,Vivian
+3470,Treglowne,Mary,H ,Mrs,Prospect
+3471,Treglowne,Norman,null,null,Prospect
+3472,Treloar,Wm,J ,null,Elm
+3475,Trevethan,John,null,null,Roberts
+3476,Trevethan,Pearl,E ,null,Roberts
+3477,Trevethan,Raymond,M ,null,Roberts
+3478,Trevethan,Weldon,W ,null,Roberts
+3479,Trevorrow,Wm,null,null,Front 
+3480,Trevorrow,Wm,null,jr,Front 
+3481,Troman,Fred,null,null,Ohio
+3482,Tronti,Jacob,null,null,2d 
+3484,Trudgeon,Clyde,null,null,Cooper av
+3485,Trudgeon,Edwin,T ,null,Poplar
+3486,Trudgeon,Elise,null,null,Poplar
+3487,Trudgeon,Florence,M ,null,Poplar
+3488,Trudgeon,Jas,K ,null,Cooper av
+3489,Trudgeon,Louise,E ,null,Cooper
+3490,Trudgeon,Luther,null,null,Cooper av
+3491,Trumpower,Jas,V ,null,Quincy
+3492,Tucker,Emma,null,null,Ethel av
+3496,Turja,Chas,J ,null,Ingot
+3497,Turja,Waino,S ,null,Elevation
+3498,Turja,Wm,null,null,Ingot
+3500,Turovaara,Alf,E ,null,Water
+3502,Uitti,Elmi,null,null,Elm
+3505,Uren,Johnson,null,jr,Prospect
+3506,Uren,Mary,null,null,Prospect
+3508,Urfels,Jos,null,null,Harris av
+3509,Usimaki,Matt,null,null,2d 
+3510,Utecht,Chas,null,null,Summit
+3511,Vaananen,Jos,null,null,Spruce
+3512,Vancato,Louis,null,null,Water
+3513,VanSlyke,Wm,H ,null,do
+3514,Vardila,John,null,null,Elm
+3515,Vaudrin,Albert,W ,null,2d 
+3516,Vaudrin,Allen,null,null,2d 
+3517,Vaudrin,Edw,null,null,Douglass 
+3518,Vedder,Ollen,null,null,Hancock av
+3519,Veldman,Lucile,H ,null,Lake
+3521,Vencent,Glenn,null,null,Hancock
+3523,Verran,Wm,J ,null,Oak
+3524,Verville,Adele,null,null,Montezuma
+3525,Verville,Alice,L ,null,Elm
+3529,Verville,Cora,A ,null,Montezuma
+3530,Verville,Eug,J ,null,Montezuma
+3531,Verville,Evelyn,R ,null,Elm
+3532,Verville,Felix,P ,null,Elm
+3533,Verville,Francis,J ,null,Montezuma
+3534,Verville,Gertrude,L ,null,Elm
+3535,Verville,Leona,M ,null,Elm
+3536,Verville,Louise,F ,null,Elm
+3537,Verville,Ludger,J ,null,Elm
+3538,Verville,Lloyd,J ,null,Montezuma
+3539,Verville,Norbert,A ,null,Elm
+3540,Verville,Wilfred,S ,null,Elm
+3543,Victor,Eliz,A ,null,Roberts
+3546,Vieser,Helbert,null,null,North
+3547,Vieser,Otto,null,null,North
+3548,Vigo,Geo,P ,null,Shelden R24
+3549,Villanelli,Angelo,null,null,Quincy
+3551,Vincent,Mary,null,null,Quincy
+3553,Virenius,Axel,null,null,Front 
+3554,Visnig,C,L ,null,Lake av
+3555,Voelker,Carl,C ,null,Hancock av
+3557,Vogeler,Henry,null,null,Railroad av
+3559,Vohjanen,Henry,null,null,Oak
+3560,Vollmer,Chas,F ,null,Ohio
+3561,Vollmer,Howard,H ,null,Elm
+3562,Vollwerth,Geo,A ,null,Hancock av
+3563,Vollwerth,Richd,null,null,Hancock av
+3564,Vollwerth,Robt,null,null,Hancock av
+3569,Voss,John,null,null,Quincy
+3570,Voss,Theresa,null,null,Quincy
+3572,Waara,Alex,P ,null,Vivian
+3573,Waara,Arth,null,null,Ethel av
+3574,Waara,Chas,M ,null,Montezuma
+3575,Waara,Edw,M ,null,Wright
+3577,Waara,Kath,null,null,Montezuma
+3581,Wagner,Anna,null,null,Cooper
+3582,Wagner,Frank,W ,null,w of 803 Lake av
+3583,Wagner,Fredk,null,null,Cooper av
+3585,Wagner,Grace,C ,null,Center
+3586,Wagner,John,M ,null,Center
+3587,Wahl,Geo,null,null,Anthony
+3588,Waineo,Konstan,null,null,Finn
+3589,Waisanen,Albert,A ,null,Lake av
+3590,Waisanen,John,null,null,Summit
+3591,Waisanen,Jos,null,null,2d
+3592,Waisanen,Matt,null,null,Summit
+3593,Waisanen,Oliver,null,null,Summit
+3594,Waisanen,Peter,null,null,Summit
+3595,Waisanen,Pyo,null,null,Summit
+3603,Wanhala,Edw,N ,null,Prospect
+3604,Wanhala,Marion,null,null,Quincy
+3605,Ward,Chas,Mrs ,null,Front 
+3606,Ward,John,null,null,Front 
+3608,Wargelin,Aino,null,null,Franklin
+3609,Wargelin,Isaac,null,null,Franklin
+3610,Warne,Geo,S ,null,Elm
+3612,Warren,Anton,E ,null,Warren
+3614,Warren,Roy,R ,null,Warren
+3616,Watia,Oiva,null,null,Quincy
+3618,Watia,Vieno,null,null,Quincy
+3619,Watson,Jos,E ,null,Vivian
+3626,Wayrynen,Caspar,null,null,Tezcuco
+3630,Wayrynen,Waino,null,null,Tezcuco
+3632,Wealton,Grace,M ,null,Quincy
+3633,Wealton,John,F ,null,Quincy
+3634,Wealton,John,R ,null,Quincy
+3635,Wealton,M,Agnes ,null,Quincy
+3636,Wealton,Thos,J ,null,Franklin
+3637,Webber,Adeline,Mrs ,null,Water
+3639,Webber,J,Cliff ,null,E Water
+3641,Weeks,Jas,null,null,Roberts
+3642,Weidenhofer,Ernest,null,null,Ethel av
+3643,Weissmeller,Jos,C ,null,Vivian
+3644,Wekmark,Edw,null,null,Roberts
+3645,Wekmark,Sigrid,null,null,Roberts
+3646,Wekmark,Matt,null,null,Roberts
+3647,Weldman,Anna,L ,null,Lake
+3648,Weldman,Lucille,null,null,Lake
+3649,Welton,John,M ,null,Front 
+3653,Wem,Margt,A ,null,Scott
+3654,Wesala,Toivo,null,null,Ingot
+3656,Wescott,Fredk,H ,null,Maspn av
+3657,Wescott,Merrick,J ,null,Mason av
+3659,Wetton,Chester,null,null,Front 
+3660,Wetton,Theo,null,null,Front 
+3665,Whiting,J,S ,null,Summit
+3666,Whitteker,Herman,D ,null,Quincy
+3667,Whittle,Lylie,null,null,Cooper av
+3668,Widenhofer,Carolina,null,null,Franklin
+3669,Widenhofer,Ernest,J ,null,Franklin
+3671,Wiechman,W,null,null,Summit
+3676,Wierima,Gustava,null,null,Holland
+3677,Wierima,Selma,B ,null,Holland
+3678,Wiikku,John,B ,null,Ash
+3679,Wiinikka,Ivar,null,null,Ingot
+3680,Wiitala,Anna,E ,null,Franklin
+3681,Wiitalo,Reino,null,null,Franklin
+3682,Wiitala,Selma,null,null,Franklin
+3683,Wiitanen,Axel,null,null,Minnesota
+3684,Wiitanen,Carl,null,null,Minnesota
+3685,Wiitanen,Emil,null,null,Minnesota
+3686,Wiitanen,Tobias,null,null,Minnesota
+3687,Wiitanen,Toiva,null,null,Minnesota
+3688,Wiitanen,Werner,null,null,Minnesota
+3690,Wilen,Wilhelmina,null,null,Prospect
+3691,Will,John,A ,null,Lake av
+3692,Williams,Albert,F ,null,Summit
+3693,Williams,Bert,null,null,Front 
+3694,Williams,Cath,null,null,Front 
+3695,Williams,Clyde,null,null,Water
+3696,Williams,Coretta,null,null,Water
+3698,Williams,Ezekiel,A ,null,Water
+3700,Williams,Geo,null,null,Pine
+3701,Williams,Grace,M ,null,Quincy
+3702,Williams,Harry,M ,null,Quincy
+3703,Williams,Isaac,J ,null,Quincy
+3705,Williams,Jas,K ,null,Mine
+3706,Williams,Montie,null,null,Summit
+3707,Williams,Rose,null,null,Lake av
+3708,Williams,Wm,E ,null,Summit
+3711,Wills,Jos,J ,null,Quincy
+3712,Wills,Leo,J ,null,Franklin
+3713,Wills,Martin,null,null,Franklin
+3715,Wills,Michl,null,null,Summit av
+3717,Willson,StClair,null,null,Ingot
+3718,Wilmes,Mervin,C ,null,Birch
+3719,Wilson,Andrew,null,null,Elm
+3720,Wilson,Aug,A ,null,Water
+3721,Wilson,Edna,M ,null,Elm
+3722,Wilson,Sylvia,L ,null,Elm
+3723,Winecka,Alex,null,null,Pine
+3724,Wirkku,John,B ,null,Ash
+3725,Wirkkula,Eric,null,null,rear 1106 Front 
+3728,Wivell,E,C ,null,Lake av
+3729,Wivell,Susie,null,null,Hancock av
+3731,Wold,Edw,J ,null,Ohio
+3733,Wollny,Alex,J ,null,Quincy
+3734,Woods,John,P ,null,Water
+3735,Woods,Mary,K ,null,Water
+3741,Wright,Gerald,L ,null,Front
+3742,Wright,Nydia,J ,Mrs,Front
+3743,Wright,Regina,null,null,Quincy
+3746,Wuopio,Chas,null,null,Elevation
+3748,Wuopio,Effie,M ,null,Elevation
+3749,Wuopio,Irene,O ,null,Elevation
+3750,Wuopio,Jacob,null,null,2d
+3751,Wuornas,Jacob,null,null,Hancock av
+3752,Wurm,Mary,M ,null,Summit
+3753,Wyllie,Bouce,null,null,Water
+3754,Wyllie,David,null,null,Water
+3755,Wyllie,Stuart,null,null,Water
+3756,Yagel,Edw,P ,null,Quincy
+3758,Yeniskivas,Anthony,null,null,Douglass 
+3759,Yeniskivas,Josephine,null,null,Douglass 
+3761,Ylonen,Waino,null,null,Summit
+3762,Yokie,Chas,null,null,Franklin
+3763,Yokie,Danl,null,null,Franklin
+3764,Yokie,Herman,null,null,Franklin
+3765,Yokie,John,null,null,Franklin
+3766,Yokie,Wm,null,null,Franklin
+3774,Zerbst,Earl,null,null,Minnesota
+3775,Zerbst,Josephine,Mrs ,null,Minnesota
+3776,Zimmerman,Christ,null,null,3d 
+3777,Zimmerman,Lucy,null,null,Mine
+3778,Zimmerman,Marguerite,F ,null,Mine
+3779,Zimmerman,Math,null,null,Mine
+3780,Zimmerman,Peter,null,null,Hancock av
+3782,Zurcher,Agnes,null,null,Summit
+3783,Zurcher,Carl,null,null,Summit
+3784,Zurcher,John,null,null,Ethel av
+3785,Zurcher,John,C ,null,Michigan av
+3786,Zurcher,John,T ,null,Summit
+3787,Zurcher,Jos,null,null,Summit

@@ -1,0 +1,81 @@
+21 ADD, JOB NOT FOUND, PERSON NOT FOUND: Barich Anna, bds John Barich
+23 ADD, JOB NOT FOUND, PERSON NOT FOUND: Barich John jr, bds John Barich
+24 ADD, JOB NOT FOUND, PERSON NOT FOUND: Barich Margaret, bds John Barich
+25 ADD, JOB NOT FOUND, PERSON NOT FOUND: Barich Marie, bds John Barich
+26 ADD, JOB NOT FOUND: BARICH BRAUN (John Barich, Louis J Braun), General Insurance, Foreign Money Orders, Steamship Agents and Asst Secretaries of Houghton County Loan and Investment Association, Trimountain av, Tel 497J
+28 ADD, JOB NOT FOUND: BARTANEN JOLLY (Charles A Bartanen, Carlos J Jolly), Clothing and Mens Furnishings, Trimountain av, First Clothing Store from Depot, Tel 290M
+56 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Bokkinen Andrew, miner, bds Andrew Hinonen
+60 ADD, JOB NOT FOUND, PERSON NOT FOUND: Bourbonais Meliss, bds Henrv Bourbonais
+74 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Cencich Vinko, elk Stimac Bros, bds Joseph Ozanich
+77 NAME: Cerutti Bros (James, Antonio, George and John), meats Baltic av
+83 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chellew M Golden, student, bds W G Townsend
+84 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Chellew Richard M, blksmith, bds W G Townsend
+86 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Collins Electa, student, bds Josiah Collins
+87 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Collins Frederick F, student, bds Josiah Collins
+88 ADD, JOB NOT FOUND: COLLINS JOSIAH (Minnie), Funeral Director and Licensed Embalmer, Picture Framing A Specialty, Trimountain av, res same, Tel 766J
+90 ADD, JOB NOT FOUND, PERSON NOT FOUND: Conner Kate, bds John Hawley
+104 ADD, JOB LOCATION NOT FOUND: Ericson Elmer (Helga), elk res 3d
+107 ADD, JOB LOCATION NOT FOUND: Eskola C August (Aina L), lab res 143 3d
+109 ADD, JOB LOCATION NOT FOUND: Everman Louis J (Annetta), barber Oscar Wankainen res Globe av
+112 NAME: Finnish American Bakery (Wm Hendrickson, Loree
+113 NAME: Firtanen, Joseph Asiala, Henry Eskola), Champion, South Range
+114 NAME: Finnish Apostolic Lutheran Church, 2d
+115 ADD, JOB NOT FOUND: Finnish Temperance Hall, 1st
+133 NAME: Glass Bros (Mandell and Samuel), dry goods Trimountain av
+134 ADD, JOB NOT FOUND: Glass Mandell (Glass Bros), res Ahmeek
+136 NAME: Goodfellow Bros (Sidney M and James A), 5 10c store Trimountain av
+137 ADD, JOB NOT FOUND: Goodfellow Charles H, removed to Oakland Cal
+142 ADD, JOB NOT FOUND, PERSON NOT FOUND: Goodfellow Wm J, photo Baltic av, bds W G Townsend
+150 NAME: Haas A Brewing Co (branch), George Osterman agt, 1st
+156 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Haminen John, carp, bds John Koinunen
+166 ADD, JOB LOCATION NOT FOUND: Havela Isaac (Fena), miner res 2d
+171 ADD, JOB NOT FOUND: Heikkinen Erick (aged 62), died Jan 1, 1915
+186 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Hiltdu Henry, miner, bds John Koinunen
+189 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Honkanen Isaac, blksmith Albert 01gren, bds Hemming Kolahmann
+206 ADD, JOB LOCATION NOT FOUND: Jarvi Alexander (Hilja), tmstr res 4th
+229 NAME: Kangas L Co (Louis Kangas, Elmer Pyykkonen, Otto
+230 NAME: Kouppi, August Moilanen), grocer Trimountain av
+233 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Karppinen Charles, miner, bds Hetninki Kolehmainen
+234 ADD, JOB LOCATION NOT FOUND: Karppinen Isaac, driver Uitti Bros, res Trimountain
+245 ADD, JOB NOT FOUND: Keskitalo Mary C Mrs, res Ss Atlantic nr 1st
+257 NAME: KIVI M CO, John Jarvenpaa Pres, Charles Tuomela VicePres, Matt Kivi SecTreas and Mgr, General Merchandise, Trimountain av
+264 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Knechtges Mary, asst postmaster, bds L J Braun
+267 ADD, JOB NOT FOUND: Knodt Esther, bds, Mrs Margaret Knodt
+271 ADD, JOB NOT FOUND, PERSON NOT FOUND: Koistinen Matti, tailer, bds Heminki Kolehmainen
+309 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Leinonen Albert, miner, bds Heminki Kolehmainen
+322 ADD, JOB LOCATION NOT FOUND: Luechesse Cesare (Jennie), livery 1st, res same
+329 ADD, JOB NOT FOUND, PERSON NOT FOUND: Luppinen Eliza (wid Nels), bds Abraham Piria
+346 ADD, JOB NOT FOUND, PERSON NOT FOUND: Marta Maud, bds George Paston
+355 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mervas Laza, driver Stimac Bros, bds Joseph Ozanich
+356 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Mervas Michael, driver Stimac Bros, bds Joseph Ozanich
+376 ADD, JOB NOT FOUND: NELSON JOHN P (Elizabeth), Hardware Stoves, Ranges, Tinware, Mechanics Tools, Cutlery, Paints, Brushes, Glass, Sporting Goods and Plumbing Trimountain av opp Copper Range Depot, Tel 967W res 1st (See right bottom lines)
+383 NAME: NIKANDER LUNDAHL (Werner Nikander, Walter Lundahl, Props Owl Pharmacy, Trimountain av, Tel 574J
+404 ADD, JOB NOT FOUND: OWL PHARMACY THE, Nikander Lundahl Proprs, Drugs, Nyals Family Remedies, Toilet Articles, Kodaks and Supplies, Confectionery, Cigars, Stationery, Etc, Trimountain av nr Copper Range Depot, Tel 574J
+407 ADD, JOB LOCATION NOT FOUND: Ozenich Joseph, bartndr Stimac Bros, res Atlantic Mines
+411 ADD, JOB NOT FOUND: PAOLI RALPH, Importer of 01ive Oil, Cheese and Italian Goods of All Kinds, Trimountain av and 1018 Ingot, Hancock, Mich
+434 ADD, JOB NOT FOUND: PIIRA ABRAHAM (Elsa), Watchmaker and Dealer in Watches, Clocks and Jewelry, Trimountain av
+435 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Piira George, student, bds Abraham Piira
+436 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Piira Jennie, elk Rosenbaum Panian, bds Abraham Piira
+440 ADD, JOB NOT FOUND: POST OFFICE, L ouis J Braun Postmaster, Trimountain avenue
+467 ADD, JOB NOT FOUND: Roman Catholic Church, es 3d nr Atlantic rd
+473 NAME: Rosenbaum Panian (Saul Rosenbaum, Joseph Panian) dry goods Trimountain av
+479 ADD, JOB NOT FOUND: Saima Hall, 1st
+493 NAME: Santori Co (Amerigo and Oreste Santori Antonio Toscana), bakers 2d nr Baltic av
+494 ADD, JOB NOT FOUND: SANTORI TOSCANA (Amerigo Santori, Antonio Toscana), Choice Wines, Liquors and Cigars, Imported and Domestic, Trimountain opp Copper Range Depot, Tel 967M
+519 ADD, JOB NOT FOUND: SOUTH RANGE BANK, L L Hubbard Pres, A D Edwards VicePres, G C Edwards Cashier, H A Kellow Asst Cashier, Trimountain av, Tel 610
+520 NAME: South Range Eagle Bakery, Santori Co proprs, es 2d nr Atlantic av
+521 ADD, JOB NOT FOUND: South Range School, cor Champion and 7th
+522 NAME: South Range Townsite Co, R C Pryor agt, South Range Bank bldg
+523 ADD, JOB NOT FOUND: Star Theatre, Jonas Pahti mgr, Trimountain av
+526 NAME: STIMAC BROS (Anton and Blash), General Merchandise, Trunks, Furniture, Crockery, Meats and Groceries, Fruits and Vegetables in Season, Trimountain av cor Baltic, Tel 766R
+527 NAME: STIMAC BROS (Anton and Philip), Choice Imported and Domestic Wines, Liquors and Cigars Always on Hand, Home Made Wines a Specialty, Trimountain av cor Baltic, Tel 766R
+531 ADD, JOB LOCATION NOT FOUND: Succa George (Josephine), draying es 3d, res same
+532 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Succa James, trammer, bds George Succa
+544 ADD, JOB NOT FOUND: Temperance Hall, 1st
+549 ADD, JOB LOCATION NOT FOUND: Tomberg Abel, lab bds 110 2d
+554 ADD, JOB NOT FOUND: TRAVELERS HOME, August Jarvey Propr, Finest Brands of Wines, Liquors and Cigars Always on Hand, Baltic av
+558 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Tuminen John, miner, bds Heminki Kolehmainen
+560 NAME: UITTI BROS (Jacob and Samuel), General Store, Dry Goods, Clothing, Mens and Ladies Furnishings, Shoes, Hats, Caps, Groceries, Meats, Etc, Trimountain av, Tel 597J
+563 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: VanHala Russell, pharmacist The Owl Pharmacy, rms George Paldonius
+567 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Waivasen Charles, carp, bds Heminki Kolehmainen
+569 ADD, JOB LOCATION NOT FOUND, PERSON NOT FOUND: Wankainen Oscar, barber Trimountain av, bds Victor Siltala

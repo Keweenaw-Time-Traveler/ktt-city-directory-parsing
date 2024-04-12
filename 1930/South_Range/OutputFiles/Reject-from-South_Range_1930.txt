@@ -1,0 +1,43 @@
+56 ADD: Cloverland Rapid Transit Co (Caesar Lucchesi) garage 31 1st
+57 ADD: Copper Range Rail Road C A Renaud agt pass depot Trimountain av
+62 NAME: EDWARDS G C (Margt M) Pres South Range State Bank r Houghton Tel 1354
+67 ADD: Farmers Co Op Trading Co Arnold Lassila mgr gro and meats sw cor Trimountain av and Baltic av
+68 ADD: Finnish Episcopal Church 2d
+69 ADD: Finnish Lutheran Church 76th
+71 ADD: Forselin John T (Eliz South Range Hdw Co) h 2d
+86 ADD: Glass Bros (Mandel Wm Sami and Jos) dry gds 28 Trimountain av
+87 ADD: Glass Jos (Glass Bros) r Detroit
+91 RESIDING WITH PERSON NOT FOUND: Goodfellow Eliz E slswn J A Goodfellow r S 1st
+92 RESIDING WITH PERSON NOT FOUND: Goodfellow Jas A variety store 34 Trimountain av r S 1st
+93 RESIDING WITH PERSON NOT FOUND: Goodfellow Louisa (wid Wm) h S 1st
+131 ADD: Holy Family Church Trimountain av
+146 ADD: Jarvi Aug soft drinks ws Baltic av 2 s of 1st
+157 NAME: JUNTTILA JOHN (Fredericka Suomi Lumber Co) h80 2d
+161 ADD: Kaleva Building Trimountain av
+168 NAME: KARVAKKO AUGUST (Mary) Sec Treas M Kivi Co h42 Sd Tel 1265 M
+172 NAME: Kaleva bldg h31 4th
+190 NAME: KIVI M CO John Jarvenpaa Pres Chas Tuomela V Pres August Karvakko Sec Treas General Merchandise Grocer and Meats 24 Trimountain av Tel 1083 J (See page 25)
+202 NAME: KOIVUNEN JOHN (Jennie M Suomi Lumber Co) h43 2d
+220 ADD: Kuonar Danl (Alexandra) h Kaleva bldg
+225 RESIDING WITH PERSON NOT FOUND: Laitinen Adam miner r Aug Keith
+226 RESIDING WITH PERSON NOT FOUND: Laitinen Albi (Cath) miner h Aug Keith
+228 RESIDING WITH PERSON NOT FOUND: Landberg Aug h S 1st
+245 RESIDING WITH PERSON NOT FOUND: Maattala Savel student r Rev Evert Mattila
+257 ADD: Mattila Wanhoinen (John Mattila and Oscar Wanhoinen 32 Trimountain av
+291 ADD: ONeills Funeral Service (J E ONeill) 59 Trimountain av
+330 ADD: Plassa Albert jr r 2d
+331 ADD: Plassa Albert (Mary South Range Eagle Bakery) h 2d
+334 ADD: Post Office Louis J Braun postmstr Kaleva bldg
+340 ADD: Range Oil Gas Service Station Co (Caesar Lucchesi) Trimountain av
+343 NAME: RIISKI SACRIS (Hilda Suomi Lumber Co) r26 2d
+346 ADD: Riteway Stores Inc Henry Matta mgr nw cor Baltic av and 1st
+379 ADD: South Range Clothing Co (John Rimpela) 38 Trimountain av
+380 ADD: South Range Eagle Bakery (Geo Pastore Albert Plassa and Anton Toscana) bakers 2d
+382 ADD: South Range Hotel (Jacob Heikkinen) 52 Trimountain av
+383 ADD: South Range Public School ft of Trimountain av
+384 NAME: SOUTH RANGE STATE BANK G C Edwards Pres Michl Messner Jr V Pres H A Kellow Cashier Joseph Basso Asst Cashier nw cor Trimountain av and Champion av Tel 610 (See left side lines)
+385 ADD: Star Theatre Trimountain av
+396 NAME: SUOMI LUMBER CO (John Koivunen Sacris Riiski John Junttila) nw cor 2d and Champion av Tel 892 J (See front cover and page 29)
+416 ADD: Tuomela Chas (Hilda S) butcher h N 2d
+418 ADD: Tuomela Lauri G tchr r N 2d
+423 NAME: UITTI BROS CO Jacob Uitti Pres Gust Kangas V Pres Yalmar Sipola Sec Sami Uitti Treas Genl Mdse Gro and Meats 47 Trimountain av Tel 380 W
